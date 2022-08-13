@@ -126,3 +126,11 @@ The SwimSafer™ 2.0 programme aims to develop the students’ proficiency in sw
 The programme which takes place at an Activesg Swimming complex, are taught progressively by trained swimming coaches throughout the semester.
 
 At the end of the programme, each child will receive a stage completion certificate indicating their individual skill achievements.
+
+![](/images/PE15.jpg)
+
+![](/images/PE16.jpg)
+
+![](/images/PE17.jpg)
+
+![](/images/PE18.jpg)
