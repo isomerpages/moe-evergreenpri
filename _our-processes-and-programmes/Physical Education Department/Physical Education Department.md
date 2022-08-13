@@ -96,3 +96,13 @@ With the focus on the school values of Respect, Grit and Integrity, the students
 ![](/images/PE3.jpg)
 
 ![](/images/PE4.jpg)
+
+### UPLAY & UREAD
+
+Unstructured play (UPLAY) and unstructured read (UREAD) recess programme is a new initiative by the department to give students the opportunity to be actively and meaningfully engaged during their recess. This programme allows students a choice to occupy their free time besides eating to be g engaged through unstructured play or reading during their recess time.
+
+For UPLAY, PE equipment such as badminton racquets, basketball and more are provided and set up for them daily at the parade square for the students to play freely with their peers.
+
+For UREAD, students get to go to the school library called Storyhouse that houses a wide variety of books for students to read their favourite books.
+
+Through this programme, students are given not only the opportunities but also choices on how they want to be actively engaged during recess according to their interest. This approach purports to achieve joy in learning for the students.
