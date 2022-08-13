@@ -79,3 +79,7 @@ The following infographic is taken from MOE’s ICT connection.
 CW lessons are mainly carried out during the Form Teacher Guidance Period (FTGP) and level assembly periods. The skills taught are found in the skills map below:
 
 ![](/images/ICT7.jpg)
+
+### Safer Internet Day 2021
+
+The main message for Safer Internet Day is “Together – For a Better Internet”. The following areas of focus were covered in the CW lessons featuring our Cyber Ambassadors.
