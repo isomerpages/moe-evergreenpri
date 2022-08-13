@@ -118,3 +118,11 @@ Through this programme, students are given not only the opportunities but also c
 ![](/images/PE9.jpg)
 
 ![](/images/PE10.jpg)
+
+### P3 Swimsafer 2.0
+
+The SwimSafer™ 2.0 programme aims to develop the students’ proficiency in swimming and equip them with water survival skills so as to minimize drowning incidents in a fun manner.
+
+The programme which takes place at an Activesg Swimming complex, are taught progressively by trained swimming coaches throughout the semester.
+
+At the end of the programme, each child will receive a stage completion certificate indicating their individual skill achievements.
