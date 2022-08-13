@@ -25,7 +25,7 @@ The school emphasizes greatly in teacher development.  Hence, all our teachers 
 
 The school has developed and maintained good partnerships with our stakeholders.  We have seen an increase number of Parent Volunteers for school-based programmes over the years.  We have also forged very good partnerships with overseas schools from **New Zealand, China and Sarawak**.  We have also formed new partnerships with educators from UK, Estonia and India who have come onboard to learn best practices from EGPS.
 
-Mrs See, the 1st Principal, wrote this in her inaugural issue of the school newsletter in 2001; “**Each child is an opportunity, each child is a promise**”.  Till to date, EGPS has lived out its promise to maximize the potential of every student irrespective of their entry point into the school.  What we take greater pride in is the values and dispositions that our students display.  The school’s strong emphasis on “**_Think Good, Speak Good and Do Good”_** has translated to students being more respectful, displaying empathy and showing more graciousness in their daily lives.
+Mrs See, the 1st Principal, wrote this in her inaugural issue of the school newsletter in 2001; “**Each child is an opportunity, each child is a promise**”.  Till to date, EGPS has lived out its promise to maximize the potential of every student irrespective of their entry point into the school.  What we take greater pride in is the values and dispositions that our students display.  The school’s strong emphasis on **_“Think Good, Speak Good and Do Good”_** has translated to students being more respectful, displaying empathy and showing more graciousness in their daily lives.
 
 The students are our pride, our hope our future.
 
@@ -34,4 +34,3 @@ Have a purposeful and fulfilling year ahead. Stay Safe and adhere to the Safe Ma
 **Mrs Rabia Shahul**
 
 **Principal**
-
