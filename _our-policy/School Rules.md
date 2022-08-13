@@ -143,3 +143,11 @@ _\# All students will be wearing **black shoes and white socks** when wearing 
 
 * No ornaments or any forms of jewellery, such as necklace and bracelet are allowed.
 * (For girls only) Only plain ear studs (black, gold or silver) are allowed.  **For safety reason, girls are not allowed to wear loop ear rings as they may pose a danger during play. Religious amulets or chain must be long enough to be hidden beneath the uniform and must not be worn visibly, even on the wrist.**
+
+![](/images/Sch%20Attire%202.jpg)
+
+![](/images/Sch%20Attire%203.jpg)
+
+![](/images/Sch%20Attire.jpg)
+
+![](/images/Sch%20Attire%201.jpg)
