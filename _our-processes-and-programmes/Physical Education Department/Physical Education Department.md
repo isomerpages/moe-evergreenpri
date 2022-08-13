@@ -78,3 +78,13 @@ For the P1 to P5 students, they took part in a weekly e-TGIF to do our PE depart
 ![](/images/P4.jpg)
 
 In addition to the TGIF, a step challenge (Every Step Matters) was conducted as a school-wide event for the entire year. This challenge allows students to foster and develop stronger relationships between peers and families, and to start a healthy lifestyle to improve both body and mental health.
+
+![](/images/P5.jpg)
+
+### X Games
+
+Our annual Experiential Games called the X Games was held on 1 April 2021. It was organised for the Primary 3 to 6 students which was held at Evergreen Primary School. During the event, students were required to complete a total of 2 challenges as a class with the theme “Every Second Counts”. Top 3 classes for each level were given a X-Games collar pin and a certificate for completing the challenges in the fastest time possible.
+
+Through these challenges, students were given opportunities to not only participate actively in all the challenges, but also work collaboratively as a class to complete them. Students had to learn to negotiate and communicate their ideas actively and solve the problems together as a class.
+
+With the focus on the school values of Respect, Grit and Integrity, the students were able to strengthen their bond and camaraderie at the end of the challenge.
