@@ -62,7 +62,7 @@ Digital Literacy lessons are carried out as part of the Multi-Modal Programme (M
 
 ![](/images/ICT4.jpg)
 
-![](/images/ICT7.jpg)
+![](/images/ICT5.jpg)
 
 ### Cyberwellness Curriculum
 
