@@ -83,3 +83,12 @@ CW lessons are mainly carried out during the Form Teacher Guidance Period (FTGP)
 ### Safer Internet Day 2021
 
 The main message for Safer Internet Day is “Together – For a Better Internet”. The following areas of focus were covered in the CW lessons featuring our Cyber Ambassadors.
+
+| Level 	| Learning Outcomes 	|
+|---	|---	|
+| Primary 1 	| Putting People Before Devices 	|
+| Primary 2 	| Prevent personal information from falling into the wrong hands. 	|
+| Primary 3 	| How can a strong password help protect your privacy? 	|
+| Primary 4 	| Implement procedures or guidelines for personal safety and security 	|
+| Primary 5 	| Recognising and rejecting inappropriate content which are socially or morally unacceptable 	|
+| Primary 6 	| Recognise ways to prevent and minimise security risks in various online situations 	|
