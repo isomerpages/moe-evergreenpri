@@ -2,6 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
+      - ICT/Useful Resources for Parents.md
       - ICT/Information Communications Technology.md
       - ICT/.keep
       - TGIF.md
