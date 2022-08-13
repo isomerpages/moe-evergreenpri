@@ -2,6 +2,7 @@ collections:
   our-policy:
     output: true
     order:
+      - School Rules.md
       - School Safety and Security Framework.md
       - PLAY Approach.md
       - School History.md
