@@ -55,3 +55,21 @@ At Evergreen Primary, we will engage students in acquiring New Media Literacies 
 ### Digital Literacy Lessons
 
 Digital Literacy lessons are carried out as part of the Multi-Modal Programme (MMP) for Primary 1 to Primary 6 levels. The following shows a map of the outcomes taught at the various levels.
+
+![](/images/ICT2.jpg)
+
+![](/images/ICT3.jpg)
+
+![](/images/ICT4.jpg)
+
+![](/images/ICT7.jpg)
+
+### Cyberwellness Curriculum
+
+The approach to Cyberwellness curriculum is guided by MOE’s Cyberwellness principles of:
+
+1.      Respect for Self and Others   
+2.      Safe and Responsible Use   
+3.      Positive Peer Influence
+
+The following infographic is taken from MOE’s ICT connection.
