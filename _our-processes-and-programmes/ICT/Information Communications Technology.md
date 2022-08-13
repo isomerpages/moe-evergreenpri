@@ -76,4 +76,6 @@ The following infographic is taken from MOE’s ICT connection.
 
 ![](/images/ICT6.jpg)
 
+CW lessons are mainly carried out during the Form Teacher Guidance Period (FTGP) and level assembly periods. The skills taught are found in the skills map below:
+
 ![](/images/ICT7.jpg)
