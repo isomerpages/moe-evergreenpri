@@ -7,14 +7,12 @@ description: ""
 
 ### That's Great It's Friday
 
+<img src="/images/TGIF%202.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
+
+
 That’s Great! It’s Friday! ( TGIF) is an initiative by the school since 2018 to provide a platform for the students to have an hour of protected playtime.  Besides the unstructured playtime given to them, students are able to use it to cultivate the school values and work towards the school vision- a vibrant school which inspires passion in learning and purposeful living.  
 
-  
-
 Our school remains committed to ensure that our students enjoy TGIF even during these challenging times in school. The eTGIF version continues to allow students to explore the different subject themes each month and enjoy the activities that are curated and differentiated for the Lower, Middle and Upper Blocks.  
-
-  
-
   
 
 **Purposes of TGIF:**  
