@@ -1,0 +1,4 @@
+collections:
+  impact:
+    output: true
+    order: []
