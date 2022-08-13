@@ -37,3 +37,5 @@ TGIF is conducted on \*Fridays and the timeslots are shown in the table below:
 | 8.30 a.m. – 9.00 a.m. 	| P4 	|
 | 9.30 a.m. – 10.00 a.m. 	| P5 	|
 | 10.00 a.m. – 10.30 a.m. 	| P6 	|
+
+\* This applies to available Fridays in the school calendar that are not affected by school holidays and any events in which students are not available to participate e.g school sports day or examinations.
