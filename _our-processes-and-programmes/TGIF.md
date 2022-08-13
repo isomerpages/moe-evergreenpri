@@ -26,3 +26,14 @@ Our school remains committed to ensure that our students enjoy TGIF even during 
 ![](/images/File_007%20-%20Aainoo%20A.jpeg)
 
 ![](/images/IMG_6474%20-%20Aainoo%20A.jpg)
+
+TGIF is conducted on \*Fridays and the timeslots are shown in the table below:
+
+| TGIF Timing 	| Level involved 	|
+|---	|---	|
+| 10.30 a.m. – 11.00 a.m. 	| P1 	|
+| 11.00 a.m. – 11.30 a.m. 	| P2 	|
+| 9.00 a.m. – 9.30 a.m. 	| P3 	|
+| 8.30 a.m. – 9.00 a.m. 	| P4 	|
+| 9.30 a.m. – 10.00 a.m. 	| P5 	|
+| 10.00 a.m. – 10.30 a.m. 	| P6 	|
