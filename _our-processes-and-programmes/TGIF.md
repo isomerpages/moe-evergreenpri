@@ -21,3 +21,8 @@ Our school remains committed to ensure that our students enjoy TGIF even during 
 \-  To develop and strengthen their social skills through interaction with their friends during play.    
 \-  To allow ample time for students to exercise SEL competencies through unstructured play.     
 \-  To provide a platform for students to have that dare and inquisitiveness in exploring new games and sports activities.
+
+
+![](/images/File_007%20-%20Aainoo%20A.jpeg)
+
+![](/images/IMG_6474%20-%20Aainoo%20A.jpg)
