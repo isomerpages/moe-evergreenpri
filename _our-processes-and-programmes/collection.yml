@@ -2,4 +2,5 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
+      - ICT/.keep
       - TGIF.md
