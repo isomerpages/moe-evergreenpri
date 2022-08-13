@@ -5,7 +5,7 @@ description: ""
 ---
 # **School Rules**
 
-**Present**
+### Present
 
 1.      Punctuality is a habit that must be instilled from young.  Students must be in school during term time unless they are unwell.
 
@@ -19,7 +19,7 @@ description: ""
 
 6.      To ensure students’ presence in school is consistent for learning, the school will keep track of students with a prevalent VR (private) record by having a policy that will not allow for more than five parent letters per semester, per student.
 
-**Purpose**
+### Purpose
 
 1. Every student must understand the purpose of rules in instilling discipline and maintaining safety in the school. **There must be uniformity in appearance when students come to school.   Students are to wear the prescribed school uniform for all school activities** (Please refer to photos for examples of school attire).  **No modification to the school uniform is allowed**. 
 
@@ -55,7 +55,7 @@ description: ""
 
 17.  The school has a case management process in place and students who do not adhere to school rules will be meted with the appropriate consequences.  Parents are requested to work closely with the school so that we educate every student to take responsibility for their own actions.
 
-**Passion**
+### Passion
 
 1.  All students must participate in the flag-raising and pledge taking ceremony at the start of the day.  Students who are Singapore Citizens must sing the National Anthem and take the National Pledge. Students will take the Pledge with the right fist over the heart while reciting the Pledge to show commitment and pride.
 
@@ -65,7 +65,7 @@ description: ""
 
 4. Students must learn the habit of organising their daily work so that everything is in order for their revision purpose.  All worksheets must be neatly files in the respective subject files and handed to the teacher for checking when required to.
 
-**Perform**
+### Perform
 
 1. The school provides a holistic development program for our students.  Every EGPS student will be confident and self-directed in his/her learning.
 
@@ -90,8 +90,10 @@ description: ""
 
 10. Any student who has cheated or attempted to cheat, or collaborated with others with the intention to cheat, will have to go through School Exam Board’s investigations.  If found guilty, severe actions will be taken against all students involved.  Decision by school is final. 
 
-**School Rules and Consequences**
+### School Rules and Consequences
 
 The school believes that good discipline is an important contributing factor towards creating an effective school. Our discipline policies and procedures foster self-discipline and desired behaviours that are aligned to our school values. The following serves as a guide and depending on the severity of the offences, appropriate disciplinary action/s will be meted out in consultation with the School Leaders and Key Personnel in-charge of discipline matters.
 
 If students violate the school rules and need to be disciplined, the school seeks the understanding of parents and guardians to support the Student Development Team (SDT) when disciplinary actions are administered.
+
+**Category A:**
