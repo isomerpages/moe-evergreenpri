@@ -96,3 +96,7 @@ The main message for Safer Internet Day is “Together – For a Better Internet
 ### Code for Fun Primary 4 2022
 
 This programme is compulsory for all Primary 4 students and carried out across two 5-hour training sessions during the March and June holidays. Students were involved in learning about block-based coding concepts using the Sphero Bolt, Computational Thinking skills, Artificial Intelligence and Cyber security.
+
+![](/images/ICT8.jpg)
+
+![](/images/ICT9.jpg)
