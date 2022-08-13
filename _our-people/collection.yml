@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Primary 5 Level 2022.md
       - Primary 6 Level 2022.md
