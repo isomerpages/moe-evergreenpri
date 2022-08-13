@@ -123,3 +123,12 @@ If students violate the school rules and need to be disciplined, the school seek
 ### School Attire
 
 * Students are to wear prescribed school uniform to school (including school activities, school functions and school outings). Modification of the uniform is strictly not allowed.
+
+
+| Level 	| Boys 	| Girls 	| Remarks 	|
+|---	|---	|---	|---	|
+| P1 – P3 	| Polo t-shirt<br>Shorts 	| Polo t-shirt<br>Skorts* 	| Mon to Fri.<br>There is no need to change for PE lessons. 	|
+| P4 – P6 	| Boys 	| Girls 	| Remarks 	|
+|  	| Shirt<br>Shorts<br>  	| Blouse<br>Skorts1<br>  	| Students are to be in full uniform during official school events and examinations<br>  	|
+|  	| Polo t-shirt<br>Shorts / PE shorts 	| Polo t-shirt<br>Skorts<br>  	| Mon to Fri.<br>  	|
+|  	| Polo t-shirt<br>PE Shorts 	| Polo t-shirt<br>PE Shorts2 / Skorts 	| PE Attire 	|
