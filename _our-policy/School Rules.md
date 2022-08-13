@@ -117,3 +117,9 @@ If students violate the school rules and need to be disciplined, the school seek
 | Offences 	| 1st Occurrence & Beyond 	|
 |---	|---	|
 | ●      Bullying (Verbal & Physical), Cyberbullying<br><br>●      Gangsterism / Fighting / Assault<br><br>●      Open defiance / rudeness to teacher or school personnel<br><br>●      Theft / Other acts of dishonesty<br><br>●      Pornography<br><br>●      Forgery<br><br>●      Smoking<br><br>●      Gambling<br><br>●      Outrage of modesty / inappropriate behaviour<br><br>●      Vandalism / Damage to public property<br><br>●      Cheating / Attempting to cheat in tests and examinations 	| Depending on the severity of the offence, the consequences meted out may include one or more of the following:<br><br>●      Home Involvement<br><br>●      Counselling<br><br>●      Behaviour Contract<br><br>●      Corrective work order<br><br>●      Detention and reflection<br><br>●      Caning<br><br>●      Internal suspension<br><br>●      Out-of-school suspension<br><br>●      Restitution<br><br>●      Loss of privilege/s<br><br>●      Ineligibility for awards<br><br>●      Other alternatives deemed appropriate to correct unacceptable behaviour 	|
+
+
+
+### School Attire
+
+* Students are to wear prescribed school uniform to school (including school activities, school functions and school outings). Modification of the uniform is strictly not allowed.
