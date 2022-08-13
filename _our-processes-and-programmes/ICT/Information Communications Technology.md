@@ -21,5 +21,4 @@ Each student a technodexterous digital learner with positive attitudes in terms 
 To develop students who can connect, create and curate information in a digital environment anchored on sound values.
 
 **Student Learning Space**
-
 ![](/images/ICT1.jpg)
