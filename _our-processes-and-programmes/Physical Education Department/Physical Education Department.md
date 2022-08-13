@@ -5,3 +5,10 @@ description: ""
 third_nav_title: Physical Education Department
 ---
 # **Physical Education Department**
+
+![](/images/PE.jpg)
+
+### Key Events and Activities
+
+#### EGPS Holistic Health Programme  
+Active and Healthy Living (AHLI)
