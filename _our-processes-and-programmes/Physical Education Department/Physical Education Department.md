@@ -134,3 +134,7 @@ At the end of the programme, each child will receive a stage completion certific
 ![](/images/PE17.jpg)
 
 ![](/images/PE18.jpg)
+
+### P1 & P2 NEX
+
+The National Education Experience (NEX) is an event for the Primary 1 and 2 students to experience and gain a deeper understanding of Singapore’s history and culture. The students were exposed to the different traditional games such as chapteh, five stones and more, follow-up with the school’s National Day Celebration. This is to allow the students to identify themselves proudly as Singaporeans, pledge unity and togetherness and weather challenges through Grit and Integrity.
