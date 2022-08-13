@@ -39,7 +39,11 @@ The annual Health Screening Programme by the School Health Services (SHS) under 
 
 In addition, at risk students will go for further assessment at the Student Health Centre (SHC) at HPB. Their progress will be closely monitored to help them attain a better health and physical fitness status.
 
+
+
 Our yearly activities for students include:
+
+<img src="/images/AHLI3.jpg" style="width:340px;height:240px;margin-left:15px;" align = "right">
 
 * Recess Unstructured Play - UPLAY
 * Recess engagement via AHLI info slides
