@@ -97,3 +97,7 @@ The school believes that good discipline is an important contributing factor tow
 If students violate the school rules and need to be disciplined, the school seeks the understanding of parents and guardians to support the Student Development Team (SDT) when disciplinary actions are administered.
 
 **Category A:**
+
+| Offences 	| 1st Occurrence & Beyond 	|
+|---	|---	|
+| ●      Late-coming<br><br>●      Improper attire and grooming<br><br>●      Littering<br><br>●      Not doing assignments<br>  	| ●      Counselling by Form Teacher/ Co-Form Teacher/Subject Teacher<br><br>●      Home Involvement<br><br>●      Warning / Letter of Advice (Late-coming)             <br><br>●      Detention<br><br>●      Case to be referred to SDT for further course of action with proactive strategies to be taken by school and home. 	|
