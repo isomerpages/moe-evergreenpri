@@ -12,3 +12,5 @@ third_nav_title: Physical Education Department
 
 #### EGPS Holistic Health Programme  
 Active and Healthy Living (AHLI)
+
+![](/images/PE(1).jpg)
