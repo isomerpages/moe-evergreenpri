@@ -101,3 +101,10 @@ If students violate the school rules and need to be disciplined, the school seek
 | Offences 	| 1st Occurrence & Beyond 	|
 |---	|---	|
 | ●      Late-coming<br><br>●      Improper attire and grooming<br><br>●      Littering<br><br>●      Not doing assignments<br>  	| ●      Counselling by Form Teacher/ Co-Form Teacher/Subject Teacher<br><br>●      Home Involvement<br><br>●      Warning / Letter of Advice (Late-coming)             <br><br>●      Detention<br><br>●      Case to be referred to SDT for further course of action with proactive strategies to be taken by school and home. 	|
+
+
+**Category B:**
+
+| Offences 	| 1st Occurrence & Beyond 	|
+|---	|---	|
+| ●      Leaving school compound without permission / Truancy<br><br>●      Disruptive behaviour<br><br>●      Using vulgar language / gesture 	| Depending on the severity of the offence, the consequences meted out may include one or more of the following:<br><br>●      Home Involvement<br><br>●      Counselling<br><br>●      Behaviour Contract<br><br>●      Corrective work order<br><br>●      Detention and reflection<br><br>●      Caning<br><br>●      Internal suspension<br><br>●      Out-of-school suspension<br><br>●      Loss of privilege/s<br><br>●      Ineligibility for awards<br><br>●      Other alternatives deemed appropriate to correct unacceptable behaviour 	|
