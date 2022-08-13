@@ -73,3 +73,7 @@ The approach to Cyberwellness curriculum is guided by MOE’s Cyberwellness prin
 3.      Positive Peer Influence
 
 The following infographic is taken from MOE’s ICT connection.
+
+![](/images/ICT6.jpg)
+
+![](/images/ICT7.jpg)
