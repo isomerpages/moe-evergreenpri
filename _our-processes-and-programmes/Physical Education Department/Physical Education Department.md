@@ -88,3 +88,11 @@ Our annual Experiential Games called the X Games was held on 1 April 2021. It wa
 Through these challenges, students were given opportunities to not only participate actively in all the challenges, but also work collaboratively as a class to complete them. Students had to learn to negotiate and communicate their ideas actively and solve the problems together as a class.
 
 With the focus on the school values of Respect, Grit and Integrity, the students were able to strengthen their bond and camaraderie at the end of the challenge.
+
+![](/images/PE1.jpg)
+
+![](/images/PE2.jpg)
+
+![](/images/PE3.jpg)
+
+![](/images/PE4.jpg)
