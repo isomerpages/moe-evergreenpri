@@ -108,3 +108,7 @@ This programme is a stretch programme that aims to provide selected P4 and P5 st
 ![](/images/ICT10.jpg)
 
 ![](/images/ICT11.jpg)
+
+### Digital Animation for P5 during MMP
+
+The P5 students were involved in the creation of Digital animation using the iPad as a recording device and using the Animation Desk app. They learned principles of storyboarding and composing of video segments. Their completed animations was showcased to the P5 students post production. This year's themes including safe online practices and anti-bullying.
