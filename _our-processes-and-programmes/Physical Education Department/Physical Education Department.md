@@ -60,3 +60,11 @@ Useful Links:
 * [https://www.healthhub.sg/programmes/183/parent-hub](https://www.healthhub.sg/programmes/183/parent-hub)
 * [https://activeparents.myactivesg.com/](https://activeparents.myactivesg.com/)
 * [https://www.myactivesg.com/Programmes/For-Family](https://www.myactivesg.com/Programmes/For-Family)
+
+
+### PE TGIF
+
+For TGIF PE, P1 to P6 students went through a variety of challenges and workouts, giving them the opportunities to work and have fun as a class. The P6 students took part in three different challenges with the theme “Every Second Counts”. The challenges require the students to complete the task as a class as fast as possible, and it requires them to apply the skills learnt during PE lessons.
+ 
+
+For the P1 to P5 students, they took part in a weekly e-TGIF to do our PE department signature workout video Start With Exercise Actively Together (SWEAT) series. Through these activities, students were able to strengthen the camaraderie bonds with their peers by working and exercising together.
