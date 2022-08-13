@@ -132,3 +132,14 @@ If students violate the school rules and need to be disciplined, the school seek
 |  	| Shirt<br>Shorts<br>  	| Blouse<br>Skorts1<br>  	| Students are to be in full uniform during official school events and examinations<br>  	|
 |  	| Polo t-shirt<br>Shorts / PE shorts 	| Polo t-shirt<br>Skorts<br>  	| Mon to Fri.<br>  	|
 |  	| Polo t-shirt<br>PE Shorts 	| Polo t-shirt<br>PE Shorts2 / Skorts 	| PE Attire 	|
+
+
+_\*skirt with shorts hidden underneath_  
+_1\. Do note that the designs for the skorts (Girls) for Lower Pri and Upper Pri are different_   
+_2\. Girls have a choice to wear their skorts or shorts for PE lesson_   
+_\# All students will be wearing **black shoes and white socks** when wearing the new school uniform only_
+
+**Ornaments, Jewellery**
+
+* No ornaments or any forms of jewellery, such as necklace and bracelet are allowed.
+* (For girls only) Only plain ear studs (black, gold or silver) are allowed.  **For safety reason, girls are not allowed to wear loop ear rings as they may pose a danger during play. Religious amulets or chain must be long enough to be hidden beneath the uniform and must not be worn visibly, even on the wrist.**
