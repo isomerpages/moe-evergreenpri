@@ -100,3 +100,7 @@ This programme is compulsory for all Primary 4 students and carried out across t
 ![](/images/ICT8.jpg)
 
 ![](/images/ICT9.jpg)
+
+### CompLeX Programme Primary 4 and 5   
+
+This programme is a stretch programme that aims to provide selected P4 and P5 students with an opportunity to develop application using block-based coding. Students were involved in training Artificial Intelligence and Game development.  Students are expected to complete 12 sessions on selected Thursday during afternoon time.
