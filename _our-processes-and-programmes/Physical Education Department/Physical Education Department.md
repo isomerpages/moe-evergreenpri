@@ -50,3 +50,13 @@ Our yearly activities for students include:
 * Active Youth Programme (AYP)
 * Kidney Health Education Bus – KFORCE (NKF)
 * SportSG / ActiveSG sports and fitness programmes
+
+**Impact**
+
+To generate fun element in PLAY and promote a positive attitude towards continual participation in physical activities for health, fitness and enjoyment.
+
+Useful Links:
+
+* [https://www.healthhub.sg/programmes/183/parent-hub](https://www.healthhub.sg/programmes/183/parent-hub)
+* [https://activeparents.myactivesg.com/](https://activeparents.myactivesg.com/)
+* [https://www.myactivesg.com/Programmes/For-Family](https://www.myactivesg.com/Programmes/For-Family)
