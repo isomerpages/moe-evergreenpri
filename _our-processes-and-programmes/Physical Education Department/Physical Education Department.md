@@ -106,3 +106,7 @@ For UPLAY, PE equipment such as badminton racquets, basketball and more are prov
 For UREAD, students get to go to the school library called Storyhouse that houses a wide variety of books for students to read their favourite books.
 
 Through this programme, students are given not only the opportunities but also choices on how they want to be actively engaged during recess according to their interest. This approach purports to achieve joy in learning for the students.
+
+![](/images/PE5.jpg)
+
+![](/images/PE6.jpg)
