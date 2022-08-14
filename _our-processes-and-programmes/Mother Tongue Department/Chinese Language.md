@@ -37,3 +37,5 @@ third_nav_title: Mother Tongue Department
 One Day Mother Tongue Camp for Primary 4  
 
 The P4 pupils were exposed to various activities related to the Chinese language and culture during the half day camp which was conducted during the first week of the June holidays. P4 Chinese students participated in activities such as kite making, making of mooncakes, storytelling and puppetry.
+
+![](/images/CL1.jpg)
