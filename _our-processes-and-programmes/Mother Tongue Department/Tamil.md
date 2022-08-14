@@ -80,3 +80,9 @@ Every Tamil student participated in the preliminary rounds of competition in var
 Pongal is a 4-day harvest festival celebrated by the Tamil diaspora worldwide which falls in the month of Thai (that is, the January-February season) when crops like rice, sugarcane, turmeric are harvested. On this day, Tamil people cook pots of sugary rice to signify their gratitude and celebrate with their loved ones. As the rice overflows when it is cooked, it is believed that the blessings for the year will be overflowing with joy, wealth, and peace.  
 
 At EGPS, our Tamil department held its own “Pongal” celebration by organizing a slew of activities for all students. Through this exhibition, students learned the reason behind the celebration, the value of appreciation and the importance of living in harmony with nature. They learned about the reasons behind the 4 days of celebration as well as the different types of grains, their benefits and uses.
+
+![](/images/TL4.jpg)
+
+![](/images/TL5.jpg)
+
+![](/images/TL6.jpg)
