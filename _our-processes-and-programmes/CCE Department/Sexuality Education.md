@@ -20,7 +20,7 @@ third_nav_title: CCE Department
 
 3.       The key messages of Sexuality Education are:
 
-(i)             Love and respect yourself as you love and respect others;
+(i)             Love and respect yourself as you love and respect others; 
 
 (ii)            Build positive relationships based on love and respect (which are the foundation for strong families);
 
