@@ -40,3 +40,15 @@ The objectives of PAL are:
 (1) To provide students broad exposure to the 4 PAL domains of Sports & Games, Outdoor Education, Visual Arts and Music which are carried out within curriculum time.  
 
 (2) Through engaging students in the 4 domains, students build confidence, curiosity, cooperation and social and emotional skills.
+
+![](/images/CCE%201.jpg)
+**PAL - Music Module, Body Percussion**
+
+![](/images/CCE%202.jpg)
+**FTGP – Interaction Activities**
+
+![](/images/CCE%203.jpg)
+**ECHA Interview - 2019**
+
+![](/images/CCE%204.jpg)
+**FTGP - Interaction Activities**
