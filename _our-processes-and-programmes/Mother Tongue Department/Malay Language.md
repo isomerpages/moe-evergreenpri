@@ -36,3 +36,9 @@ third_nav_title: Mother Tongue Department
 **P5 Overseas Immersion Programme to Kuching, Sarawak**  
   
 Selected P5 students were exposed and immersed themselves to various elements of the arts and culture in Kuching, Sarawak. Our students were also able to experience to be student in SK St Mary School, our partner school for the immersion programme.
+
+![](/images/ML2.jpg)
+
+**Mother Tongue Fortnight (Malay Language Fiesta)**
+
+Every year, opportunities will be given to P1 to P6 students to immerse themselves in the active use of the Malay Language beyond the classroom during Mother Tongue Fortnight held over two weeks. Various activities were carried out for the students to engage them in the Malay Language as well as the Malay arts and culture.
