@@ -86,3 +86,7 @@ At EGPS, our Tamil department held its own “Pongal” celebration by organizin
 ![](/images/TL5.jpg)
 
 ![](/images/TL6.jpg)
+
+### Competitions - 2021
+
+1\. Sembawang CC IAEC organized the Thirukkural Singing Competition for students. Participants were supposed to sing four sets of Thirukkural of the same theme without background music or accompanying musical instruments. Students are to sing to a tune of their choice. The following students took part in the competition and made us proud:
