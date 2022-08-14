@@ -64,3 +64,8 @@ Hip Hop Dance Assembly performance by Danz People
 All Primary 4 pupils visited the Art Museum for a learning experience as part of our school’s Art Museum Based learning Programme in Evergreen Primary School. Students will be involved in Art appreciation and discussion during the trip. Learning from artworks can bring art alive to our students. It not only makes historical or current events visible but piques students’ curiosity and provides them with relevant topics to talk about, and inspires them to make art to express their ideas. Students engage with subject matter of the artworks (i.e. people, places, objects and events) and art forms, and the background ideas and inspiration of artists and their creative work processes.
 
 ![](/images/A5.jpg)
+Museum Based Learning at National Gallery Singapore
+
+![](/images/A6.jpg)
+Museum Based Learning at National Gallery Singapore
+
