@@ -46,3 +46,5 @@ The P4 pupils were exposed to various activities related to the Tamil language a
 In Term 3 each year, the Tamil Department conducts various fun-filled activities to encourage the active use of the Tamil Language. Pupils are given the opportunity to learn more about the Tamil language and culture. Activities such as designing Kolam, Show & Tell, Dialogue Creation, Innovation & Enterprise and Character Portrayal were carried out in 2019. The activities gave opportunities for pupils to improve on their spoken Tamil and Language skills. The finalist for each competition will then compete in Tamil Amutham for the top 5 Places.
 
 ### Tamil Amutham
+
+![](/images/TL%20Dept%209.jpg)
