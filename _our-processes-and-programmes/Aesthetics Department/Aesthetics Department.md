@@ -39,3 +39,6 @@ In the segment below, we demonstrate how we make use of the ACE framework to enc
 To get students to appreciate the Arts, broad-based learning experiences are planned through assembly programmes, learning journeys to external performing arts centre, arts museums and music & drama performances.
 
 **Assembly Program - Dance Exposure**
+
+![](/images/A1.jpg)
+Hip Hop Dance Assembly performance by Danz People
