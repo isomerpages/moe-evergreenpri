@@ -48,3 +48,9 @@ In Term 3 each year, the Tamil Department conducts various fun-filled activities
 ### Tamil Amutham
 
 ![](/images/TL%20Dept%209.jpg)
+
+To nurture students who are passionate and confident users of Tamil Language, the teachers from EGPS Tamil Department organized a competition so that our budding Tamil students can showcase their talents. Students were also able to take initiatives to influence their peers to love the Tamil Language and make it a living language among themselves. 
+
+  
+
+Every Tamil student participated in the preliminary rounds of competition in various formats such as singing, story-telling, role playing of famous personalities and sharing of their personal recollections. The top 30 performers across all six levels were chosen to put up their items in the final round, where prizes were awarded. Parents of our Tamil students also graced this occasion to lend their support for our student performers!
