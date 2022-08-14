@@ -83,6 +83,8 @@ Other than visiting the Art Museum, our students also went to other Arts spaces 
 *   The Chinese Orchestra pupils experienced an orchestra performance at Victoria Concert Hall
 *   Pupils from Aesthetics CCAs experienced performing arts performances for SYF Celebration Concert at the Esplanade
 
- **Express**  
+###  Express
 
 Students express their creativity and talent by showcasing them at the end of the term through milestone level performance, art exhibitions, performing arts showcase at different levels (i.e. school, zonal & national).
+
+**Art Exhibition at Woodlands Regional Library**
