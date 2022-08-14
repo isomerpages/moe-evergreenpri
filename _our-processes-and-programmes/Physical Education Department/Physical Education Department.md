@@ -162,3 +162,7 @@ The second segment is a month-long Get Active Star Challenge where the students 
 At the end of the Primary 6 journey, a 2-Day Post-Exam Experience in-school camp was organised as a post-exam activity for the Primary 6 students who had successfully completed their PSLE. Students were given the opportunity to experience Outdoor Education Experience (OEX) and Intra-Class Games Experience (ICGX) during these two days.
 
 Students were not only able to forge stronger camaraderie with their peers and teachers, but they were also given the chance to be exposed to survival skills such as first aid and knot tying during OEX, and also to demonstrate the school values such as Grit and Empathy when they participated in the modified Paralympic games such as Boccia during ICGX.
+
+![](/images/PE24.jpg)
+
+![](/images/PE25.jpg)
