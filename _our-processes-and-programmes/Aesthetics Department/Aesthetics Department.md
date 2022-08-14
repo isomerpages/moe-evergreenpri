@@ -90,3 +90,9 @@ Students express their creativity and talent by showcasing them at the end of th
 **Art Exhibition at Woodlands Regional Library**
 
 ![](/images/Aes3.jpg)
+
+**Art Exhibition at the Arts Carousel**
+
+![](/images/Aes4.jpg)
+
+![](/images/Aes5.jpg)
