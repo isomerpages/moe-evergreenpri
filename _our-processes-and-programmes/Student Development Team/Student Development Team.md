@@ -35,8 +35,8 @@ To inculcate in our leaders the following:
 
 | 21st CC Competencies 	| Outcomes of Programmes 	| Behaviour Indicators/Desired Qualities 	|
 |---	|---	|---	|
-| Confident Person 	| • To have confidence to model the way 	| • Be a role model through daily actions that demonstrates school values<br>• Follow through on the commitments made 	|
-| Self-directed Leader 	| • To lead others by inspiring a shared vision 	| • Communicate shared goals clearly to inspire others to follow<br>• Positive and creative in coming up with new ideas 	|
-| Concerned Leader 	| • To foster collaboration that enables others to act 	| • Promote cooperative goals and build trust and confidence in others<br>• Empower others and help each other grow 	|
-|  	| • To have the courage to challenge the process 	| • Seek innovative ways to change, grow and improve<br>• Show resilience by taking on challenges and learning from mistakes 	|
-| Active Contributor 	| • To have the passion to encourage the heart 	| • Show recognition and appreciation towards for individual excellence<br>• Show compassion for others by caring for the needs of the school and community 	|
+| Confident Person 	| • To have confidence to model the way 	| • Be a role model through daily actions that demonstrates school values<br><br>• Follow through on the commitments made 	|
+| Self-directed Leader 	| • To lead others by inspiring a shared vision 	| • Communicate shared goals clearly to inspire others to follow<br><br>• Positive and creative in coming up with new ideas 	|
+| Concerned Leader 	| • To foster collaboration that enables others to act 	| • Promote cooperative goals and build trust and confidence in others<br><br>• Empower others and help each other grow 	|
+|  	| • To have the courage to challenge the process 	| • Seek innovative ways to change, grow and improve<br><br>• Show resilience by taking on challenges and learning from mistakes 	|
+| Active Contributor 	| • To have the passion to encourage the heart 	| • Show recognition and appreciation towards for individual excellence<br><br>• Show compassion for others by caring for the needs of the school and community 	|
