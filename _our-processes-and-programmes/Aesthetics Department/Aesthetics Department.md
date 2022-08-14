@@ -110,3 +110,9 @@ Students express their creativity and talent by showcasing them at the end of th
 ![](/images/A17.jpg)
 
 **P1 Hip Hop Dance Showcase**
+
+![](/images/A18.jpg)
+
+![](/images/A19.jpg)
+
+![](/images/A20.jpg)
