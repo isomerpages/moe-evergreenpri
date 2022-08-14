@@ -54,3 +54,22 @@ To nurture students who are passionate and confident users of Tamil Language, th
   
 
 Every Tamil student participated in the preliminary rounds of competition in various formats such as singing, story-telling, role playing of famous personalities and sharing of their personal recollections. The top 30 performers across all six levels were chosen to put up their items in the final round, where prizes were awarded. Parents of our Tamil students also graced this occasion to lend their support for our student performers!
+
+![](/images/TL%20Dept%2016.jpg)
+
+![](/images/TL%20Dept%2017.jpg)
+
+![](/images/TL%20Dept%2018.jpg)
+
+**2020 Tamil Department Activities by Level**
+
+| Level 	| Activity 	|
+|---	|---	|
+| P1 to P6 	| Mother Tongue Fortnight, Tamil Language Fiesta 	|
+| P3 	| Conversational Chinese/Malay Programme 	|
+| Selected P4 	| Advanced Conversational Chinese/Malay Programme 	|
+| P4 	| Pongal Learning Journey 	|
+| P4 	| Mother Tongue Cultural Camp 	|
+| P5 	| Cross Cultural Learning Journey to Chinese/Malay Heritage Centre 	|
+| Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
+| P5&P6 	| E-Oral Workshop 	|
