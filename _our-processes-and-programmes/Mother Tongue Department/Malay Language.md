@@ -17,3 +17,5 @@ third_nav_title: Mother Tongue Department
 * In-house enrichment courses (ExamSmart, Creative Writing and e-Oral Workshop).
 * Reading Programme.
 * Learning Journeys for students (Local).
+
+![](/images/ML.jpg)
