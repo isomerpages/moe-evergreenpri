@@ -51,3 +51,10 @@ Discussion on Artworks at MRT Stations by Art Outreach
   
 
 **Assembly Program - Language Art Exposure**
+
+<img src="/images/A3.jpg" 
+     style="width:50%">
+
+<img src="/images/A4.jpg" 
+     style="width:60%">
+Ever Ready For Emergency Puppet Show by SCDF
