@@ -90,3 +90,13 @@ At EGPS, our Tamil department held its own “Pongal” celebration by organizin
 ### Competitions - 2021
 
 1\. Sembawang CC IAEC organized the Thirukkural Singing Competition for students. Participants were supposed to sing four sets of Thirukkural of the same theme without background music or accompanying musical instruments. Students are to sing to a tune of their choice. The following students took part in the competition and made us proud:
+
+| Category 	| Name 	| Class 	| Position 	|
+|---	|---	|---	|---	|
+| Upper Primary 	| Sahana Balasubramanian<br>  	| 6 Charity<br>  	| 1st Prize<br>  	|
+|  	| Elaiyaraja Jessica Leann<br>  	| 4 Grace 	| Consolation prize<br>  	|
+| Lower Primary 	| V S Vishal<br>  	| 3 Charity<br>  	| 2nd Prize<br>  	|
+|  	| Angelina Ajeeth<br>  	| 3 Charity<br>  	| 5th Prize 	|
+|  	| Elaiyaraja Alisha Grace<br>  	| 2 Care 	| Consolation prize<br>  	|
+|  	| Manimaran Raguram<br>  	| 2 Care<br>  	| Consolation prize<br>  	|
+|   	| V S Vikas<br>  	| 1 Hope<br>  	| Consolation prize<br>  	|
