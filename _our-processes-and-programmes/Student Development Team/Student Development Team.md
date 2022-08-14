@@ -28,3 +28,7 @@ Every student is a leader.
 To develop leaders who are values-driven and others-centric.
 
 ![](/images/student%20development1.jpg)
+
+### Outcomes of EGPS Student Leadership Programme
+
+To inculcate in our leaders the following:
