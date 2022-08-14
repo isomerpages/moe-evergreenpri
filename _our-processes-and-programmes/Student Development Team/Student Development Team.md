@@ -42,3 +42,12 @@ To inculcate in our leaders the following:
 | Active Contributor 	| • To have the passion to encourage the heart 	| • Show recognition and appreciation towards for individual excellence<br><br>• Show compassion for others by caring for the needs of the school and community 	|
 
 \*Kouzes and Posner’s (2005) Five Practices of Exemplary Leadership
+
+### 4 Stage Student Leadership Development Cycle
+
+![](/images/4stageleadership.jpg)
+
+### EGPS Leadership Structure
+
+* Based on level of influence and impact 
+* Every student is given the opportunity to be developed as a leader at least per semester
