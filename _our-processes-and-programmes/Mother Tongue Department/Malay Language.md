@@ -42,3 +42,13 @@ Selected P5 students were exposed and immersed themselves to various elements of
 **Mother Tongue Fortnight (Malay Language Fiesta)**
 
 Every year, opportunities will be given to P1 to P6 students to immerse themselves in the active use of the Malay Language beyond the classroom during Mother Tongue Fortnight held over two weeks. Various activities were carried out for the students to engage them in the Malay Language as well as the Malay arts and culture.
+
+![](/images/ML3.jpg)
+
+**P2 Speech and Drama Programme**
+
+The P2 students will go through 10 weeks of in house speech and drama programme. The students will learn how to read with proper intonation and pronunciation. The students will also learn basic acting skills, singing and dancing. At the end of the 10 weeks, the students will put up a drama production which will be attended by their parents and family members.
+
+![](/images/ML4.jpg)
+
+### 2020 Malay Department Activities by Level
