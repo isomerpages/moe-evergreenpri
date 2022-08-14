@@ -45,7 +45,8 @@ Hip Hop Dance Assembly performance by Danz People
 
 **Assembly Program - Visual Arts Exposure**
 
-![](/images/A2.jpg)
+<img src="/images/A2.jpg" 
+     style="width:60%">
 Discussion on Artworks at MRT Stations by Art Outreach  
   
 
