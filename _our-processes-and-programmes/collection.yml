@@ -2,6 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
+      - CCE Department/.keep
       - Student Development Team/Student Development Team.md
       - Student Development Team/Student Leadership.md
       - Student Development Team/Student Development Well Being.md
