@@ -23,3 +23,17 @@ third_nav_title: Mother Tongue Department
 **Design and use effective instructional materials for teaching of CL**
 
 ![](/images/CL.jpg)
+
+2. To arouse pupils' interest in the language through their active participation in department activities 
+
+* Inter/Intra School Competitions 
+* Chinese New Year Celebrations 
+* Mother Tongue Fortnight
+* Mother Tongue Camp
+* P5 Overseas Immersion Programme
+
+### Yearly Activities
+
+One Day Mother Tongue Camp for Primary 4  
+
+The P4 pupils were exposed to various activities related to the Chinese language and culture during the half day camp which was conducted during the first week of the June holidays. P4 Chinese students participated in activities such as kite making, making of mooncakes, storytelling and puppetry.
