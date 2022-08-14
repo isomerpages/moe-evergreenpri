@@ -20,6 +20,6 @@ third_nav_title: Mother Tongue Department
 *   Reading Programme.
 *   Subscription to Chinese children magazines.
 
-  
-
 **Design and use effective instructional materials for teaching of CL**
+
+![](/images/CL.jpg)
