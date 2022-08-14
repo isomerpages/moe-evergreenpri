@@ -142,3 +142,15 @@ The National Education Experience (NEX) is an event for the Primary 1 and 2 stud
 ![](/images/PE19.jpg)
 
 ![](/images/PE20.jpg)
+
+### Get Active! Singapore (GASG) National Day Workout
+
+The GASG workout in EGPS is an event that is a collaboration with ActiveSG in conjunction with the school’s National Day celebration to promote health and fitness for all staff and students. The GASG activities come in 2 segments.
+
+The first segment is the introduction of the Active Health Play Mat to our staff and students to allow them to assess their own fitness by engaging in interactive and fun strength exercises anytime, anywhere using the play mat.
+
+![](/images/PE21.jpg)
+
+The second segment is a month-long Get Active Star Challenge where the students complete different challenges to get as many stars as they can, to claim the Get Active medal award. Students also had to participate in the Get Active! Singapore Dance of a Nation workout and also show their creativity and passion in the different challenges.
+
+![](/images/PE22.jpg)
