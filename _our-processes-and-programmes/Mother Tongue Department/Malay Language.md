@@ -19,3 +19,12 @@ third_nav_title: Mother Tongue Department
 * Learning Journeys for students (Local).
 
 ![](/images/ML.jpg)
+
+2.     **To arouse student’s interest in the languages through active participation in department activities**
+
+* Inter/Intra School Competitions (Aesthetic based and Language based competitions)
+* Hari Raya Celebrations
+* Mother Tongue Fortnight (Malay Language Fiesta)
+* P4 Mother Tongue Cultural Camp
+* Speech and Drama Programme
+* P5 Overseas Immersion Programme to Kuching, Sarawak
