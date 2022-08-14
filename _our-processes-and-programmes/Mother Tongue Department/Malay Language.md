@@ -28,3 +28,5 @@ third_nav_title: Mother Tongue Department
 * P4 Mother Tongue Cultural Camp
 * Speech and Drama Programme
 * P5 Overseas Immersion Programme to Kuching, Sarawak
+
+![](/images/ML1.jpg)
