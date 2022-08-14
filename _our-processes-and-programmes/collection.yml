@@ -2,6 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
+      - Aesthetics Department/Aesthetics Department.md
       - Aesthetics Department/Framework.md
       - Aesthetics Department/.keep
       - Physical Education Department/Physical Education Department.md
