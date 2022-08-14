@@ -2,7 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
-      - CCE Department/Example Title.md
+      - CCE Department/Character and Citizenry Education Department.md
       - CCE Department/Sexuality Education.md
       - CCE Department/.keep
       - Student Development Team/Student Development Team.md
