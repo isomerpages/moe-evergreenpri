@@ -26,3 +26,5 @@ Every student is a leader.
 ### Mission
 
 To develop leaders who are values-driven and others-centric.
+
+![](/images/student%20development1.jpg)
