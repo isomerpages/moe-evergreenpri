@@ -30,3 +30,9 @@ third_nav_title: Mother Tongue Department
 * P5 Overseas Immersion Programme to Kuching, Sarawak
 
 ![](/images/ML1.jpg)
+
+### Yearly Activities  
+
+**P5 Overseas Immersion Programme to Kuching, Sarawak**  
+  
+Selected P5 students were exposed and immersed themselves to various elements of the arts and culture in Kuching, Sarawak. Our students were also able to experience to be student in SK St Mary School, our partner school for the immersion programme.
