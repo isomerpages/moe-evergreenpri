@@ -2,6 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
+      - Mother Tongue Department/Malay Language.md
       - Mother Tongue Department/Tamil Language.md
       - Mother Tongue Department/Celebration of Festivals.md
       - Mother Tongue Department/.keep
