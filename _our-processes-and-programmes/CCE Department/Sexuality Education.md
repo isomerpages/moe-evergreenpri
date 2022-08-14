@@ -50,3 +50,5 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) f
 7.       The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 **At Evergreen Primary School, the following Sexuality Education lessons will be taught in 2022**
+
+#### Primary 5
