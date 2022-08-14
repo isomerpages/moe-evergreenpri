@@ -41,3 +41,7 @@ The P4 pupils were exposed to various activities related to the Chinese language
 ![](/images/CL1.jpg)
 
 ![](/images/CL2.jpg)
+
+### Mother Tongue Fortnight
+
+Mother Tongue Fortnight is held over two weeks. Every year, P1 to P6 students will have the opportunity to immerse themselves in the use of the Chinese Language Various activities were carried out for the students to be engaged in the Chinese Language and culture.
