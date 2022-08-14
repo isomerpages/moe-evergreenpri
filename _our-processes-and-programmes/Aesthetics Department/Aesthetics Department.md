@@ -42,3 +42,11 @@ To get students to appreciate the Arts, broad-based learning experiences are pla
 
 ![](/images/A1.jpg)
 Hip Hop Dance Assembly performance by Danz People
+
+**Assembly Program - Visual Arts Exposure**
+
+![](/images/A2.jpg)
+Discussion on Artworks at MRT Stations by Art Outreach  
+  
+
+**Assembly Program - Language Art Exposure**
