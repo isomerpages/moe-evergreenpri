@@ -36,8 +36,8 @@ To develop leaders who are values-driven and willing to serve others.
 
 |  	|  	|
 |---	|---	|
-| Identification 	| 1) Nominated by peers/ teachers<br>2) Interview process (Prefects Exco/ Prefects/ Peer Support Leaders/ CCA Leaders) 	|
-| Training 	| Differentiated training based on tiers/ roles 	|
-| Feedback 	| 1) Verbal feedback from teachers<br>2) Written feedback from teachers in Leadership Journals 	|
-| Reflection 	| Student leaders are to complete their reflection in the Leadership Journals 	|
-| Recognition 	| Differentiated based on tiers/ roles. For example, Student Leaders’ Investiture, Letter of Appointment, Leadership Badges and Certificate of Service. 	|
+| **Identification** 	| 1) Nominated by peers/ teachers<br>2) Interview process (Prefects Exco/ Prefects/ Peer Support Leaders/ CCA Leaders) 	|
+| **Training** 	| Differentiated training based on tiers/ roles 	|
+| **Feedback** 	| 1) Verbal feedback from teachers<br>2) Written feedback from teachers in Leadership Journals 	|
+| **Reflection** 	| Student leaders are to complete their reflection in the Leadership Journals 	|
+| **Recognition** 	| Differentiated based on tiers/ roles. For example, Student Leaders’ Investiture, Letter of Appointment, Leadership Badges and Certificate of Service. 	|
