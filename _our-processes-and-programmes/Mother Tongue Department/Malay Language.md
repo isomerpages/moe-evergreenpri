@@ -52,3 +52,17 @@ The P2 students will go through 10 weeks of in house speech and drama programme.
 ![](/images/ML4.jpg)
 
 ### 2020 Malay Department Activities by Level
+
+| Level 	| Activity 	|
+|---	|---	|
+| P1 to P6 	| Mother Tongue Fortnight, Malay Language Fiesta 	|
+| P2 	| Speech & Drama Programme 	|
+| P3 	| Conversational Chinese Programme 	|
+| Selected P4 	| Advanced Conversational Chinese Programme 	|
+| P4 	| Learning Journey to Malay Heritage Centre 	|
+| P4 	| Mother Tongue Cultural Camp 	|
+| P5 	| Cross Cultural Learning Journey to Indian/Chinese Heritage Centre 	|
+| Selected P5 	| Overseas Immersion Programme to Kuching, Sarawak 	|
+| P5 	| E-Oral Workshop 	|
+| P5 & P6 	| Creative Writing Workshop 	|
+| P5 & P6 	| ExamSmart Workshop 	|
