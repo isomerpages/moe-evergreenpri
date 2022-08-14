@@ -22,3 +22,22 @@ Every student is a leader and a peer supporter.
 **Mission**
 
 To develop leaders who are values-driven and willing to serve others.
+
+![](/images/Picture13.png)
+
+### EGPS Leadership Structure
+
+* Based on level of influence and impact
+* Every student is given the opportunity to be developed as a leader at least per semester
+
+![](/images/Picture14.png)
+
+![](/images/Picture15.jpg)
+
+|  	|  	|
+|---	|---	|
+| Identification 	| 1) Nominated by peers/ teachers<br>2) Interview process (Prefects Exco/ Prefects/ Peer Support Leaders/ CCA Leaders) 	|
+| Training 	| Differentiated training based on tiers/ roles 	|
+| Feedback 	| 1) Verbal feedback from teachers<br>2) Written feedback from teachers in Leadership Journals 	|
+| Reflection 	| Student leaders are to complete their reflection in the Leadership Journals 	|
+| Recognition 	| Differentiated based on tiers/ roles. For example, Student Leaders’ Investiture, Letter of Appointment, Leadership Badges and Certificate of Service. 	|
