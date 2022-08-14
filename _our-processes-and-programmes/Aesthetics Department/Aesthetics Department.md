@@ -47,7 +47,7 @@ Hip Hop Dance Assembly performance by Danz People
 
 <img src="/images/A2.jpg" 
      style="width:60%">
-Discussion on Artworks at MRT Stations by Art Outreach  
+<center> Discussion on Artworks at MRT Stations by Art Outreach</center>
   
 
 **Assembly Program - Language Art Exposure**
@@ -57,4 +57,4 @@ Discussion on Artworks at MRT Stations by Art Outreach
 
 <img src="/images/A4.jpg" 
      style="width:60%">
-Ever Ready For Emergency Puppet Show by SCDF
+<center>Ever Ready For Emergency Puppet Show by SCDF</center>
