@@ -78,3 +78,11 @@ Museum Based Learning at STPI - Murakami Art Exhibition
 ![](/images/A9.jpg)
 Museum Based Learning at NUS Museum for Ng Eng Teng’s Works
 
+Other than visiting the Art Museum, our students also went to other Arts spaces to learn more about the Arts. Below are some examples:   
+
+*   The Chinese Orchestra pupils experienced an orchestra performance at Victoria Concert Hall
+*   Pupils from Aesthetics CCAs experienced performing arts performances for SYF Celebration Concert at the Esplanade
+
+ **Express**  
+
+Students express their creativity and talent by showcasing them at the end of the term through milestone level performance, art exhibitions, performing arts showcase at different levels (i.e. school, zonal & national).
