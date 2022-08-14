@@ -88,3 +88,5 @@ Other than visiting the Art Museum, our students also went to other Arts spaces 
 Students express their creativity and talent by showcasing them at the end of the term through milestone level performance, art exhibitions, performing arts showcase at different levels (i.e. school, zonal & national).
 
 **Art Exhibition at Woodlands Regional Library**
+
+![](/images/Aes3.jpg)
