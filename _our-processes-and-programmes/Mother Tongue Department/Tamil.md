@@ -32,3 +32,11 @@ third_nav_title: Mother Tongue Department
 ### P4 Cultural Camp
 
 The P4 pupils were exposed to various activities related to the Tamil language and culture during the half day camp which was conducted during the first week of the June holidays.P4 Tamil students took part in activity such as Kabadi, Uri Adithal Games, Warli Art on canvas &  Villuppaattu.
+
+![](/images/TL%20Dept%205.jpg)
+
+![](/images/TL%20Dept%206.jpg)
+
+![](/images/TL%20Dept%207.jpg)
+
+![](/images/TL%20Dept%208.jpg)
