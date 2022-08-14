@@ -72,3 +72,9 @@ Museum Based Learning at National Gallery Singapore
 ![](/images/Aes1.jpg)
 Museum Based Learning at STPI - Murakami Art Exhibition
 
+![](/images/A8.jpg)
+Museum Based Learning at STPI - Murakami Art Exhibition
+
+![](/images/A9.jpg)
+Museum Based Learning at NUS Museum for Ng Eng Teng’s Works
+
