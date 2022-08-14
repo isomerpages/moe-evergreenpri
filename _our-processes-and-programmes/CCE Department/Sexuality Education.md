@@ -37,10 +37,8 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) f
 
 5.       The subjects that incorporate topics on sexuality include:
 
-            a.       Science
-
-            b.       Form Teacher Guidance Period (FTGP)
-
+            a.       Science    
+            b.       Form Teacher Guidance Period (FTGP)    
             c.        Character and Citizenship Education (CCE)
 
   
