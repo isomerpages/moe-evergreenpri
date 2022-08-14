@@ -96,3 +96,15 @@ Students express their creativity and talent by showcasing them at the end of th
 ![](/images/Aes4.jpg)
 
 ![](/images/Aes5.jpg)
+
+**P5 International Drumming Showcase**
+
+![](/images/A14.jpg)
+
+**P4 Musical Showcase**
+
+![](/images/A15.jpg)
+
+![](/images/A16.jpg)
+
+![](/images/A17.jpg)
