@@ -70,3 +70,5 @@ Aligned to our school’s mission of P.L.A.Y._,_ our Science Department conduc
 The E2K Science Programme is an enrichment programme conducted after school for students who demonstrate interest and aptitude for Science. The programme aims to develop scientific inquiry process skills in our students to stretch them in Science and to generate their interest in Science research.
 
 The rich learning experiences serve to help our students develop positive habits, attitudes and dispositions scientists possess. Just as scientists explore and make mistakes in the real world, our students are allowed to make mistakes during the programme and learn from the mistakes based on scaffold given by teacher mentors. As our students engage in scientific investigations through an inquiry approach, we hope to nurture them in the 21st century competencies such as resilience, critical and inventive thinking, and effective communication skills.
+
+![](/images/E2K.jpg)
