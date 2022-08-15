@@ -118,7 +118,7 @@ Through the Musical Module, the students were exposed to a variety of musical st
 
 ![](/images/p4%20EL.jpg)
 
-**TGIF - English**
+### TGIF - English
 
 English department took over the TGIF sessions in the month of March with fun-filled activities to appreciate the language arts and promote the speaking of Standard Singapore English.  Students were exposed to different theme based activities each week.
 
