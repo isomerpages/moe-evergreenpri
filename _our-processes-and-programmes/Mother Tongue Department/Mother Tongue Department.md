@@ -145,3 +145,5 @@ In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebr
 [Watch Online video done to celebrate Hari Raya](https://www.youtube.com/watch?v=_8TDkqpc0yQ&feature=youtu.beOnline%20videodone%20to%20celebrate%20Hari%20Raya)
 
 ![](/images/ML5(2).jpg)
+
+[Watch Full video for the #dontrushchallenge done by the Staff of EGPS](https://www.youtube.com/watch?v=93MQSr_PNtQFull%20videofor%20the%20#dontrushchallenge%20done%20by%20the%20Staff%20of%20EGPS)
