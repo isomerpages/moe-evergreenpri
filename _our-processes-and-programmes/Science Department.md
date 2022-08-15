@@ -80,3 +80,9 @@ To build a culture of empathy, innovation, creativity and discovery in our stude
 This programme has motivated our students to think out of the box – beyond what they are learning within the curriculum. The whole learning experience served as a stepping stone for our students to embark on external Science competitions.
 
 ![](/images/design%20thinking.jpg)
+
+*  **S.T.E.A.M. Activities**
+
+ Besides the above enrichment programmes, our Science department also engages our students in S.T.E.A.M. activities during Science lessons to strengthen and support their learning in Science. Through these activities, opportunities for P.L.A.Y are provided as our students explore their potential as innovative inquirers.
+
+ One such activity involves students creating models to demonstrate their learning such as the cell model, the lung model and the heart model. The hands-on activity has helped our students gain a better understanding of the content taught as they try to make connections of their observations on the models to the concepts learnt. At the same time, in the process of making the models, our students are encouraged to be creative and innovative in using the appropriate materials and designs.
