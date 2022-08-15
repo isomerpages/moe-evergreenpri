@@ -4,12 +4,11 @@ permalink: /communication/pictures-of-events/20th-anniversary-celebration-pictur
 description: ""
 third_nav_title: Pictures of Events
 ---
-
 # **20th Anniversary Celebration**
 
 ### Links to Photo Album
   
-1. [VIP Arrival](https://photos.google.com/share/AF1QipMnn7HN1_jKNlVlCf3GwAaOjMz9Gd6B1BYJb9yPpA01sLw_q5wART-p59o3wZqfnw?key=N0c0d2VQay14TnVqdmx0TjlsM08ySlB0andjMGhn)
+1. [VIP Arrival](https://photos.app.goo.gl/CPmMmbHCTDK38dmU6)
 2. [Ethnic Drumming](https://photos.app.goo.gl/eq1vFgxrLVu31PdX6) 
 3. [VIP Reception](https://photos.app.goo.gl/HGqdebcR5V1Y199t6)   
 4. [Director General Education Mr Wong's Speech](https://photos.app.goo.gl/UcV9bWUMHcnDfree6)
