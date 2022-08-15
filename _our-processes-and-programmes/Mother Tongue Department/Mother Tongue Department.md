@@ -52,3 +52,12 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 |  Nur Azliana Binte Azrin 	|  5 Care 	|  Certificate of Participation 	|
 | Erfa Hanis Binte Muhammad Khairul Fahmi 	|  5 Charity 	|  Certificate of Participation 	|
 |  Muhammad Nur Razzak Muhammad Ridhuan 	|  5 Charity 	|  Certificate of Participation 	|
+
+
+
+**2.         Rakan Bahasa Penterjemah Pintar 2019 (National level)**
+
+| Name 	| Class 	| Results 	|
+|---	|---	|---	|
+| Erfa Hanis Binte Muhammad Khairul Fahmi 	| 5 Charity 	|  Certificate of Participation 	|
+| Muhammad Nur Razzak Muhammad Ridhuan 	| 5 Charity 	|   Certificate of Participation 	|
