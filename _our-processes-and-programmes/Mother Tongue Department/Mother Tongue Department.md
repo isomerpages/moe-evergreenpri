@@ -66,3 +66,17 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 **Tamil Language**
 
 **1.      Oratorical Competition organised by Telok Blangah CC**
+
+| Name 	| Class 	| Results 	|
+|---	|---	|---	|
+| Murugavel Elakkiya 	| 5 Charity 	| 1st prize 	|
+
+
+**2.       Tamil Literary Competitions by Gambas CC Indian Activity Executive Committee**
+
+
+| Name 	| Class 	| Results 	|
+|---	|---	|---	|
+| Mathivoli Srilakshmi (Oratorical) 	| 5 Charity 	| 1st prize 	|
+| Darshana Ganesan (Oratorical) 	| 5 Grace 	| 3rd Prize 	|
+|  Neha Rizqin Binte Mohammed Nazeer Hussein (Fancy Dress) 	|  1 Faith 	| 4th Prize 	|
