@@ -162,8 +162,7 @@ EGPS came together as one to celebrate Deepavali. Our students were treated to a
 
 ![](/images/Deepavali%202.jpg)
 
-**MTL Fortnight** 
-------------------
+### MTL Fortnight
 
 **Target group: All P1 to P6 pupils**
 
@@ -186,14 +185,7 @@ EGPS came together as one to celebrate Deepavali. Our students were treated to a
 
 *   Social awareness
 *   Self management
-    
 
-  
-
-  
-
-T.G.I.F  
-
-----------
+#### T.G.I.F  
 
 The MT department had put up some interesting and engaging booths pertaining to the 3 main cultures unique to Singapore in the month of July for T.G.I.F. Activities such as painting of ‘vilakku’ (oil lamp), making of ‘Bungga Mangar’ and designing of Chinese Opera masks served as a gateway for our students to learn more about each culture’s distinctive attributes in a fun and meaningful way.
