@@ -77,3 +77,5 @@ Our primary 4 students were exposed to Musical module during MMP.  Through this
 ### Primary 5 Drumming Module
 
 Our primary 5 students were exposed to Drumming module during MMP.  Through this programme, we aim to develop an appreciation for music making through drumming that encourage socialization, self-expression, confidence and communication. Students will also learn to work collaboratively with others to achieve a shared goal through a performance put up at the end of the module.
+
+![](/images/AE5.jpg)
