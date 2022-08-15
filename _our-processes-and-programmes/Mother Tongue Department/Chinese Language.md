@@ -64,4 +64,10 @@ Mother Tongue Fortnight is held over two weeks. Every year, P1 to P6 students wi
 | Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
 | P5 & P6 	| E-Oral Workshop 	|
 
+
+
 **2021年北区中小学华语演讲比赛 2021 North Zone Schools (Primary / Secondary) Chinese Speech Competition**
+
+| Name of student 	| Class of student in award year 	| Award 	|
+|---	|---	|---	|
+| Yeoh En Qi, Chloe 	| 5 Grace 	| Consolation 	|
