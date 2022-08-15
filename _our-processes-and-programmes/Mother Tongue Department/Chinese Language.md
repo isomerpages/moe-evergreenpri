@@ -53,3 +53,13 @@ Mother Tongue Fortnight is held over two weeks. Every year, P1 to P6 students wi
 ![](/images/CL%20Dept%2013.png)
 
 ### 2020 Chinese Department Activities by Level
+
+| Level 	| Activity 	|
+|---	|---	|
+| P1 to P6 	| Mother Tongue Fortnight, Chinese Language Fiesta 	|
+| P3 	| Conversational Malay Programme 	|
+| Selected P4 	| Advanced Conversational Malay Programme 	|
+| P4 	| Mother Tongue Cultural Camp 	|
+| P5 	| Cross Cultural Learning Journey to Indian/Malay Heritage Centre 	|
+| Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
+| P5 & P6 	| E-Oral Workshop 	|
