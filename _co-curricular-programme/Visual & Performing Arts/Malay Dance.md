@@ -12,3 +12,16 @@ third_nav_title: Visual & Performing Arts
 |---	|---	|
 | Teacher I/C:  	| Mdm Mujtahidah 	|
 | Teacher Members:  	| • Mdm Zawiah<br>• Mdm Fatimah<br>• Mdm Zulaina 	|
+
+
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**  
+
+  
+
+Malay Dance in Evergreen Primary School aims to develop student’s interest for the traditional art form of the Malay Cultural Dance. Students learn the fundamental dance movements of the different dance genres mainly Asli, Inang, Joget, Masri and Zapin. Training sessions will begin with the basic dance techniques and gradually progressing to advance choreography.
+
+Through learning the dance moves, the students acquire skills such as flexibility, poise, balance and coordination. Dancers develop resilience, self – discipline as well as appreciation for culture and the performing arts.
+
+Our dancers have been given opportunities to showcase their talents during various school events and celebrations as well as at community events. We are also regular participants of the Singapore Youth Festivals. By taking part in these events, students will also develop self-confidence as they perform on stage and learn to work together as a team.
+
+We hope to provide an enriching learning experience for our students
