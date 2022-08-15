@@ -95,3 +95,7 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 ![](/images/china.jpg)
 
 A group of selected Primary 5 Chinese and Tamil Language pupils went on an overseas immersion programme to Hangzhou in June. The main objective of this learning journey was to increase pupils' knowledge and sensitivity to cultures that are different from their own.  During this trip, pupils had the opportunity to visit Ren Min Primary School and many historic places in Hangzhou. Throughout the trip, they have experienced learning in a different context and made new friends in Ren Min Primary School. The pupils have also enjoyed learning about the rich history and culture of Hangzhou.
+
+![](/images/c2.jpg)
+
+![](/images/c3.jpg)
