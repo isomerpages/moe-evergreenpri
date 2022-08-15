@@ -2,4 +2,5 @@ collections:
   c0-curricular-programme:
     output: true
     order:
+      - MMP.md
       - Co Curricular Activities (CCA)/.keep
