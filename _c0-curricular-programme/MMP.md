@@ -18,7 +18,24 @@ Multi Modal Programme (MMP) is a signature EGPS programme that provides **ALL 
 | **Innovation & Enterprise** 	| Design Thinking, Junior Achievement Financial Literacy 	|
 | **Self-Management & Lifeskills** 	| U+I = WE, Home Craft, Building Aspirations, Sustaining Motivation 	|
 
+
+
 The table below summarizes the exposures specially curated for our EGPS students for 2021
 
 **Co-curriculum Domain : Enrichment & Lifeskills (ENL)**   
 **Signature Programme : Multi-Modal Programme (MMP)**
+
+| **Lvl** 	| Day/ <br>Time 	| Term 1<br>(8 weeks) 	| Term 2<br>(8 weeks) 	| Term 3<br>(8 weeks) 	|
+|---	|:---:	|:---:	|:---:	|:---:	|
+| **P1** 	| Tuesday<br>1230 – 1330 	| Self-Mgt & Social Skills/ Media & Technology 	| Aesthetics 	| Language Arts 	|
+|  	|  	| SDWB: U + I  = WE<br>ICT: Digital Literacy 	| PA: Hip Hop Dance 	| EL: Choral Reading/<br>Poetry Recitation 	|
+| **P2** 	| Tuesday<br>1230 – 1330 	| Language Arts 	| Self-Mgt & Social Skills/ Media & Technology 	| Aesthetics  	|
+|  	|  	| EL: Reader’s Theatre 	| SDWB: Home Craft<br>& Digital Literacy 	| PA: Ethnic Dance 	|
+| **P3** 	| Wednesday<br>1200 – 1330 	| Language Arts 	| Citizenship 	| Innovation & Enterprise 	|
+|  	|  	| EL: Drama 	| MT: Conversation CL/ML (CCM) 	| SCI: Design Thinking<br>ICT: Digital Literacy 	|
+| **P4** 	| Wednesday<br>1200 – 1330 	| Innovation & Enterprise 	| Language Arts 	| Innovation & Enterprise 	|
+|  	|  	| SDWB: Financial Literacy<br>ICT: Digital Literacy 	| EL: Musical 	| IPW: STEAM 	|
+| **P5** 	| Wednesday<br>1200 – 1330 	| Aesthetics/Media & Technology 	| Aesthetics/ Media & Technology 	| Language Arts 	|
+|  	|  	| PA: Drumming<br>ICT: Digital Animation 	| PA: Drumming<br>ICT: Digital Animation 	| EL: Public Speaking/Oratory 	|
+| **P6** 	| Wednesday<br>1200 – 1330 	| Self-Mgt & Social Skills/ Sports 	| Self-Mgt & Social Skills/ Sports 	|   	|
+|  	|  	| SDWB: Building Aspirations, Sustaining Motivation<br>PE:Wushu/Fencing/Kickboxing/Inline Skating/Archery/Golf 	| SDWB: Building Aspirations, Sustaining Motivation<br>PE:Wushu/Fencing/Kickboxing/Inline Skating/Archery/Golf 	| PSLE Preparation 	|
