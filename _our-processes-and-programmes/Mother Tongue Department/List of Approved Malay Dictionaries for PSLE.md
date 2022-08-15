@@ -4,3 +4,7 @@ permalink: /our-processes-and-programmes/Mother-Tongue-Department/list-of-approv
 description: ""
 third_nav_title: Mother Tongue Department
 ---
+# **List of Approved Dictionaries for use in PSLE**
+
+
+### Malay Dictionaries / E-Dictionaries
