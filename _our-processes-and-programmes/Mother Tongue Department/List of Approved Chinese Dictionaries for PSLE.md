@@ -9,3 +9,9 @@ third_nav_title: Mother Tongue Department
   
 
 ### Chinese Dictionaries / E-Dictionaries
+
+![](/images/list_of_dictionaries_for_examination1024_1.jpg)
+
+![](/images/list_of_dictionaries_for_examination1024_2.jpg)
+
+![](/images/list_of_dictionaries_for_examination1024_3.jpg)
