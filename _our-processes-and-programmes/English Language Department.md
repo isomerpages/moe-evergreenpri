@@ -115,3 +115,19 @@ Through the Drama module, the students were given the opportunity to exercise th
 **Primary 4 Musical Performance**
 
 Through the Musical Module, the students were exposed to a variety of musical strategies and were given opportunities to develop their skills in performing and communicating.  They also learnt to use the Standard English through thematic plays set in context.  Each class in the level performed a short adaptation of a musical. This served as a platform for the students to display their skills and talents. A definite thumbs up to our students who persevered and put up a great performance during the rehearsals.
+
+![](/images/p4%20EL.jpg)
+
+**TGIF - English**
+
+English department took over the TGIF sessions in the month of March with fun-filled activities to appreciate the language arts and promote the speaking of Standard Singapore English.  Students were exposed to different theme based activities each week.
+
+ We have:
+
+* Literary Writers - tie in with International Friendship Day (Week 3)
+* Speak Up! Listen Up! - in line with the Speak Standard Singapore English (Week 2)
+* modified word games (Week 1)
+
+Primary 1, 2, 3, 4 and 6 students were involved in the e-TGIF series of modified word games, speaking and writing activities.
+
+Primary 5 students were involved in the TGIF series where they participated in many fun-filled language related activities.
