@@ -21,3 +21,7 @@ Folk dances are important historically in the development of dance in China, som
 The Chinese Dance is one of the performing arts group in Evergreen Primary School. It has over 25 members who have chosen to join Chinese Dance out of their love for dancing and to learn more about the Chinese Dance culture. We want to nurture their talent through dance training so that they can each reach their fullest potential in this area. 
 
 In Chinese Dance, members train and perform as a group thus they learn to blend with one another. Members also learn to execute movements and exhibit good performance skills on stage.
+
+![](/images/CD1.jpg)
+
+![](/images/CD2.jpg)
