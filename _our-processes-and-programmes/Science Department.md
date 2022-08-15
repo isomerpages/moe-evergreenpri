@@ -111,3 +111,11 @@ This programme has motivated our students to think out of the box – beyond wh
 **ImPact**
 
 * All students will be provided with opportunities to acquire the knowledge, values, attitudes, commitment and skills needed to protect and improve the environment.
+
+| Programme 	| Primary 1 	| Primary 2 	| Primary 3 	| Primary 4 	| Primary 5 	| Primary 6 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+| Science Curriculum 	|   	|   	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
+| STEAM 	|   	|   	|   	| ✓ 	| ✓ 	|   	|
+| IPW 	|   	|   	|   	| ✓ 	|   	|   	|
+| TGIF 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
+| CCE (VIA) 	| ✓ 	| ✓ 	|   	|   	|   	|   	|
