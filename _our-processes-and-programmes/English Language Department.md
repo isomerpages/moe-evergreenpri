@@ -51,8 +51,21 @@ Our library activities:
 
   
 
-### **Writing Programme - Budding Writers**
+### Writing Programme - Budding Writers
 
 The writing programme aims to recognise and encourage budding writers in the school and boost their creativity and confidence in writing. Students were exposed to different writing genres and text types and provided with a platform to engage in constructive discourse with their peers during the writing process.  It also reinforced the language items taught in school and showed the connection of the different aspects of language.
 
 Budding writers from P5 and P6 were selected to be part of the programme at the start of the year. They are
+
+| Class 	| Name of Students 	|
+|---	|---	|
+| 5 Grace 	| Auni Hamizah Binte Zulkhairi 	|
+| 5 Grace 	| Ng Jun En 	|
+| 5 Joy 	| Mischqa Mersyha Binte Norhisham Iskhandar 	|
+| 6 Grace 	| Chiow Pei Ling 	|
+| 6 Grace 	| Ng Xing En 	|
+| 6 Joy 	| Quek Kai Li 	|
+| 6 Joy 	| Danda Harshitha Reddy 	|
+| 6 Joy 	| Naomi Chloe Gunda Corral 	|
+| 6 Joy 	| Sahu Swasti 	|
+| 6 Joy 	| Mendoza Cyril Jacob Gonzales 	|
