@@ -4,3 +4,8 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-ga
 description: ""
 third_nav_title: Sports & Games
 ---
+# **Taekwondo**
+
+| Teacher I/C:   	| Mr Mohamed Ali (IC) 	|
+|---	|---	|
+| Teacher Members:  	| • Miss Siti Safura<br>• Miss Koh Mui Noi<br>• Mr Ender Ng 	|
