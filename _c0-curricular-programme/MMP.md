@@ -39,3 +39,9 @@ The table below summarizes the exposures specially curated for our EGPS students
 |  	|  	| PA: Drumming<br>ICT: Digital Animation 	| PA: Drumming<br>ICT: Digital Animation 	| EL: Public Speaking/Oratory 	|
 | **P6** 	| Wednesday<br>1200 – 1330 	| Self-Mgt & Social Skills/ Sports 	| Self-Mgt & Social Skills/ Sports 	|   	|
 |  	|  	| SDWB: Building Aspirations, Sustaining Motivation<br>PE:Wushu/Fencing/Kickboxing/Inline Skating/Archery/Golf 	| SDWB: Building Aspirations, Sustaining Motivation<br>PE:Wushu/Fencing/Kickboxing/Inline Skating/Archery/Golf 	| PSLE Preparation 	|
+
+Other than Co-Curricular Activities (CCA), our students have successfully used the above areas to apply for Direct School Admission (DSA) to secondary schools as they have had the exposure in these areas and have developed a passion for some that they would like to hone further.
+
+Since the Multi Modal Programme (MMP) provides the **breadth of skills** and exposure for **all** students, the school has decided to provide a narrower range of Co-Curricular Activities (CCA) for students who would like to **deepen their interest** and **develop passion and talent** in specific areas such as the 3 Ethnic Dances, Chinese Orchestra, Netball, Football, Badminton, Art Talent Club and Scouts.
+
+Below are some highlights of our students’ experiences in MMP.
