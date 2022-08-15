@@ -65,3 +65,11 @@ Our primary 2 students were exposed to Home Craft module during MMP.  Through t
 ### Primary 3 English Drama
 
 Our primary 3 students were exposed to English Drama module during MMP.  Through this programme, we aim to develop students’ expressive repertoire to communicate their ideas, thoughts and feelings through dramatic presentations that are meaningful to themselves and the intended audience and collaborate with others to achieve a shared goal through a performance.
+
+![](/images/AE3.jpg)
+
+### Primary 4 Musical Module
+
+Our primary 4 students were exposed to Musical module during MMP.  Through this programme, we aim to develop students’ expressive repertoire to communicate their ideas, thoughts and feelings through dramatic presentations that are meaningful to themselves and the intended audience and collaborate with others to achieve a shared goal through a performance.
+
+![](/images/AE4.jpg)
