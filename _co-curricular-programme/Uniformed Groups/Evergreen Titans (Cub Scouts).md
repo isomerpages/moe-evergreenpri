@@ -5,3 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # **Evergreen Titans (Cub Scouts)**
+
+![](/images/scoutss2016.jpg)
+
+| Teacher I/C:  	| Mr Franklin De Silva (IC) 	|
+|---	|---	|
+| Teacher Members: 	| • Mdm Isnarti<br>• Mr Tan Yongli<br>• Miss Alicia Ong<br>• Mrs Belford 	|
