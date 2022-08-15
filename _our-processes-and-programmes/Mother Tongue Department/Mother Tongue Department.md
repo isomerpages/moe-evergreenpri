@@ -135,3 +135,7 @@ The primary 2 and primary 4 students learning the Tamil Language had a chance to
 Evergreen primary school celebrated CNY with exciting hall performances and subsequent classroom activities on the eve of Chinese New Year, 24 January. Our pupils were excited by the presence of the lion dance and mascot. Everyone had a great time enjoying the concert and the classroom activities. For the classroom activities, the lower primary students had a good time colouring the picture of the Rat which is the zodiac of the year. The middle primary students had fun creating their own bookmarks. The upper primary students learned how to make chinese lanterns. Through the above fun activities, the students learned & appreciated the Chinese traditions as they celebrated this special day with their schoolmates.
 
 ![](/images/CNY1.jpg)
+
+**Hari Raya Aidilfitri (Eid Mubarak)**
+
+In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebration online. An initiative to celebrate Hari Raya responsibly. Entitled, Circuit Breaker Raya Online 2020 (C.B.R.O. 2020), efforts were made by staff and students of EGPS to adapt to the new norms. Students and staff show resilience during this pandemic period and still are able to celebrate the joyous occasion meaningfully. While the Muslim staff and students navigate through a different kind of celebration this year, it is one that is full of meaning, that strengthen family bonds and stay connected in the comfort of their own homes.
