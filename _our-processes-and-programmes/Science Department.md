@@ -91,3 +91,23 @@ This programme has motivated our students to think out of the box – beyond wh
  
  ![](/images/S7.jpg)
  Various types of cell models created by our students were exhibited as part of an educational display for students from the other levels. This is also to recognise their efforts in making these models.
+ 
+ **Environmental Education 2021**
+
+**Purpose**
+
+·    To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
+
+**Process**
+
+* To identify topics in the Science syllabus that relates to an environmental issue and promote awareness.
+* To work with Science Programme drivers to infuse environmental topics in the programmes
+* Create lessons and projects that will raise awareness so that students recognise the importance of respecting, appreciating and taking responsibility and actions to take care of our environment.
+
+**Programme**
+
+* Environmental Education infused Science Curriculum, Science Programmes and CCE
+
+**ImPact**
+
+* All students will be provided with opportunities to acquire the knowledge, values, attitudes, commitment and skills needed to protect and improve the environment.
