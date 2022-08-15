@@ -153,3 +153,7 @@ In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebr
 ![](/images/ML6.jpg)
 
 [Watch Staff of EGPS singing Medley Hari Raya Songs on Smule App](https://www.youtube.com/watch?v=vQLO3keX_g8Staff%20ofEGPS%20singing%20Medley%20Hari%20Raya%20Songs%20on%20Smule%20App)
+
+**Deepavali**
+
+EGPS came together as one to celebrate Deepavali. Our students were treated to a concert featuring our Indian Dance CCA members and also took part in an interactive segment where they tried their hands at grooving to a catchy ‘Bhangra’ music. Selected students also took part in a quiz which was designed to address some common misconceptions about Deepavali, after watching a video based on the same theme.
