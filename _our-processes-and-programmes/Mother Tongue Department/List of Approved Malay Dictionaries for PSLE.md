@@ -8,3 +8,6 @@ third_nav_title: Mother Tongue Department
 
 
 ### Malay Dictionaries / E-Dictionaries
+
+
+![](/images/list_of_dictionaries_for_examination1024_4.jpg)
