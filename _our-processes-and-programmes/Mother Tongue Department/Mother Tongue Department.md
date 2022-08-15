@@ -125,3 +125,7 @@ The primary 2 and primary 4 students learning the Tamil Language had a chance to
 ![](/images/p2.jpg)
 
 ![](/images/p3.jpg)
+
+![](/images/TL7(2).jpg)
+
+**Chinese New Year Celebration**
