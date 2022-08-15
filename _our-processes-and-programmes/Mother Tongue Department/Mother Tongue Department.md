@@ -147,3 +147,9 @@ In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebr
 ![](/images/ML5(2).jpg)
 
 [Watch Full video for the #dontrushchallenge done by the Staff of EGPS](https://www.youtube.com/watch?v=93MQSr_PNtQFull%20videofor%20the%20#dontrushchallenge%20done%20by%20the%20Staff%20of%20EGPS)
+
+![](/images/Hari%20Raya%20Aidilfitri%2010.jpg)
+
+![](/images/ML6.jpg)
+
+[Watch Staff of EGPS singing Medley Hari Raya Songs on Smule App](https://www.youtube.com/watch?v=vQLO3keX_g8Staff%20ofEGPS%20singing%20Medley%20Hari%20Raya%20Songs%20on%20Smule%20App)
