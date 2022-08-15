@@ -112,4 +112,4 @@ A group of selected Primary 5 Malay and Chinese Language students went on an ove
 
 ![](/images/c4.jpg)
 
-![](/images/Sarawak%205.jpg)
+![](/images/2Sarawak%205.jpg)
