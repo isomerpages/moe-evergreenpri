@@ -46,6 +46,9 @@ c. In **_Presenting_**, students will gain the opportunities to put to practice
 
 d. In **_Responding_**, students will learn to think critically and show confidence in their ability to make judgements of art works using vocabulary that is appropriate and representative of the art form.
 
+1. [Chinese Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-dance)
+2. [Chinese Orchestra](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-orchestra)
+
 ### **Physical Sports**
 
 The Physical Sports CCA caters to students with interest at both recreational and competitive levels. They can focus on learning new skills and knowledge, and developing character and 21CC skills. The Physical Sports develop robustness, fair play and team spirit in pupils.
