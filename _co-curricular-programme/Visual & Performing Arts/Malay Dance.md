@@ -25,3 +25,7 @@ Through learning the dance moves, the students acquire skills such as flexibilit
 Our dancers have been given opportunities to showcase their talents during various school events and celebrations as well as at community events. We are also regular participants of the Singapore Youth Festivals. By taking part in these events, students will also develop self-confidence as they perform on stage and learn to work together as a team.
 
 We hope to provide an enriching learning experience for our students
+
+![](/images/hari%20raya%202021.jpg)
+
+![](/images/Kampong%20Admiralty_performance.jpg)
