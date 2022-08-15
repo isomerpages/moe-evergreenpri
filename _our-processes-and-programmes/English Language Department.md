@@ -75,3 +75,11 @@ Budding writers from P5 and P6 were selected to be part of the programme at the 
 The speaking programme focuses on developing critical thinking, research skills and communication skills in our students.
 
 Some P6 students were selected to be part of the programme at the start of the year. They are
+
+| Class 	| Name of Students 	|
+|---	|---	|
+| 6 Grace 	| Carynn Wong Yan Yi 	|
+| 6 Joy 	| Naomi Chloe Gunda Corral 	|
+| 6 Joy 	| Sahu Swasti 	|
+| 6 Joy 	| Preeti D/O Raja 	|
+| 6 Joy 	| Arash Rayhan Sidhu 	|
