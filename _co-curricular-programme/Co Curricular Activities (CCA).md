@@ -48,6 +48,9 @@ d. In **_Responding_**, students will learn to think critically and show confid
 
 1. [Chinese Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-dance)
 2. [Chinese Orchestra](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-orchestra)
+3. [Indian Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance)
+4. [Malay Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance)
+5. [Art Club](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-club)
 
 ### **Physical Sports**
 
