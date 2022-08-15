@@ -10,6 +10,8 @@ third_nav_title: Sports & Games
 |---	|---	|
 | Teacher Members:  	| • Miss Siti Safura<br>• Miss Koh Mui Noi<br>• Mr Ender Ng 	|
 
+
+
 **_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**
 
 Taekwondo or TKD for short is a new sport CCA at Evergreen Primary School. Taekwondo comprises of the words, "Tae" "Kwon" "Do." It is composed of three parts as shown in the English spelling, though it is one word in Korean. "Tae" means "foot," "leg," or "to step on"; "Kwon" means "fist," or "fight"; and "Do" means the "way" or "discipline." If we put these three parts together, we can see two important concepts behind "Tae Kwon Do" which is to perform these hand and leg movements in a discipline manner. This will be the guiding principle in our CCA.
