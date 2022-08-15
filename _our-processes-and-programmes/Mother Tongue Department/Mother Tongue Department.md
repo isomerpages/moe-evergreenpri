@@ -200,3 +200,7 @@ The MT department had put up some interesting and engaging booths pertaining to 
 #### MT Camp
 
 The Mother Tongue Department organised a Mother Tongue Language & Cultural Camp for all Primary 4 students. The aim of this camp is to  provide a platform for students to appreciate and understand the richness of the 3 Mother Tongues Languages and its culture. At the end of the camp students came together as a level to share their knowledge which promoted cross cultural learning.
+
+![](/images/MT%20Camp%201.jpg)
+
+![](/images/MT%20CAMP.jpg)
