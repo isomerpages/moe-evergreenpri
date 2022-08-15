@@ -72,3 +72,9 @@ The E2K Science Programme is an enrichment programme conducted after school for 
 The rich learning experiences serve to help our students develop positive habits, attitudes and dispositions scientists possess. Just as scientists explore and make mistakes in the real world, our students are allowed to make mistakes during the programme and learn from the mistakes based on scaffold given by teacher mentors. As our students engage in scientific investigations through an inquiry approach, we hope to nurture them in the 21st century competencies such as resilience, critical and inventive thinking, and effective communication skills.
 
 ![](/images/E2K.jpg)
+
+*  **Design Thinking Programme**
+
+To build a culture of empathy, innovation, creativity and discovery in our students, they participated in our Design Thinking Programme. For this year, the programme provides our students with opportunities to apply Science concepts into creating novel toys. Prior to that, students would be guided to make connections to the application of Science concepts in common toys that they have played before.
+
+This programme has motivated our students to think out of the box – beyond what they are learning within the curriculum. The whole learning experience served as a stepping stone for our students to embark on external Science competitions.
