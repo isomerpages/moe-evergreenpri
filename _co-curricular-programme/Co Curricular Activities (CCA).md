@@ -49,3 +49,26 @@ d. In **_Responding_**, students will learn to think critically and show confid
 ### **Physical Sports**
 
 The Physical Sports CCA caters to students with interest at both recreational and competitive levels. They can focus on learning new skills and knowledge, and developing character and 21CC skills. The Physical Sports develop robustness, fair play and team spirit in pupils.
+
+
+### **Uniform Group**  
+
+Uniformed Groups (UG) provide students with authentic learning experiences which will help them develop important qualities such as leadership, teamwork and resilience. The Uniformed Group (UG) activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
+
+The Uniform Group sessions are designed with the following in mind:
+
+a. **Core Curricula**
+
+This encompasses the skills, knowledge and attitudes that the student would learn in his/her particular UG;
+
+b. **Competitions, Events, Visits, etc.**
+
+These encompass the various competitions or events that the student would be involved in;
+
+c. **School-Based Initiatives**
+
+These encompass the various initiatives and duties schools may require of students in UGs. Examples include ushering or yeoman duties during school functions;
+
+d. **Training/Activity and Learning Objectives**
+
+Activities are planned with the student’s learning and development of knowledge, skills and values in mind. This ensures a meaningful and holistic CCA experience for the student.
