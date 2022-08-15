@@ -99,3 +99,7 @@ A group of selected Primary 5 Chinese and Tamil Language pupils went on an overs
 ![](/images/c2.jpg)
 
 ![](/images/c3.jpg)
+
+![](/images/c3-1.jpg)
+
+![](/images/Hangzhou%206.png)
