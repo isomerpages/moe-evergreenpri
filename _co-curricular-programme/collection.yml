@@ -1,5 +1,5 @@
 collections:
-  c0-curricular-programme:
+  co-curricular-programme:
     output: true
     order:
       - MMP.md
