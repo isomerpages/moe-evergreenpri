@@ -2,7 +2,6 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
-      - Mother Tongue Department/2020 Chinese Department Activities by Level.md
       - Mother Tongue Department/Chinese Language.md
       - Mother Tongue Department/Malay Language.md
       - Mother Tongue Department/Tamil Language.md
