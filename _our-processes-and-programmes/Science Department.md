@@ -119,3 +119,25 @@ This programme has motivated our students to think out of the box – beyond wh
 | IPW 	|   	|   	|   	| ✓ 	|   	|   	|
 | TGIF 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
 | CCE (VIA) 	| ✓ 	| ✓ 	|   	|   	|   	|   	|
+
+**Environment Education Curriculum**
+
+
+**(A)      Academic Programmes**
+
+Infusion of environmental concepts into our respective Science Programmes
+ 
+
+**(B)      Character and Citizenship Education**
+
+Character and Citizenship Education engages students in activities where they are able to take actions to make a positive difference to the environment as they learn and partake in recycling drives, Values-in-Action programmes and interclass-competitions.
+
+
+**(C)      Student Leadership Development**
+
+Leadership development is focused on developing a core team of Environmental Ambassadors who are able to lead the student population both at the class and school level to conserve our environment and drive the various environment activities.
+
+
+**(D)      Partnership**
+
+Partnership with organizations with programmes which can be tapped on to help promote our Environmental Education. We also engage the help of our Parent Support Group to collaborate with our Environment ambassadors in carrying out the various Environment activities in school.
