@@ -2,6 +2,7 @@ collections:
   co-curricular-programme:
     output: true
     order:
+      - Co Curricular Activities (CCA).md
       - MMP.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
