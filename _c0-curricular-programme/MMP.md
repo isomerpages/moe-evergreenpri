@@ -18,15 +18,13 @@ Multi Modal Programme (MMP) is a signature EGPS programme that provides **ALL 
 | **Innovation & Enterprise** 	| Design Thinking, Junior Achievement Financial Literacy 	|
 | **Self-Management & Lifeskills** 	| U+I = WE, Home Craft, Building Aspirations, Sustaining Motivation 	|
 
-
-
 The table below summarizes the exposures specially curated for our EGPS students for 2021
 
 **Co-curriculum Domain : Enrichment & Lifeskills (ENL)**   
 **Signature Programme : Multi-Modal Programme (MMP)**
 
 | **Lvl** 	| Day/ <br>Time 	| Term 1<br>(8 weeks) 	| Term 2<br>(8 weeks) 	| Term 3<br>(8 weeks) 	|
-|---	|:---:	|:---:	|:---:	|:---:	|
+|---	|---	|---	|---	|---	|
 | **P1** 	| Tuesday<br>1230 – 1330 	| Self-Mgt & Social Skills/ Media & Technology 	| Aesthetics 	| Language Arts 	|
 |  	|  	| SDWB: U + I  = WE<br>ICT: Digital Literacy 	| PA: Hip Hop Dance 	| EL: Choral Reading/<br>Poetry Recitation 	|
 | **P2** 	| Tuesday<br>1230 – 1330 	| Language Arts 	| Self-Mgt & Social Skills/ Media & Technology 	| Aesthetics  	|
