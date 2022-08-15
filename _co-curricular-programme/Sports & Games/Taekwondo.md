@@ -6,8 +6,9 @@ third_nav_title: Sports & Games
 ---
 # **Taekwondo**
 
-| Teacher I/C:   	| Mr Mohamed Ali (IC) 	|
+| CCA   	| Taekwondo 	|
 |---	|---	|
+| Teacher I/C:   	| Mr Mohamed Ali (IC) 	|
 | Teacher Members:  	| • Miss Siti Safura<br>• Miss Koh Mui Noi<br>• Mr Ender Ng 	|
 
 
