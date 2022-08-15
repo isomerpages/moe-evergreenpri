@@ -45,3 +45,10 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 ****Malay Language****  
 
 **1.       Pertandingan Sahibba (Malay Scrabble Competition - Zonal level)**
+
+| Name 	| Class 	| Results 	|
+|---	|---	|---	|
+| Anasofia Binte Mohamad Norfitri 	| 5 Charity 	| Certificate of Participation 	|
+|  Nur Azliana Binte Azrin 	|  5 Care 	|  Certificate of Participation 	|
+| Erfa Hanis Binte Muhammad Khairul Fahmi 	|  5 Charity 	|  Certificate of Participation 	|
+|  Muhammad Nur Razzak Muhammad Ridhuan 	|  5 Charity 	|  Certificate of Participation 	|
