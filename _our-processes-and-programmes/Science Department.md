@@ -141,3 +141,10 @@ Leadership development is focused on developing a core team of Environmental Amb
 **(D)      Partnership**
 
 Partnership with organizations with programmes which can be tapped on to help promote our Environmental Education. We also engage the help of our Parent Support Group to collaborate with our Environment ambassadors in carrying out the various Environment activities in school.
+
+|  	|  	|
+|---	|---	|
+| Science Programmes 	| -Enrichment Activities with environment focus<br>- Outdoor learning classrooms<br>- Subject based programs<br>- IPW<br>- STEAM Programme<br>- TGIF 	|
+| Character and Citizenship Education (VIA) 	| - Assembly programs and interclass competitions<br>- Recycling Programme<br>     - Water Conservation 	|
+| Leadership development 	| - Environment Ambassadors to lead their classmates in green initiatives 	|
+| Partnership 	| - National Environment Agency<br>- Singapore Environment Council<br>- Public Utilities Board<br>- National Parks Board<br>- Parent Support Group (PSG) 	|
