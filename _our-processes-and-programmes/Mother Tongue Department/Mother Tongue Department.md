@@ -157,3 +157,7 @@ In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebr
 **Deepavali**
 
 EGPS came together as one to celebrate Deepavali. Our students were treated to a concert featuring our Indian Dance CCA members and also took part in an interactive segment where they tried their hands at grooving to a catchy ‘Bhangra’ music. Selected students also took part in a quiz which was designed to address some common misconceptions about Deepavali, after watching a video based on the same theme.
+
+![](/images/Deepavali%201.jpg)
+
+![](/images/Deepavali%202.jpg)
