@@ -148,3 +148,7 @@ Partnership with organizations with programmes which can be tapped on to help pr
 | Character and Citizenship Education (VIA) 	| - Assembly programs and interclass competitions<br>- Recycling Programme<br>     - Water Conservation 	|
 | Leadership development 	| - Environment Ambassadors to lead their classmates in green initiatives 	|
 | Partnership 	| - National Environment Agency<br>- Singapore Environment Council<br>- Public Utilities Board<br>- National Parks Board<br>- Parent Support Group (PSG) 	|
+
+●      **Science Leadership Programme**
+
+To build effective leadership skills within our Science Leaders, the Science Leadership Programme is held to equip students with necessary skills to carry out their duties well. The leadership programme is conducted at the start of every semester where students familiarise themselves with the various Science apparatus that they will be handling when assisting their teachers during every Science lesson. They are also briefed on the safety procedures when in the Science laboratories. This year, the Science Leaders were also invited to play a more active role in the promotion of love for the subject among their peers.
