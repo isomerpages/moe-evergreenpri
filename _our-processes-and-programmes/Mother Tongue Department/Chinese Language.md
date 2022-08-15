@@ -63,3 +63,5 @@ Mother Tongue Fortnight is held over two weeks. Every year, P1 to P6 students wi
 | P5 	| Cross Cultural Learning Journey to Indian/Malay Heritage Centre 	|
 | Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
 | P5 & P6 	| E-Oral Workshop 	|
+
+**2021年北区中小学华语演讲比赛 2021 North Zone Schools (Primary / Secondary) Chinese Speech Competition**
