@@ -51,3 +51,5 @@ Mother Tongue Fortnight is held over two weeks. Every year, P1 to P6 students wi
 ![](/images/CL%20Dept%2012.png)
 
 ![](/images/CL%20Dept%2013.png)
+
+### 2020 Chinese Department Activities by Level
