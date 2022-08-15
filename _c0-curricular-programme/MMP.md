@@ -79,3 +79,7 @@ Our primary 4 students were exposed to Musical module during MMP.  Through this
 Our primary 5 students were exposed to Drumming module during MMP.  Through this programme, we aim to develop an appreciation for music making through drumming that encourage socialization, self-expression, confidence and communication. Students will also learn to work collaboratively with others to achieve a shared goal through a performance put up at the end of the module.
 
 ![](/images/AE5.jpg)
+
+### Primary 6
+
+Our primary 6 students were exposed to Sports module during MMP.  Through this programme, we aim to provide a holistic experience where students can choose to explore from a range of physical activity and sports that are not normally offered in school like fencing, in-line skating, kick boxing, wushu and archery. Students will also get to participate in an active and healthy physical activity.
