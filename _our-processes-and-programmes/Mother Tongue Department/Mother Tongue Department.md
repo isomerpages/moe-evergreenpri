@@ -189,3 +189,14 @@ EGPS came together as one to celebrate Deepavali. Our students were treated to a
 #### T.G.I.F  
 
 The MT department had put up some interesting and engaging booths pertaining to the 3 main cultures unique to Singapore in the month of July for T.G.I.F. Activities such as painting of ‘vilakku’ (oil lamp), making of ‘Bungga Mangar’ and designing of Chinese Opera masks served as a gateway for our students to learn more about each culture’s distinctive attributes in a fun and meaningful way.
+
+![](/images/MTL%20Fortnight%20TGIF%201.jpg)
+
+![](/images/MTL%20Fortnight%20TGIF%202.jpg)
+
+![](/images/MTL%20Fortnight%20TGIF%203.jpg)
+
+
+#### MT Camp
+
+The Mother Tongue Department organised a Mother Tongue Language & Cultural Camp for all Primary 4 students. The aim of this camp is to  provide a platform for students to appreciate and understand the richness of the 3 Mother Tongues Languages and its culture. At the end of the camp students came together as a level to share their knowledge which promoted cross cultural learning.
