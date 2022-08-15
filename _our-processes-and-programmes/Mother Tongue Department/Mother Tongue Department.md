@@ -105,3 +105,11 @@ A group of selected Primary 5 Chinese and Tamil Language pupils went on an overs
 ![](/images/Hangzhou%206.png)
 
 ### Overseas Learning Journey to Sarawak
+
+![](/images/Sarawak%201.jpg)
+
+A group of selected Primary 5 Malay and Chinese Language students went on an overseas immersion programme to Kuching, Sarawak in June. The main objective of this immersion programme was to create awareness and increase the students' knowledge and sensitivity to the arts, language and cultures of their counterparts in Kuching, Sarawak.  During this trip, students had the opportunity to visit SK St Mary (Primary) School and many historic places in Kuching, Sarawak such as the _‘Rumah Panjang’_. Throughout the trip, they have experienced learning in a different context and made new friends with the students from SK St Mary (Primary) School. The students also enjoyed learning about the rich history and culture of the people in Kuching, Sarawak.
+
+![](/images/c4.jpg)
+
+![](/images/Sarawak%205.jpg)
