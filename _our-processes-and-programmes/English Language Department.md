@@ -131,3 +131,7 @@ English department took over the TGIF sessions in the month of March with fun-fi
 Primary 1, 2, 3, 4 and 6 students were involved in the e-TGIF series of modified word games, speaking and writing activities.
 
 Primary 5 students were involved in the TGIF series where they participated in many fun-filled language related activities.
+
+**Week 1**
+
+![](/images/TGIF%20EL.jpg)
