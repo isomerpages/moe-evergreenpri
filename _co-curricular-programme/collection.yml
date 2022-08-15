@@ -2,4 +2,5 @@ collections:
   co-curricular-programme:
     output: true
     order:
+      - Uniformed Groups/.keep
       - MMP.md
