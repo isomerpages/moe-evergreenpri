@@ -2,9 +2,9 @@ collections:
   co-curricular-programme:
     output: true
     order:
-      - Sports & Games/Football.md
-      - Sports & Games/Taekwondo.md
       - Sports & Games/.keep
+      - Sports & Games/Taekwondo.md
+      - Sports & Games/Football.md
       - Uniformed Groups/Evergreen Titans (Cub Scouts).md
       - Uniformed Groups/.keep
       - MMP.md
