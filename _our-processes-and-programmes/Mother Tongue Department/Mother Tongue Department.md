@@ -143,3 +143,5 @@ In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebr
 ![](/images/HRY.jpg)
 
 [Watch Online video done to celebrate Hari Raya](https://www.youtube.com/watch?v=_8TDkqpc0yQ&feature=youtu.beOnline%20videodone%20to%20celebrate%20Hari%20Raya)
+
+![](/images/ML5(2).jpg)
