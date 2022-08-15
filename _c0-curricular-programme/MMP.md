@@ -51,3 +51,17 @@ Below are some highlights of our students’ experiences in MMP.
 Our primary 1 students were exposed to Hip Hop Dance module during MMP.  Through this programme, we aim to provide a holistic experience where students can appreciate dance as an expressive arts form and participate in an active and healthy physical activity that improve body co-ordination and body awareness.
 
 Students will also learn to be resilient in learning the dance steps - NEVER give up and recognise that dance can help them to relieve stress and regulate thoughts and emotions.
+
+![](/images/AE1.jpg)
+
+**Primary 2 Home Craft Module**
+
+Our primary 2 students were exposed to Home Craft module during MMP.  Through this programme, we aim to develop students to become self-directed learners who are able to manage themselves by learning lifeskills such as cleaning, folding clothes, making beds and sewing.
+
+![](/images/AE2.jpg)
+
+![](/images/AE9.jpg)
+
+### Primary 3 English Drama
+
+Our primary 3 students were exposed to English Drama module during MMP.  Through this programme, we aim to develop students’ expressive repertoire to communicate their ideas, thoughts and feelings through dramatic presentations that are meaningful to themselves and the intended audience and collaborate with others to achieve a shared goal through a performance.
