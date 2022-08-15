@@ -135,3 +135,11 @@ Primary 5 students were involved in the TGIF series where they participated in m
 **Week 1**
 
 ![](/images/TGIF%20EL.jpg)
+
+**Week 2**
+
+![](/images/TGIF%20EL%20wk2.jpg)
+
+**Week 3**
+
+![](/images/TGIF%20EL%20wk3.jpg)
