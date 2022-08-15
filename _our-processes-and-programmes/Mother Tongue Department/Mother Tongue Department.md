@@ -141,3 +141,5 @@ Evergreen primary school celebrated CNY with exciting hall performances and subs
 In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebration online. An initiative to celebrate Hari Raya responsibly. Entitled, Circuit Breaker Raya Online 2020 (C.B.R.O. 2020), efforts were made by staff and students of EGPS to adapt to the new norms. Students and staff show resilience during this pandemic period and still are able to celebrate the joyous occasion meaningfully. While the Muslim staff and students navigate through a different kind of celebration this year, it is one that is full of meaning, that strengthen family bonds and stay connected in the comfort of their own homes.
 
 ![](/images/HRY.jpg)
+
+[Watch Online video done to celebrate Hari Raya](https://www.youtube.com/watch?v=_8TDkqpc0yQ&feature=youtu.beOnline%20videodone%20to%20celebrate%20Hari%20Raya)
