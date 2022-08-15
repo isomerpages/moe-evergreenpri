@@ -2,5 +2,6 @@ collections:
   co-curricular-programme:
     output: true
     order:
+      - Uniformed Groups/Evergreen Titans (Cub Scouts).md
       - Uniformed Groups/.keep
       - MMP.md
