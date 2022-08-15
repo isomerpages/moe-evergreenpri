@@ -2,4 +2,5 @@ collections:
   communication:
     output: true
     order:
+      - Pictures of Events/Singapore Youth Festival.md
       - Pictures of Events/.keep
