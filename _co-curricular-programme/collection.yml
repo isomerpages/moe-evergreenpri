@@ -2,6 +2,7 @@ collections:
   co-curricular-programme:
     output: true
     order:
+      - Sports & Games/Taekwondo.md
       - Sports & Games/.keep
       - Uniformed Groups/Evergreen Titans (Cub Scouts).md
       - Uniformed Groups/.keep
