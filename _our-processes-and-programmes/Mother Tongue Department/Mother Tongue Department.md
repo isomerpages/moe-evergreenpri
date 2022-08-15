@@ -28,22 +28,13 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 
 ### Key Events & Activities in 2020
 
-  
-
-> *   P4 MT Camp
->     
-> *   MT Fortnight Activities
->     
-> *   Speech & Drama Programme 
->     
-> *   Reading Programme
->     
-> *   Celebration of Festivals 
->     
-> *   Immersion Programmes
->     
-> *   Local Learning Journeys
->     
+*   P4 MT Camp
+*   MT Fortnight Activities
+*   Speech & Drama Programme 
+*   Reading Programme
+*   Celebration of Festivals 
+*   Immersion Programmes
+*   Local Learning Journeys
 
 ### Achievements 2019
 
