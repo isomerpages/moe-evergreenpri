@@ -2,6 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
+      - Mother Tongue Department/List of Approved Malay Dictionaries for PSLE.md
       - Mother Tongue Department/.keep
       - Mother Tongue Department/Mother Tongue Department.md
       - Mother Tongue Department/Chinese Language.md
