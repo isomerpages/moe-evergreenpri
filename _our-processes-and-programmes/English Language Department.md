@@ -83,3 +83,7 @@ Some P6 students were selected to be part of the programme at the start of the y
 | 6 Joy 	| Sahu Swasti 	|
 | 6 Joy 	| Preeti D/O Raja 	|
 | 6 Joy 	| Arash Rayhan Sidhu 	|
+
+These students also participated in three preliminary rounds of the Inter-school Debate Championship.  This Championship was jointly organised by the Gifted Education Branch with Debate Association (Singapore) and Raffles Institution (Secondary). Carynn Wong Yan Yi received the best speaker for the first round.   
+
+The students displayed great effort and teamwork. Well Done!
