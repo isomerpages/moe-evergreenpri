@@ -99,3 +99,19 @@ To develop students’ confidence and competency in the spoken language, we have
 **Primary 2 Readers’ Theatre Performance**
 
 Through the Reader’s Theatre module, the students were exposed to a variety of readers’ theatre strategies and were given opportunities to develop their skills in performing and communicating.  They also learnt to use the Standard English through thematic plays set in context. This year, their performances were uploaded online and parents were invited to watch the videos of their performances. It was heartening to see the students putting in their best effort.
+
+![](/images/p2%20theatre%20perf.jpg)
+
+**Term 2 2022**  
+
+**Primary 3 Drama Performance**
+
+Through the Drama module, the students were given the opportunity to exercise their English speaking skills through Drama. It provided the young learners a platform to build their confidence and use the Standard English through thematic plays set in context. This year, their performances were uploaded online and parents were invited to watch the videos of their performances. The students did well and showed how adaptable they were despite the challenges that they faced initially.
+
+![](/images/p3%20EL.jpg)
+
+**Term 2 2021**
+
+**Primary 4 Musical Performance**
+
+Through the Musical Module, the students were exposed to a variety of musical strategies and were given opportunities to develop their skills in performing and communicating.  They also learnt to use the Standard English through thematic plays set in context.  Each class in the level performed a short adaptation of a musical. This served as a platform for the students to display their skills and talents. A definite thumbs up to our students who persevered and put up a great performance during the rehearsals.
