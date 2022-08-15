@@ -161,3 +161,39 @@ EGPS came together as one to celebrate Deepavali. Our students were treated to a
 ![](/images/Deepavali%201.jpg)
 
 ![](/images/Deepavali%202.jpg)
+
+**MTL Fortnight** 
+------------------
+
+**Target group: All P1 to P6 pupils**
+
+**Timeframe: 7 July to 17 July 2020**
+
+**Objectives:**
+
+*   To create an environment that encourages students to use MTL.
+*   To provide a platform for students to appreciate and understand the richness of the 3 Mother Tongues Languages and its culture.
+*   To create cross-cultural awareness.
+    
+
+**21st CC:**
+
+*   Communication, collaboration and information skill
+*   Cross cultural skills
+    
+
+**SEL Competencies:**
+
+*   Social awareness
+*   Self management
+    
+
+  
+
+  
+
+T.G.I.F  
+
+----------
+
+The MT department had put up some interesting and engaging booths pertaining to the 3 main cultures unique to Singapore in the month of July for T.G.I.F. Activities such as painting of ‘vilakku’ (oil lamp), making of ‘Bungga Mangar’ and designing of Chinese Opera masks served as a gateway for our students to learn more about each culture’s distinctive attributes in a fun and meaningful way.
