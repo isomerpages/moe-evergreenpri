@@ -134,4 +134,4 @@ The primary 2 and primary 4 students learning the Tamil Language had a chance to
 
 Evergreen primary school celebrated CNY with exciting hall performances and subsequent classroom activities on the eve of Chinese New Year, 24 January. Our pupils were excited by the presence of the lion dance and mascot. Everyone had a great time enjoying the concert and the classroom activities. For the classroom activities, the lower primary students had a good time colouring the picture of the Rat which is the zodiac of the year. The middle primary students had fun creating their own bookmarks. The upper primary students learned how to make chinese lanterns. Through the above fun activities, the students learned & appreciated the Chinese traditions as they celebrated this special day with their schoolmates.
 
-
+![](/images/CNY1.jpg)
