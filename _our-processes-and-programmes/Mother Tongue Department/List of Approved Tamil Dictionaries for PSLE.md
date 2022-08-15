@@ -7,3 +7,5 @@ third_nav_title: Mother Tongue Department
 # **List of Approved Dictionaries for PSLE**
 
 ### Tamil Dictionaries
+
+![](/images/list_of_dictionaries_for_examination1024_5.jpg)
