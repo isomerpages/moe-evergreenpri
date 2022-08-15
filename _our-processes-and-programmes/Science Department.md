@@ -49,3 +49,10 @@ Students who have shown high level of inquisitiveness and innovation during the 
 ![](/images/ESPC.jpg)
 
 ![](/images/ESPC1.jpg)
+
+### iWonder  
+
+Ever since the opening of iWonder this year, the room has attracted many students on Fridays during TGIF. Different activities such as LEGO blocks, straws and coding would be introduced each month. The freedom and space to explore have unleashed our students’ creativity and innovativeness as they go about tinkering with the materials. Some of the students even requested for their partially completed product to be kept aside safely in the room for them to continue the following week. Amidst all these activities, the students are exposed to problem-solving and how small steady steps could eventually lead them to reach their goal!  
+
+  
+Below are snippets of what took place in iWonder.
