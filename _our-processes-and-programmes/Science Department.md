@@ -152,3 +152,11 @@ Partnership with organizations with programmes which can be tapped on to help pr
 ●      **Science Leadership Programme**
 
 To build effective leadership skills within our Science Leaders, the Science Leadership Programme is held to equip students with necessary skills to carry out their duties well. The leadership programme is conducted at the start of every semester where students familiarise themselves with the various Science apparatus that they will be handling when assisting their teachers during every Science lesson. They are also briefed on the safety procedures when in the Science laboratories. This year, the Science Leaders were also invited to play a more active role in the promotion of love for the subject among their peers.
+
+![](/images/Sci1.jpg)
+
+●      **TGIF**
+
+The Science department firmly believes in infusing joy into the students’ learning. This year’s TGIF activities were conducted in the month of April this year with the theme of ‘Fun Science’. The P3 students engaged themselves in fun-filled activities such as funfair games and sports while learning more about the scientific concepts behind them. They also learned how to improve their effectiveness in succeeding at the games and at the same time, learn why the odds of carnival games are seldom in their favour. The other levels put their engineering skills to the test as the lower levels designed the best aluminium boats to hold the most marbles and the upper levels designed their own paper roller coaster! It was a truly fun and fulfilling experience for the students!
+
+![](/images/Sci2.jpg)
