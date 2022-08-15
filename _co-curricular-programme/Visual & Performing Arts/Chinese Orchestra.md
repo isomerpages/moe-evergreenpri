@@ -16,3 +16,7 @@ third_nav_title: Visual & Performing Arts
 **_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**
 
 Evergreen Primary School Chinese Orchestra was established in 2002. Since then, it has grown and developed and now, we have more than 50 members. EGPS Chinese Orchestra has clinched the Gold with Honour and Distinction awards in the Singapore Youth Festival Competition over the years. In recent years, our students have made the school proud when they came in First and Second position in the National Suona Competition. In order to bring the Orchestra to greater heights, our students have also performed and exchange in oversea trips with Shanghai and Hangzhou musical institute. It was indeed a remarkable achievement.
+
+![](/images/WhatsApp%20Image%202022-01-15.jpeg)
+
+![](/images/WhatsApp%20Image%202022-01-26.jpeg)
