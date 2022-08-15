@@ -87,3 +87,15 @@ Some P6 students were selected to be part of the programme at the start of the y
 These students also participated in three preliminary rounds of the Inter-school Debate Championship.  This Championship was jointly organised by the Gifted Education Branch with Debate Association (Singapore) and Raffles Institution (Secondary). Carynn Wong Yan Yi received the best speaker for the first round.   
 
 The students displayed great effort and teamwork. Well Done!
+
+![](/images/speakingprogram.jpg)
+
+### Language Arts Programmes
+
+To develop students’ confidence and competency in the spoken language, we have a 6-year matrix where students undergo an English Language Arts Programmes.
+
+**Term 2 2022**  
+
+**Primary 2 Readers’ Theatre Performance**
+
+Through the Reader’s Theatre module, the students were exposed to a variety of readers’ theatre strategies and were given opportunities to develop their skills in performing and communicating.  They also learnt to use the Standard English through thematic plays set in context. This year, their performances were uploaded online and parents were invited to watch the videos of their performances. It was heartening to see the students putting in their best effort.
