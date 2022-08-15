@@ -85,3 +85,4 @@ Our primary 5 students were exposed to Drumming module during MMP.  Through thi
 Our primary 6 students were exposed to Sports module during MMP.  Through this programme, we aim to provide a holistic experience where students can choose to explore from a range of physical activity and sports that are not normally offered in school like fencing, in-line skating, kick boxing, wushu and archery. Students will also get to participate in an active and healthy physical activity.
 
 ![](/images/AE6.jpg)
+\*Photos taken before Phase 2 Heighten Alert
