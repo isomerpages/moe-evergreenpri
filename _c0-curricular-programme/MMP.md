@@ -45,3 +45,9 @@ Other than Co-Curricular Activities (CCA), our students have successfully used t
 Since the Multi Modal Programme (MMP) provides the **breadth of skills** and exposure for **all** students, the school has decided to provide a narrower range of Co-Curricular Activities (CCA) for students who would like to **deepen their interest** and **develop passion and talent** in specific areas such as the 3 Ethnic Dances, Chinese Orchestra, Netball, Football, Badminton, Art Talent Club and Scouts.
 
 Below are some highlights of our students’ experiences in MMP.
+
+### Primary 1 Hip Hop Dance Module
+
+Our primary 1 students were exposed to Hip Hop Dance module during MMP.  Through this programme, we aim to provide a holistic experience where students can appreciate dance as an expressive arts form and participate in an active and healthy physical activity that improve body co-ordination and body awareness.
+
+Students will also learn to be resilient in learning the dance steps - NEVER give up and recognise that dance can help them to relieve stress and regulate thoughts and emotions.
