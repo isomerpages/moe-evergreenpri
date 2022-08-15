@@ -61,3 +61,8 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 |---	|---	|---	|
 | Erfa Hanis Binte Muhammad Khairul Fahmi 	| 5 Charity 	|  Certificate of Participation 	|
 | Muhammad Nur Razzak Muhammad Ridhuan 	| 5 Charity 	|   Certificate of Participation 	|
+
+
+**Tamil Language**
+
+**1.      Oratorical Competition organised by Telok Blangah CC**
