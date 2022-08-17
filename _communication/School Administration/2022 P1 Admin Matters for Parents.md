@@ -6,7 +6,8 @@ third_nav_title: School Administration
 ---
 <h1><b>2022 - P1 Admin Matters for Parents</b></h1>
 
-![](/images/Picture1.jpg)
+<img src="/images/Picture1.jpg" 
+     style="width:60%">
 
 <ul class="jekyllcodex_accordion">
    <li>
