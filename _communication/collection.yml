@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - School Administration/2022 School Bus Services Information.md
       - School Administration/.keep
       - Parents Support Group.md
       - Information on P1 to P6 Assessment Plans.md
