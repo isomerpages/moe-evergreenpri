@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - School Administration/Updating of student particulars.md
       - School Administration/Pupil Wait List Form.md
       - School Administration/MOE FAS Form 2022.md
       - School Administration/2022 School Bus Services Information.md
