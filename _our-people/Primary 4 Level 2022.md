@@ -3,10 +3,6 @@ title: Primary 4 Level 2022
 permalink: /our-people/primary-4-level-2022
 description: ""
 ---
-![](/images/Isnarti%20Bte%20Ahmad%20Sani%20Mdm.jpg)
-![](/images/Ender.jpg)
-![](/images/Khairil%20Azar%20Bin%20Abdul%20Rahim%20Mr.jpg)
-![](/images/Radin%20Rafeah%20Mdm.jpg)
 # **Primary 4 Level 2022**
 
 ### Level Motto - Initiate, Improve, Innovate
