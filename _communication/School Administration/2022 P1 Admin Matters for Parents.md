@@ -46,15 +46,12 @@ In view of COVID-19 situation, the school strongly encourages you to make your p
 
 (Note: Name tag can also be purchased at the above mentioned website. Do also note that, there is a maximum of 16 letter input)
 
-
-
 (2)            From School bookshop (From 9am - 3pm)
 
 Alternatively, you can purchase books from 22 Nov 2021 to 24 Nov 2021 (3 days only) in the school premises, subject to Safe Management Measures.  If the queue is too long, you may be turned away and asked to return at another time.
 
-
-
 (Please click <a href="/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20P1.pdf">here</a> to view the P1 Booklist for the year 2022)
+		</p>
   </div>
 	</li>
 </ul>
