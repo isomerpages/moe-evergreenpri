@@ -37,7 +37,24 @@ third_nav_title: School Administration
 			<p><b>School Bookshop</b></p>
       <p>
       <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bookshop Vendor</th><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ricky Book Centre</th></tr></thead><tbody><tr><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Contact number</td><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr. Robin Chin        (8875 4559)</td></tr></tbody></table>
-</p>	
+</p>
+		<p>How can parents purchase books for Primary 1 students?
+
+(1) Via online website
+
+In view of COVID-19 situation, the school strongly encourages you to make your purchases online at <span style="color:#002D13"></span> <a href="www.rickybookcentre.com.sg"><span style="font-weight:600;text-decoration:underline;color:#4EA245">www.rickybookcentre.com.sg</span></a>  in early November to avoid crowd. Order online early to avoid stock out.  There are options of home delivery at a cost of $13 and no delivery charges applicable for self-collection at the school with an appointment time.
+
+(Note: Name tag can also be purchased at the above mentioned website. Do also note that, there is a maximum of 16 letter input)
+
+
+
+(2)            From School bookshop (From 9am - 3pm)
+
+Alternatively, you can purchase books from 22 Nov 2021 to 24 Nov 2021 (3 days only) in the school premises, subject to Safe Management Measures.  If the queue is too long, you may be turned away and asked to return at another time.
+
+
+
+(Please click <a href="/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20P1.pdf">here</a> to view the P1 Booklist for the year 2022)
   </div>
 	</li>
 </ul>
