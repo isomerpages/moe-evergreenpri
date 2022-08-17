@@ -8,6 +8,7 @@ third_nav_title: School Administration
 
 ![](/images/Picture1.jpg)
 
+<ul class="jekyllcodex_accordion">
    <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">P1 E-Orientation for the Year 2022</label>
