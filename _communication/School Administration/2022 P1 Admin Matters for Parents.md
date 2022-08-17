@@ -62,5 +62,13 @@ In view of COVID-19 situation, the school strongly encourages you to make your p
 	<br>S(758459)<br><br><b>Retail Shop 2</b><br>Blk 1023 Yishun Ind Park A #04-17<br>S(768762)
 	</p>
   </div>
+	</li>   
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Other Information</label>
+    <div>
+      <p>1. Dismissal gate points for P1 students for the year 2022</p>
+      <p>- Click <a href="/files/Dismissal%20Gates%20for%20P1.pdf">here</a> to locate the school gates</p>
+    </div>
 	</li>
 </ul>
