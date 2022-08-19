@@ -32,4 +32,8 @@ sections:
       description: Learn more about the P1 experience!
       button: Click here
       url: https://www.youtube.com/watch?v=Ue-nvhIyVZg&feature=youtu.be
+  - infobar:
+      title: MOE Financial Assistance Scheme - 2022
+      button: Click Here
+      url: /communication/school-administration/moe-fas-form-2022
 ---
