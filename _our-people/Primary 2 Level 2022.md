@@ -3,6 +3,21 @@ title: Primary 2 Level 2022
 permalink: /our-people/primary-2-level-2022
 description: ""
 ---
+![](/images/Zuraidah%20Mistram.jpg)
+![](/images/Mujtahidah%20Bte%20Abdul%20Ghani.jpg)
+![](/images/Siti%20Haida%20Bte%20Kamid%20Mdm.jpg)
+![](/images/Wang%20Mu%20Lan%20Trixie%20Miss.jpg)
+![](/images/Noor%20Hanim%20Bte%20Abdul%20Rahim%20Mdm.jpg)
+![](/images/Kee%20Wai%20Ying%20Mdm.jpg)
+![](/images/Chong%20Shu%20Bao%20Mdm.jpg)
+![](/images/Ronnie.jpg)
+![](/images/Kelvin%20Tay.jpg)
+![](/images/Vanessa%20Ng%20Wai%20Theng%20Mrs%20Loh.jpg)
+![](/images/Nur%20Ardillah%20Binti%20Zulkifli%20Miss.jpg)
+![](/images/Ang%20Pei%20Yi%20Miss.jpg)
+![](/images/Qamarul%20Azhar%20B%20Ahmad%20Kamail%20Mr.jpg)
+![](/images/Nurulhuda%20Bte%20Samsuri%20Ms.jpg)
+![](/images/Liu%20DanDan%20Mdm.jpg)
 # **Primary 2 Level 2022**
 
 ### Level Motto - Dare to Imagine, Achieve Our Dreams
