@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Advisory Committee.md
       - Head of Departments.md
       - Subject Heads & Level Heads.md
       - Year Head and Assistant Year Head.md
