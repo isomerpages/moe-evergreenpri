@@ -3,7 +3,6 @@ title: Primary 2 Level 2022
 permalink: /our-people/primary-2-level-2022
 description: ""
 ---
-
 ![](/images/Noor%20Hanim%20Bte%20Abdul%20Rahim%20Mdm.jpg)
 ![](/images/Kee%20Wai%20Ying%20Mdm.jpg)
 ![](/images/Chong%20Shu%20Bao%20Mdm.jpg)
