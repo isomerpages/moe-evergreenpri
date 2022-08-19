@@ -36,4 +36,19 @@ sections:
       title: MOE Financial Assistance Scheme - 2022
       button: Click Here
       url: /communication/school-administration/moe-fas-form-2022
+  - infobar:
+      title: School Bus Services Information
+      subtitle: "2022"
+      button: Click Here
+      url: /communication/school-administration/2022-school-bus-services-information
+  - infobar:
+      title: P6 DSA Matters
+      subtitle: "2022"
+      button: CLICK HERE
+      url: communication/school-administration/p6-direct-school-admission-matters-for-parents
+  - infobar:
+      title: P5 & P6 Principal's Engagement
+      subtitle: "2022"
+      button: Click here
+      url: /faq
 ---
