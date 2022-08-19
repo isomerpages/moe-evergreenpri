@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Head of Departments.md
       - Subject Heads & Level Heads.md
       - Year Head and Assistant Year Head.md
       - Lead Teacher & Senior Teachers.md
