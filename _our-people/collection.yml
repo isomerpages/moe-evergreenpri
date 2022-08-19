@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Year Head and Assistant Year Head.md
       - Lead Teacher & Senior Teachers.md
       - School Admin Team.md
       - Allied Educators.md
