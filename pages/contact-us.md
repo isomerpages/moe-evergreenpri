@@ -25,4 +25,14 @@ contacts:
       - email: ""
       - other: ""
     title: "School Office Fax Number "
+  - content:
+      - phone: ""
+      - email: evergreen_ps@moe.edu.sg
+      - other: ""
+    title: " School E-mail Address"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: http://www.evergreenpri.moe.edu.sg
+    title: School Website
 ---
