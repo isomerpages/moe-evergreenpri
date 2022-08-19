@@ -12,15 +12,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: CCA Schedule 2022
+          description: ""
+          url: /our-processes-and-programmes/co-curricular-programme/co-curricular-activities-cca
+        - title: School Booklist 2022
+          description: ""
+          url: /communication/school-administration/booklist-2022
+        - title: P5 Achievement Level
+          description: Click here to find out more
+          url: https://go.gov.sg/egpsp5al
   - infobar:
       title: Infobar title
       subtitle: Subtitle
