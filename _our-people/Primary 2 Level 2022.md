@@ -4,8 +4,6 @@ permalink: /our-people/primary-2-level-2022
 description: ""
 ---
 
-![](/images/Vanessa%20Ng%20Wai%20Theng%20Mrs%20Loh.jpg)
-![](/images/Nur%20Ardillah%20Binti%20Zulkifli%20Miss.jpg)
 ![](/images/Ang%20Pei%20Yi%20Miss.jpg)
 ![](/images/Qamarul%20Azhar%20B%20Ahmad%20Kamail%20Mr.jpg)
 ![](/images/Nurulhuda%20Bte%20Samsuri%20Ms.jpg)
