@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Vice Principal.md
       - School Advisory Committee.md
       - Head of Departments.md
       - Subject Heads & Level Heads.md
