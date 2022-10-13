@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Evergreen Primary School
       background: /images/evergreen.gif
       button: Contact Us
       url: /contact-us/
