@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/evergreen.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: CCA Schedule 2022
           description: Click here to find out more
