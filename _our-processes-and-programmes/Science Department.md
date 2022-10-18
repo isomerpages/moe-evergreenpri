@@ -135,7 +135,7 @@ Character and Citizenship Education engages students in activities where they ar
 
 **(C)      Student Leadership Development**
 
-<h5 id="test">Leadership development is focused on developing a core team of Environmental Ambassadors who are able to lead the student population both at the class and school level to conserve our environment and drive the various environment activities.</h5>
+Leadership development is focused on developing a core team of Environmental Ambassadors who are able to lead the student population both at the class and school level to conserve our environment and drive the various environment activities.
 
 
 **(D)      Partnership**
