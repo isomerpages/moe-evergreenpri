@@ -2,5 +2,6 @@ collections:
   latest-happenings:
     output: true
     order:
+      - P6 Prize Giving Ceremony Photos 2021.md
       - Student Leaders' Investiture 2022.md
       - Achievement Day 2022.md
