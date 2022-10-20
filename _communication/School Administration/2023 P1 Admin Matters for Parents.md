@@ -4,7 +4,6 @@ permalink: /communication/school-administration/2022-p1-admin-matters-for-parent
 description: ""
 third_nav_title: School Administration
 ---
-
 <h1><b>2023 - P1 Admin Matters for Parents</b></h1>
 
 <img style="width:60%" src="/images/Picture1.jpg">
@@ -30,7 +29,7 @@ third_nav_title: School Administration
     <input id="accordion3" type="checkbox">
     <label for="accordion3">School Vendors Services for Primary 1 (2023)</label>
     <div>
-			<p></p>
+			<p>Please click <a href="https://staging.d203o7eew4if9d.amplifyapp.com/communication/school-administration/school-vendor-services-information-2023/">here</a> to find out more</p>
 	</div>
 	</li>
 	<li>
