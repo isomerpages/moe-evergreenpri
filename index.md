@@ -15,9 +15,9 @@ sections:
         - title: School Booklist 2022
           description: Click here to find out more
           url: /communication/school-administration/booklist-2022
-        - title: P5 Achievement Level
+        - title: Announcement
           description: Click here to find out more
-          url: https://go.gov.sg/egpsp5al
+          url: /dsa
   - infobar:
       title: Virtual Tour
       subtitle: Evergreen Primary school's
