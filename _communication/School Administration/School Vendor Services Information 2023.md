@@ -25,6 +25,8 @@ Please find information sheet and application form <a href="/files/School%20Bus
 
 a. For parents who are interested in after-school care for your child, you would be pleased to know that Evergreen Primary has onsite student care services operated by Big Heart. You may refer to their website, <a href="https://bigheartstudentcare.com">https://bigheartstudentcare.com/ </a>, for more information.
 
-b. If you are interested to enroll your child here, please submit your indication of interest **by 7 November 2022** using the following link, [http://bigheart.cyberland.sg/interest.php](http://bigheart.cyberland.sg/interest.php)
+b. If you are interested to enroll your child here, please submit your indication of interest **by 7 November 2022** using the following link, <a href="http://bigheart.cyberland.sg/interest.php">http://bigheart.cyberland.sg/interest.php</a>.
 
-c. You will be notified by Big Heart Student Care **by 1 December 2022 via email** if a vacant slot is available for your child.
+c. You will be notified by Big Heart Student Care <b>by 1 December 2022 via email</b> if a vacant slot is available for your child.
+
+<h3>School Bookshop</h3>
