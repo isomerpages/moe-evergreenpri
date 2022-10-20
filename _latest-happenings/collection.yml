@@ -2,4 +2,5 @@ collections:
   latest-happenings:
     output: true
     order:
+      - Student Leaders' Investiture 2022.md
       - Achievement Day 2022.md
