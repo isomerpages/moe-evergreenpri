@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - P5 Achievement Level.md
       - 2022 P6 DSA Matters.md
       - P5 & P6 Principal's Engagement 2022.md
       - MOE Financial Assistance Scheme 2023.md
