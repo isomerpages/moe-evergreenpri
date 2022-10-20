@@ -14,5 +14,5 @@ sections:
           url: /announcements/P5-n-P6-Principals-Engagement-2022/
         - title: Latest Happenings
           description: Click here to find out more
-          url: /communication/school-administration/booklist-2022
+          url: /latest-happenings/Student-Leaders-Investiture-2022/
 ---
