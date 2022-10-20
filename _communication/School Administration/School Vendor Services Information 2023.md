@@ -25,7 +25,7 @@ Please find information sheet and application form <a href="/files/School%20Bus
 
 a. For parents who are interested in after-school care for your child, you would be pleased to know that Evergreen Primary has onsite student care services operated by Big Heart. You may refer to their website, <a href="https://bigheartstudentcare.com">https://bigheartstudentcare.com/ </a>, for more information.
 
-b. If you are interested to enroll your child here, please submit your indication of interest **by 7 November 2022** using the following link, <a href="http://bigheart.cyberland.sg/interest.php">http://bigheart.cyberland.sg/interest.php</a>.
+b. If you are interested to enroll your child here, please submit your indication of interest <b>by 7 November 2022</b> using the following link, <a href="http://bigheart.cyberland.sg/interest.php">http://bigheart.cyberland.sg/interest.php</a>.
 
 c. You will be notified by Big Heart Student Care <b>by 1 December 2022 via email</b> if a vacant slot is available for your child.
 
@@ -40,7 +40,7 @@ The school encourages you to make your purchases online at <a href="www.rickybo
 <b>(2)</b>  From School bookshop 
 
 Please refer to the details below for the sales of books,  
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Dates</span></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">24 Nov <br>25 Nov<br>28 Nov</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> 9am to 3pm</td></tr></tbody></table><br><br><br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Dates</span></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">24 Nov <br>25 Nov<br>28 Nov</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Timing</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> 9am to 3pm</td></tr></tbody></table><br>
 Please click <a href="/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20%20P1.pdf">here</a> to view the P1 Booklist for the year 2023.
 
 <h3>School Uniform</h3>
@@ -71,4 +71,3 @@ S(768762)
 ### School Canteen
 
 ### Dental Services
-
