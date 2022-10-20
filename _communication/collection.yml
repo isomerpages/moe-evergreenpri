@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - School Administration/School Vendor Services Information 2023.md
       - School Administration/2023 P1 Admin Matters for Parents.md
       - School Administration/Booklist 2022.md
       - School Administration/Student Protection Plan.md
