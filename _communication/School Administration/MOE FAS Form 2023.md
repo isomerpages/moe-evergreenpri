@@ -4,8 +4,7 @@ permalink: /communication/school-administration/moe-fas-form-2023/
 description: ""
 third_nav_title: School Administration
 ---
-
-# **MOE FAS Form 2022**
+# **MOE FAS Form 2023**
 
   
 The application form for Financial Assistance Scheme (FAS) 2023 will be available with **effect from 10 October 2022** from the school Admin General Office (hardcopy) or you may download the file attachment [here](https://evergreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u511/MOE%20FAS%20Application%20Form%20Sep%202023.EGPS.pdf) .
