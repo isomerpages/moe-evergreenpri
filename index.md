@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/evergreen.gif
       key_highlights:
-        - title: CCA Schedule 2022
-          description: Click here to find out more
-          url: /our-processes-and-programmes/co-curricular-programme/co-curricular-activities-cca
         - title: School Booklist 2022
           description: Click here to find out more
           url: /communication/school-administration/booklist-2022
