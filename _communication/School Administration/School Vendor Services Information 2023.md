@@ -53,24 +53,17 @@ The school encourages you to make your purchases online at <a href="www.eunifor
 
 _In view of COVID-19 situation_, there will be <b>no trying of school uniform</b>. You may bring along your child’s sample clothing to help you select the appropriate size for your child.
 
-  
-
-**3)**            At the retail shop
+<b>3)</b>  At the retail shop
 
 You are advised to message / WhatsApp Mr Vern Ng at 9799 2501 / 90772932 to determine stock availability before making your trip there.
 
-**Contact Information**   
+<b>Contact Information</b>   
 
-Retail Shop 1
-
-Sembawang Shopping Centre
-
-604 Sembawang Road #02-13 
-
+Retail Shop 1   
+Sembawang Shopping Centre   
+604 Sembawang Road #02-13    
 S(758459)
 
-Retail Shop 2
-
-Blk 1023 Yishun Ind Park A #04-17
-
+Retail Shop 2   
+Blk 1023 Yishun Ind Park A #04-17   
 S(768762)
