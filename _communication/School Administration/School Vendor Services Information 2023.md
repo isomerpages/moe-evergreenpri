@@ -44,4 +44,33 @@ Please refer to the details below for the sales of books,
 Please click <a href="/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20%20P1.pdf">here</a> to view the P1 Booklist for the year 2023.
 
 <h3>School Uniform</h3>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Uniform Vendor</th><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chop Kong Chong</th></tr></thead><tbody><tr><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Contact No</td><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr. Vern Ng  (9799 2501)</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Uniform Vendor</th><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chop Kong Chong</th></tr></thead><tbody><tr><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Contact No</td><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr. Vern Ng  (9799 2501)</td></tr></tbody></table><br><br><b>The following information below is meant for Parents of 2023 P1 students</b><br> 
+<b>1)</b>   Via online website
+
+The school encourages you to make your purchases online at <a href="www.euniforms.com.sg/shop">http://www.euniforms.com.sg/shop/</a> to avoid crowd.  Your Primary 1 child only need to buy the Polo T-SHIRT and Shorts/Skorts. There is <b>no need to buy</b> the Shirt and Blouse as these are for P4 - P6 students. Sizing charts are also available on the website.  <b>Order online early</b> to avoid stock out.  Delivery charge applicable for home delivery.<br>
+
+<b>2)</b>   From School  24Nov , 25Nov and 28 Nov  (9am -3pm ) 
+
+_In view of COVID-19 situation_, there will be <b>no trying of school uniform</b>. You may bring along your child’s sample clothing to help you select the appropriate size for your child.
+
+  
+
+**3)**            At the retail shop
+
+You are advised to message / WhatsApp Mr Vern Ng at 9799 2501 / 90772932 to determine stock availability before making your trip there.
+
+**Contact Information**   
+
+Retail Shop 1
+
+Sembawang Shopping Centre
+
+604 Sembawang Road #02-13 
+
+S(758459)
+
+Retail Shop 2
+
+Blk 1023 Yishun Ind Park A #04-17
+
+S(768762)
