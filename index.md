@@ -17,7 +17,7 @@ sections:
           url: /communication/school-administration/booklist-2022
         - title: Announcement
           description: Click here to find out more
-          url: /dsa
+          url: /announcements/P5-n-P6-Principals-Engagement-2022/
   - infobar:
       title: Virtual Tour
       subtitle: Evergreen Primary school's
