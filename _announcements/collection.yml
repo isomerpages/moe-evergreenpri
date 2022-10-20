@@ -1,5 +1,5 @@
 collections:
-  annoucements:
+  announcements:
     output: true
     order:
       - P5 & P6 Principal's Engagement 2022.md
