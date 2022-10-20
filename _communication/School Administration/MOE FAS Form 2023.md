@@ -47,4 +47,4 @@ The school will process your completed application promptly and inform you of th
 
 Should you have any further queries, please call General Office at 6368 7705.
 
-Click [](/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf) to understand more about the MOE Financial Assistance Scheme
+Click [here](/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf) to understand more about the MOE Financial Assistance Scheme
