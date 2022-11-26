@@ -16,9 +16,9 @@ Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY202
   
 Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20061122%20-%20P4.pdf)** to access the P4 Booklist for the Year 2023.  
   
-Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20-%20caa%20091121%20-%20Final%20-%20P5.pdf)** to access the P5 Booklist for the Year 2023.  
+Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20061122%20-%20P5.pdf)** to access the P5 Booklist for the Year 2023.  
   
-Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20-%20caa%20091121%20-%20Final%20-%20P5%20FDN.pdf)** to access the P5 Foundation Booklist for the Year 2023.  
+Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20061122%20-%20P5%20FDN.pdf)** to access the P5 Foundation Booklist for the Year 2023.  
   
 Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20-%20caa%20091121%20-%20Final%20-%20P6.pdf)** to access the P6 Booklist for the Year 2023.  
   
