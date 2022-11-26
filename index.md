@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ez2gif-3-a95e53dffa.gif
+      background: /images/ez3gif-3-526bf5189c.gif
       key_highlights:
         - title: Announcement
           description: Click here to find out more
