@@ -8,7 +8,7 @@ third_nav_title: School Administration
 
 ### Click on the following links to download
 
-Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20-%20caa%20091121%20-%20Final%20-%20P1.pdf)** to access the P1 booklist for the Year 2023.  
+Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20031122%20-%20P1.pdf)** to access the P1 booklist for the Year 2023.  
   
 Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2022%20-%20caa%20091121%20-%20Final%20-%20P2.pdf)** to access the P2 booklist for the Year 2023.  
   
