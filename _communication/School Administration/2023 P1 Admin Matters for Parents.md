@@ -22,7 +22,7 @@ third_nav_title: School Administration
     <input type="checkbox" id="accordion2">
     <label for="accordion2">P1 Orientation for the Year 2023</label>
     <div>
-			<p>Click here to access the briefing slides. [Coming Soon]<br><br>Click here to access the slides to the Q&A segment during the briefing. [Coming Soon]</p>
+			<p>Click </span><a href="/files/2023%20P1%20Orientation%20final%20for%20website_compressed.pdf"> here to access the briefing slides. <br>
 	</div>
 	</li>
 	<li>
