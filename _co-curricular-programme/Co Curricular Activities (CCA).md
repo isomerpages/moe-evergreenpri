@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities (CCA)
-permalink: /our-processes-and-programmes/co-curricular-programme/cca
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/
 description: ""
 ---
 # **Co-Curricular Activities (CCA)**
@@ -10,7 +10,7 @@ description: ""
 **Co-Curricular Activities (CCA)**
   
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**
 
 
 ### Purpose of CCA
