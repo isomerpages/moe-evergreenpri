@@ -29,7 +29,7 @@ third_nav_title: School Administration
     <input type="checkbox" id="accordion3">
     <label for="accordion3">School Vendors Services for Primary 1 (2023)</label>
     <div>
-			<p>Please click <a href="https://staging.d203o7eew4if9d.amplifyapp.com/communication/school-administration/school-vendor-services-information-2023/">here</a> to find out more</p>
+			<p>Please click <a href="/communication/school-administration/school-vendor-services-information-2023/">here</a> to find out more</p>
 	</div>
 	</li>
 	<li>
