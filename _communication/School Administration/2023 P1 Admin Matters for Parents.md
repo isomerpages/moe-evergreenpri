@@ -36,7 +36,10 @@ third_nav_title: School Administration
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Others</label>
     <div>
-      <p>Preparing your child to transit to primary school environment?<br>Here are some useful <a href="/files/Preparing%20for%20P1%20Guiding%20your%20child%20to%20be%20independent.pdf"> resources</a> to consider in helping your child to navigate throughout his / her education journey.</p>
+			<p><b>Preparing your child to transit to primary school environment?</b><br>Here are some useful <a href="/files/Preparing%20for%20P1%20Guiding%20your%20child%20to%20be%20independent.pdf"> resources</a> to consider in helping your child to navigate throughout his / her education journey.</p>
+			<p><b>Upcoming seminar from Care Corner Family Support Services</b><br>There will be three upcoming talks organized by Care Corner Family Support Services. Details found below.<br>1. Power of Positive Parenting (1st Dec)<br>2. Building Confidence and Competence (8th Dec)<br>3. Developing Resilience Through Transitions (15 Dec)<br></p>
+			<p>Click <a href="/files/P1%20Transition%20Poster.pdf">here</a> to find out more details.</p>
+			<p>Click<a href="https://forms.office.com/pages/responsepage.aspx?id=Ycu9JkYoA0yJwHUJWG-CpagWUtXPd0hDjN8Z2rSTCjpURFo0VkRZMUkyRVFQVUhHU1BGT1JHTzJSVy4u"> here</a> to register.</p>
     </div>
 	</li>
 </ul>
