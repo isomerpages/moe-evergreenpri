@@ -3,7 +3,8 @@ title: Booklist for the Year 2023
 permalink: /announcements/booklist-for-the-year-2023/
 description: ""
 ---
-
+**Booklist for the Year 2023**
+==============================
 
 Dear Parents / Guardians,
 
