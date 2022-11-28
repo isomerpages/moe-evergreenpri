@@ -36,7 +36,7 @@ third_nav_title: School Administration
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Others</label>
     <div>
-      <p>Preparing your child to transit to primary school environment?<br>Here are some useful<a href="/files/Preparing%20for%20P1%20Guiding%20your%20child%20to%20be%20independent.pdf"> resources</a> to consider in helping your child to navigate throughout his / her education journey.</p>
+      <p>Preparing your child to transit to primary school environment?<br>Here are some useful <a href="/files/Preparing%20for%20P1%20Guiding%20your%20child%20to%20be%20independent.pdf"> resources</a> to consider in helping your child to navigate throughout his / her education journey.</p>
     </div>
 	</li>
 </ul>
