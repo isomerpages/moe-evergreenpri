@@ -41,4 +41,4 @@ third_nav_title: School Administration
 			<p>Click<a href="https://forms.office.com/pages/responsepage.aspx?id=Ycu9JkYoA0yJwHUJWG-CpagWUtXPd0hDjN8Z2rSTCjpURFo0VkRZMUkyRVFQVUhHU1BGT1JHTzJSVy4u"> here</a> to register.</p>
     </div>
 	</li>
-</ul>
+	</ul>
