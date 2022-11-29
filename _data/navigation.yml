@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/school logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our Policy
+    collection: our-policy
+  - title: Our People
+    collection: our-people
+  - title: imPact
+    collection: impact
+  - title: OUR PROGRAMMES
+    collection: our-processes-and-programmes
+  - title: Co Curricular Programme
+    collection: co-curricular-programme
+  - title: Communication
+    collection: communication

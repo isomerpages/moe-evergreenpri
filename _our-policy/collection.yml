@@ -1,0 +1,13 @@
+collections:
+  our-policy:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision & Mission.md
+      - Our Values.md
+      - School Rules.md
+      - School Safety and Security Framework.md
+      - PLAY Approach.md
+      - School History.md
+      - School Crest.md
+      - School Song.md

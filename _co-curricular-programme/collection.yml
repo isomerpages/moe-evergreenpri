@@ -1,0 +1,19 @@
+collections:
+  co-curricular-programme:
+    output: true
+    order:
+      - MMP.md
+      - Co Curricular Activities (CCA).md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Chinese Orchestra.md
+      - Visual & Performing Arts/Indian Dance.md
+      - Visual & Performing Arts/Malay Dance.md
+      - Visual & Performing Arts/Art Club.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Taekwondo.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Football.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Evergreen Titans (Cub Scouts).md

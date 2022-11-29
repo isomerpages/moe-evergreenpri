@@ -1,0 +1,34 @@
+collections:
+  our-processes-and-programmes:
+    output: true
+    order:
+      - English Language Department.md
+      - Mathematics Department.md
+      - Science Department.md
+      - Mother Tongue Department/.keep
+      - Mother Tongue Department/Mother Tongue Department.md
+      - Mother Tongue Department/Chinese Language.md
+      - Mother Tongue Department/List of Approved Chinese Dictionaries for
+        PSLE.md
+      - Mother Tongue Department/Malay Language.md
+      - Mother Tongue Department/List of Approved Malay Dictionaries for PSLE.md
+      - Mother Tongue Department/Tamil Language.md
+      - Mother Tongue Department/List of Approved Tamil Dictionaries for PSLE.md
+      - Mother Tongue Department/Celebration of Festivals.md
+      - CCE Department/Character and Citizenry Education Department.md
+      - CCE Department/Sexuality Education.md
+      - CCE Department/.keep
+      - Student Development Team/Student Development Team.md
+      - Student Development Team/Student Leadership.md
+      - Student Development Team/Student Development Well Being.md
+      - Student Development Team/.keep
+      - Aesthetics Department/Aesthetics Department.md
+      - Aesthetics Department/Framework.md
+      - Aesthetics Department/.keep
+      - Physical Education Department/Physical Education Department.md
+      - Physical Education Department/P5 Outdoor Adventure Camp 2019.md
+      - Physical Education Department/.keep
+      - ICT/.keep
+      - ICT/Information Communications Technology.md
+      - ICT/Useful Resources for Parents.md
+      - TGIF.md

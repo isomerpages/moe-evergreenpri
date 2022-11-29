@@ -1,32 +1,18 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Evergreen Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/ez3gif-3-526bf5189c.gif
+      key_highlights:
+        - title: Announcement
+          description: Click here to find out more
+          url: /announcements/P5-n-P6-Principals-Engagement-2022/
+        - title: Latest Happenings
+          description: Click here to find out more
+          url: /latest-happenings/Student-Leaders-Investiture-2022/
 ---
-

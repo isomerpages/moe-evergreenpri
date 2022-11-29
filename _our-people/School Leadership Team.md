@@ -1,0 +1,8 @@
+---
+title: School Leadership Team
+permalink: /our-people/school-leadership-team
+description: ""
+---
+# **School Leadership Team**
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="3"><img src="/images/School%20leaders-4.png" alt="School leaders-4.png" width="616" height="745"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Petrina Koh</span><br><span style="background-color:initial">Vice-Principal</span></td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Rabia Shahul</span><br><span style="background-color:initial">Principal</span></td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Pearlyn Wai</span><br><span style="background-color:initial">Vice-Principal</span></td></tr></tbody></table>
