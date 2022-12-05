@@ -3,6 +3,8 @@ title: Test
 permalink: /our-people/test/
 description: ""
 ---
+## School Admin Team 
+
 |                                                                                                       |                                                                                |                                                                                       |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | <img src="/images/Liew%20Choon%20Siang%20Jasmine%20Ms.jpg" style="width:40%"><br>Ms Liew Choon Siang Jasmine<br>Administration Manager<br>liew_choon_siang@schools.gov.sg | <img src="/images/S%20M%20Azhar%20B%20Mohamed%20Tahir%20Mr.jpg" style="width:42%"><br>Mr S M Azhar<br>Operations Manager<br>s_m_azhar_mohd_tahir@schools.gov.sg | <img src="/images/Ashfar%20Badarudeen%20Mr%20copy.jpg" style="width:43%"><br>Mr Ashfar Badarudeen<br>ICT Manager<br>ashfar_badarudeen@schools.gov.sg          |
