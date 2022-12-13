@@ -44,7 +44,7 @@ description: ""
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 1rem; text-align: center;">
           <a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(78, 162, 69); font-weight: 600; text-decoration: underline; font-size: x-small; background-color: initial;" target="" href="mailto:ashfar_badarudeen@schools.gov.sg">ashfar_badarudeen@schools.gov.sg</a>
-        </div><br style="margin: 0px; outline: 0px; padding: 0px;"> 
+        </div><br style="margin: 0px; outline: 0px; padding: 0px;">
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px;">
@@ -55,7 +55,7 @@ description: ""
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
-          <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mr Mohd Hezan Rosli<br style="margin: 0px; outline: 0px; padding: 0px;"> 
+          <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mr Mohd Hezan Rosli<br style="margin: 0px; outline: 0px; padding: 0px;">
           Admin Executive</span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 1rem; text-align: center;">
@@ -109,31 +109,32 @@ description: ""
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
-          <br style="margin: 0px; outline: 0px; padding: 0px;">  
-            <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;"> <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Hui Hui" src="/images/Staff%20Photo%202023/Hui%20Hui.jpg"> 
-              <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span> 
-        </div>
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <br style="margin: 0px; outline: 0px; padding: 0px;">
-        </div>
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
-          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;">
-            <br style="margin: 0px; outline: 0px; padding: 0px;"> Mdm Tan Hui Hui 
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;">
+            <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Hui Hui" src="/images/Staff%20Photo%202023/Hui%20Hui.jpg"> <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
           </div>
-          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small;">
-            <br style="margin: 0px; outline: 0px; padding: 0px;"> 
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
+            <br style="margin: 0px; outline: 0px; padding: 0px;">
           </div>
-        </div>
-<div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small; text-align: center;">
-          <a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(78, 162, 69); font-weight: 600; text-decoration: underline; background-color: initial;" target="" href="mailto:tan_hui_hui@schools.gov.sg.">tan_hui_hui@schools.gov.sg</a>
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
+            <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;">
+              <br style="margin: 0px; outline: 0px; padding: 0px;">
+              Mdm Tan Hui Hui
+            </div>
+            <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small;">
+              <br style="margin: 0px; outline: 0px; padding: 0px;">
+            </div>
+          </div>
+          <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small; text-align: center;">
+            <a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(78, 162, 69); font-weight: 600; text-decoration: underline; background-color: initial;" target="" href="mailto:tan_hui_hui@schools.gov.sg.">tan_hui_hui@schools.gov.sg</a>
+          </div>
         </div>
       </td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <br style="margin: 0px; outline: 0px; padding: 0px;">
         </div>
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
-					<img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 135px; height: 202px;" class="ive_eobj_center" alt="Siti Noor Azizah Bte Rapie Mdm.jpg" src="/images/Siti%20Noor%20Azizah%20Bte%20Rapie%20Mdm.jpg"></div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 135px; height: 202px;" class="ive_eobj_center" alt="Siti Noor Azizah Bte Rapie Mdm.jpg" src="/images/Siti%20Noor%20Azizah%20Bte%20Rapie%20Mdm.jpg"></div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
