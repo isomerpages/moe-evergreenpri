@@ -118,11 +118,14 @@ description: ""
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;">
-            <br style="margin: 0px; outline: 0px; padding: 0px;"> Mdm Tan Hui Hui
+            <br style="margin: 0px; outline: 0px; padding: 0px;"> Mdm Tan Hui Hui 
           </div>
           <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small;">
             <br style="margin: 0px; outline: 0px; padding: 0px;"> 
           </div>
+        </div>
+<div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small; text-align: center;">
+          <a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(78, 162, 69); font-weight: 600; text-decoration: underline; background-color: initial;" target="" href="mailto:tan_hui_hui@schools.gov.sg.">tan_hui_hui@schools.gov.sg</a>
         </div>
       </td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
