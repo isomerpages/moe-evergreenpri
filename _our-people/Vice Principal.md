@@ -5,4 +5,22 @@ description: ""
 ---
 # **Vice Principals**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#FBFFFA;background-color:#22A114">Vice Principal</span></th><th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#FBFFFA;background-color:#22A114">Vice Principal</span></th></tr></thead><tbody><tr><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Yeo%20Siau%20Yen%20Mrs%20Wai%20Vice-Principal.jpg" style="width:500px;"/></td><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Cropped.jpg" style="width:600px;"/></td></tr><tr><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FBFFFA">Mrs Pearlyn Wai</span></td><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#FBFFFA">Mrs Petrina Koh</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+  <thead>
+    <tr>
+      <th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#FBFFFA;background-color:#22A114">Vice Principal</span></th>
+      <th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#FBFFFA;background-color:#22A114">Vice Principal</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Cropped.jpg" style="width:450px;" alt="Cropped"></td>
+      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Staff%20Photo%202023/Mr%20Boh.jpg" style="width:400px;" alt="Cropped"></td>
+    </tr>
+    <tr>
+      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#222;background-color:#FBFFFA">Mrs Petrina Koh</span></td>
+      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#FBFFFA">Mrs William Boh</span></td>
+    </tr>
+  </tbody>
+</table>
+
