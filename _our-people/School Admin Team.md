@@ -12,7 +12,7 @@ description: ""
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <br style="margin: 0px; outline: 0px; padding: 0px;">
         </div>
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 142px; height: 212px;" class="ive_eobj_center" alt="Liew Choon Siang Jasmine Ms.jpg" src="/images/Liew%20Choon%20Siang%20Jasmine%20Ms.jpg"></div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 142px; height: 212px;" class="ive_eobj_center" alt="Liew Choon Siang Jasmine Ms.jpg" src="/images/Staff%20Photo%202023/Liew%20Choon%20Siang%20Jasmine%20(Ms).jpg"></div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
@@ -26,7 +26,7 @@ description: ""
       </td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 200px;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 144px; height: 215px;" class="ive_eobj_center" alt="S M Azhar B Mohamed Tahir Mr.jpg" src="/images/S%20M%20Azhar%20B%20Mohamed%20Tahir%20Mr.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
+        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 144px; height: 215px;" class="ive_eobj_center" alt="S M Azhar B Mohamed Tahir Mr.jpg" src="/images/Staff%20Photo%202023/S%20M%20Azhar%20B%20Mohamed%20Tahir%20(Mr).jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mr S M Azhar<br style="margin: 0px; outline: 0px; padding: 0px;">
           Operations Manager</span>
@@ -37,7 +37,7 @@ description: ""
       </td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 200px;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 145px; height: 217px;" class="ive_eobj_center" alt="Ashfar Badarudeen Mr copy.jpg" src="/images/Ashfar%20Badarudeen%20Mr%20copy.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
+        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 145px; height: 217px;" class="ive_eobj_center" alt="Ashfar Badarudeen Mr copy.jpg" src="/images/Staff%20Photo%202023/Ashfar%20Badarudeen%20(Mr).jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mr Ashfar Badarudeen<br style="margin: 0px; outline: 0px; padding: 0px;">
           ICT Manager</span>
@@ -50,12 +50,12 @@ description: ""
     <tr style="margin: 0px; outline: 0px; padding: 0px;">
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 142px; height: 213px;" class="ive_eobj_center" alt="Muhammad Hezan Bin Rosli Mr.jpg" src="/images/Muhammad%20Hezan%20Bin%20Rosli%20Mr.jpg">
+        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 142px; height: 213px;" class="ive_eobj_center" alt="Muhammad Hezan Bin Rosli Mr.jpg" src="/images/Staff%20Photo%202023/Muhammad%20Hezan%20Bin%20Rosli%20(Mr).jpg">
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
-          <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mr Mohd Hezan Rosli<br style="margin: 0px; outline: 0px; padding: 0px;">
+          <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mr Muhd Hezan Rosli<br style="margin: 0px; outline: 0px; padding: 0px;">
           Admin Executive</span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 1rem; text-align: center;">
@@ -64,7 +64,7 @@ description: ""
       </td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 143px; height: 214px;" class="ive_eobj_center" alt="Lim Siew Hua Mrs Koh.jpg" src="/images/Lim%20Siew%20Hua%20Mrs%20Koh.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
+        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 143px; height: 214px;" class="ive_eobj_center" alt="Lim Siew Hua Mrs Koh.jpg" src="/images/Staff%20Photo%202023/Lim%20Siew%20Hua%20(Mrs%20Koh).jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mdm Lim Siew Hua<br style="margin: 0px; outline: 0px; padding: 0px;">
           CSO</span>
@@ -75,7 +75,7 @@ description: ""
       </td>
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 143px; height: 214px;" class="ive_eobj_center" alt="Josephine Cheong Lai Kheng Ms.jpg" src="/images/Josephine%20Cheong%20Lai%20Kheng%20Ms.jpg">
+        <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 143px; height: 214px;" class="ive_eobj_center" alt="Josephine Cheong Lai Kheng Ms.jpg" src="/images/Staff%20Photo%202023/Josephine%20Cheong%20Lai%20Kheng%20(Ms).jpg">
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
@@ -91,7 +91,7 @@ description: ""
     <tr style="margin: 0px; outline: 0px; padding: 0px;">
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 130px; height: 195px;" class="ive_eobj_center" alt="Alice Sim Yang Choo Mdm.jpg" src="/images/Alice%20Sim%20Yang%20Choo%20Mdm.jpg"></div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 130px; height: 195px;" class="ive_eobj_center" alt="Alice Sim Yang Choo Mdm.jpg" src="images/Staff%20Photo%202023/Alice%20Sim%20Yang%20Choo%20(Mdm).jpg"></div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
@@ -134,7 +134,7 @@ description: ""
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <br style="margin: 0px; outline: 0px; padding: 0px;">
         </div>
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 135px; height: 202px;" class="ive_eobj_center" alt="Siti Noor Azizah Bte Rapie Mdm.jpg" src="/images/Siti%20Noor%20Azizah%20Bte%20Rapie%20Mdm.jpg"></div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 135px; height: 202px;" class="ive_eobj_center" alt="Siti Noor Azizah Bte Rapie Mdm.jpg" src="/images/Staff%20Photo%202023/Siti%20Noor%20Azizah%20Bte%20Rapie%20(Mdm).jpg"></div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
@@ -155,7 +155,7 @@ description: ""
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
-          <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Thom Binte Ibrahim Mdm.jpg" src="/images/Thom%20Binte%20Ibrahim%20Mdm.jpg"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
+          <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Thom Binte Ibrahim Mdm.jpg" src="/images/Staff%20Photo%202023/Thom%20Binte%20Ibrahim%20(Mdm).jpg"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;">Mdm Thom Binte Ibrahim</span><br style="margin: 0px; outline: 0px; padding: 0px;">
@@ -170,7 +170,7 @@ description: ""
             <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
           </div>
           <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 1rem; text-align: center;">
-            <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Zarinah Binte Mohamed Ali Ms.jpg" src="/images/Zarinah%20Binte%20Mohamed%20Ali%20Ms.jpg">
+            <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Zarinah Binte Mohamed Ali Ms.jpg" src="/images/Staff%20Photo%202023/Zarinah%20Binte%20Mohamed%20Ali%20(Ms).jpg">
             <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;">
               <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
             </div>
