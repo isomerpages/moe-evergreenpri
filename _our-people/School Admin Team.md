@@ -188,7 +188,7 @@ description: ""
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 1rem; text-align: center;">
-          <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 136px; height: 202px;" class="ive_eobj_center" alt="Lek Ah Piew Mr.jpg" src="/images/Lek%20Ah%20Piew%20Mr.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
+          <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 136px; height: 202px;" class="ive_eobj_center" alt="Lek Ah Piew Mr.jpg" src="/images/Staff%20Photo%202023/Lek%20Ah%20Piew%20(Mr).jpg"><br style="margin: 0px; outline: 0px; padding: 0px;">
         </div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 1rem; text-align: center;">
           Mr Lek Ah Piew<br style="margin: 0px; outline: 0px; padding: 0px;">
