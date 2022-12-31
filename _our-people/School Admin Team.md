@@ -91,7 +91,7 @@ description: ""
     <tr style="margin: 0px; outline: 0px; padding: 0px;">
       <td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">
         <br style="margin: 0px; outline: 0px; padding: 0px;">
-        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 130px; height: 195px;" class="ive_eobj_center" alt="Alice Sim Yang Choo Mdm.jpg" src="images/Staff%20Photo%202023/Alice%20Sim%20Yang%20Choo%20(Mdm).jpg"></div>
+        <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 130px; height: 195px;" class="ive_eobj_center" alt="Alice Sim Yang Choo Mdm.jpg" src="/images/Staff%20Photo%202023/Alice%20Sim%20Yang%20Choo%20(Mdm).jpg"></div>
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 21.92px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
         </div>
