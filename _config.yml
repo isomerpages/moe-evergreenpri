@@ -15,7 +15,12 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: |-
+  Our Mission: 
+  Positivity in relationships
+  Learning with passion
+  Actively contributing
+  Youthfulness in living
 permalink: none
 baseurl: ""
 exclude:

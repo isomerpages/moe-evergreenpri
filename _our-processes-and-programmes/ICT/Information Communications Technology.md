@@ -1,6 +1,6 @@
 ---
 title: Information Communications Technology
-permalink: /our-processes-and-programmes/information-communications-technology
+permalink: /our-processes-and-programmes/information-communications-technology/
 description: ""
 third_nav_title: ICT
 ---
@@ -29,9 +29,11 @@ The Student Learning Space (SLS) will be the main platform that our school deplo
 
 Your username is usually the first 5 characters of your full name and last 4 digits of birth cert or NRIC together with the alphabet, e.g. TANAH2345X. Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-).
 
+Alternatively, students are also given the option and are strongly encouraged to use MIMS (Student iCON email address) as the login method.
+
 Password
 
-Your child’s password is known only to your child and has your child’s account has been activated for 2021.
+Your child’s password is known only to your child and has your child’s account has been activated for 2023.
 
 For troubleshooting tips please visit:  
 
