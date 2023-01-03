@@ -3,7 +3,7 @@ title: Primary 1 Level 2022
 permalink: /our-people/primary-1-level-2022/
 description: ""
 ---
-# **Primary 1 Level 2022**
+# **Primary 1 Level 2023**
 
 ### Level Motto - Dare to Explore, Discover More
 
