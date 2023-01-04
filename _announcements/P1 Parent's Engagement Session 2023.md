@@ -7,8 +7,8 @@ description: ""
 
 Dear Parents / Guardians,
 
-The slides to the P1 Parent's engagement session are now available.
+The slides to the P1 Parent's engagement session 2023 are now available.
 
-Please click [here](/files/PSLE%202022_Parent%20Engagement%20-%20for%20parents.pdf) to access the slides
+Please click [here](/files/2023/2023%20P1%20Parents%20Engagement%20Session%202023%20PDF_compressed.pdf) to access the slides
 
 Thank you
