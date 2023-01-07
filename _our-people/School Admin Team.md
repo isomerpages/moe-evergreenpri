@@ -121,7 +121,7 @@ description: ""
               <br style="margin: 0px; outline: 0px; padding: 0px;">
               Mdm Tan Hui Hui
 						</div>
-          CSO</span>
+          CSO
             <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 13.7px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: x-small;">
               <br style="margin: 0px; outline: 0px; padding: 0px;">
             </div>
