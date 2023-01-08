@@ -23,13 +23,13 @@ To develop students who can connect, create and curate information in a digital 
 ### Student Learning Space
 ![](/images/ICT1.jpg)
 
-The Student Learning Space (SLS) will be the main platform that our school deploys to support teaching and learning in the classroom. The platform will be in its latest version by late June 2021 and is now laptop and mobile friendly. The link for SLS is [https://learning.moe.edu.sg](https://learning.moe.edu.sg/).  
+The Student Learning Space (SLS) will be the main platform that our school deploys to support teaching and learning in the classroom. The platform is in its latest version as of December 2022 and is now laptop and mobile friendly. The link for SLS is [https://learning.moe.edu.sg](https://learning.moe.edu.sg/).  
 
 **Username**
 
 Your username is usually the first 5 characters of your full name and last 4 digits of birth cert or NRIC together with the alphabet, e.g. TANAH2345X. Note: Usernames will not contain spaces or special characters such as apostrophes (') and hyphens (-).
 
-Alternatively, students are also given the option and are strongly encouraged to use MIMS (Student iCON email address) as the login method.
+Alternatively, students are also given the option and are strongly encouraged to use MIMS (Student iCON email address) as the login option.
 
 Password
 
