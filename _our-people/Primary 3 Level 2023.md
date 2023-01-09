@@ -3,7 +3,7 @@ title: Primary 3 Level 2023
 permalink: /our-people/primary-3-level-2023/
 description: ""
 ---
-# **Primary 3 Level 2022**
+# **Primary 3 Level 2023**
 
 ### Level Motto - We've got talent! Make it shine!
 
