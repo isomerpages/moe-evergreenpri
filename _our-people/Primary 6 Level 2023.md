@@ -3,7 +3,7 @@ title: Primary 6 Level 2023
 permalink: /our-people/primary-6-level-2023/
 description: ""
 ---
-# **Primary 6 Level 2022**
+# **Primary 6 Level 2023**
 
 ### Level Motto - Global Citizens
 
