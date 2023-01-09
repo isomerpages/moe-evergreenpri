@@ -3,7 +3,7 @@ title: Primary 4 Level 2023
 permalink: /our-people/primary-4-level-2023/
 description: ""
 ---
-# **Primary 4 Level 2022**
+# **Primary 4 Level 2023**
 
 ### Level Motto - Initiate, Improve, Innovate
 
