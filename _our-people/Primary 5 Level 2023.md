@@ -3,7 +3,7 @@ title: Primary 5 Level 2023
 permalink: /our-people/primary-5-level-2023/
 description: ""
 ---
-# **Primary 5 Level 2022**
+# **Primary 5 Level 2023**
 
 ### Level Motto - Healthy Mind, Healthy Body
 
