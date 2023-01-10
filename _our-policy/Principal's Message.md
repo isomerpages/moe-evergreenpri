@@ -5,7 +5,7 @@ description: ""
 ---
 # **Principal's Message**
 
-![](/images/Principal%20Message.jpg)
+![](/images/SL%20Website%20Message.jpg)
 
 **Welcome to 2022**
 
