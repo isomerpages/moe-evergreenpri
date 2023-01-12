@@ -5,9 +5,6 @@ description: ""
 ---
 # **P3 to P6 Assessment Plan and Format**
 
-  
-
-  
 Click [here](/files/2022_P3_Assessment_Info.pdf) here for P3 Term 1 Assessment Format
 
 Click [here](/files/2022_P3_Assessment_Info.pdf) here for P3 Term 1 Assessment Plan
