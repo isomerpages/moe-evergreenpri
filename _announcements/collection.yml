@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - P3 to P6 Assessment Plan and Format.md
       - P1 Parent's Engagement Session 2023.md
       - Booklist for the Year 2023.md
       - P5 & P6 Principal's Engagement 2022.md
