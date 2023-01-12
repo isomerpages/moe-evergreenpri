@@ -3,9 +3,7 @@ title: 2023 P3 to P6 Assessment Plan and Format
 permalink: /communication/2023-p3-to-p6-assessment-plan-and-format/
 description: ""
 ---
-
-
-# **P3 to P6 Assessment Plan and Format**
+# **2023 P3 to P6 Assessment Plan and Format**
 
 Click [here](/files/Assessment%20Plan%20and%20Format/2023_Term%201_P3_Assessment%20Format.pdf) here for P3 Term 1 Assessment Format
 
