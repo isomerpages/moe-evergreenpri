@@ -5,6 +5,6 @@ description: ""
 ---
 Dear Parents / Guardians,
 
-Please click [here](/files/2023/2023%20P1%20Parents%20Engagement%20Session%202023%20PDF_compressed.pdf) to access the P3 to P6 Assessment Plan and Format 
+Please click [here](https://evergreenpri.moe.edu.sg/communication/p3-to-p6-assessment-plan-and-format/) to access the P3 to P6 Assessment Plan and Format 
 
 Thank you
