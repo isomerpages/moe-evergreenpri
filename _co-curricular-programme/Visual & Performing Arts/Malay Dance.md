@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -14,7 +14,7 @@ third_nav_title: Visual & Performing Arts
 | Teacher Members:  	| • Mdm Zawiah<br>• Mdm Fatimah<br>• Mdm Zulaina 	|
 
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**  
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**  
 
   
 
