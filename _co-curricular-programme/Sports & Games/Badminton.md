@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/badminton
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -11,10 +11,10 @@ third_nav_title: Sports & Games
 | CCA   	| Badminton 	|
 |---	|---	|
 | Teacher I/C: 	| Mr Phua Soon Teck (IC) 	|
-| Teacher Members:  	| • Mr Lim Tian Swee<br>• Mr Tan Tek Hing<br>• Mr Philbert Ong<br>• Mr Victor Lee<br>• Miss Nur Ardillah 	|
+| Teacher Members:  	| • Mr Philbert Ong<br>• Mr Tan Tek Hing<br>• Mdm Tan Yee Ying<br>• Miss Siti Safura<br>• Mdm Chia Puay San	|
 
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**  
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**  
 
   
 
