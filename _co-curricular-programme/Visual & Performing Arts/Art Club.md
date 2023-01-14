@@ -1,10 +1,10 @@
 ---
 title: Art Club
-permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-club
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-club/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-# **Art Club**
+# **Art Talent Club**
 
 ![](/images/artclub2016.jpg)
 
@@ -14,7 +14,7 @@ third_nav_title: Visual & Performing Arts
 | Teacher Members:   	| • Mrs Jeong<br>• Mdm Zalifah<br>• Miss Jayanthi<br>• Mdm Hayati 	|
 
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**
 
 ![](/images/artclub1.jpg)
 
