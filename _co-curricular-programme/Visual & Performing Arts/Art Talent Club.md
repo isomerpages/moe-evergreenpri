@@ -4,15 +4,14 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 # **Art Talent Club**
 
 ![](/images/artclub2016.jpg)
 
 | CCA   	| Art Club 	|
 |---	|---	|
-| Teacher I/C:   	| Mdm Noor Hanim (IC) 	|
-| Teacher Members:   	| • Mrs Jeong<br>• Mdm Zalifah<br>• Miss Jayanthi<br>• Mdm Hayati 	|
+| Teacher I/C:   	| Mdm Nuraini (IC) 	|
+| Teacher Members:   	| • Mdm Hanim<br>• Mdm Zalifah<br>• Mdm Hayati 	|
 
 
 **_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**
