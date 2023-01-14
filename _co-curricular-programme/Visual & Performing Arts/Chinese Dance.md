@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-dance
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -13,7 +13,7 @@ third_nav_title: Visual & Performing Arts
 | Teacher I/C:  	| Mdm Kee Wai Ying 	|
 | Teacher Members:  	| • Mdm Chong Shubao<br>• Mrs Sheryl Ng 	|
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**
 
   
 Folk dances are important historically in the development of dance in China, some of the earliest dances in court rituals and ceremonies may have evolved from folk dances. Leaders from various dynasties collected folk dances, many of which eventually became court dances. Many of the folk dances are related to harvest and hunting and the ancient gods associated with them.  
