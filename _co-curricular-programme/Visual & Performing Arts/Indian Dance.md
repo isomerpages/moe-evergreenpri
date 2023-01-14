@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -14,7 +14,7 @@ third_nav_title: Visual & Performing Arts
 | Teacher Members:   	| • Mdm Thilagah<br>• Mrs Kumar 	|
 
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2022_**                                                                                        
+**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**                                                                                        
 
 The Indian Dance CCA in Evergreen Primary was established to provide students with an opportunity and platform to appreciate the fine aesthetics of Indian dance and culture. We welcome students of all races and we seek to instil in them a passion for dance and an appreciation for the Arts. Under the expertise of our talented instructor, Ms Bavani Singh, our dancers have been able to explore and develop their passions and talents for this cultural art form.  
   
