@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/netball
+permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -10,8 +10,8 @@ third_nav_title: Sports & Games
 
  | CCA   	| Netball 	|
 |---	|---	|
-| Teacher I/C:  	| Mdm Siti Haida (IC) 	|
-| Teacher Members:  	| • Mdm Shireen<br>• Ms Audrey Tay<br>• Ms Nalani <br>• Mdm Nurhanis 	|
+| Teacher I/C:  	| Miss Audrey Tay (IC) 	|
+| Teacher Members:  	| • Mdm Shireen<br>• Mdm Siti Haida<br>• Mdm Chong Shu Bao <br>• Mdm Nurhanis |
 
 
 
