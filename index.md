@@ -21,4 +21,3 @@ sections:
           description: Click here to find out more
           url: /latest-happenings/Student-Leaders-Investiture-2022/
 ---
-
