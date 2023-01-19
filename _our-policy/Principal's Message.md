@@ -5,7 +5,7 @@ description: ""
 ---
 # **Principal's Message**
 
-<img src="/images/principal.jpeg" style="width:80%">
+<img src="/images/principal.jpeg" style="width:70%">
 
 **Welcome to 2023**
 
