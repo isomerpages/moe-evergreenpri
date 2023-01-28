@@ -111,7 +111,7 @@ description: ""
         <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
           <br style="margin: 0px; outline: 0px; padding: 0px;">
           <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px;">
-            <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Hui Hui" src="/images/Staff%20Photo%202023/Hui%20Hui.jpg"> <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
+            <img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 134px; height: 200px;" class="ive_eobj_center" alt="Hui Hui" src="/images/Staff%20Photo%202023/Mdm%20Tan%20Hui%20Hui.png"> <span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial; font-size: 1rem;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span>
           </div>
           <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 0px; color: rgb(0, 45, 19); font-family: &quot;Libre Franklin&quot;, sans-serif; font-size: 16px; text-align: center;">
             <br style="margin: 0px; outline: 0px; padding: 0px;">

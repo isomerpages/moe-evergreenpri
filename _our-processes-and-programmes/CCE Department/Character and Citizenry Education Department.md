@@ -1,13 +1,11 @@
 ---
 title: Character and Citizenry Education Department
-permalink: /our-processes-and-programmes/CCE-Department
+permalink: /our-processes-and-programmes/CCE-Department/
 description: ""
 third_nav_title: CCE Department
 ---
-
 # **Character and Citizenry Education Department**
 
-![](/images/IMG_3090.jpg)
 
 **Vision**  
 
