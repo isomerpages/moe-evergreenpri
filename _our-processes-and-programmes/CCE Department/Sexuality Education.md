@@ -55,11 +55,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 #### Primary 5
 
-
+![](/images/CCE/SEd1024_4.jpg)
+![](/images/CCE/SEd1024_5.jpg)
 
 #### Primary 6
 
-
+![](/images/CCE/SEd1024_6.jpg)
+![](/images/CCE/SEd1024_7.jpg)
 
 ### Information for Parents
 
