@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /our-processes-and-programmes/student-development-team/student-leadership
+permalink: /our-processes-and-programmes/student-development-team/student-leadership/
 description: ""
 third_nav_title: Student Development Team
 ---
@@ -36,7 +36,7 @@ To develop leaders who are values-driven and willing to serve others.
 
 |  	|  	|
 |---	|---	|
-| **Identification** 	| 1) Nominated by peers/ teachers<br>2) Interview process (Prefects Exco/ Prefects/ Peer Support Leaders/ CCA Leaders) 	|
+| **Identification** 	| 1) Nominated by peers/ teachers<br>2) Interview process (Prefects Exco/ Prefects/ Peer Support Leaders/ CCA Leaders)<br><br>* The selection of Head Prefect and Exco members is a democratic process. All students and staff will cast their votes before the final interview with School Leaders and SAC member. |
 | **Training** 	| Differentiated training based on tiers/ roles 	|
 | **Feedback** 	| 1) Verbal feedback from teachers<br>2) Written feedback from teachers in Leadership Journals 	|
 | **Reflection** 	| Student leaders are to complete their reflection in the Leadership Journals 	|
