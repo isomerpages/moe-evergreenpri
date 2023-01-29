@@ -52,4 +52,5 @@ To inculcate in our leaders the following:
 * Based on level of influence and impact 
 * Every student is given the opportunity to be developed as a leader at least per semester
 
+
 ![](/images/Leadership%20Structure%202023.png)
