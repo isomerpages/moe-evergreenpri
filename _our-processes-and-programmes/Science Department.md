@@ -5,7 +5,6 @@ description: ""
 ---
 # **Science Department**
 
-![](/images/IMG_3096.jpg)
 
 The Science Department is committed to helping every student develop as an inquirer who has the lifelong interest in learning Science through a standards-based curriculum that includes inquiry, investigation, experimentation and reflective thinking.
 

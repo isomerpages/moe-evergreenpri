@@ -1,11 +1,11 @@
 ---
 title: Mathematics Department
-permalink: /our-processes-and-programmes/mathematics-department
+permalink: /our-processes-and-programmes/mathematics-department/
 description: ""
 ---
 # **Mathematics Department**
 
-![](/images/IMG_3086.jpg)
+
 
 **Vision**   
 Every student a confident and independent problem solver.
