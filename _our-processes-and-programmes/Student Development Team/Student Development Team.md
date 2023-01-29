@@ -1,12 +1,12 @@
 ---
 title: Student Development Team
-permalink: /our-processes-and-programmes/student-development-team
+permalink: /our-processes-and-programmes/student-development-team/
 description: ""
 third_nav_title: Student Development Team
 ---
 # **Student Development Team**
 
-![](/images/SDT%20TEAM.jpg)
+
 
 ### EGPS STUDENT LEADERSHIP 
 
