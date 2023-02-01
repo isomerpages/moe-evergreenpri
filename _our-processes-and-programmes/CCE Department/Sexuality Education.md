@@ -67,6 +67,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more info
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Opt%20Out%20Form%202022.pdf) . The completed opt-out form is to be submitted by **13/02/2023**.
+9.       If you would like to withdraw your child out of The Sexuality Education  Programme in 2023, please complete the [Opt-out Form](https://form.gov.sg/63d9dd1fb9029d001131726d). The completed opt-out form is to be submitted by **13/02/2023**.
 
 10.      Parents can contact the school at **6368 7705** or email us at **[evergreen_ps@moe.edu.sg](evergreen_ps@moe.edu.sg)** for discussion or to seek clarification about the school’s sexuality education programme.
