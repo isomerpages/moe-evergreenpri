@@ -1,6 +1,6 @@
 ---
-title: 27 Jan 2023 (P1 Parent Engagement)
-permalink: /announcements/permalink/
+title: P1 Parent Engagement 27 Jan 2023
+permalink: /announcements/P1-Parent-Engagement-27-Jan-2023/
 description: ""
 ---
 Dear Parents / Guardians,
