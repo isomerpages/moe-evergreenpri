@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: Click here to find out more
-          url: /announcements/P5-n-P6-Principals-Engagement-2022/
+          url: /announcements/P1-Parent-Engagement-27-Jan-2023/
         - title: Latest Happenings
           description: Click here to find out more
           url: /latest-happenings/Student-Leaders-Investiture-2023/
