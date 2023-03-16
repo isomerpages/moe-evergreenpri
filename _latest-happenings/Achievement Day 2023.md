@@ -7,4 +7,4 @@ description: ""
 
 Click [here](https://photos.app.goo.gl/14hhJCBuE8Cz3fD18) to access to the photos for the Achievement Day 2023 (Awardees)
 
-Click
+Click [here](https://photos.app.goo.gl/3BCdeoFXXZwdASS57) to access to the photos for the Achievement Day 2023 (Event Coverage)
