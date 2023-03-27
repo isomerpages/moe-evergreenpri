@@ -7,7 +7,7 @@ description: ""
 
 Click  for P3 Term 2 Assessment Format
 
-Click  for P3 Term 2 Assessment Plan
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P3%20Assessment%20Plan.pdf) for P3 Term 2 Assessment Plan
 
 Click  for P4 Term 2 Assessment Format 
 
