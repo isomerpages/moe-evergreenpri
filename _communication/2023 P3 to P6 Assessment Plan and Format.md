@@ -5,7 +5,7 @@ description: ""
 ---
 # **2023 P3 to P6 Assessment Plan and Format**
 
-Click  for P3 Term 2 Assessment Format
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P3_Assessment%20Format.pdf) for P3 Term 2 Assessment Format
 
 Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P3%20Assessment%20Plan.pdf) for P3 Term 2 Assessment Plan
 
