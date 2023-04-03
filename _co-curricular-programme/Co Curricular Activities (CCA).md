@@ -66,7 +66,7 @@ The Physical Sports CCA caters to students with interest at both recreational an
 
 Uniformed Groups (UG) provide students with authentic learning experiences which will help them develop important qualities such as leadership, teamwork and resilience. The Uniformed Group (UG) activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
 
-The Uniform Group sessions are designed with the following in mind:
+The Uniformed Group sessions are designed with the following in mind:
 
 a. **Core Curricula**
 
