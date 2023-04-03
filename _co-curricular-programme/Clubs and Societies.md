@@ -5,3 +5,5 @@ description: ""
 ---
 **Clubs and Societies**
 =======================
+
+STEM & Environmental Club
