@@ -2,7 +2,6 @@ collections:
   co-curricular-programme:
     output: true
     order:
-      - STEM and Environment Club.md
       - MMP.md
       - Co Curricular Activities (CCA).md
       - Visual & Performing Arts/.keep
