@@ -2,11 +2,11 @@
 title: Art Talent Club
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-talent-club/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
 # **Art Talent Club**
 
-![](/images/artclub2016.jpg)
+![](/images/CCA%20Photos/img_3212.jpg)
 
 | CCA   	| Art Club 	|
 |---	|---	|
@@ -14,7 +14,7 @@ third_nav_title: Visual & Performing Arts
 | Teacher Members:   	| • Mdm Hanim<br>• Mdm Zalifah<br>• Mdm Hayati 	|
 
 
-**_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**
+**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**
 
 ![](/images/artclub1.jpg)
 
@@ -25,4 +25,4 @@ Members will undergo through various art enrichments conducted by Art Specialist
 Through our various aesthetics programs, we hope to mould our members into confident and active contributors to the society through the arts.
 
 * Our Mission: Unique Individuals, Various Talents.
-* Our Vision: To spread positivity with our heARTs.
+* Our Vision: To spread positivity with our&nbsp;heARTs.
