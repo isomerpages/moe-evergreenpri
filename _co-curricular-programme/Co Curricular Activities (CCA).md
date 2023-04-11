@@ -86,4 +86,4 @@ Activities are planned with the student’s learning and development of knowledg
 1. [Evergreen Titans (Cub Scouts)](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/uniform-groups/evergreen-titans-cub-scouts)
 
 
-### **Clubs and Societies**  
+### **Clubs and Societies**
