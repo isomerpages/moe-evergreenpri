@@ -47,10 +47,9 @@ c. In **_Presenting_**, students will gain the opportunities to put to practice
 d. In **_Responding_**, students will learn to think critically and show confidence in their ability to make judgements of art works using vocabulary that is appropriate and representative of the art form.
 
 1. [Chinese Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-dance)
-2. [Chinese Orchestra](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-orchestra)
-3. [Indian Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance)
-4. [Malay Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance)
-5. [Art Club](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-club)
+2. [Indian Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance)
+3. [Malay Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance)
+4. [Art Club](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-club)
 
 ### **Physical Sports**
 
@@ -85,3 +84,6 @@ d. **Training/Activity and Learning Objectives**
 Activities are planned with the student’s learning and development of knowledge, skills and values in mind. This ensures a meaningful and holistic CCA experience for the student.
 
 1. [Evergreen Titans (Cub Scouts)](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/uniform-groups/evergreen-titans-cub-scouts)
+
+
+### **Clubs and Societies**  
