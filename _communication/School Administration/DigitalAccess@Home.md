@@ -9,7 +9,7 @@ third_nav_title: School Administration
 
 DigitalAccess@Home has been replaced by the former NEU PC Plus.
 
-Please click here for the application form
+Please click [here](/files/digitalaccess-application-form%20(2023)%20(1).pdf) for the application form
 
 Please refer to the details below
 
