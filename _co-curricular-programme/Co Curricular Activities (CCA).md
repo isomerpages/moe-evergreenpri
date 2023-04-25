@@ -61,7 +61,7 @@ The Physical Sports CCA caters to students with interest at both recreational an
 4. [Football](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/football)
 
 
-### **Uniform Group**  
+### **Uniformed Group**  
 
 Uniformed Groups (UG) provide students with authentic learning experiences which will help them develop important qualities such as leadership, teamwork and resilience. The Uniformed Group (UG) activities aim to make good citizens of students by inculcating in them self-reliance, resilience, discipline and a spirit of service to others.
 
@@ -87,3 +87,5 @@ Activities are planned with the student’s learning and development of knowledg
 
 
 ### **Clubs and Societies**
+
+Clubs and Societies (CS) allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialized areas.
