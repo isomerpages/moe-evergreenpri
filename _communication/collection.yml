@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - DSA Matters.md
       - School Administration/DigitalAccess@Home.md
       - School Administration/.keep
       - School Administration/2023 P1 Admin Matters for Parents.md
