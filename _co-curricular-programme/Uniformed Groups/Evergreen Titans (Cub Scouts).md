@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 # **Evergreen Titans (Cub Scouts)**
 
-![](/images/scoutss2016.jpg)
+![](/images/CCA%20Photos/img_3253.JPG)
 
 | Teacher I/C:  	| Mr Franklin De Silva (IC) 	|
 |---	|---	|

@@ -5,7 +5,7 @@ description: ""
 ---
 # **STEM and Environment Club**
 
-
+![](/images/CCA%20Photos/img_3272.JPG)
 
 | CCA   	| STEM and Environment Club |
 |---	|---	|
