@@ -27,3 +27,5 @@ P6 students can apply for DSA-Sec based on a wide-range of talents, including:
 *   Languages and humanities
 *   Uniformed groups
 *   Leadership
+
+For more details, please click on the following [link](https://www.moe.gov.sg/secondary/dsa)
