@@ -34,3 +34,5 @@ Application Period
 
 
 For more details, please click on the following [link](https://www.moe.gov.sg/secondary/dsa) or refer to [Annex A](/files/annex%20a%20info%20sheet%20on%202023%20dsa-sec%20for%20primary%206%20students.pdf) for information
+
+Click [here](/files/annex%20e-dsa-sec%20application%20template%20for%20students%20in%20moe%20sch.pdf) for the application form
