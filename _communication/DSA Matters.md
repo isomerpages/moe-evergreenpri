@@ -28,4 +28,4 @@ P6 students can apply for DSA-Sec based on a wide-range of talents, including:
 *   Uniformed groups
 *   Leadership
 
-For more details, please click on the following [link](https://www.moe.gov.sg/secondary/dsa) or refer to Annex A for information
+For more details, please click on the following [link](https://www.moe.gov.sg/secondary/dsa) or refer to [Annex A](/files/annex%20a%20info%20sheet%20on%202023%20dsa-sec%20for%20primary%206%20students.pdf) for information
