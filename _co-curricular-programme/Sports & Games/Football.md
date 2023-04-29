@@ -2,7 +2,7 @@
 title: Football
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/football/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 # **Football**
 
@@ -11,7 +11,7 @@ third_nav_title: Sports &amp; Games
 | CCA   	| Soccer   	|
 |---	|---	|
 |  Teacher I/C: 	| Mr Collin Chew (IC) 	|
-| Teacher Members:  	| • Mr Ender Ng<br>• Mr Kelvin Tay<br> • Miss Huey Min<br>• Miss Ardillah<br>
+| Teacher Members:  	| • Mr Ender Ng<br>• Mr Kelvin Tay<br> • Miss Huey Min<br>• Miss Ardillah<br>• Miss Valli
 
 **_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**  
 
