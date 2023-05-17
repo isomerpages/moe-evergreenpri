@@ -1,11 +1,11 @@
 ---
 title: English Language Department
-permalink: /our-processes-and-programmes/english-language-department
+permalink: /our-processes-and-programmes/english-language-department/
 description: ""
 ---
 # **English Language Department**
 
-![](/images/IMG_3071.jpg)
+![](/images/Department%20Main%20Photos/img_3319.JPG)
 
 ### Our Vision:
 

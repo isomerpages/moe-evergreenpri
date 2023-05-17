@@ -6,7 +6,7 @@ third_nav_title: Physical Education Department
 ---
 # **Physical Education Department**
 
-
+![](/images/Department%20Main%20Photos/img_3306.JPG)
 
 ### Key Events and Activities
 
@@ -41,11 +41,11 @@ In addition, at risk students will go for further assessment at the Student Heal
 
 Our yearly activities for students include:
 
-<img src="/images/AHLI3.jpg" style="width:340px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/AHLI3.jpg" style="width:340px;height:240px;margin-left:15px;" align="right">
 
 * Recess Unstructured Play - UPLAY
 * Recess engagement via AHLI info slides
-* Wholesome Wednesday (Fruittie & Veggie day)
+* Wholesome Wednesday (Fruittie &amp; Veggie day)
 * Healthy Meals in School Programme (HMSP)
 * Active Youth Programme (AYP)
 * Kidney Health Education Bus – KFORCE (NKF)
@@ -97,7 +97,7 @@ With the focus on the school values of Respect, Grit and Integrity, the students
 
 ![](/images/PE4.jpg)
 
-### UPLAY & UREAD
+### UPLAY &amp; UREAD
 
 Unstructured play (UPLAY) and unstructured read (UREAD) recess programme is a new initiative by the department to give students the opportunity to be actively and meaningfully engaged during their recess. This programme allows students a choice to occupy their free time besides eating to be g engaged through unstructured play or reading during their recess time.
 
@@ -135,9 +135,9 @@ At the end of the programme, each child will receive a stage completion certific
 
 ![](/images/PE18.jpg)
 
-### P1 & P2 NEX
+### P1 &amp; P2 NEX
 
-The National Education Experience (NEX) is an event for the Primary 1 and 2 students to experience and gain a deeper understanding of Singapore’s history and culture. The students were exposed to the different traditional games such as chapteh, five stones and more, follow-up with the school’s National Day Celebration. This is to allow the students to identify themselves proudly as Singaporeans, pledge unity and togetherness and weather challenges through Grit and Integrity.
+The National Education Experience (NEX) is an event for the Primary 1 and 2 students to experience and gain a deeper understanding of Singapore’s history and culture. The students were exposed to the different traditional games such as chapteh, five stones and more, follow-up with the school’s National Day Celebration. This is to allow the students to&nbsp;identify themselves proudly as Singaporeans, pledge unity and togetherness and weather challenges through Grit and Integrity.
 
 ![](/images/PE19.jpg)
 
