@@ -1,10 +1,12 @@
 ---
 title: Chinese Language
-permalink: /our-processes-and-programmes/Mother-Tongue-Department/chinese-language
+permalink: /our-processes-and-programmes/Mother-Tongue-Department/chinese-language/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
 # **Chinese Language**
+
+![](/images/Department%20Main%20Photos/img_3300.JPG)
 
 ### Objectives and Programmes
 
