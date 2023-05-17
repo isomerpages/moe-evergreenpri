@@ -1,13 +1,13 @@
 ---
 title: Student Development Well Being
-permalink: /our-processes-and-programmes/student-development-team/student-development-well-being
+permalink: /our-processes-and-programmes/student-development-team/student-development-well-being/
 description: ""
 third_nav_title: Student Development Team
 ---
 Student Development Well-Being
 ==============================
 
-![](/images/SDWB.jpg) 
+![](/images/Department%20Main%20Photos/img_3312.JPG)
 
 At Evergreen Primary, we strive to create a caring and enabling environment for our students. We believe that every child is a peer supporter. Peer bonding, peer helping and peer influencing are some of the ways that students learn to make friends, help each other and stand up for each other.   
 
