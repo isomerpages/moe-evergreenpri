@@ -1,11 +1,12 @@
 ---
 title: Tamil Language
-permalink: /our-processes-and-programmes/Mother-Tongue-Department/tamil-language
+permalink: /our-processes-and-programmes/Mother-Tongue-Department/tamil-language/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-
 # **Tamil Language**
+
+![](/images/Department%20Main%20Photos/img_3291.JPG)
 
 ### Objectives and Programmes
 
@@ -16,7 +17,7 @@ third_nav_title: Mother Tongue Department
 *   Structured and customised programmes to stretch the potential of the higher progress students.
 *   Reading Programme.   
 *   Customised (Differentiated) worksheets/learning package that cater to student’s areas of concerns/focus.   
-*     In-house enrichment courses (Creative Writing and e-Oral Workshop). 
+*   &nbsp; In-house enrichment courses (Creative Writing and e-Oral Workshop). 
 *   Learning Journeys for students (Local).
 
 2\. To arouse student’s interest in the languages through active participation in department activities
@@ -32,7 +33,7 @@ third_nav_title: Mother Tongue Department
 
 ### P4 Cultural Camp
 
-The P4 pupils were exposed to various activities related to the Tamil language and culture during the half day camp which was conducted during the first week of the June holidays.P4 Tamil students took part in activity such as Kabadi, Uri Adithal Games, Warli Art on canvas &  Villuppaattu.
+The P4 pupils were exposed to various activities related to the Tamil language and culture during the half day camp which was conducted during the first week of the June holidays.P4 Tamil students took part in activity such as Kabadi, Uri Adithal Games, Warli Art on canvas &amp;&nbsp; Villuppaattu.
 
 ![](/images/TL%20Dept%205.jpg)
 
@@ -44,13 +45,13 @@ The P4 pupils were exposed to various activities related to the Tamil language a
 
 ### Language Fiesta
 
-In Term 3 each year, the Tamil Department conducts various fun-filled activities to encourage the active use of the Tamil Language. Pupils are given the opportunity to learn more about the Tamil language and culture. Activities such as designing Kolam, Show & Tell, Dialogue Creation, Innovation & Enterprise and Character Portrayal were carried out in 2019. The activities gave opportunities for pupils to improve on their spoken Tamil and Language skills. The finalist for each competition will then compete in Tamil Amutham for the top 5 Places.
+In Term 3 each year, the Tamil Department conducts various fun-filled activities to encourage the active use of the Tamil Language. Pupils are given the opportunity to learn more about the Tamil language and culture. Activities such as designing Kolam, Show &amp; Tell, Dialogue Creation, Innovation &amp; Enterprise and Character Portrayal were carried out in 2019. The activities gave opportunities for pupils to improve on their spoken Tamil and Language skills. The finalist for each competition will then compete in Tamil Amutham for the top 5 Places.
 
 ### Tamil Amutham
 
 ![](/images/TL%20Dept%209.jpg)
 
-To nurture students who are passionate and confident users of Tamil Language, the teachers from EGPS Tamil Department organized a competition so that our budding Tamil students can showcase their talents. Students were also able to take initiatives to influence their peers to love the Tamil Language and make it a living language among themselves. 
+To nurture students who are passionate and confident users of Tamil Language, the teachers from EGPS Tamil Department organized a competition so that our budding Tamil students can showcase their talents. Students were also able to take initiatives to influence their peers to love the Tamil Language and make it a living language among themselves.&nbsp;
 
   
 
@@ -73,7 +74,7 @@ Every Tamil student participated in the preliminary rounds of competition in var
 | P4 	| Mother Tongue Cultural Camp 	|
 | P5 	| Cross Cultural Learning Journey to Chinese/Malay Heritage Centre 	|
 | Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
-| P5&P6 	| E-Oral Workshop 	|
+| P5&amp;P6 	| E-Oral Workshop 	|
 
 
 ### Pongal Exhibition (2022) 
@@ -90,7 +91,7 @@ At EGPS, our Tamil department held its own “Pongal” celebration by organizin
 
 ### Competitions - 2021
 
-1\. Sembawang CC IAEC organized the Thirukkural Singing Competition for students. Participants were supposed to sing four sets of Thirukkural of the same theme without background music or accompanying musical instruments. Students are to sing to a tune of their choice. The following students took part in the competition and made us proud:
+1\. Sembawang CC IAEC organized the Thirukkural Singing Competition for students.&nbsp;Participants were supposed to sing four sets of Thirukkural of the same theme without background music or accompanying musical instruments. Students are to sing to a tune of their choice. The following students took part in the competition and made us proud:
 
 | Category 	| Name 	| Class 	| Position 	|
 |---	|---	|---	|---	|
