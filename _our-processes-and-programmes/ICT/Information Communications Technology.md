@@ -6,6 +6,8 @@ third_nav_title: ICT
 ---
 # **Information Communications Technology**
 
+![](/images/Department%20Main%20Photos/img_3331.JPG)
+
 The approach for the ICT department focuses on quality learning and is aligned to MOE’s direction of Student-Centric and Values-Driven education. We are committed to effective use of technology for quality learning in support of the total curriculum - that is, to deepen subject mastery and develop 21st Century Competencies.
 
 **Our Department Goal:** 
