@@ -5,7 +5,7 @@ description: ""
 ---
 # **Mathematics Department**
 
-
+![](/images/Department%20Main%20Photos/img_9619.jpg)
 
 **Vision**   
 Every student a confident and independent problem solver.
