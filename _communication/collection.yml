@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - DSA Matters.md
+      - School Administration/Example Title.md
       - School Administration/General Admin Matters.md
       - School Administration/DigitalAccess@Home.md
       - School Administration/.keep
