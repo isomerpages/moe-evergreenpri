@@ -8,4 +8,4 @@ Dear Parents / Guardians,
 
 The registration of children for admission to Primary One (P1) in 2024 will open from Tuesday, 4 July 2023 to Tuesday, 31 October 2023.
 
-For more details, please click here.
+For more details, please click [here](/files/p1%20registration%20pr%202023%20(23%20may%20moe%20hq%20all).pdf).
