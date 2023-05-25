@@ -8,4 +8,6 @@ Dear Parents / Guardians,
 
 The registration of children for admission to Primary One (P1) in 2024 will open from Tuesday, 4 July 2023 to Tuesday, 31 October 2023.
 
-For more details, please click [here](/files/p1%20registration%20pr%202023%20(23%20may%20moe%20hq%20all).pdf).
+The dates for the different phases of registration1can be found at: www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates. 
+
+The list of primary schools and vacancies available will be updated on the MOE P1 Registration website at www.moe.gov.sg/primary/p1-registration by mid-June 2023.
