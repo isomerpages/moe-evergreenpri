@@ -7,7 +7,7 @@ description: ""
 
 ### That's Great It's Friday
 
-<img src="/images/TGIF%202.jpg" style="width:300px;height:200px;margin-left:15px;" align="right">
+<img src="/images/TGIF/2023%20tgif%20photo%203%20-%20aainoo%20a.jpeg" style="width:300px;height:200px;margin-left:15px;" align="right">
 
 
 That’s Great! It’s Friday! (TGIF) is an initiative by the school since 2018 to provide a platform for the students to have an hour of protected playtime.&nbsp; Besides the unstructured playtime given to them, students are able to use it to cultivate the school values and work towards the school vision- a vibrant school which inspires passion in learning and purposeful living.  
@@ -26,4 +26,3 @@ Our school remains committed to ensure that our students enjoy TGIF even during 
 ![](/images/File_007%20-%20Aainoo%20A.jpeg)
 
 ![](/images/IMG_6474%20-%20Aainoo%20A.jpg)
-
