@@ -23,6 +23,6 @@ Our school remains committed to ensure that our students enjoy TGIF even during 
 \-&nbsp; To provide a platform for students to have that dare and inquisitiveness in exploring new games&nbsp;and sports activities.
 
 
-![](/images/File_007%20-%20Aainoo%20A.jpeg)
+![](/images/TGIF/2023%20tgif%20photo%202%20-%20aainoo%20a.jpeg)
 
-![](/images/IMG_6474%20-%20Aainoo%20A.jpg)
+![](/images/TGIF/2023%20tgif%20photo%201%20-%20aainoo%20a.jpeg)
