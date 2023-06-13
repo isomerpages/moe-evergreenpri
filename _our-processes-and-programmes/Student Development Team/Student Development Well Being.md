@@ -26,8 +26,6 @@ At Evergreen&nbsp;Primary, we strive to create a caring and enabling environment
 
 Every year, zero-bullying week serves to reinforce the zero-tolerance policy for bullying in the school. Through the programmes, students learn to be upstanders and practise empathy by taking perspectives of the bullies and the victims. Their learning extends into English lessons where they will read books about bullying.
 
-
-
 <style>
 img {
   float: right;
@@ -40,6 +38,14 @@ They also practise using kind words. When they understand the impact of their wo
 
 **Peer Support Leaders (PSLs)**
 
+<style>
+img {
+  float: right;
+}
+</style>
+
+</p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="">		
+	
 Some students who have a heart for their peers and display care and concern for those around them become Peer Support Leaders (PSLs). These PSLs will pave the way for the rest of the student population in peer support. They are provided with platforms such as mini sharing sessions and conduct school assemblies so that they can influence their peers positively.&nbsp;
 
 On a daily basis, our peer support leaders also look out for students who may need help. They also help classmates who have been absent to catch up on what they have missed. Not only do they lend a helping hand to those in need, they also lead monthly birthday celebrations in class so that every child has a sense of belonging to the class, the level, and the school.**</p>
