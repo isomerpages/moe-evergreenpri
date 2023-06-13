@@ -9,10 +9,16 @@ Student Development Well-Being
 
 ![](/images/Department%20Main%20Photos/img_3312.JPG)
 
-At Evergreen Primary, we strive to create a caring and enabling environment for our students. We believe that every child is a peer supporter. Peer bonding, peer helping and peer influencing are some of the ways that students learn to make friends, help each other and stand up for each other.   
+**A Zero-Bullying Culture for All**
 
-Every year, zero-bullying week serves to reinforce the zero-tolerance policy for bullying in the school. Through the programmes, students learn to be upstanders and practise empathy by taking perspectives of the bullies and the victims.  
+At Evergreen Primary, we strive to create a caring and enabling environment for our students. We believe that every child is a peer supporter. Peer bonding, peer helping and peer influencing are the three domains of peer support. Through these areas, students learn to make friends, help each other and stand up for each other. 
+
+Every year, zero-bullying week serves to reinforce the zero-tolerance policy for bullying in the school. Through the programmes, students learn to be upstanders and practise empathy by taking perspectives of the bullies and the victims. Their learning extends into English lessons where they will read books about bullying.
 
 They also practise using kind words. When they understand the impact of their words and actions, students will be in a better place to make good decisions before they act.
 
-![](/images/SDWB2.jpg)
+**Peer Support Leaders (PSLs)**
+
+Some students who have a heart for their peers and display care and concern for those around them become Peer Support Leaders (PSLs). These PSLs will pave the way for the rest of the student population in peer support. They are provided with platforms such as mini sharing sessions and conduct school assemblies so that they can influence their peers positively. 
+
+On a daily basis, our peer support leaders also look out for students who may need help. They also help classmates who have been absent to catch up on what they have missed. Not only do they lend a helping hand to those in need, they also lead monthly birthday celebrations in class so that every child has a sense of belonging to the class, the level, and the school.**
