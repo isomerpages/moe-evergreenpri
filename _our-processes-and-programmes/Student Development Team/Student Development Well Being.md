@@ -44,8 +44,16 @@ img {
 }
 </style>
 
-</p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="">		
+</p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="/images/Department%20Photos/SDWB/sdwb_psl%20assembly%20-%20loke%20wei%20xian%20hannah.JPG">		
 	
 Some students who have a heart for their peers and display care and concern for those around them become Peer Support Leaders (PSLs). These PSLs will pave the way for the rest of the student population in peer support. They are provided with platforms such as mini sharing sessions and conduct school assemblies so that they can influence their peers positively.&nbsp;
 
+<style>
+img {
+  float: right;
+}
+</style>
+
+</p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="/images/Department%20Photos/SDWB/sdwb_birthdays%20-%20loke%20wei%20xian%20hannah.JPG">		
+	
 On a daily basis, our peer support leaders also look out for students who may need help. They also help classmates who have been absent to catch up on what they have missed. Not only do they lend a helping hand to those in need, they also lead monthly birthday celebrations in class so that every child has a sense of belonging to the class, the level, and the school.**</p>
