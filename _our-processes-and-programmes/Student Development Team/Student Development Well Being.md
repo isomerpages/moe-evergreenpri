@@ -27,6 +27,14 @@ At Evergreen&nbsp;Primary, we strive to create a caring and enabling environment
 Every year, zero-bullying week serves to reinforce the zero-tolerance policy for bullying in the school. Through the programmes, students learn to be upstanders and practise empathy by taking perspectives of the bullies and the victims. Their learning extends into English lessons where they will read books about bullying.
 
 
+
+<style>
+img {
+  float: right;
+}
+</style>
+
+</p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="/images/Department%20Photos/SDWB/sdwb_kind%20words%20-%20loke%20wei%20xian%20hannah.jpeg">	
 	
 They also practise using kind words. When they understand the impact of their words and actions, students will be in a better place to make good decisions before they act.
 
