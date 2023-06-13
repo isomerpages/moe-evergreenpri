@@ -56,4 +56,4 @@ img {
 
 </p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="/images/Department%20Photos/SDWB/sdwb_birthdays%20-%20loke%20wei%20xian%20hannah.JPG">		
 	
-On a daily basis, our peer support leaders also look out for students who may need help. They also help classmates who have been absent to catch up on what they have missed. Not only do they lend a helping hand to those in need, they also lead monthly birthday celebrations in class so that every child has a sense of belonging to the class, the level, and the school.**</p>
+On a daily basis, our peer support leaders also look out for students who may need help. They also help classmates who have been absent to catch up on what they have missed. Not only do they lend a helping hand to those in need, they also lead monthly birthday celebrations in class so that every child has a sense of belonging to the class, the level, and the school.</p>
