@@ -15,3 +15,4 @@ third_nav_title: Mother Tongue Department
 ![](/images/Department%20Photos/Mother%20Tongue/list_of_dictionaries_for_examination%202023-3.jpg)
 ![](/images/Department%20Photos/Mother%20Tongue/list_of_dictionaries_for_examination%202023-4.jpg)
 ![](/images/Department%20Photos/Mother%20Tongue/list_of_dictionaries_for_examination%202023-5.jpg)
+![](/images/Department%20Photos/Mother%20Tongue/list_of_dictionaries_for_examination%202023-6.jpg)
