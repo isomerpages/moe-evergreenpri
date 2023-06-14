@@ -48,42 +48,23 @@ third_nav_title: Mother Tongue Department
 
 
 
-### Yearly Activities
 
-One Day Mother Tongue Camp for Primary 4  
-
-The P4 pupils were exposed to various activities related to the Chinese language and culture during the half day camp which was conducted during the first week of the June holidays. P4 Chinese students participated in activities such as kite making, making of mooncakes, storytelling and puppetry.
-
-![](/images/CL1.jpg)
-
-![](/images/CL2.jpg)
-
-### Mother Tongue Fortnight
-
-Mother Tongue Fortnight is held over two weeks. Every year, P1 to P6 students will have the opportunity to immerse themselves in the use of the Chinese Language Various activities were carried out for the students to be engaged in the Chinese Language and culture.
-
-![](/images/9%20CL%20Dept%2011.png)
-
-![](/images/CL%20Dept%2012.png)
-
-![](/images/CL%20Dept%2013.png)
-
-### 2020 Chinese Department Activities by Level
-
-| Level 	| Activity 	|
-|---	|---	|
-| P1 to P6 	| Mother Tongue Fortnight, Chinese Language Fiesta 	|
-| P3 	| Conversational Malay Programme 	|
-| Selected P4 	| Advanced Conversational Malay Programme 	|
-| P4 	| Mother Tongue Cultural Camp 	|
-| P5 	| Cross Cultural Learning Journey to Indian/Malay Heritage Centre 	|
-| Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
-| P5 & P6 	| E-Oral Workshop 	|
+| Level | Activity |
+| -------- | -------- |
+| P1 to P6 | Mother Tongue Fortnight    | 
+| P1 to P6 | T.G.I.F. |
+| P3 | Conversational Malay Programme |
+| P4 | Mother Tongue Camp |
+| P5 | E-Immersion Programme to Hangzhou, People’s Republic of China |
 
 
 
-**2021年北区中小学华语演讲比赛 2021 North Zone Schools (Primary / Secondary) Chinese Speech Competition**
+**2023 Chinese Unit Ethnic Festival Celebration**
 
-| Name of student 	| Class of student in award year 	| Award 	|
-|---	|---	|---	|
-| Yeoh En Qi, Chloe 	| 5 Grace 	| Consolation 	|
+EGPS celebrated Chinese New Year as a school on 20 January 2023. EGPS staff and students were dressed up in bright and auspicious colours to usher in the Year of the Rabbit.
+
+The concert items put together by the Mother Tongue Department (Chinese Unit) allowed the EGPS staff and students to have a better understanding and awareness of the Chinese culture and traditions. The school kicked off the Chinese New Year Celebration with Mrs Shahul (Principal) striking the "Gong" to symbolize the start of the concert. This was followed by a dance performance put up by the Chinese Dance CCA, video clips on the customs of Chinese New Year, quizzes and lucky draws hosted by the Student Leaders and singing of Chinese New Year songs. The celebration ended on a high note with the Lion Dance performance.
+
+The smiles on the faces of the staff and students as they made their way back to their classes after the celebration showed that they have truly enjoyed this year's Chinese New Year concert.
+
+
