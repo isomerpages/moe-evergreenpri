@@ -1,6 +1,6 @@
 ---
 title: List of Approved Chinese Dictionaries for PSLE
-permalink: /our-processes-and-programmes/Mother-Tongue-Department/list-of-approved-chinese-dictionaries-forpsle
+permalink: /our-processes-and-programmes/Mother-Tongue-Department/list-of-approved-chinese-dictionaries-forpsle/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
@@ -8,7 +8,7 @@ third_nav_title: Mother Tongue Department
 
   
 
-### Chinese Dictionaries / E-Dictionaries
+### Mother Tongue Dictionaries / E-Dictionaries
 
 ![](/images/list_of_dictionaries_for_examination1024_1.jpg)
 
