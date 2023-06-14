@@ -29,20 +29,24 @@ third_nav_title: Mother Tongue Department
     
 *   Subscription to Chinese children magazines
     
-
-
-
-**Design and use effective instructional materials for teaching of CL**
-
-![](/images/CL.jpg)
-
 2. To arouse pupils' interest in the language through their active participation in department activities 
 
-* Inter/Intra School Competitions 
-* Chinese New Year Celebrations 
-* Mother Tongue Fortnight
-* Mother Tongue Camp
-* P5 Overseas Immersion Programme
+
+*   Chinese New Year Celebration
+    
+*   Primary 4 Mother Tongue Camp
+    
+*   Mother Tongue Fortnight
+    
+*   T.G.I.F.
+    
+*   P5 E- Immersion Programme 
+    
+*   Inter/Intra School Competitions
+    
+**2023 Chinese Unit Activities by Level**
+
+
 
 ### Yearly Activities
 
