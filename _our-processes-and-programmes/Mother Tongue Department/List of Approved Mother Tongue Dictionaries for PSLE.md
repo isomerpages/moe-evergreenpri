@@ -10,8 +10,5 @@ third_nav_title: Mother Tongue Department
 
 ### Mother Tongue Dictionaries / E-Dictionaries
 
-![](/images/list_of_dictionaries_for_examination1024_1.jpg)
-
-![](/images/list_of_dictionaries_for_examination1024_2.jpg)
-
-![](/images/list_of_dictionaries_for_examination1024_3.jpg)
+![](/images/Department%20Photos/Mother%20Tongue/list_of_dictionaries_for_examination%202023.jpg)
+![](/images/Department%20Photos/Mother%20Tongue/list_of_dictionaries_for_examination%202023-2.jpg)
