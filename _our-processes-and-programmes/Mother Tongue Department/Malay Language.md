@@ -12,15 +12,21 @@ third_nav_title: Mother Tongue Department
 
 1.       **To achieve academic excellence**
 
-* Banding of P2 to P6 students for Malay Language Lessons.
-* Customised (Differentiated) worksheets/learning package that cater to student’s areas of concerns/focus.
-* Structured strengthen and Mother Tongue Support Programme (MTSP) for students of various needs.
-* Structured and customised programmes to stretch the potential of the higher progress students.
-* In-house enrichment courses (ExamSmart, Creative Writing and e-Oral Workshop).
-* Reading Programme.
-* Learning Journeys for students (Local).
 
-![](/images/ML.jpg)
+*   Reading, Writing and Oracy Program 
+    
+*   Banding of P2 to P6 students for Malay Language Lessons.
+    
+*   Customised worksheets & learning packages that cater to student’s areas of concerns.
+    
+*   Structured and customised programmes to stretch the potential of the higher progress students
+    
+*   Structured strengthen and Mother Tongue Support Programme (MTSP) for students of various needs.
+    
+*   Subscription to Malay Language Magazines
+    
+*   Primary 4 and Primary 5 Learning Journey (local)
+    
 
 2.     **To arouse student’s interest in the languages through active participation in department activities**
 
