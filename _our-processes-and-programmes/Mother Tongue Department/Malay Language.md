@@ -108,5 +108,5 @@ Learning journeys provides our Malay Language students an opportunity for experi
 
 **3\. Karya Minda Kreatif (creative writing competition) by EDN - 2022**
 
-
-
+| Name of student | Class of student in award year | Award |
+| -------- | -------- | -------- |
