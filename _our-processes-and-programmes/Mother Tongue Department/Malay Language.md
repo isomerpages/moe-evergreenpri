@@ -76,12 +76,27 @@ Immersion Programmes provides opportunities for global awareness and experientia
 
   
 
-Experiential Based Learning Programmes (Learning beyond the classrooms)
+**Experiential Based Learning Programmes (Learning beyond the classrooms)**
 
 Our experiential based learning programmes provide students with a comprehensive and enriching learning experience. Lessons go beyond the standard curriculum, offering in-depth learning Malay Language in a more engaging manner via the use of e-pedagogy; edu-technology and digital resources to cater to diverse learning styles and foster an interactive environment. An example is the P2 lesson on nasi lemak, where experiential learning takes center stage. Through hands-on activities and simulations, students actively engage in the preparation of nasi lemak as they learn language skills creating an enjoyable and memorable language development experience. 
 
   
 
-Learning Journeys 
+**Learning Journeys**
 
-Learning journeys provides our Malay Language students an opportunity for experiential learning. The P4 Malay Language Learning Journey to Kampung Lorong Buangkok immerses students in traditional kampung activities, deepening their understanding of cultural heritage. The P5 Malay Language Learning Journey to Reflections @ Bukit Chandu allows students to witness historical sites and interact with exhibits, fostering critical thinking and reflection on Singapore's history. These journeys extend learning beyond the classroom, encourages further exploration and self-directed learning by our students.**
+Learning journeys provides our Malay Language students an opportunity for experiential learning. The P4 Malay Language Learning Journey to Kampung Lorong Buangkok immerses students in traditional kampung activities, deepening their understanding of cultural heritage. The P5 Malay Language Learning Journey to Reflections @ Bukit Chandu allows students to witness historical sites and interact with exhibits, fostering critical thinking and reflection on Singapore's history. These journeys extend learning beyond the classroom, encourages further exploration and self-directed learning by our students.
+
+### 2022 – 2023 Malay Department Participations & Achievements
+
+**1\. Teevers Competition (News Reporting and Video Making Competition) - 2022**
+
+
+
+| Name of student | Class of student in award year | Award |
+| -------- | -------- | -------- |
+| Hanin Farzanah binte Muhammad Khairul Fahmi     | 5 Faith    | 2nd Prize   |
+| Nur Nadiah binte Mohammad Aidil | 5 Care | 2nd Prize |
+
+**2\. Saya Boleh Bercerita (video storytelling) by Nusa Edufront - 2022**
+
+
