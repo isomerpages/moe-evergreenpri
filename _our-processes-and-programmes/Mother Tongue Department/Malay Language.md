@@ -54,37 +54,34 @@ third_nav_title: Mother Tongue Department
 |  P1 to P2   |  Reading Program (Rakan Membaca)   |
 |  P3   |  Conversational Chinese Programme   |
 |  P4   |  Learning Journey to Kampung Lorong Buangkok   |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+|  P4   |   Mother Tongue Cultural Camp  |
 
 
-**Mother Tongue Fortnight (Malay Language Fiesta)**
+| Level | Activity |
+| -------- | -------- | 
+|  Selected P5   |  Rakan Bahasa (Malay Language Ambassadors)   |
+|  P5   |   e-Immersion Programme to Kuching, Sarawak  |
+|  P5   |  Learning Journey to Reflections @ Bukit Chandu   |
 
-Every year, opportunities will be given to P1 to P6 students to immerse themselves in the active use of the Malay Language beyond the classroom during Mother Tongue Fortnight held over two weeks. Various activities were carried out for the students to engage them in the Malay Language as well as the Malay arts and culture.
 
-![](/images/ML3.jpg)
+**Rakan Membaca (Buddy Reading Programme)**
 
-**P2 Speech and Drama Programme**
+The Rakan Membaca Buddy Reading Programme pairs higher progress readers with lower progress readers in P1 and P2, providing an opportunity for peer learning and skill development. This student-to-student interaction fosters a positive learning environment, where advanced readers guide and support their peers in developing reading skills. The programme benefits lower progress readers by offering personalized attention, while higher progress readers refine their own skills through teaching. The impact is significant, as it cultivates a love for reading, fosters a supportive community, and empowers students to become lifelong learners.
 
-The P2 students will go through 10 weeks of in house speech and drama programme. The students will learn how to read with proper intonation and pronunciation. The students will also learn basic acting skills, singing and dancing. At the end of the 10 weeks, the students will put up a drama production which will be attended by their parents and family members.
+  
 
-![](/images/ML4.jpg)
+**Immersion Programme** 
 
-### 2020 Malay Department Activities by Level
+Immersion Programmes provides opportunities for global awareness and experiential learning of rich cultural heritage. For the past years, the immersion programmes for our Primary 5 students are conducted virtually. Through the use of VR sets, our students are able to visit significant sites and landmarks, gaining insights into the history, traditions, and natural wonders of Kuching Sarawak. Student-to-student interactions are enhanced via the use of online video platforms. 
 
-| Level 	| Activity 	|
-|---	|---	|
-| P1 to P6 	| Mother Tongue Fortnight, Malay Language Fiesta 	|
-| P2 	| Speech & Drama Programme 	|
-| P3 	| Conversational Chinese Programme 	|
-| Selected P4 	| Advanced Conversational Chinese Programme 	|
-| P4 	| Learning Journey to Malay Heritage Centre 	|
-| P4 	| Mother Tongue Cultural Camp 	|
-| P5 	| Cross Cultural Learning Journey to Indian/Chinese Heritage Centre 	|
-| Selected P5 	| Overseas Immersion Programme to Kuching, Sarawak 	|
-| P5 	| E-Oral Workshop 	|
-| P5 & P6 	| Creative Writing Workshop 	|
-| P5 & P6 	| ExamSmart Workshop 	|
+  
+
+Experiential Based Learning Programmes (Learning beyond the classrooms)
+
+Our experiential based learning programmes provide students with a comprehensive and enriching learning experience. Lessons go beyond the standard curriculum, offering in-depth learning Malay Language in a more engaging manner via the use of e-pedagogy; edu-technology and digital resources to cater to diverse learning styles and foster an interactive environment. An example is the P2 lesson on nasi lemak, where experiential learning takes center stage. Through hands-on activities and simulations, students actively engage in the preparation of nasi lemak as they learn language skills creating an enjoyable and memorable language development experience. 
+
+  
+
+Learning Journeys 
+
+Learning journeys provides our Malay Language students an opportunity for experiential learning. The P4 Malay Language Learning Journey to Kampung Lorong Buangkok immerses students in traditional kampung activities, deepening their understanding of cultural heritage. The P5 Malay Language Learning Journey to Reflections @ Bukit Chandu allows students to witness historical sites and interact with exhibits, fostering critical thinking and reflection on Singapore's history. These journeys extend learning beyond the classroom, encourages further exploration and self-directed learning by our students.**
