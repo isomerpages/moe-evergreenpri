@@ -99,4 +99,14 @@ Learning journeys provides our Malay Language students an opportunity for experi
 
 **2\. Saya Boleh Bercerita (video storytelling) by Nusa Edufront - 2022**
 
+| Name of student | Class of student in award year | Award |
+| -------- | -------- | -------- |
+| Safiyyah binte Qhairul Amin     | 2 Grace    | Gold with Honours     |
+| Suztra Rayyan Syah bin Sustrawandi | 5 Care |  Gold with Honours     |
+
+
+
+**3\. Karya Minda Kreatif (creative writing competition) by EDN - 2022**
+
+
 
