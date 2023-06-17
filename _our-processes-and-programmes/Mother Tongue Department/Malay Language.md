@@ -30,22 +30,36 @@ third_nav_title: Mother Tongue Department
 
 2.     **To arouse student’s interest in the languages through active participation in department activities**
 
-* Inter/Intra School Competitions (Aesthetic based and Language based competitions)
-* Hari Raya Celebrations
-* Mother Tongue Fortnight (Malay Language Fiesta)
-* P4 Mother Tongue Cultural Camp
-* Speech and Drama Programme
-* P5 Overseas Immersion Programme to Kuching, Sarawak
+*   Hari Raya Celebrations
+    
+*   Experiential Based Learning Programmes P4 Mother Tongue Cultural Camp
+    
+*   Mother Tongue Language Fortnight
+    
+*   T.G.I.F 
+    
+*   P5 e-Immersion Programme
+    
+*   Inter/Intra school competitions
+    
 
-![](/images/ML1.jpg)
+### 2022 – 2023 Malay Department Activities by Level
 
-### Yearly Activities  
 
-**P5 Overseas Immersion Programme to Kuching, Sarawak**  
-  
-Selected P5 students were exposed and immersed themselves to various elements of the arts and culture in Kuching, Sarawak. Our students were also able to experience to be student in SK St Mary School, our partner school for the immersion programme.
 
-![](/images/ML2.jpg)
+| Level | Activity |
+| -------- | -------- | 
+|  P1 to P6   |  Mother Tongue Language Fortnight   |
+|   P1 to P6  |  T.G.I.F   |
+|  P1 to P2   |  Reading Program (Rakan Membaca)   |
+|  P3   |  Conversational Chinese Programme   |
+|  P4   |  Learning Journey to Kampung Lorong Buangkok   |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
 
 **Mother Tongue Fortnight (Malay Language Fiesta)**
 
