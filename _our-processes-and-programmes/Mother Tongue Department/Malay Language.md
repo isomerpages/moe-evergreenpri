@@ -66,10 +66,14 @@ third_nav_title: Mother Tongue Department
 
 **Rakan Membaca (Buddy Reading Programme)**
 
+![](/images/Department%20Photos/Mother%20Tongue/Malay/reading%20programme%20.jpg)
+
 The Rakan Membaca Buddy Reading Programme pairs higher progress readers with lower progress readers in P1 and P2, providing an opportunity for peer learning and skill development. This student-to-student interaction fosters a positive learning environment, where advanced readers guide and support their peers in developing reading skills. The programme benefits lower progress readers by offering personalized attention, while higher progress readers refine their own skills through teaching. The impact is significant, as it cultivates a love for reading, fosters a supportive community, and empowers students to become lifelong learners.
 
 
 **Immersion Programme** 
+
+![](/images/Department%20Photos/Mother%20Tongue/Malay/immersion%20programme.jpg)
 
 Immersion Programmes provides opportunities for global awareness and experiential learning of rich cultural heritage. For the past years, the immersion programmes for our Primary 5 students are conducted virtually. Through the use of VR sets, our students are able to visit significant sites and landmarks, gaining insights into the history, traditions, and natural wonders of Kuching Sarawak. Student-to-student interactions are enhanced via the use of online video platforms. 
 
@@ -77,11 +81,17 @@ Immersion Programmes provides opportunities for global awareness and experientia
 
 **Experiential Based Learning Programmes (Learning beyond the classrooms)**
 
+![](/images/Department%20Photos/Mother%20Tongue/Malay/experiential%20programme.jpg)
+
 Our experiential based learning programmes provide students with a comprehensive and enriching learning experience. Lessons go beyond the standard curriculum, offering in-depth learning Malay Language in a more engaging manner via the use of e-pedagogy; edu-technology and digital resources to cater to diverse learning styles and foster an interactive environment. An example is the P2 lesson on nasi lemak, where experiential learning takes center stage. Through hands-on activities and simulations, students actively engage in the preparation of nasi lemak as they learn language skills creating an enjoyable and memorable language development experience. 
 
   
 
 **Learning Journeys**
+
+![](/images/Department%20Photos/Mother%20Tongue/Malay/p4%20learning%20journey.jpg)
+
+![](/images/Department%20Photos/Mother%20Tongue/Malay/p5%20learning%20journey.jpg)
 
 Learning journeys provides our Malay Language students an opportunity for experiential learning. The P4 Malay Language Learning Journey to Kampung Lorong Buangkok immerses students in traditional kampung activities, deepening their understanding of cultural heritage. The P5 Malay Language Learning Journey to Reflections @ Bukit Chandu allows students to witness historical sites and interact with exhibits, fostering critical thinking and reflection on Singapore's history. These journeys extend learning beyond the classroom, encourages further exploration and self-directed learning by our students.
 
