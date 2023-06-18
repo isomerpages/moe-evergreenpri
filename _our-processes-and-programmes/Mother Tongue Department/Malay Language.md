@@ -68,7 +68,6 @@ third_nav_title: Mother Tongue Department
 
 The Rakan Membaca Buddy Reading Programme pairs higher progress readers with lower progress readers in P1 and P2, providing an opportunity for peer learning and skill development. This student-to-student interaction fosters a positive learning environment, where advanced readers guide and support their peers in developing reading skills. The programme benefits lower progress readers by offering personalized attention, while higher progress readers refine their own skills through teaching. The impact is significant, as it cultivates a love for reading, fosters a supportive community, and empowers students to become lifelong learners.
 
-  
 
 **Immersion Programme** 
 
