@@ -28,181 +28,56 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 
   
 
-### Key Events & Activities in 2020
+### Key Events & Activities in 2023
 
-*   P4 MT Camp
-*   MT Fortnight Activities
-*   Speech & Drama Programme 
+
 *   Reading Programme
-*   Celebration of Festivals 
-*   Immersion Programmes
+    
+*   Speech and Drama Programme
+    
+*   Mother Tongue Fortnight Activities and Primary 4 Mother Tongue Camp
+    
+*   T.G.I.F.
+    
+*   Conversational Chinese / Malay Programme
+    
+*   Celebration of Ethnic Festivals 
+    
 *   Local Learning Journeys
-
-### Achievements 2019
-
-**Chinese Language**
-
-**1.**     **The 2nd Text Recital Competition for Primary and Secondary Schools 2019**
-
-****Malay Language****  
-
-**1.       Pertandingan Sahibba (Malay Scrabble Competition - Zonal level)**
-
-| Name 	| Class 	| Results 	|
-|---	|---	|---	|
-| Anasofia Binte Mohamad Norfitri 	| 5 Charity 	| Certificate of Participation 	|
-|  Nur Azliana Binte Azrin 	|  5 Care 	|  Certificate of Participation 	|
-| Erfa Hanis Binte Muhammad Khairul Fahmi 	|  5 Charity 	|  Certificate of Participation 	|
-|  Muhammad Nur Razzak Muhammad Ridhuan 	|  5 Charity 	|  Certificate of Participation 	|
-
-
-
-**2.         Rakan Bahasa Penterjemah Pintar 2019 (National level)**
-
-| Name 	| Class 	| Results 	|
-|---	|---	|---	|
-| Erfa Hanis Binte Muhammad Khairul Fahmi 	| 5 Charity 	|  Certificate of Participation 	|
-| Muhammad Nur Razzak Muhammad Ridhuan 	| 5 Charity 	|   Certificate of Participation 	|
-
-
-**Tamil Language**
-
-**1.      Oratorical Competition organised by Telok Blangah CC**
-
-| Name 	| Class 	| Results 	|
-|---	|---	|---	|
-| Murugavel Elakkiya 	| 5 Charity 	| 1st prize 	|
-
-
-**2.       Tamil Literary Competitions by Gambas CC Indian Activity Executive Committee**
-
-
-| Name 	| Class 	| Results 	|
-|---	|---	|---	|
-| Mathivoli Srilakshmi (Oratorical) 	| 5 Charity 	| 1st prize 	|
-| Darshana Ganesan (Oratorical) 	| 5 Grace 	| 3rd Prize 	|
-|  Neha Rizqin Binte Mohammed Nazeer Hussein (Fancy Dress) 	|  1 Faith 	| 4th Prize 	|
-
-
-**3.        Muthamizh Vizha 2019**
-
-| Name 	| Class 	| Results 	|
-|---	|---	|---	|
-| Preeti Raja (Stroytelling Competition) 	| 4 Joy 	|  1st Prize 	|
-
-
-
-### Overseas Learning Journey to Hangzhou
-
-![](/images/china.jpg)
-
-A group of selected Primary 5 Chinese and Tamil Language pupils went on an overseas immersion programme to Hangzhou in June. The main objective of this learning journey was to increase pupils' knowledge and sensitivity to cultures that are different from their own.  During this trip, pupils had the opportunity to visit Ren Min Primary School and many historic places in Hangzhou. Throughout the trip, they have experienced learning in a different context and made new friends in Ren Min Primary School. The pupils have also enjoyed learning about the rich history and culture of Hangzhou.
-
-![](/images/c2.jpg)
-
-![](/images/c3.jpg)
-
-![](/images/c3-1.jpg)
-
-![](/images/Hangzhou%206.png)
-
-### Overseas Learning Journey to Sarawak
-
-![](/images/Sarawak%201.jpg)
-
-A group of selected Primary 5 Malay and Chinese Language students went on an overseas immersion programme to Kuching, Sarawak in June. The main objective of this immersion programme was to create awareness and increase the students' knowledge and sensitivity to the arts, language and cultures of their counterparts in Kuching, Sarawak.  During this trip, students had the opportunity to visit SK St Mary (Primary) School and many historic places in Kuching, Sarawak such as the _‘Rumah Panjang’_. Throughout the trip, they have experienced learning in a different context and made new friends with the students from SK St Mary (Primary) School. The students also enjoyed learning about the rich history and culture of the people in Kuching, Sarawak.
-
-![](/images/c4.jpg)
-
-![](/images/2Sarawak%205.jpg)
-
-### Festivals
-
-**Pongal Celebration @ Evergreen Primary School**
-
-![](/images/ppp.jpg)
-
-The primary 2 and primary 4 students learning the Tamil Language had a chance to experience Pongal Celebration in school. Pongal is the harvest festival celebrated by Hindus to thank nature. To provide students with an authentic learning experience, parent volunteers together with Tamil Language teachers decorated a part of the school and cooked the “pongal rice”.  Teachers explained the rationale behind pongal celebration and the process.  To promote cultural exchange, students from one of the P2 Chinese class were invited to be part of the celebration. Students not only enjoyed the viewing the process of pongal celebration but also got to taste the ‘pongal’ rice..
-
-![](/images/p2.jpg)
-
-![](/images/p3.jpg)
-
-![](/images/TL7(2).jpg)
-
-**Chinese New Year Celebration**
-
-![](/images/CNY%20Celebration.png)
-
-Evergreen primary school celebrated CNY with exciting hall performances and subsequent classroom activities on the eve of Chinese New Year, 24 January. Our pupils were excited by the presence of the lion dance and mascot. Everyone had a great time enjoying the concert and the classroom activities. For the classroom activities, the lower primary students had a good time colouring the picture of the Rat which is the zodiac of the year. The middle primary students had fun creating their own bookmarks. The upper primary students learned how to make chinese lanterns. Through the above fun activities, the students learned & appreciated the Chinese traditions as they celebrated this special day with their schoolmates.
-
-![](/images/CNY1.jpg)
-
-**Hari Raya Aidilfitri (Eid Mubarak)**
-
-In times of COVID-19 pandemic, the Malay Department brought the Hari Raya celebration online. An initiative to celebrate Hari Raya responsibly. Entitled, Circuit Breaker Raya Online 2020 (C.B.R.O. 2020), efforts were made by staff and students of EGPS to adapt to the new norms. Students and staff show resilience during this pandemic period and still are able to celebrate the joyous occasion meaningfully. While the Muslim staff and students navigate through a different kind of celebration this year, it is one that is full of meaning, that strengthen family bonds and stay connected in the comfort of their own homes.
-
-![](/images/HRY.jpg)
-
-[Watch Online video done to celebrate Hari Raya](https://www.youtube.com/watch?v=_8TDkqpc0yQ&feature=youtu.beOnline%20videodone%20to%20celebrate%20Hari%20Raya)
-
-![](/images/ML5(2).jpg)
-
-[Watch Full video for the #dontrushchallenge done by the Staff of EGPS](https://www.youtube.com/watch?v=93MQSr_PNtQFull%20videofor%20the%20#dontrushchallenge%20done%20by%20the%20Staff%20of%20EGPS)
-
-![](/images/Hari%20Raya%20Aidilfitri%2010.jpg)
-
-![](/images/ML6.jpg)
-
-[Watch Staff of EGPS singing Medley Hari Raya Songs on Smule App](https://www.youtube.com/watch?v=vQLO3keX_g8Staff%20ofEGPS%20singing%20Medley%20Hari%20Raya%20Songs%20on%20Smule%20App)
-
-**Deepavali**
-
-EGPS came together as one to celebrate Deepavali. Our students were treated to a concert featuring our Indian Dance CCA members and also took part in an interactive segment where they tried their hands at grooving to a catchy ‘Bhangra’ music. Selected students also took part in a quiz which was designed to address some common misconceptions about Deepavali, after watching a video based on the same theme.
-
-![](/images/Deepavali%201.jpg)
-
-![](/images/Deepavali%202.jpg)
-
-### MTL Fortnight
-
-**Target group: All P1 to P6 pupils**
-
-**Timeframe: 7 July to 17 July 2020**
-
-**Objectives:**
-
-*   To create an environment that encourages students to use MTL.
-*   To provide a platform for students to appreciate and understand the richness of the 3 Mother Tongues Languages and its culture.
-*   To create cross-cultural awareness.
     
+*   E-Immersion Programme
 
-**21st CC:**
 
-*   Communication, collaboration and information skill
-*   Cross cultural skills
+
+
+**Mother Tongue Fortnight**
+
+The EGPS Mother Tongue Fortnight was an exciting two-week event filled with diverse cultural activities, language competitions and learning experiences for our students to appreciate their own culture. The activities included Bunga Rampai, Pau Making, Thoranam, Opera Mask Painting, Puppetry, Kolam, and many more. 
+
+Throughout the Mother Tongue Fortnight, students had the opportunity to reflect on their learning and share their thoughts with their peers and teachers in class. They summarized their learning points and shared what they found most interesting and meaningful about the activities as well as reflecting on the importance of language learning and the cultural significance of different languages. 
+
+Overall, the Mother Tongue Fortnight was a wonderful opportunity for students to explore and appreciate the diverse cultural traditions that make up Singapore's rich heritage. Through the participation of the various cultural activities and language competitions, they had gained a deeper understanding of different cultural practices and developed a greater appreciation for their own culture.
+
+**Primary 4 Mother Tongue Camp**
+
+The EGPS MT Cultural Camp was organized with the aim of providing a platform for Primary 4 students to learn and appreciate the cultural heritage of their respective mother tongues. The camp focused on promoting cross-culture understanding, exploring the history and fun facts of different cultures, and experiencing the excitement of traditional activities.
+
+This year, the Primary 4 students had the privilege of learning the traditional art for the 3 ethnic races. It kicked off with a Bunga Manggar activity, where students learned about the significance of the decorated palm tree and the role it plays in Malay weddings. The students worked together to create their own Bunga Manggar using colorful crepe paper. This activity gave them a hands-on experience in learning about the Malay culture and traditions. For the Opera Face Mask activity, students learned about the origins and significance of the Chinese Opera Face Masks. They were taught about the different types of masks, colours and their meanings. The students then made their own opera face masks using vibrant colors, giving them a deeper understanding of the Chinese culture. The Agal Villaku painting activity was a fun and interactive experience for the students. They learned about the significance of the Agal Villaku in the Tamil culture and the symbolism behind it. The students then painted their own Agal Villaku using traditional colors, patterns, and designs, making it a memorable learning experience. 
+
+The camp also included a variety of traditional games such as Tarik Upih, Lereng, and Tiger & Goats. These games not only provided entertainment but also taught the students about the history and cultural significance of the games. Overall, the P4 MT Cultural Camp was a fun and exciting experience for the students. They had the opportunity to learn about their own culture as well as others, promoting cross-cultural understanding and appreciation amongst each other. The activities were engaging and interactive, making it a memorable experience for the Primary 4 students.
+
+**T.G.I.F. (Languages Day)**
+
+This year, the Mother Tongue department collaborated with the English department in planning the T.G.I.F. activities for the students on the last Friday of Term 2. The 2 language departments set up interesting and engaging booths to promote the love for the languages. Activities planned for the students served as a gateway for them to learn more about the various langauges’ distinctive attributes in a fun and meaningful way.
+
+**Conversation Chinese / Malay Programme**
+
+As part of EGPS Multi-Modal Programme (MMP), the Primary 3 students participated in the Conversational Chinese / Malay Programme during MMP periods in Term 2. This programme provided the Primary 3 students with a platform to gain exposure to conversational Chinese or Malay and practise what they have learned in authentic settings.  
+
+**E-Immersion Programme**
+
+*   Chinese Language –People’s Republic of China
     
-
-**SEL Competencies:**
-
-*   Social awareness
-*   Self management
-
-#### T.G.I.F  
-
-The MT department had put up some interesting and engaging booths pertaining to the 3 main cultures unique to Singapore in the month of July for T.G.I.F. Activities such as painting of ‘vilakku’ (oil lamp), making of ‘Bungga Mangar’ and designing of Chinese Opera masks served as a gateway for our students to learn more about each culture’s distinctive attributes in a fun and meaningful way.
-
-![](/images/MTL%20Fortnight%20TGIF%201.jpg)
-
-![](/images/MTL%20Fortnight%20TGIF%202.jpg)
-
-![](/images/MTL%20Fortnight%20TGIF%203.jpg)
-
-
-#### MT Camp
-
-The Mother Tongue Department organised a Mother Tongue Language & Cultural Camp for all Primary 4 students. The aim of this camp is to  provide a platform for students to appreciate and understand the richness of the 3 Mother Tongues Languages and its culture. At the end of the camp students came together as a level to share their knowledge which promoted cross cultural learning.
-
-![](/images/MT%20Camp%201.jpg)
-
-![](/images/MT%20CAMP.jpg)
+*   Malay Language –Malaysia
+    
+*   Tamil Language – India
