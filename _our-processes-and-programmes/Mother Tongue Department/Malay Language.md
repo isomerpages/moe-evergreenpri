@@ -110,3 +110,4 @@ Learning journeys provides our Malay Language students an opportunity for experi
 
 | Name of student | Class of student in award year | Award |
 | -------- | -------- | -------- |
+| Sharifah Aishah Al-Haddad Binte Syed Ahmad | 4 Charity | 7th prize |
