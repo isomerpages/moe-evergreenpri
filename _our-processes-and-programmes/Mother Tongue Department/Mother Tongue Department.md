@@ -70,7 +70,7 @@ The camp also included a variety of traditional games such as Tarik Upih, Lereng
 
 This year, the Mother Tongue department collaborated with the English department in planning the T.G.I.F. activities for the students on the last Friday of Term 2. The 2 language departments set up interesting and engaging booths to promote the love for the languages. Activities planned for the students served as a gateway for them to learn more about the various langauges’ distinctive attributes in a fun and meaningful way.
 
-Conversation Chinese / Malay Programme
+**Conversation Chinese / Malay Programme**
 
 As part of EGPS Multi-Modal Programme (MMP), the Primary 3 students participated in the Conversational Chinese / Malay Programme during MMP periods in Term 2. This programme provided the Primary 3 students with a platform to gain exposure to conversational Chinese or Malay and practise what they have learned in authentic settings.  
 
@@ -81,4 +81,3 @@ As part of EGPS Multi-Modal Programme (MMP), the Primary 3 students participated
 *   Malay Language –Malaysia
     
 *   Tamil Language – India
-    
