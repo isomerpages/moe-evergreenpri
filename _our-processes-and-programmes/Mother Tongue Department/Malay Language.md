@@ -113,7 +113,7 @@ Learning journeys provides our Malay Language students an opportunity for experi
 | Sharifah Aishah Al-Haddad Binte Syed Ahmad | 4 Charity | 7th prize |
 
 
-**4\. Rentas Pentas (Amazing Race) by NTU PERBAYU 2023**
+**4\. Rentas Pentas (Amazing Race) by NTU PERBAYU - 2023**
 
 | Name of student | Class of student in award year | Award |
 | -------- | -------- | -------- |
@@ -124,9 +124,9 @@ Learning journeys provides our Malay Language students an opportunity for experi
 | Muhammad Aidan Bin Iskandar | 5 Joy  | Participation |
 
 
-**5\. Teevers Competition (News Reporting and Video Making Competition) 2023**
+**5\. Teevers Competition (News Reporting and Video Making Competition) - 2023**
 
 | Name of student | Class of student in award year | Award |
 | -------- | -------- | -------- |
-|  |  |  |
-|  |  |  |
+| Muhammad Faheem Bin Mohamed Farhan | 5 Charity | Participation |
+| Qaisara Amani binte Qamarul Azhar | 5 Joy | Participation |
