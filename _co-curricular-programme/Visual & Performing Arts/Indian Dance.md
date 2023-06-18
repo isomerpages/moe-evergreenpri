@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 ---
 # **Indian Dance**
 
-
+![](/images/CCA%20Photos/ind45-15%20-%20k%20vejayalakshmy%20andrea%20(1).jpg)
 
 | CCA   	| Indian Dance 	|
 |---	|---	|
