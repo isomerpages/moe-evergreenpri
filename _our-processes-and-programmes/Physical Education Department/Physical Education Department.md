@@ -100,6 +100,8 @@ This encourages them to recognize and express gratitude towards individuals. The
 
 ![](/images/Department%20Photos/PE/349132735_266442152435316_8213687162650883900_n.jpg)
 
+![](/images/Department%20Photos/PE/349591051_1018473276226950_3671509679520519909_n.jpg)
+
 ### UPLAY &amp; UREAD
 
 Unstructured play (UPLAY) and unstructured read (UREAD) recess programme is a new initiative by the department to give students the opportunity to be actively and meaningfully engaged during their recess. This programme allows students a choice to occupy their free time besides eating to be g engaged through unstructured play or reading during their recess time.
