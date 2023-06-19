@@ -98,13 +98,7 @@ The EGPS X-Games was conducted this year with the aim of providing sports exposu
  
 This encourages them to recognize and express gratitude towards individuals. They were also required to write a journal entry to affirm themselves of the hard work that they had put in in overcoming the challenges they had faced. The students are encouraged to acknowledge their efforts, grit, and growth in the face of adversity. The X-Games serve as a platform for students to engage in sports, explore their interests, and cultivate positive values through active participation, which of course, embodies the EGPS P.L.A.Y. approach.  
 
-![](/images/PE1.jpg)
-
-![](/images/PE2.jpg)
-
-![](/images/PE3.jpg)
-
-![](/images/PE4.jpg)
+![](/images/Department%20Photos/PE/349132735_266442152435316_8213687162650883900_n.jpg)
 
 ### UPLAY &amp; UREAD
 
