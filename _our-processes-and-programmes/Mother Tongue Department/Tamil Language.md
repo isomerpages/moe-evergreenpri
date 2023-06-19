@@ -73,3 +73,21 @@ This learning journey gave students a better understanding on the significance o
 | -------- | -------- | -------- | -------- | -------- |
 1     | Jayaprakasam Joshith     | 3 Charity     | 1st Prize     | Singing Competition     |
 
+4.	Hong Kah North Tamil Language Festival 2023
+
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Jayaprakasam Joshith     | 3 Charity     | 2nd Prize     | Singing Competition     |
+
+5.	Life Literary Association 
+
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Jayaprakasam Joshith     | 3 Charity     | 3rd Prize     | Oratorical Competition     |
+
+6.	TL Competition for Primary Schools organized by Telok Blangah Community Centre        
+
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Roy Nixon Shangika     | 2 Care     | Consolation Prize     | Reading Competition     |
+2     | Jayaprakasam Joshith     | 3 Charity     | Consolation Prize     | Story- Telling Competition     |
