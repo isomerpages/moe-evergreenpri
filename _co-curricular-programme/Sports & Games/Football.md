@@ -21,6 +21,3 @@ The Evergreen Primary Football CCA caters to students of all playing levels, fro
 
 During the suspension of face-to-face CCA sessions, we adopted a synchronous E-CCA session using platforms such as SLS and ZOOM. These E-CCA sessions allow the students to continue to hone not only their individual set of skills but also, the cognitive aspect of football by learning the technical aspect and tactics through game analysis
 
-![](/images/Soccer%201.jpg)
-
-![](/images/Soccer%202.jpg)

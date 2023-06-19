@@ -10,95 +10,88 @@ third_nav_title: Mother Tongue Department
 
 ### Objectives and Programmes
 
-1\. To achieve academic excellence
+      
+**1\. To achieve academic excellence**
 
-*   Banding of P3 to P6 students for Tamil Language Lessons.
-*   Structured strengthen and Mother Tongue Support Programme (MTSP) for students of various needs.   
+*   Customised worksheets that cater to students’ areas of concerns/focus
+*   Structured strengthen and Mother Tongue Support Programme (MTSP) Programme for students of various needs
 *   Structured and customised programmes to stretch the potential of the higher progress students.
-*   Reading Programme.   
-*   Customised (Differentiated) worksheets/learning package that cater to student’s areas of concerns/focus.   
-*   &nbsp; In-house enrichment courses (Creative Writing and e-Oral Workshop). 
-*   Learning Journeys for students (Local).
+*   Reading Programme
+*   Enrichment courses
+*   Learning journeys for students
+*   Subscription to Manavar Murasu
 
-2\. To arouse student’s interest in the languages through active participation in department activities
+**2\.** **To arouse students’ interest in the language through their active participation in department activities**
 
-*   Inter/Intra School Competitions (Aesthetic based and Language based competitions)
-    
-*   Deepavali Celebrations
-*   Mother Tongue Fortnight (Tamil Language Fiesta)
-*   P4 Mother Tongue Cultural Camp
-*   Tamil Amutham
-*   P5 Overseas Immersion Programme to Hangzhou/Sarawak
+*   Pongal Celebrations
+*   Primary 4 Mother Tongue Camp
+*   Mother Tongue Fortnight
+*   T.G.I.F.
+*   P5 E- Immersion Programme
+*   Inter/Intra School Competitions
+*   Deepavali Celebration
+
+**2023 Tamil Unit Activities by Level**
   
 
-### P4 Cultural Camp
 
-The P4 pupils were exposed to various activities related to the Tamil language and culture during the half day camp which was conducted during the first week of the June holidays.P4 Tamil students took part in activity such as Kabadi, Uri Adithal Games, Warli Art on canvas &amp;&nbsp; Villuppaattu.
+| Level | Activity | 
+| -------- | -------- | 
+| P1 to P6     | Mother Tongue Fortnight     | 
+| P1 to P6     | T.G.I.F.     |
+| P4    | Mother Tongue Camp     |
+| P5     | E-Immersion Programme to India, Chennai     |
+| P5     | P5 MMP (Drama)     |
 
-![](/images/TL%20Dept%205.jpg)
+**2023 Tamil Unit Pongal Learning Journey**
 
-![](/images/TL%20Dept%206.jpg)
+![](/images/Department%20Photos/Mother%20Tongue/Tamil/pongal%202023%201.jpg)
 
-![](/images/TL%20Dept%207.jpg)
+![](/images/Department%20Photos/Mother%20Tongue/Tamil/pongal%202023%202.jpg)
 
-![](/images/TL%20Dept%208.jpg)
+EGPS organised an educational tour for the Primary 4 students to Poli@Clive Street and Indian Heritage Centre in the month of January. 
 
-### Language Fiesta
+This learning journey gave students a better understanding on the significance of Pongal celebration and how it is celebrated in the different parts of the world.  Students also learned about the various folk art forms which will take place in India during Pongal celebration. This experience allowed our students to better appreciate nature and widen their knowledge about the Indian culture. They had the opportunity to observe, reflect and form their own personal understanding. Students had fun learning with their senses stimulated as they got to try out Karagattam, clay pot making etc.
 
-In Term 3 each year, the Tamil Department conducts various fun-filled activities to encourage the active use of the Tamil Language. Pupils are given the opportunity to learn more about the Tamil language and culture. Activities such as designing Kolam, Show &amp; Tell, Dialogue Creation, Innovation &amp; Enterprise and Character Portrayal were carried out in 2019. The activities gave opportunities for pupils to improve on their spoken Tamil and Language skills. The finalist for each competition will then compete in Tamil Amutham for the top 5 Places.
+**2023 Tamil Unit Achievements**
 
-### Tamil Amutham
+***TL Competitions - 2023***
 
-![](/images/TL%20Dept%209.jpg)
+1.	Sanga Tamil Vizha (Woodlands Galaxy IAEC)	
 
-To nurture students who are passionate and confident users of Tamil Language, the teachers from EGPS Tamil Department organized a competition so that our budding Tamil students can showcase their talents. Students were also able to take initiatives to influence their peers to love the Tamil Language and make it a living language among themselves.&nbsp;
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Sharvin S/o Haridas     | 6 Grace     | 1st Prize     | Fancy Dress Competition     | 
+2     | Jayaprakasam Joshith     | 3 Charity     | 2nd Prize     | Fancy Dress Competition     | 
+3     | Vignesh Indhumathi Pratheek     | 5 Joy     | 2nd Prize     | Fancy Dress Competition     | 
 
-  
+2.	Tamil Arts Contest 2023     
 
-Every Tamil student participated in the preliminary rounds of competition in various formats such as singing, story-telling, role playing of famous personalities and sharing of their personal recollections. The top 30 performers across all six levels were chosen to put up their items in the final round, where prizes were awarded. Parents of our Tamil students also graced this occasion to lend their support for our student performers!
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Angelina Ajeeth     | 5 Joy     | 1st Prize     | Singing Competition     |
 
-![](/images/TL%20Dept%2016.jpg)
+3. Singing Competition organized by Sembawang Community Centre IAEC in conjunction with Tamil Language Festival
 
-![](/images/TL%20Dept%2017.jpg)
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Jayaprakasam Joshith     | 3 Charity     | 1st Prize     | Singing Competition     |
 
-![](/images/TL%20Dept%2018.jpg)
+4.	Hong Kah North Tamil Language Festival 2023
 
-### 2020 Tamil Department Activities by Level
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Jayaprakasam Joshith     | 3 Charity     | 2nd Prize     | Singing Competition     |
 
-| Level 	| Activity 	|
-|---	|---	|
-| P1 to P6 	| Mother Tongue Fortnight, Tamil Language Fiesta 	|
-| P3 	| Conversational Chinese/Malay Programme 	|
-| Selected P4 	| Advanced Conversational Chinese/Malay Programme 	|
-| P4 	| Pongal Learning Journey 	|
-| P4 	| Mother Tongue Cultural Camp 	|
-| P5 	| Cross Cultural Learning Journey to Chinese/Malay Heritage Centre 	|
-| Selected P5 	| Overseas Immersion Programme to Hangzhou/Sarawak 	|
-| P5&amp;P6 	| E-Oral Workshop 	|
+5.	Life Literary Association 
 
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Jayaprakasam Joshith     | 3 Charity     | 3rd Prize     | Oratorical Competition     |
 
-### Pongal Exhibition (2022) 
+6.	TL Competition for Primary Schools organized by Telok Blangah Community Centre        
 
-Pongal is a 4-day harvest festival celebrated by the Tamil diaspora worldwide which falls in the month of Thai (that is, the January-February season) when crops like rice, sugarcane, turmeric are harvested. On this day, Tamil people cook pots of sugary rice to signify their gratitude and celebrate with their loved ones. As the rice overflows when it is cooked, it is believed that the blessings for the year will be overflowing with joy, wealth, and peace.  
-
-At EGPS, our Tamil department held its own “Pongal” celebration by organizing a slew of activities for all students. Through this exhibition, students learned the reason behind the celebration, the value of appreciation and the importance of living in harmony with nature. They learned about the reasons behind the 4 days of celebration as well as the different types of grains, their benefits and uses.
-
-![](/images/TL4.jpg)
-
-![](/images/TL5.jpg)
-
-![](/images/TL6.jpg)
-
-### Competitions - 2021
-
-1\. Sembawang CC IAEC organized the Thirukkural Singing Competition for students.&nbsp;Participants were supposed to sing four sets of Thirukkural of the same theme without background music or accompanying musical instruments. Students are to sing to a tune of their choice. The following students took part in the competition and made us proud:
-
-| Category 	| Name 	| Class 	| Position 	|
-|---	|---	|---	|---	|
-| Upper Primary 	| Sahana Balasubramanian<br>  	| 6 Charity<br>  	| 1st Prize<br>  	|
-|  	| Elaiyaraja Jessica Leann<br>  	| 4 Grace 	| Consolation prize<br>  	|
-| Lower Primary 	| V S Vishal<br>  	| 3 Charity<br>  	| 2nd Prize<br>  	|
-|  	| Angelina Ajeeth<br>  	| 3 Charity<br>  	| 5th Prize 	|
-|  	| Elaiyaraja Alisha Grace<br>  	| 2 Care 	| Consolation prize<br>  	|
-|  	| Manimaran Raguram<br>  	| 2 Care<br>  	| Consolation prize<br>  	|
-|   	| V S Vikas<br>  	| 1 Hope<br>  	| Consolation prize<br>  	|
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Roy Nixon Shangika     | 2 Care     | Consolation Prize     | Reading Competition     |
+2     | Jayaprakasam Joshith     | 3 Charity     | Consolation Prize     | Story- Telling Competition     |

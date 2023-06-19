@@ -61,6 +61,12 @@ third_nav_title: Mother Tongue Department
 
 **2023 Chinese Unit Ethnic Festival Celebration**
 
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/chinese%20new%20year%202023%203.jpg)
+
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/chinese%20new%20year%202023%202.jpg)
+
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/chinese%20new%20year%202023%201.jpg)
+
 EGPS celebrated Chinese New Year as a school on 20 January 2023. EGPS staff and students were dressed up in bright and auspicious colours to usher in the Year of the Rabbit.
 
 The concert items put together by the Mother Tongue Department (Chinese Unit) allowed the EGPS staff and students to have a better understanding and awareness of the Chinese culture and traditions. The school kicked off the Chinese New Year Celebration with Mrs Shahul (Principal) striking the "Gong" to symbolize the start of the concert. This was followed by a dance performance put up by the Chinese Dance CCA, video clips on the customs of Chinese New Year, quizzes and lucky draws hosted by the Student Leaders and singing of Chinese New Year songs. The celebration ended on a high note with the Lion Dance performance.

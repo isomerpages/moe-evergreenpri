@@ -8,6 +8,16 @@ third_nav_title: Physical Education Department
 
 ![](/images/Department%20Main%20Photos/img_3306.JPG)
 
+#### Vision 
+
+Every student is active, healthy, physically competent and socially adept. 
+
+#### Mission 
+
+Empower students with physical knowledge, skills, practices and values to enjoy a lifetime of active, healthy living. 
+
+
+
 ### Key Events and Activities
 
 #### EGPS Holistic Health Programme  
@@ -81,13 +91,12 @@ In addition to the TGIF, a step challenge (Every Step Matters) was conducted as 
 
 ![](/images/P5.jpg)
 
-### X Games
+#### X-Games 
 
-Our annual Experiential Games called the X Games was held on 1 April 2021. It was organised for the Primary 3 to 6 students which was held at Evergreen Primary School. During the event, students were required to complete a total of 2 challenges as a class with the theme “Every Second Counts”. Top 3 classes for each level were given a X-Games collar pin and a certificate for completing the challenges in the fastest time possible.
+The EGPS X-Games was conducted this year with the aim of providing sports exposure to Primary 4 to 6 students, allowing them to explore different sports and engage in physical activities. By participating in one of the six sports offered, namely Tchoukball, Kinball, Archery Tag, Ultimate Frisbee, Tag Rugby, and Goalball, the students had the opportunity to experience a variety of athletic disciplines. A follow-up to the X-Games was the extension to English lessons, where P4 to P6 students wrote a note of appreciation to affirm and acknowledge their peers or teachers who had helped them in one way or another.  
 
-Through these challenges, students were given opportunities to not only participate actively in all the challenges, but also work collaboratively as a class to complete them. Students had to learn to negotiate and communicate their ideas actively and solve the problems together as a class.
-
-With the focus on the school values of Respect, Grit and Integrity, the students were able to strengthen their bond and camaraderie at the end of the challenge.
+ 
+This encourages them to recognize and express gratitude towards individuals. They were also required to write a journal entry to affirm themselves of the hard work that they had put in in overcoming the challenges they had faced. The students are encouraged to acknowledge their efforts, grit, and growth in the face of adversity. The X-Games serve as a platform for students to engage in sports, explore their interests, and cultivate positive values through active participation, which of course, embodies the EGPS P.L.A.Y. approach.  
 
 ![](/images/PE1.jpg)
 
@@ -119,13 +128,17 @@ Through this programme, students are given not only the opportunities but also c
 
 ![](/images/PE10.jpg)
 
-### P3 Swimsafer 2.0
+### Swimsafer 2.0
 
-The SwimSafer™ 2.0 programme aims to develop the students’ proficiency in swimming and equip them with water survival skills so as to minimize drowning incidents in a fun manner.
+The SwimSafer™ 2.0 programme aims to develop the students’ proficiency in swimming and equip them with water survival skills so as to minimize drowning incidents in a fun manner. 
 
-The programme which takes place at an Activesg Swimming complex, are taught progressively by trained swimming coaches throughout the semester.
+The programme which takes place at an Activesg Swimming complex, are taught progressively by trained swimming coaches throughout the semester. 
 
-At the end of the programme, each child will receive a stage completion certificate indicating their individual skill achievements.
+At the end of the programme, each child will receive a stage completion certificate indicating their individual skill achievements. 
+
+For more details, please visit the SwimSafer 2.0 Programme website below. 
+
+https://www.myactivesg.com/Programmes/SwimSafer-Programme 
 
 ![](/images/PE15.jpg)
 
