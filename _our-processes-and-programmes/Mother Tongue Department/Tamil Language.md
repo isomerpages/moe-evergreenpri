@@ -43,4 +43,8 @@ third_nav_title: Mother Tongue Department
 | P5     | E-Immersion Programme to India, Chennai     |
 | P5     | P5 MMP (Drama)     |
 
+**2023 Tamil Unit Pongal Learning Journey**
 
+EGPS organised an educational tour for the Primary 4 students to Poli@Clive Street and Indian Heritage Centre in the month of January. 
+
+This learning journey gave students a better understanding on the significance of Pongal celebration and how it is celebrated in the different parts of the world.  Students also learned about the various folk art forms which will take place in India during Pongal celebration. This experience allowed our students to better appreciate nature and widen their knowledge about the Indian culture. They had the opportunity to observe, reflect and form their own personal understanding. Students had fun learning with their senses stimulated as they got to try out Karagattam, clay pot making etc.
