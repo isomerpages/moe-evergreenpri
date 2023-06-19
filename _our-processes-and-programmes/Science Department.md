@@ -5,10 +5,11 @@ description: ""
 ---
 # **Science Department**
 
+![](/images/Department%20Main%20Photos/science.jpeg)
 
 The Science Department is committed to helping every student develop as an inquirer who has the lifelong interest in learning Science through a standards-based curriculum that includes inquiry, investigation, experimentation and reflective thinking.
 
- It is important to our department that students develop an understanding of how science impacts their daily lives. 
+&nbsp;It is important to our department that students develop an understanding of how science impacts their daily lives.&nbsp;
 
 ### Pedagogy
 
@@ -16,11 +17,11 @@ The Science curriculum at EGPS adopts the pedagogy of inquiry-based learning (IB
 
 Inquiry-based Learning (IBL)  
 
-The (IBL) is a student-centered learning process based on John Dewey’s learning theory of constructivism where hands-on activities are used to develop concepts through creative problem solving, decision-making and investigation processes.   
+The (IBL) is a student-centered learning process based on John Dewey’s learning theory of constructivism where hands-on activities are used to develop concepts through creative problem solving, decision-making and investigation processes.&nbsp;  
 
-In our day-to-day teaching of inquiry-based Science, our teachers focus on asking questions as well as encouraging students to ask relevant questions. Questioning strategy allows for a high degree of pupil participation as a good mix of low and high level cognitive questions are used. The use of Object-Based Inquiry (OBI) and the modified thinking routine of See-Think-Wonder,  tapped on students’ natural curiosity that promote the cycle of inquiry which allows students to construct meaning from their interactions with objects and phenomena in and out of the classroom through observation, developing inferences and generating their own questions.   
+In our day-to-day teaching of inquiry-based Science, our teachers focus on asking questions as well as encouraging students to ask relevant questions. Questioning strategy allows for a high degree of pupil participation as a good mix of low and high level cognitive questions are used. The use of Object-Based Inquiry (OBI) and the modified thinking routine of See-Think-Wonder,&nbsp; tapped on students’ natural curiosity that promote the cycle of inquiry which allows students to construct meaning from their interactions with objects and phenomena in and out of the classroom through observation, developing inferences and generating their own questions.&nbsp;  
 
-To provide an appealing and non-threatening way to represent abstract concepts and ideas. concept cartoons which are “cartoon-style” drawings presenting characters with different viewpoints around a particular situation are used at different stages of a lesson – as a trigger to get students to tune in, as an activity to elicit students’ responses and generate discussion, as a means to clear misconceptions or as a means of summarizing the topic at the end. Science lessons thus becomes more interactive and student-centred as students are actively involved in their learning: verbalize their ideas and thoughts. Participating in such discussion also lets students hone their communication skills and in the process allows teachers to gain important insights into their students’ understanding.   
+To provide an appealing and non-threatening way to represent abstract concepts and ideas. concept cartoons which are “cartoon-style” drawings presenting characters with different viewpoints around a particular situation are used at different stages of a lesson – as a trigger to get students to tune in, as an activity to elicit students’ responses and generate discussion, as a means to clear misconceptions or as a means of summarizing the topic at the end. Science lessons thus becomes more interactive and student-centred as students are actively involved in their learning: verbalize their ideas and thoughts. Participating in such discussion also lets students hone their communication skills and in the process allows teachers to gain important insights into their students’ understanding.&nbsp;  
 
   
 
@@ -37,7 +38,7 @@ MAC allows teachers to use personal, local or global events to stimulate student
 
 ### JUNIOR SCIENCE PROGRAMME
 
-This programme is mainly integrated into the teaching of English in Primary 1 and Primary 2. However, there are selected stand-alone hands-on activities conducted by our Science teachers for Primary 1 and Primary 2 students once per semester. The Junior Science programme also taps on the natural curiosity of the Primary 1 and 2 students, to further develop their interest science.   
+This programme is mainly integrated into the teaching of English in Primary 1 and Primary 2. However, there are selected stand-alone hands-on activities conducted by our Science teachers for Primary 1 and Primary 2 students once per semester. The Junior Science programme also taps on the natural curiosity of the Primary 1 and 2 students, to further develop their interest science.&nbsp;  
 
   
 
@@ -56,35 +57,35 @@ Ever since the opening of iWonder this year, the room has attracted many student
   
 Below are snippets of what took place in iWonder.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/iwonder.jpg" alt="iwonder.jpg" width="259" height="345" ></th><th style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/iwonder2.jpg" alt="iwonder2.jpg" width="194" height="342"></th><th style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/iwonder3.jpg" alt="iwonder3.jpg" width="261" height="347"></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Students chose a task card and started making their product <br>using the LEGO blocks provided.</td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">This student had created a tower using LEGO blocks of varying transparency. Then, he explored the concept of lights and shadows using the torch light provided.<br></td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">This student created a car using LEGO blocks. He tried to use a balloon to push the car forward. After several failed attempts, he finally managed to succeed!</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/iwonder.jpg" alt="iwonder.jpg" width="259" height="345"></th><th style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/iwonder2.jpg" alt="iwonder2.jpg" width="194" height="342"></th><th style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#EEE;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/iwonder3.jpg" alt="iwonder3.jpg" width="261" height="347"></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Students chose a task card and started making their product <br>using the LEGO blocks provided.</td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">This student had created a tower using LEGO blocks of varying transparency. Then, he explored the concept of lights and shadows using the torch light provided.<br></td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">This student created a car using LEGO blocks. He tried to use a balloon to push the car forward. After several failed attempts, he finally managed to succeed!</td></tr></tbody></table>
 
 ![](/images/iwonder4.jpg)
 
 ### Innovation @EGPS
 
-Aligned to our school’s mission of P.L.A.Y._,_ our Science Department conducts several activities and enrichment programmes throughout the year as part of our Innovation Programme. In addition to encourage integration of the different subjects so as to provide a holistic and joyful learning experience for our students, we also hope to inculcate values and skills in them so as to develop them to be good and useful individuals.
+Aligned to our school’s&nbsp;mission of P.L.A.Y._,_&nbsp;our Science Department conducts several activities and enrichment programmes throughout the year as part of our Innovation Programme. In addition to&nbsp;encourage integration of the different subjects so as to provide a holistic and joyful learning experience for our students, we also hope to inculcate values and skills in them so as to develop them to be good and useful individuals.
 
 * **E2K Science Programme**
 
-The E2K Science Programme is an enrichment programme conducted after school for students who demonstrate interest and aptitude for Science. The programme aims to develop scientific inquiry process skills in our students to stretch them in Science and to generate their interest in Science research.
+The E2K Science Programme is an enrichment programme conducted after school for students who demonstrate interest and aptitude for Science. The programme aims to develop scientific inquiry process skills in our students to stretch them in Science and&nbsp;to generate their interest in Science research.
 
-The rich learning experiences serve to help our students develop positive habits, attitudes and dispositions scientists possess. Just as scientists explore and make mistakes in the real world, our students are allowed to make mistakes during the programme and learn from the mistakes based on scaffold given by teacher mentors. As our students engage in scientific investigations through an inquiry approach, we hope to nurture them in the 21st century competencies such as resilience, critical and inventive thinking, and effective communication skills.
+The rich learning experiences serve to help our students develop positive habits, attitudes and dispositions scientists possess. Just as scientists explore and make mistakes in the real world, our students are allowed to make mistakes during the programme and learn from the mistakes based on scaffold given by teacher mentors. As our students engage in scientific investigations through an inquiry approach, we hope to nurture them in the 21st&nbsp;century competencies such as resilience, critical and inventive thinking, and effective communication skills.
 
 ![](/images/E2K.jpg)
 
-*  **Design Thinking Programme**
+* &nbsp;**Design Thinking Programme**
 
-To build a culture of empathy, innovation, creativity and discovery in our students, they participated in our Design Thinking Programme. For this year, the programme provides our students with opportunities to apply Science concepts into creating novel toys. Prior to that, students would be guided to make connections to the application of Science concepts in common toys that they have played before.
+To build a culture of empathy, innovation, creativity and discovery in our students, they participated in our Design Thinking Programme. For this year, the programme provides our students&nbsp;with opportunities to apply Science concepts into creating novel toys. Prior to that, students would be guided to make connections to the application of Science concepts in common toys that they have played before.
 
-This programme has motivated our students to think out of the box – beyond what they are learning within the curriculum. The whole learning experience served as a stepping stone for our students to embark on external Science competitions.
+This programme has&nbsp;motivated our students to think out of the box – beyond what they are learning within the curriculum. The whole learning experience served as a stepping stone for our students to embark on external Science competitions.
 
 ![](/images/design%20thinking.jpg)
 
-*  **S.T.E.A.M. Activities**
+* &nbsp;**S.T.E.A.M. Activities**
 
- Besides the above enrichment programmes, our Science department also engages our students in S.T.E.A.M. activities during Science lessons to strengthen and support their learning in Science. Through these activities, opportunities for P.L.A.Y are provided as our students explore their potential as innovative inquirers.
+&nbsp;Besides the above enrichment programmes, our Science department also engages our students in S.T.E.A.M. activities during Science lessons to strengthen and support their learning in Science. Through these activities, opportunities for P.L.A.Y are provided as our students explore their potential as innovative inquirers.
 
- One such activity involves students creating models to demonstrate their learning such as the cell model, the lung model and the heart model. The hands-on activity has helped our students gain a better understanding of the content taught as they try to make connections of their observations on the models to the concepts learnt. At the same time, in the process of making the models, our students are encouraged to be creative and innovative in using the appropriate materials and designs.
+&nbsp;One such activity involves students creating models to demonstrate their learning such as the cell model, the lung model and the heart model. The hands-on activity has helped our students gain a better understanding of the content taught as they try to make connections of their observations on the models to the concepts learnt. At the same time, in the process of making the models, our students are encouraged to be creative and innovative in using the appropriate materials and designs.
  
  ![](/images/STEM.jpg)
  
@@ -95,7 +96,7 @@ This programme has motivated our students to think out of the box – beyond wh
 
 **Purpose**
 
-·    To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
+·&nbsp;&nbsp;&nbsp;&nbsp;To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
 
 **Process**
 
@@ -105,7 +106,7 @@ This programme has motivated our students to think out of the box – beyond wh
 
 **Programme**
 
-* Environmental Education infused Science Curriculum, Science Programmes and CCE
+* Environmental Education infused Science Curriculum, Science Programmes&nbsp;and CCE
 
 **ImPact**
 
@@ -122,22 +123,22 @@ This programme has motivated our students to think out of the box – beyond wh
 **Environment Education Curriculum**
 
 
-**(A)      Academic Programmes**
+**(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Programmes**
 
 Infusion of environmental concepts into our respective Science Programmes
  
 
-**(B)      Character and Citizenship Education**
+**(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education**
 
 Character and Citizenship Education engages students in activities where they are able to take actions to make a positive difference to the environment as they learn and partake in recycling drives, Values-in-Action programmes and interclass-competitions.
 
 
-**(C)      Student Leadership Development**
+**(C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Development**
 
 Leadership development is focused on developing a core team of Environmental Ambassadors who are able to lead the student population both at the class and school level to conserve our environment and drive the various environment activities.
 
 
-**(D)      Partnership**
+**(D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partnership**
 
 Partnership with organizations with programmes which can be tapped on to help promote our Environmental Education. We also engage the help of our Parent Support Group to collaborate with our Environment ambassadors in carrying out the various Environment activities in school.
 
@@ -148,13 +149,13 @@ Partnership with organizations with programmes which can be tapped on to help pr
 | Leadership development 	| - Environment Ambassadors to lead their classmates in green initiatives 	|
 | Partnership 	| - National Environment Agency<br>- Singapore Environment Council<br>- Public Utilities Board<br>- National Parks Board<br>- Parent Support Group (PSG) 	|
 
-●      **Science Leadership Programme**
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Science Leadership Programme**
 
 To build effective leadership skills within our Science Leaders, the Science Leadership Programme is held to equip students with necessary skills to carry out their duties well. The leadership programme is conducted at the start of every semester where students familiarise themselves with the various Science apparatus that they will be handling when assisting their teachers during every Science lesson. They are also briefed on the safety procedures when in the Science laboratories. This year, the Science Leaders were also invited to play a more active role in the promotion of love for the subject among their peers.
 
 ![](/images/Sci1.jpg)
 
-●      **TGIF**
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TGIF**
 
 The Science department firmly believes in infusing joy into the students’ learning. This year’s TGIF activities were conducted in the month of April this year with the theme of ‘Fun Science’. The P3 students engaged themselves in fun-filled activities such as funfair games and sports while learning more about the scientific concepts behind them. They also learned how to improve their effectiveness in succeeding at the games and at the same time, learn why the odds of carnival games are seldom in their favour. The other levels put their engineering skills to the test as the lower levels designed the best aluminium boats to hold the most marbles and the upper levels designed their own paper roller coaster! It was a truly fun and fulfilling experience for the students!
 

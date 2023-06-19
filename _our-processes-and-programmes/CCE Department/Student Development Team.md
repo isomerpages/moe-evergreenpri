@@ -2,19 +2,19 @@
 title: Student Development Team
 permalink: /our-processes-and-programmes/student-development-team/
 description: ""
-third_nav_title: Student Development Team
+third_nav_title: CCE Department
 ---
 # **Student Development Team**
 
 
 
-### EGPS STUDENT LEADERSHIP 
+### EGPS STUDENT LEADERSHIP&nbsp;
 
-In Evergreen Primary, we believe that every child is a leader. The Student Leadership Committee work with the teachers to create a positive learning environment to develop our students holistically.   
+In Evergreen Primary, we believe that every child is a leader. The Student Leadership Committee work with the teachers to create a positive learning environment to develop our students holistically.&nbsp;  
   
 The school has put in place a structured leadership development programme to develop the leadership qualities of  
 the students through the different tiers of leadership. They are given opportunities to develop 21st Core  
-Competencies (21CC) and Social-Emotional competencies.   
+Competencies (21CC) and Social-Emotional competencies.&nbsp;  
   
 In Evergreen Primary, we believe that every child has the potential to be developed as a leader. Every student possess his/her unique blend of abilities, inclinations and talents. Every student can make positive difference in his/her own right within his/her sphere of influence, and thereby a leader. By helping them to discover their strengths to take charge of their lives, students discover their unique value as leaders.  
   
@@ -49,7 +49,7 @@ To inculcate in our leaders the following:
 
 ### EGPS Leadership Structure
 
-* Based on level of influence and impact 
+* Based on level of influence and impact&nbsp;
 * Every student is given the opportunity to be developed as a leader at least per semester
 
 

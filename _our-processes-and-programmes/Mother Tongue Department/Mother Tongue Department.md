@@ -52,6 +52,8 @@ To make MTL a living language we strive to make learning of MT Languages joyful 
 
 **Mother Tongue Fortnight**
 
+![](/images/Department%20Photos/Mother%20Tongue/immersion%20programme%20(5).jpg)
+
 The EGPS Mother Tongue Fortnight was an exciting two-week event filled with diverse cultural activities, language competitions and learning experiences for our students to appreciate their own culture. The activities included Bunga Rampai, Pau Making, Thoranam, Opera Mask Painting, Puppetry, Kolam, and many more. 
 
 Throughout the Mother Tongue Fortnight, students had the opportunity to reflect on their learning and share their thoughts with their peers and teachers in class. They summarized their learning points and shared what they found most interesting and meaningful about the activities as well as reflecting on the importance of language learning and the cultural significance of different languages. 
@@ -59,6 +61,7 @@ Throughout the Mother Tongue Fortnight, students had the opportunity to reflect 
 Overall, the Mother Tongue Fortnight was a wonderful opportunity for students to explore and appreciate the diverse cultural traditions that make up Singapore's rich heritage. Through the participation of the various cultural activities and language competitions, they had gained a deeper understanding of different cultural practices and developed a greater appreciation for their own culture.
 
 **Primary 4 Mother Tongue Camp**
+![](/images/Department%20Photos/Mother%20Tongue/p4%20mt%20camp.jpg)
 
 The EGPS MT Cultural Camp was organized with the aim of providing a platform for Primary 4 students to learn and appreciate the cultural heritage of their respective mother tongues. The camp focused on promoting cross-culture understanding, exploring the history and fun facts of different cultures, and experiencing the excitement of traditional activities.
 
