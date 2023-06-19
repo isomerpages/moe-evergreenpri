@@ -65,4 +65,11 @@ This learning journey gave students a better understanding on the significance o
 
 | No | Name | Class | Results | Type of competition | 
 | -------- | -------- | -------- | -------- | -------- |
-1     | Angelina Ajeeth     | 5 Joy     | 1st Prize     | Singing Competition     |                 
+1     | Angelina Ajeeth     | 5 Joy     | 1st Prize     | Singing Competition     |
+
+3. Singing Competition organized by Sembawang Community Centre IAEC in conjunction with Tamil Language Festival
+
+| No | Name | Class | Results | Type of competition | 
+| -------- | -------- | -------- | -------- | -------- |
+1     | Jayaprakasam Joshith     | 3 Charity     | 1st Prize     | Singing Competition     |
+
