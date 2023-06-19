@@ -10,25 +10,28 @@ third_nav_title: Mother Tongue Department
 
 ### Objectives and Programmes
 
-1\. To achieve academic excellence
+      
+**1\. To achieve academic excellence**
 
-*   Banding of P3 to P6 students for Tamil Language Lessons.
-*   Structured strengthen and Mother Tongue Support Programme (MTSP) for students of various needs.   
+*   Customised worksheets that cater to students’ areas of concerns/focus
+*   Structured strengthen and Mother Tongue Support Programme (MTSP) Programme for students of various needs
 *   Structured and customised programmes to stretch the potential of the higher progress students.
-*   Reading Programme.   
-*   Customised (Differentiated) worksheets/learning package that cater to student’s areas of concerns/focus.   
-*   &nbsp; In-house enrichment courses (Creative Writing and e-Oral Workshop). 
-*   Learning Journeys for students (Local).
+*   Reading Programme
+*   Enrichment courses
+*   Learning journeys for students
+*   Subscription to Manavar Murasu
 
-2\. To arouse student’s interest in the languages through active participation in department activities
+**2\.** **To arouse students’ interest in the language through their active participation in department activities**
 
-*   Inter/Intra School Competitions (Aesthetic based and Language based competitions)
-    
-*   Deepavali Celebrations
-*   Mother Tongue Fortnight (Tamil Language Fiesta)
-*   P4 Mother Tongue Cultural Camp
-*   Tamil Amutham
-*   P5 Overseas Immersion Programme to Hangzhou/Sarawak
+*   Pongal Celebrations
+*   Primary 4 Mother Tongue Camp
+*   Mother Tongue Fortnight
+*   T.G.I.F.
+*   P5 E- Immersion Programme
+*   Inter/Intra School Competitions
+*   Deepavali Celebration
+
+2023 Tamil Unit Activities by Level
   
 
 ### P4 Cultural Camp
