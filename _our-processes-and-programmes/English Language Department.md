@@ -43,6 +43,7 @@ Aims:
 *	Develop reading readiness, positive attitudes & behaviours in students 
 *	Provide opportunities for students to process, comprehend, analyse, evaluate & appreciate texts 
 *	Provide opportunities for students to respond, enjoy & understand how grammatical items & semiotic modes are used in texts
+
 Through the Extensive Reading Programme & Library Activities, students learn how to appreciate multiple perspectives appreciate the contexts in which the texts are written, respond to the texts by giving their personal responses either verbally or in written form. There is also a heavy emphasis on developing students to be empathetic towards others through character studies. 
 
 
