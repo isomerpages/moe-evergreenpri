@@ -11,135 +11,71 @@ description: ""
 
 Every student a confident and competent user of the English Language.
 
-### Our Beliefs:
-
-We believe in building a strong foundation in students’ language skills and providing rich language for all. We believe that language is acquired through reading and frequent use.  
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Research on language learner reading shows how extensive reading feeds into improvements in all areas of language competence (Krashen 2004). As such, we have an array of programmes to promote reading. Opportunities are provided for students to read good books, listen to stories and voice their opinions.
-
-Language is also a tool for communication. The importance of speaking skills, hence is enormous for the learners of any language. It is important to speak correctly and effectively in-order to communicate well with one another. We have provided various platforms to allow our students to use language confidently through public performances, language games and activities.
-
-We hope to develop our students so that they can be confident and competent users of the English Language. 
 
 
 ### Approach:
 
-The English Language Department has adopted a two-pronged of building a strong foundation and providing rich language, focusing on reading and speaking.   Our reading and spoken English programmes are planned to enable our students to build their repertoire of vocabulary and grammar skills and use them in writing and oral presentations.  
+The English Language Department has adopted a two-pronged approach of building a strong foundation and providing rich language for all.
 
-### Key Events and Activities
+We believe that a strong foundation in language is acquired through reading and frequent use. As such, we have an array of programmes to promote reading. Opportunities are provided for students to read good books, listen to stories and voice their opinions.
 
+Language is also a tool for communication. The importance of speaking skills, hence, is enormous for the learners of any language. It is important to speak correctly and effectively in-order to communicate well with one another. We have provided various platforms to allow our students to use language confidently through public performances, language games and activities. 
 
-**Library and Reading Programmes: Assembly Talk**
+We also believe in giving opportunities to our students to apply the 21st century skills of communication, critical and creative thinking and collaboration. 
 
-At the beginning of the year, as part of our school library programme, an assembly talk was conducted by our teacher, Mdm Andrea and National Library Board Associate Librarian, Miss Shi Cheng.  The purpose of the assembly is to promote reading among students and to foster in them a greater appreciation for books. Our students were informed of the EGPS library activities planned for them.  They were also introduced to books of different genres. Miss Shi highlighted the initiatives and activities that our students could participate organised by NLB.
+As such, we have planned an array of programmes and activities that have been infused into the curriculum to help us achieve those aims. 
 
-  
+### Programmes &amp; Learning Experiences 
 
-Our library activities:
+*	Extensive Reading Programme &amp; Library Activities 
 
-* Class-based bulk book borrowing
-* Best book reviews – prizes for each level per term
-*  “Author of the month” display on the Library notice boards
-* Story Telling sessions by teachers and students
-* e-book Talk with a local author
-* e-books display during recess time
-* e-TGIF
-* Character Portrayal Day
-* **\*** Book Buzz ( by NLB)
+*	P1 to P4 Language Arts Module 
+*	T.G.I.F 
+*	Design Thinking 
+*	Support Programmes: RRP, SDR LSP &amp; KidsRead 
+*	Stretch Programmes: Writing &amp; Speaking Programmes
+*	Learning Journeys
 
-  
+**A)	Extensive Reading Programme &amp; Library Activities**
 
-### Writing Programme - Budding Writers
+Aims: 
 
-The writing programme aims to recognise and encourage budding writers in the school and boost their creativity and confidence in writing. Students were exposed to different writing genres and text types and provided with a platform to engage in constructive discourse with their peers during the writing process.  It also reinforced the language items taught in school and showed the connection of the different aspects of language.
+*	Develop reading readiness, positive attitudes &amp; behaviours in students 
+*	Provide opportunities for students to process, comprehend, analyse, evaluate &amp; appreciate texts 
+*	Provide opportunities for students to respond, enjoy &amp; understand how grammatical items &amp; semiotic modes are used in texts
 
-Budding writers from P5 and P6 were selected to be part of the programme at the start of the year. They are
+Through the Extensive Reading Programme &amp; Library Activities, students learn how to appreciate multiple perspectives appreciate the contexts in which the texts are written, respond to the texts by giving their personal responses either verbally or in written form. There is also a heavy emphasis on developing students to be empathetic towards others through character studies. 
 
-| Class 	| Name of Students 	|
-|---	|---	|
-| 5 Grace 	| Auni Hamizah Binte Zulkhairi 	|
-| 5 Grace 	| Ng Jun En 	|
-| 5 Joy 	| Mischqa Mersyha Binte Norhisham Iskhandar 	|
-| 6 Grace 	| Chiow Pei Ling 	|
-| 6 Grace 	| Ng Xing En 	|
-| 6 Joy 	| Quek Kai Li 	|
-| 6 Joy 	| Danda Harshitha Reddy 	|
-| 6 Joy 	| Naomi Chloe Gunda Corral 	|
-| 6 Joy 	| Sahu Swasti 	|
-| 6 Joy 	| Mendoza Cyril Jacob Gonzales 	|
+![](/images/Department%20Photos/English/english%20language%201.jpg)
 
-### Speaking Programme - Debate
+**B) P1 to P4 Language Arts Modules**
 
-The speaking programme focuses on developing critical thinking, research skills and communication skills in our students.
+To develop students’ confidence and competency in the spoken language, we have a 4-year matrix where students undergo an English Language Arts Module each year.
 
-Some P6 students were selected to be part of the programme at the start of the year. They are
+Primary 1: Choral Reading &amp; Poetry Recitation, Primary 2: Readers’ Theatre, <br>
+Primary 3: Drama, <br>
+Primary 4: Musical 
 
-| Class 	| Name of Students 	|
-|---	|---	|
-| 6 Grace 	| Carynn Wong Yan Yi 	|
-| 6 Joy 	| Naomi Chloe Gunda Corral 	|
-| 6 Joy 	| Sahu Swasti 	|
-| 6 Joy 	| Preeti D/O Raja 	|
-| 6 Joy 	| Arash Rayhan Sidhu 	|
+Through these modules, the students are exposed to a variety of strategies that allow them to develop their skills in communicating and performing. The Language Arts Modules provide the opportunities for students to develop their confidence and practice their oracy skills. At the end of each module, each class in the level will perform a short adaptation of a drama or a musical. This serves as a platform for the students to display their skills and talents. 
 
-These students also participated in three preliminary rounds of the Inter-school Debate Championship.  This Championship was jointly organised by the Gifted Education Branch with Debate Association (Singapore) and Raffles Institution (Secondary). Carynn Wong Yan Yi received the best speaker for the first round.   
+In Semester 1 2023, the Primary 2, 3 and 4 students put up a level performance for their parents. It was heartening to see the overwhelming support from our parents. A definite thumbs up to our students who persevered and put up a great performance. Let’s look forward to the Primary 1 students’ performance in Term 3.
 
-The students displayed great effort and teamwork. Well Done!
+![](/images/Department%20Photos/English/english%20language%205.jpg)
 
-![](/images/speakingprogram.jpg)
+**C) T.G.I.F - English**
 
-### Language Arts Programmes
+This year, the English Language Department collaborated with the Mother Tongue Department in planning the T.G.I.F. activities for the students on the last Friday of Term 2. The 2 language departments set up interesting and engaging booths to promote the love for the languages. Activities planned for the students served as a gateway for them to learn more about the various languages in a fun and meaningful way. In conjunction with T.G.I.F, the English Language Department also organized the Dress Up as Your Favourite Character Day. The students showed their creativity and enthusiasm by dressing up as character from a story. 
 
-To develop students’ confidence and competency in the spoken language, we have a 6-year matrix where students undergo an English Language Arts Programmes.
+![](/images/Department%20Photos/English/english%20language%202.jpg)
 
-**Term 2 2022**  
+**D)  Design Thinking**
 
-**Primary 2 Readers’ Theatre Performance**
+To further infuse critical and critical thinking skills in the learning of English Language, we have introduced Design Thinking to our Primary 1 to Primary 3 students. Design Thinking is a problem-solving process in which students learn how to communicate effectively &amp; with empathy, work collaboratively to find solutions for a problem, explore the needs and perspectives of the user, ask critical questions and be active problem solvers. By using stories or texts, students will analyse the problems faced by the characters and work collaboratively to design a solution to those problems. 
 
-Through the Reader’s Theatre module, the students were exposed to a variety of readers’ theatre strategies and were given opportunities to develop their skills in performing and communicating.  They also learnt to use the Standard English through thematic plays set in context. This year, their performances were uploaded online and parents were invited to watch the videos of their performances. It was heartening to see the students putting in their best effort.
+![](/images/Department%20Photos/English/english%20language%203.jpg)
 
-![](/images/p2%20theatre%20perf.jpg)
+**Partnership**
 
-**Term 2 2022**  
+We collaborate with Evergreen Secondary School students for the KidsRead programme. It is a reading programme that aims to promote the love of reading and cultivate good reading habits among the students. Students from Evergreen Secondary School volunteer their time to be Reading Buddies to the Primary 2 students.
 
-**Primary 3 Drama Performance**
-
-Through the Drama module, the students were given the opportunity to exercise their English speaking skills through Drama. It provided the young learners a platform to build their confidence and use the Standard English through thematic plays set in context. This year, their performances were uploaded online and parents were invited to watch the videos of their performances. The students did well and showed how adaptable they were despite the challenges that they faced initially.
-
-![](/images/p3%20EL.jpg)
-
-**Term 2 2021**
-
-**Primary 4 Musical Performance**
-
-Through the Musical Module, the students were exposed to a variety of musical strategies and were given opportunities to develop their skills in performing and communicating.  They also learnt to use the Standard English through thematic plays set in context.  Each class in the level performed a short adaptation of a musical. This served as a platform for the students to display their skills and talents. A definite thumbs up to our students who persevered and put up a great performance during the rehearsals.
-
-![](/images/p4%20EL.jpg)
-
-### TGIF - English
-
-English department took over the TGIF sessions in the month of March with fun-filled activities to appreciate the language arts and promote the speaking of Standard Singapore English.  Students were exposed to different theme based activities each week.
-
- We have:
-
-* Literary Writers - tie in with International Friendship Day (Week 3)
-* Speak Up! Listen Up! - in line with the Speak Standard Singapore English (Week 2)
-* modified word games (Week 1)
-
-Primary 1, 2, 3, 4 and 6 students were involved in the e-TGIF series of modified word games, speaking and writing activities.
-
-Primary 5 students were involved in the TGIF series where they participated in many fun-filled language related activities.
-
-**Week 1**
-
-![](/images/TGIF%20EL.jpg)
-
-**Week 2**
-
-![](/images/TGIF%20EL%20wk2.jpg)
-
-**Week 3**
-
-![](/images/TGIF%20EL%20wk3.jpg)
+![](/images/Department%20Photos/English/english%20language%204.jpg)
