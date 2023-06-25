@@ -46,6 +46,8 @@ Aims:
 
 Through the Extensive Reading Programme &amp; Library Activities, students learn how to appreciate multiple perspectives appreciate the contexts in which the texts are written, respond to the texts by giving their personal responses either verbally or in written form. There is also a heavy emphasis on developing students to be empathetic towards others through character studies. 
 
+![](/images/Department%20Photos/English/english%20language%201.jpg)
+
 **B) P1 to P4 Language Arts Modules**
 
 To develop students’ confidence and competency in the spoken language, we have a 4-year matrix where students undergo an English Language Arts Module each year.
@@ -58,15 +60,22 @@ Through these modules, the students are exposed to a variety of strategies that 
 
 In Semester 1 2023, the Primary 2, 3 and 4 students put up a level performance for their parents. It was heartening to see the overwhelming support from our parents. A definite thumbs up to our students who persevered and put up a great performance. Let’s look forward to the Primary 1 students’ performance in Term 3.
 
+![](/images/Department%20Photos/English/english%20language%205.jpg)
+
 **C) T.G.I.F - English**
 
 This year, the English Language Department collaborated with the Mother Tongue Department in planning the T.G.I.F. activities for the students on the last Friday of Term 2. The 2 language departments set up interesting and engaging booths to promote the love for the languages. Activities planned for the students served as a gateway for them to learn more about the various languages in a fun and meaningful way. In conjunction with T.G.I.F, the English Language Department also organized the Dress Up as Your Favourite Character Day. The students showed their creativity and enthusiasm by dressing up as character from a story. 
+
+![](/images/Department%20Photos/English/english%20language%202.jpg)
 
 **D)  Design Thinking**
 
 To further infuse critical and critical thinking skills in the learning of English Language, we have introduced Design Thinking to our Primary 1 to Primary 3 students. Design Thinking is a problem-solving process in which students learn how to communicate effectively &amp; with empathy, work collaboratively to find solutions for a problem, explore the needs and perspectives of the user, ask critical questions and be active problem solvers. By using stories or texts, students will analyse the problems faced by the characters and work collaboratively to design a solution to those problems. 
 
+![](/images/Department%20Photos/English/english%20language%203.jpg)
+
 **Partnership**
 
 We collaborate with Evergreen Secondary School students for the KidsRead programme. It is a reading programme that aims to promote the love of reading and cultivate good reading habits among the students. Students from Evergreen Secondary School volunteer their time to be Reading Buddies to the Primary 2 students.
 
+![](/images/Department%20Photos/English/english%20language%204.jpg)
