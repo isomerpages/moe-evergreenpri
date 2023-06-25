@@ -11,22 +11,17 @@ description: ""
 
 Every student a confident and competent user of the English Language.
 
-### Our Beliefs:
-
-We believe in building a strong foundation in students’ language skills and providing rich language for all. We believe that language is acquired through reading and frequent use.  
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Research on language learner reading shows how extensive reading feeds into improvements in all areas of language competence (Krashen 2004). As such, we have an array of programmes to promote reading. Opportunities are provided for students to read good books, listen to stories and voice their opinions.
-
-Language is also a tool for communication. The importance of speaking skills, hence is enormous for the learners of any language. It is important to speak correctly and effectively in-order to communicate well with one another. We have provided various platforms to allow our students to use language confidently through public performances, language games and activities.
-
-We hope to develop our students so that they can be confident and competent users of the English Language. 
 
 
 ### Approach:
 
-The English Language Department has adopted a two-pronged of building a strong foundation and providing rich language, focusing on reading and speaking.   Our reading and spoken English programmes are planned to enable our students to build their repertoire of vocabulary and grammar skills and use them in writing and oral presentations.  
+The English Language Department has adopted a two-pronged approach of building a strong foundation and providing rich language for all.
+
+We believe that a strong foundation in language is acquired through reading and frequent use. As such, we have an array of programmes to promote reading. Opportunities are provided for students to read good books, listen to stories and voice their opinions.
+Language is also a tool for communication. The importance of speaking skills, hence, is enormous for the learners of any language. It is important to speak correctly and effectively in-order to communicate well with one another. We have provided various platforms to allow our students to use language confidently through public performances, language games and activities. 
+We also believe in giving opportunities to our students to apply the 21st century skills of communication, critical and creative thinking and collaboration. 
+As such, we have planned an array of programmes and activities that have been infused into the curriculum to help us achieve those aims. 
+
 
 ### Key Events and Activities
 
