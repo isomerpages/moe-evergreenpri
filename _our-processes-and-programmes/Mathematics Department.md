@@ -47,6 +47,24 @@ The central focus of the Mathematics curriculum is to develop mathematical probl
 
 In EGPS, we provide differentiated approaches to teach our students to select and apply the appropriate concepts and skills and use logical reasoning and creative thinking to tackle tasks systematically and effectively. These approaches will also provide them the  opportunities to develop key competencies that are important in the 21st century.  
 
+*   Tier 1 : Learning of Heuristic Skills
+    
+
+Students will be exposed to different types of heuristics skills throughout the six years. They will be explicitly taught on to approach the different problems using Pólya’s 4 steps to Problem-Solving or the STAR approach – Study the Problem, Think of a Plan, Act and Execute, and Reflect and Check.
+
+*   Tier 2 : E2K lessons
+    
+Identified P3 to P5 students will be engaged in mathematical thinking through puzzles, games, and mathematics explorations, in collaboration with their peers. It aims to develop their mathematical reasoning skills, deepen their conceptual understanding through an inquiry approach, and develop the habits, attitudes and dispositions mathematicians possess and to develop 21st century competencies, such as critical and inventive thinking and effective communication skills.
+
+*   Tier 3 : External Competitions and Olympiad Trainings
+    
+
+Identified P4, P5 and P6 students will be exposed to a diverse range of activities that goes beyond the regular math curriculum and extend their capabilities. They explore challenging math problems, participate in group discussions, and receive specialised coaching. These sessions are specifically designed to foster the development of higher-order thinking skills, logical reasoning abilities, and problem-solving techniques among students. 
+
+Students will then get the opportunities to participate in various external and prestigious competitions.
+
+
+
 
 
 * **E2K**
