@@ -46,6 +46,9 @@ Aims:
 
 Through the Extensive Reading Programme & Library Activities, students learn how to appreciate multiple perspectives appreciate the contexts in which the texts are written, respond to the texts by giving their personal responses either verbally or in written form. There is also a heavy emphasis on developing students to be empathetic towards others through character studies. 
 
+**B) P1 to P4 Language Arts Modules**
+
+
 
 ### Key Events and Activities
 
