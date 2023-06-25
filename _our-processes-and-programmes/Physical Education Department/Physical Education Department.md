@@ -79,8 +79,6 @@ For TGIF PE, P1 to P6 students went through a variety of challenges and workouts
 
 For the P1 to P5 students, they took part in a weekly e-TGIF to do our PE department signature workout video Start With Exercise Actively Together (SWEAT) series. Through these activities, students were able to strengthen the camaraderie bonds with their peers by working and exercising together.
 
-![](/images/P1.jpg)
-
 ![](/images/P2.jpg)
 
 ![](/images/P3.jpg)
