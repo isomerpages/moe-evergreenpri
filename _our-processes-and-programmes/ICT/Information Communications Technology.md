@@ -57,6 +57,16 @@ Cyberwellness lessons are taught through authentic scenarios such as interactive
 
 ![](/images/Department%20Photos/ICT/ict%20picture%206.jpg)
 
+ 
+**Cyberwellness during CCE lessons**
+
+Every student in EGPS attends Cyberwellness during CCE lessons. These lessons are designed specifically for students to SHAPE, SENSE and THINK on how they can play a part to ensure that they become safe and responsible users of the internet.
+
+**Training of Cyberwellness Ambassadors to be advocates of Good Cyberwellness practices**
+
+Selected P4 – P6 students are trained to be Cyberwellness Ambassadors (CA). CyberWellness Ambassadors are selected to advocate good online safety habits and be role models in acceptable online behaviour. They will also engage in positive peer influence to spread Cyber Wellness messages amongst the student community. They are expected to carry out their duties during assembly and participate in external competitions. As part of their development, the ICT department organizes training sessions termly to equip them with the required skills. 
+
+
 ### ICT ENRICHMENT PROGRAMMES 
 
 **Code for Fun for Primary 4**
