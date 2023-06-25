@@ -92,25 +92,3 @@ In Term 1, the Math and Science departments collaborated to curate activities wh
 This also aims to develop and strengthen their social skills through interaction with their friends during play. This provides opportunities for students to exercise SEL competencies and to explore making choices of their own unstructured play.
 
 
-* **E2K**
-
-Identified P4 and P5 students will be engaged in mathematical thinking through puzzles, games and mathematics explorations, in collaboration with their peers. It aims to develop their mathematical reasoning skills, deepen their conceptual understanding through an inquiry approach, and develop the habits, attitudes and dispositions mathematicians possess and to develop 21st century competencies, such as critical and inventive thinking and effective communication skills.  
-  
-
-* **Mathematics Olympiad Training**
-
-Identified P4, P5 and P6 students will be equipped with the necessary Mathematical knowledge and repertoire of problem-solving and critical thinking skills to tackle higher-order and non-routine problems. Some of the competitions these students will take part include:
-
-* Singapore and Asian Schools Math Olympiad (SASMO)
-* Singapore Mathematical Olympiad for Primary Schools (SMOPS)
-
-#### GENERATING INTEREST IN MATH LEARNING
-
-* **Mathematics Trails**
-
-P1 to P3 students engage in meaningful learning experiences to interact with mathematics around them. Through complementing the content of Mathematics taught in the classroom, students apply mathematical skills to solve real-life problems, developing an appreciation and enjoyment of Mathematics in everyday situations.  
-  
-
-* **Mathematics Month**
-
-P1 to P6 students explore Math concepts, logic and reasoning skills through hands-on activities in structured play settings. This also aims to develop and strengthen their social skills through interaction with their friends during play. This provides opportunities for students to exercise SEL competencies and to explore making choices of their own unstructured play
