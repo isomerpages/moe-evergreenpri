@@ -48,6 +48,7 @@ The central focus of the Mathematics curriculum is to develop mathematical probl
 In EGPS, we provide differentiated approaches to teach our students to select and apply the appropriate concepts and skills and use logical reasoning and creative thinking to tackle tasks systematically and effectively. These approaches will also provide them the  opportunities to develop key competencies that are important in the 21st century.  
 
 
+
 * **E2K**
 
 Identified P4 and P5 students will be engaged in mathematical thinking through puzzles, games and mathematics explorations, in collaboration with their peers. It aims to develop their mathematical reasoning skills, deepen their conceptual understanding through an inquiry approach, and develop the habits, attitudes and dispositions mathematicians possess and to develop 21st century competencies, such as critical and inventive thinking and effective communication skills.  
