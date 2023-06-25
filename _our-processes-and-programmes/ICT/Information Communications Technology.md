@@ -8,19 +8,22 @@ third_nav_title: ICT
 
 ![](/images/Department%20Main%20Photos/img_3331.JPG)
 
-The approach for the ICT department focuses on quality learning and is aligned to MOE’s direction of Student-Centric and Values-Driven education. We are committed to effective use of technology for quality learning in support of the total curriculum - that is, to deepen subject mastery and develop 21st Century Competencies.
+The ICT department aims to create a technology-enriched learning environment that promotes the effective use of technology for quality teaching and learning, and a strong ICT curriculum to help our students develop the 21st Century Competencies.
 
-**Our Department Goal:** 
+### Vision:
 
-Quality Learning in the Hands of Every Learner – Empowered with Technology
+Every teacher a designer and facilitator of tech-mediated learning experiences.
+Every student an active learner and a responsible digital user.
 
-**Our Department Vision:**                   
+### Mission:
 
-Each student a technodexterous digital learner with positive attitudes in terms of technology use.
+To build teachers’ capacity to design, enact and assess with technology for active learning in class and beyond the classroom.
+To develop student’ ability to connect, create and curate information in a digital environment anchored on sound values.
 
-**Our Department Mission:**    
+### e-Pedagogy @ EGPS
+Our teachers are equipped with the knowledge and skills to design e-pedagogy lessons, leveraging on the affordances of ICT to enhance teaching and learning. The lessons are guided by the five key actions for lesson design, enactment and review.
 
-To develop students who can connect, create and curate information in a digital environment anchored on sound values.
+
 
 ### Student Learning Space
 ![](/images/ICT1.jpg)
