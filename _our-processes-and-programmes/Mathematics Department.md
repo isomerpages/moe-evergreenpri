@@ -29,7 +29,9 @@ To support the development of collaborative and communication skills, students w
 
 Learning Support for Mathematics (LSM) provides additional support to students who need help in acquiring basic numeracy skills. Identified students are taught in smaller groups during Math periods by specially trained teachers, where they learn through varied activities.  
 
+![](/images/Department%20Photos/Maths/lsm1%20-%20sufilizah%20samsuri.jpg)
 
+![](/images/Department%20Photos/Maths/lsm2%20-%20sufilizah%20samsuri.jpg)
 
 LSM support is provided up to 4 years, but students’ progress is reviewed annually. The LSM Programme focuses on building good mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. Students receive more individual attention from teacher and receive help in specific areas that they are weak in. 
 
@@ -47,6 +49,8 @@ The central focus of the Mathematics curriculum is to develop mathematical probl
 
 In EGPS, we provide differentiated approaches to teach our students to select and apply the appropriate concepts and skills and use logical reasoning and creative thinking to tackle tasks systematically and effectively. These approaches will also provide them the  opportunities to develop key competencies that are important in the 21st century.  
 
+![](/images/Department%20Photos/Maths/mathematics%201.jpg)
+
 *   Tier 1 : Learning of Heuristic Skills
     
 
@@ -63,7 +67,7 @@ Identified P4, P5 and P6 students will be exposed to a diverse range of activiti
 
 Students will then get the opportunities to participate in various external and prestigious competitions.
 
-
+![](/images/Department%20Photos/Maths/rvmc1%20-%20sufilizah%20samsuri.jpg)
 
 
 Some of the competitions these students will take part include:
@@ -86,9 +90,14 @@ Some of the competitions these students will take part include:
 
 One of EGPS’ signature programmes is T.G.I.F – That’s Great, It’s Friday! – where students come together to learn through P.L.A.Y.
 
+![](/images/Department%20Photos/Maths/tgif1%20-%20sufilizah%20samsuri.jpg)
+
+![](/images/Department%20Photos/Maths/tgif2%20-%20sufilizah%20samsuri.jpg)
 
 In Term 1, the Math and Science departments collaborated to curate activities which aimed to seamlessly blend Math and Science concepts in a fun and engaging way. Students explore Math concepts, logic, and reasoning skills through hands-on activities in structured play settings. 
 
 This also aims to develop and strengthen their social skills through interaction with their friends during play. This provides opportunities for students to exercise SEL competencies and to explore making choices of their own unstructured play.
 
+![](/images/Department%20Photos/Maths/tgif3%20-%20sufilizah%20samsuri.jpg)
 
+![](/images/Department%20Photos/Maths/tgif4%20-%20sufilizah%20samsuri.jpg)
