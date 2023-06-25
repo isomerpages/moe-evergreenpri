@@ -11,25 +11,42 @@ description: ""
 Every student a confident and independent problem solver.
 
 **Mission**   
-To inculcate in students positive attitudes towards mathematics learning and develop in them logical thinking for problem solving.  
+To inculcate in students, positive attitudes towards mathematics learning and develop in them logical thinking for problem solving.  
+ 
 
 **Learning Approach**
 
-In the teaching and learning of mathematics, the school believes in building a strong foundation in mathematics for our students. Students are engaged in the acquisition of mathematical concepts and skills through activity-based lessons using the Concrete-Pictorial-Abstract (C-P-A) approach. To develop a deep understanding of mathematical concepts, and to make sense of various mathematical ideas as well as their connections and applications, students are exposed to a variety of learning experiences including hands-on activities and use of ICT to help them relate abstract mathematical concepts with concrete experiences. In addition to the learning of mathematical concepts and skills, equally important are the development of mathematical process skills, metacognitive awareness and strategies. These processes are learned through carefully constructed learning experiences which include solving non-routine and open-ended problems where students have the opportunities to explore and discuss their solutions, to think aloud and reflect on their solutions. To support the development of collaborative and communication skills, students will be given opportunities to work on a problem and present their ideas using appropriate mathematical language and methods. Through collaborative learning, students build confidence in problem-solving and foster an interest towards learning mathematics.
+In the teaching and learning of mathematics, the school believes in building a strong foundation in mathematics for our students. 
+Students are engaged in the acquisition of mathematical concepts and skills through activity-based lessons using the Concrete-Pictorial-Abstract (C-P-A) approach. To develop a deep understanding of mathematical concepts, and to make sense of various mathematical ideas as well as their connections and applications, students are exposed to a variety of learning experiences including hands-on activities and use of ICT to help them relate abstract mathematical concepts with concrete experiences.
+In addition to the learning of mathematical concepts and skills, equally important are the development of mathematical process skills, metacognitive awareness, and strategies. These processes are learned through carefully constructed learning experiences which include solving non-routine and open-ended problems where students have the opportunities to explore and discuss their solutions, to think aloud and reflect on their solutions. 
+To support the development of collaborative and communication skills, students will be given opportunities to work on a problem and present their ideas using appropriate mathematical language and methods. Through collaborative learning, students build confidence in problem-solving and foster an interest towards learning mathematics.
 
-### Programmes
+
 
 #### PROVIDING LEARNING SUPPORT
 
 * **Learning Support for Mathematics (LSM)**
 
-Learning Support for Mathematics (LSM) is an early intervention effort aimed at providing additional support to P1 and P2 students who do not have foundational numeracy skills and knowledge to access the Primary 1 Maths curriculum. Identified students will be supported by a LSM Teacher for 9 periods a week through activity-based lessons focusing on small successes to build on their motivation.
+Learning Support for Mathematics (LSM) provides additional support to students who need help in acquiring basic numeracy skills. Identified students are taught in smaller groups during Math periods by specially trained teachers, where they learn through varied activities.  
+
+
+
+LSM support is provided up to 4 years, but students’ progress is reviewed annually. The LSM Programme focuses on building good mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. Students receive more individual attention from teacher and receive help in specific areas that they are weak in. 
+
 
 *  **Improving Confidence and Achievement in Numeracy (ICAN)**
 
-The ICAN programme aims to support low progress learners students using intervention strategies to tackle the 4 key issues of learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.
+The ICAN programme aims to support low progress learners who generally do not have a good understanding and mastery of fundamental mathematics concepts and skills. To help students learn and handle more difficult math concept and skills, teachers focus on building both conceptual understanding and procedural fluency in the instruction. 
+
+Instruction is organised using the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation – to keep in focus the important elements in each lesson. Through the varied intervention strategies, we hoped to tackle the 4 key issues of learning in our students - leaning gaps, language, motivation, and memory. 
+
 
 #### CHALLENGING AND DEVELOPING LEANERS TO THEIR POTENTIAL
+
+The central focus of the Mathematics curriculum is to develop mathematical problem-solving competency in our students. Students will have opportunities to solve varied mathematical problems which are straight forward and routine as well as complex and non-routine. 
+
+In EGPS, we provide differentiated approaches to teach our students to select and apply the appropriate concepts and skills and use logical reasoning and creative thinking to tackle tasks systematically and effectively. These approaches will also provide them the  opportunities to develop key competencies that are important in the 21st century.  
+
 
 * **E2K**
 
