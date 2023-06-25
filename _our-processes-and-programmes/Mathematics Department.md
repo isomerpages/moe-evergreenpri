@@ -66,6 +66,31 @@ Students will then get the opportunities to participate in various external and 
 
 
 
+Some of the competitions these students will take part include:
+
+●        Hwa Chong Institution Singapore Mathematical Olympiad of Singapore (SMOPS)
+
+●        NUS High School National Math Olympiad of Singapore (NMOS)
+
+●        Singapore and Asian Schools Competition (SASMO)
+
+●        Singapore Math Kangaroo Contest (SMKC)
+
+●        River Valley Math Challenge (RVMC)
+
+      
+
+**Generating Interest in Math Learning**
+
+●        **T.G.I.F (Collaboration with Science Department)**
+
+One of EGPS’ signature programmes is T.G.I.F – That’s Great, It’s Friday! – where students come together to learn through P.L.A.Y.
+
+
+In Term 1, the Math and Science departments collaborated to curate activities which aimed to seamlessly blend Math and Science concepts in a fun and engaging way. Students explore Math concepts, logic, and reasoning skills through hands-on activities in structured play settings. 
+
+This also aims to develop and strengthen their social skills through interaction with their friends during play. This provides opportunities for students to exercise SEL competencies and to explore making choices of their own unstructured play.
+
 
 * **E2K**
 
