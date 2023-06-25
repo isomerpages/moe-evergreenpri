@@ -38,6 +38,10 @@ Digital Literacy lessons are carried out as part of the Multi-Modal Programme (M
 At the lower primary level, students learn how to operate computing devices and use applications and software for learning. 
 At the middle and upper primary, students learn how to gather information, use digital resources in a safe and responsible manner, use software and devices to facilitate the use of knowledge and skills in different ways, produce digital products and collaborate online.
 
+![](/images/Department%20Photos/ICT/ict%20picture%203.jpg)
+
+![](/images/Department%20Photos/ICT/ict%20picture%204.jpg)
+
 ### Cyberwellness Curriculum
 
 Our cyberwellness curriculum aims to equip our students with skills to navigate the online space confidently and use technology healthily.
