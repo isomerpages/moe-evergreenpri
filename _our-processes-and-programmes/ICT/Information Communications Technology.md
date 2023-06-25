@@ -68,11 +68,13 @@ Every student in EGPS attends Cyberwellness during CCE lessons. These lessons ar
 
 Selected P4 – P6 students are trained to be Cyberwellness Ambassadors (CA). CyberWellness Ambassadors are selected to advocate good online safety habits and be role models in acceptable online behaviour. They will also engage in positive peer influence to spread Cyber Wellness messages amongst the student community. They are expected to carry out their duties during assembly and participate in external competitions. As part of their development, the ICT department organizes training sessions termly to equip them with the required skills. 
 
+![](/images/Department%20Photos/ICT/ict%20picture%2016.jpg)
+
 **Commemoration of Safer Internet Day and Assembly Talks**
 
 Safer Internet Day is commemorated in Term 1 every year. Through the Assembly talk and recess activities, our students gain a greater awareness of Internet Safety and arebetter equipped to handle online interactions in a respectful and responsible manner. Assembly Talks on other topics such as Appropriate Social Media Usage, Cyberbullying etc are also conducted termly. 
 
-
+![](/images/Department%20Photos/ICT/ict%20picture%2015.jpg)
 
 ### ICT ENRICHMENT PROGRAMMES 
 
