@@ -47,9 +47,9 @@ At the middle and upper primary, students learn how to gather information, use d
 Our cyberwellness curriculum aims to equip our students with skills to navigate the online space confidently and use technology healthily.
 The approach to Cyberwellness curriculum is guided by MOE’s Cyberwellness principles of:
 
-1.      Respect for Self and Others
-2.      Safe and Responsible Use
-3.      Positive Peer Influence
+1.   Respect for Self and Others
+2.  Safe and Responsible Use
+3.  Positive Peer Influence
 
 Cyberwellness lessons are taught through authentic scenarios such as interactive video discussions during the Form Teacher Guidance Period (FTGP) and sharing by Cyberwellness ambassadors during assembly.
 
