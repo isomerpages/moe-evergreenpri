@@ -18,9 +18,32 @@ Every student a confident and competent user of the English Language.
 The English Language Department has adopted a two-pronged approach of building a strong foundation and providing rich language for all.
 
 We believe that a strong foundation in language is acquired through reading and frequent use. As such, we have an array of programmes to promote reading. Opportunities are provided for students to read good books, listen to stories and voice their opinions.
+
 Language is also a tool for communication. The importance of speaking skills, hence, is enormous for the learners of any language. It is important to speak correctly and effectively in-order to communicate well with one another. We have provided various platforms to allow our students to use language confidently through public performances, language games and activities. 
+
 We also believe in giving opportunities to our students to apply the 21st century skills of communication, critical and creative thinking and collaboration. 
+
 As such, we have planned an array of programmes and activities that have been infused into the curriculum to help us achieve those aims. 
+
+### Programmes & Learning Experiences 
+
+*	Extensive Reading Programme & Library Activities 
+
+*	P1 to P4 Language Arts Module 
+*	T.G.I.F 
+*	Design Thinking 
+*	Support Programmes: RRP, SDR LSP & KidsRead 
+*	Stretch Programmes: Writing & Speaking Programmes
+*	Learning Journeys
+
+**A)	Extensive Reading Programme & Library Activities**
+
+Aims: 
+
+*	Develop reading readiness, positive attitudes & behaviours in students 
+*	Provide opportunities for students to process, comprehend, analyse, evaluate & appreciate texts 
+*	Provide opportunities for students to respond, enjoy & understand how grammatical items & semiotic modes are used in texts
+Through the Extensive Reading Programme & Library Activities, students learn how to appreciate multiple perspectives appreciate the contexts in which the texts are written, respond to the texts by giving their personal responses either verbally or in written form. There is also a heavy emphasis on developing students to be empathetic towards others through character studies. 
 
 
 ### Key Events and Activities
