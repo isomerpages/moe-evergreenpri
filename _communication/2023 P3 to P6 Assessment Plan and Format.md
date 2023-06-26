@@ -5,18 +5,18 @@ description: ""
 ---
 # **2023 P3 to P6 Assessment Plan and Format**
 
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P3_Assessment%20Format.pdf) for P3 Term 2 Assessment Format
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p3_assessment%20format.pdf) for P3 Term 3 Assessment Format
 
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P3%20Assessment%20Plan.pdf) for P3 Term 2 Assessment Plan
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p3%20assessment%20plan.pdf) for P3 Term 3 Assessment Plan
 
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P4_Assessment%20Format.pdf) for P4 Term 2 Assessment Format 
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p4_assessment%20format.pdf) for P4 Term 3 Assessment Format 
 
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P4_Assessment%20Plan.pdf) for P4 Term 2 Assessment Plan
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p4%20assessment%20plan.pdf) for P4 Term 3 Assessment Plan
   
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P5_Assessment%20Format.pdf) for P5 Term 2 Assessment Format 
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p5_assessment%20format.pdf) for P5 Term 3 Assessment Format 
  
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P5%20Assessment%20Plan.pdf) for P5 Term 2 Assessment Plan
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p5_assessment%20plan.pdf) for P5 Term 3 Assessment Plan
  
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P6_Assessment%20Format.pdf) for P6 Term 2 Assessment Format
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p6_assessment%20format.pdf) for P6 Term 3 Assessment Format
 
-Click [here](/files/Assessment%20Plan%20and%20Format/Term%202/2023_Term%202_P6%20Assessment%20Plan.pdf) for P6 Term 2 Assessment Plan
+Click [here](/files/Assessment%20Plan%20and%20Format/Term%203/2023_term%203_p6%20assessment%20plan.pdf) for P6 Term 3 Assessment Plan
