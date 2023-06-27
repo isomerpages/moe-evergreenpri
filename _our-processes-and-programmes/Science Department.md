@@ -144,3 +144,9 @@ The objective of the collection drive is to create awareness that electronic was
 Partnering with Singapore’s main E-waste recycling company, ALBA, an information, and game booth was set up for students to develop an understanding that Singapore currently has only one landfill, which will run out of space by 2035. The students also learnt that Singapore may not have enough land or sea space to build incineration plants and landfills.
 
 Through our Environmental Education programme, we aim to inspire our students to become environmentally conscious and responsible individuals who will contribute towards a sustainable future for Singapore and the world.
+
+### Applied Learning Programme – Environmental Innovators and Agents of Change (Sustainability)
+
+We are committed to providing our students with a holistic education that prepares them for challenges in the future. Our Applied Learning Programme (ALP) is designed to cultivate a deep understanding of sustainability principles and empower our students to become agents of positive change in their communities.
+
+Our P4 students were involved in the Reduce Carbon Footprint Programme. Students actively engage in various activities aimed at reducing their environmental impact. Using the Design Thinking Approach, students explore strategies to make sustainable choices in their daily lives and inspire others to do the same. Our students participated in energy-saving initiatives such as optimising energy usage in classrooms and common areas. They also learn about renewable energy sources and how they can contribute to a greener future. 
