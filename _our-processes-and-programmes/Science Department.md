@@ -135,3 +135,10 @@ Our Environmental Education Programme is designed to foster a deep understanding
 To inculcate recycling habits in our students, our schools participated in the RVM School Education Programme under the Recycle N Save initiative by NEA.
 
 We organised activities during Earth Week to encourage the practice of the 3Rs (Reduce, Reuse, Recycle) among the students. Students experienced the use of the Reverse Vending Machine located at the canteen where they recycled used plastic bottles.
+
+<u>E-waste Recycling</u>
+
+As part of our efforts to promote sustainability and environmental education, we organized an E-Waste collection drive.
+The objective of the collection drive is to create awareness that electronic waste can be reused and recycled if handled and dismantled properly. We hope to educate our students that the reuse and recycling of e-waste would conserve our planet’s finite resources and cut the amount of waste going to our incineration plants and landfill. 
+ 
+Partnering with Singapore’s main E-waste recycling company, ALBA, an information, and game booth was set up for students to develop an understanding that Singapore currently has only one landfill, which will run out of space by 2035. The students also learnt that Singapore may not have enough land or sea space to build incineration plants and landfills.
