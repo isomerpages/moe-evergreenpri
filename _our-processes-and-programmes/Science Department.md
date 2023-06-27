@@ -123,3 +123,15 @@ To build effective leadership skills within our Science Leaders, the Science Lea
 The Science department firmly believes in infusing joy into the students’ learning. This year’s TGIF activities were conducted in the month of April this year with the theme of ‘Fun Science’. The P3 students engaged themselves in fun-filled activities such as funfair games and sports while learning more about the scientific concepts behind them. They also learned how to improve their effectiveness in succeeding at the games and at the same time, learn why the odds of carnival games are seldom in their favour. The other levels put their engineering skills to the test as the lower levels designed the best aluminium boats to hold the most marbles and the upper levels designed their own paper roller coaster! It was a truly fun and fulfilling experience for the students!
 
 ![](/images/Sci2.jpg)
+
+### Environmental Education Programme
+
+We believe in nurturing young minds to become responsible global citizens who are aware of and care for the environment. We are committed to providing environmental education to our students, equipping them with the knowledge and skills necessary to make a positive impact on the world around them. 
+
+Our Environmental Education Programme is designed to foster a deep understanding of environmental issues and inspire sustainable actions. We implement eco-friendly practices throughout the school compound. We have green spaces that serve as outdoor classrooms, allowing students to connect with nature and learn in a natural setting. We have also implemented recycling initiatives, energy-saving measures, and water conservation programs to minimise our ecological footprint.
+
+<u>Plastic Recycling</u>
+
+To inculcate recycling habits in our students, our schools participated in the RVM School Education Programme under the Recycle N Save initiative by NEA.
+
+We organised activities during Earth Week to encourage the practice of the 3Rs (Reduce, Reuse, Recycle) among the students. Students experienced the use of the Reverse Vending Machine located at the canteen where they recycled used plastic bottles.
