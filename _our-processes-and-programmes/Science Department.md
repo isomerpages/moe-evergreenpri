@@ -23,32 +23,6 @@ In our day-to-day teaching of inquiry-based Science, our teachers focus on askin
 
 To provide an appealing and non-threatening way to represent abstract concepts and ideas. concept cartoons which are “cartoon-style” drawings presenting characters with different viewpoints around a particular situation are used at different stages of a lesson – as a trigger to get students to tune in, as an activity to elicit students’ responses and generate discussion, as a means to clear misconceptions or as a means of summarizing the topic at the end. Science lessons thus becomes more interactive and student-centred as students are actively involved in their learning: verbalize their ideas and thoughts. Participating in such discussion also lets students hone their communication skills and in the process allows teachers to gain important insights into their students’ understanding.&nbsp;  
 
-  
-
-#### Reflective Thinking Routine
-
-Reflective thinking helps learners develop higher-order thinking skills by prompting learners to relate new knowledge to prior understanding, think in both abstract and conceptual terms, apply specific strategies in novel tasks, and understand their own thinking and learning strategies. The use of thinking routine ‘I used to think...but now I think” strategy helps students to reflect on their thinking about a topic or issue and explore how and why that thinking has changed. It is useful in consolidating new learning as students identify their new understandings, opinions, and beliefs. By examining and explaining how and why their thinking has changed, students are developing their reasoning abilities and recognizing cause and effect relationships.  
-
- 
-#### Mapping Across Curriculum (MAC)
-
-MAC allows teachers to use personal, local or global events to stimulate students’ exploration and questions. Students are provided with the opportunities to apply concepts in varied contexts through authentic learning, use of ICT, self-directed as well as collaborative learning experiences that promote students’ scientific literacy and make science learning more meaningful. It is also aim to inculcate the skills, ethics and attitudes of the 21st Century Competencies, such as Civic Literacy, Global Awareness and Cross-cultural Skills, Critical and Inventive Thinking, and Communication, Collaboration and Information Skills in order to realize our vision of seeing our students growing up to become confident people, self-directed learners, concerned citizens, and active contributors to the nation.  
-
-  
-
-### JUNIOR SCIENCE PROGRAMME
-
-This programme is mainly integrated into the teaching of English in Primary 1 and Primary 2. However, there are selected stand-alone hands-on activities conducted by our Science teachers for Primary 1 and Primary 2 students once per semester. The Junior Science programme also taps on the natural curiosity of the Primary 1 and 2 students, to further develop their interest science.&nbsp;  
-
-  
-
-### ELEMENTZ SCIENCE PROJECT COMPETITION  
-
-Students who have shown high level of inquisitiveness and innovation during the Engineering Design Programme, will be invited to take part in this annual competition organised by Anderson Junior College at the cluster level. The competition provides a platform for students to showcase their research projects and presentation skills.
-
-![](/images/ESPC.jpg)
-
-![](/images/ESPC1.jpg)
 
 ### iWonder  
 
