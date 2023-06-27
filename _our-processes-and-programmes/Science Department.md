@@ -23,7 +23,6 @@ In our day-to-day teaching of inquiry-based Science, our teachers focus on askin
 
 To provide an appealing and non-threatening way to represent abstract concepts and ideas. concept cartoons which are “cartoon-style” drawings presenting characters with different viewpoints around a particular situation are used at different stages of a lesson – as a trigger to get students to tune in, as an activity to elicit students’ responses and generate discussion, as a means to clear misconceptions or as a means of summarizing the topic at the end. Science lessons thus becomes more interactive and student-centred as students are actively involved in their learning: verbalize their ideas and thoughts. Participating in such discussion also lets students hone their communication skills and in the process allows teachers to gain important insights into their students’ understanding.&nbsp;  
 
-  
 
 ### iWonder  
 
