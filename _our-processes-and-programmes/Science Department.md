@@ -142,3 +142,5 @@ As part of our efforts to promote sustainability and environmental education, we
 The objective of the collection drive is to create awareness that electronic waste can be reused and recycled if handled and dismantled properly. We hope to educate our students that the reuse and recycling of e-waste would conserve our planet’s finite resources and cut the amount of waste going to our incineration plants and landfill. 
  
 Partnering with Singapore’s main E-waste recycling company, ALBA, an information, and game booth was set up for students to develop an understanding that Singapore currently has only one landfill, which will run out of space by 2035. The students also learnt that Singapore may not have enough land or sea space to build incineration plants and landfills.
+
+Through our Environmental Education programme, we aim to inspire our students to become environmentally conscious and responsible individuals who will contribute towards a sustainable future for Singapore and the world.
