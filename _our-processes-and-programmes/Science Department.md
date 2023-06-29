@@ -118,11 +118,7 @@ To build effective leadership skills within our Science Leaders, the Science Lea
 
 ![](/images/Sci1.jpg)
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TGIF**
 
-The Science department firmly believes in infusing joy into the students’ learning. This year’s TGIF activities were conducted in the month of April this year with the theme of ‘Fun Science’. The P3 students engaged themselves in fun-filled activities such as funfair games and sports while learning more about the scientific concepts behind them. They also learned how to improve their effectiveness in succeeding at the games and at the same time, learn why the odds of carnival games are seldom in their favour. The other levels put their engineering skills to the test as the lower levels designed the best aluminium boats to hold the most marbles and the upper levels designed their own paper roller coaster! It was a truly fun and fulfilling experience for the students!
-
-![](/images/Sci2.jpg)
 
 ### Environmental Education Programme
 
@@ -174,4 +170,4 @@ We believe in nurturing young minds and providing them with opportunities to exc
 
 ### Science E2K Programme
 
-The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science. 
+The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science.
