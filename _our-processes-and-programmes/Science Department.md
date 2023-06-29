@@ -132,6 +132,12 @@ To inculcate recycling habits in our students, our schools participated in the R
 
 We organised activities during Earth Week to encourage the practice of the 3Rs (Reduce, Reuse, Recycle) among the students. Students experienced the use of the Reverse Vending Machine located at the canteen where they recycled used plastic bottles.
 
+![](/images/Department%20Photos/Science/science%20dept%202023%201.jpg)
+
+***(Recycling used plastic bottles at the Reverse Vending Machine)***
+
+![](/images/Department%20Photos/Science/science%20dept%202023%202.jpg)
+
 <u>E-waste Recycling</u>
 
 As part of our efforts to promote sustainability and environmental education, we organized an E-Waste collection drive.
