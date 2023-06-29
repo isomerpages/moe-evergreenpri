@@ -23,14 +23,14 @@ To develop student’ ability to connect, create and curate information in a dig
 ### e-Pedagogy @ EGPS
 Our teachers are equipped with the knowledge and skills to design e-pedagogy lessons, leveraging on the affordances of ICT to enhance teaching and learning. The lessons are guided by the five key actions for lesson design, enactment and review.
 
-![](/images/Department%20Photos/ICT/ict%20picture%201.jpg)
+![](/images/Department%20Photos/ICT/(Updated)/ict%20-%20edtech.jpg)
 
 ### ICT CURRICULUM
 
 At Evergreen Primary, we engage students in acquiring New Media Literacies through Digital Literacy lessons and Cyberwellness lessons to equip them with the knowledge and skills to navigate and participate productively and to enable them to develop an understanding of the social practices governing the internet.
 These lessons include elements of New Media Literacy – namely, the ability to Create, Connect and Curate information in the digital networked environment. As seen in the framework by MOE, the six core values of the 21st CC are in the heart of these interactions which anchor the learning experiences to develop a discerning and responsible user of technology.
 
-![](/images/Department%20Photos/ICT/ict%20picture%202.jpg)
+![](/images/Department%20Photos/ICT/(Updated)/ict_nml.jpg)
 
 ### Digital Literacy Lessons
 
@@ -38,9 +38,7 @@ Digital Literacy lessons are carried out as part of the Multi-Modal Programme (M
 At the lower primary level, students learn how to operate computing devices and use applications and software for learning. 
 At the middle and upper primary, students learn how to gather information, use digital resources in a safe and responsible manner, use software and devices to facilitate the use of knowledge and skills in different ways, produce digital products and collaborate online.
 
-![](/images/Department%20Photos/ICT/ict%20picture%203.jpg)
-
-![](/images/Department%20Photos/ICT/ict%20picture%204.jpg)
+![](/images/Department%20Photos/ICT/(Updated)/ict%20-%20digital%20literacies.jpg)
 
 ### Cyberwellness Curriculum
 
