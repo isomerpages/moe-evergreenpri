@@ -153,6 +153,12 @@ We are committed to providing our students with a holistic education that prepar
 
 Our P4 students were involved in the Reduce Carbon Footprint Programme. Students actively engage in various activities aimed at reducing their environmental impact. Using the Design Thinking Approach, students explore strategies to make sustainable choices in their daily lives and inspire others to do the same. Our students participated in energy-saving initiatives such as optimising energy usage in classrooms and common areas. They also learn about renewable energy sources and how they can contribute to a greener future.
 
+![](/images/Department%20Photos/Science/science%20dept%202023%203.jpg)
+
+***(Students engaged in brainstorming sustainable solutions for the school environment)***
+
+![](/images/Department%20Photos/Science/science%20dept%202023%204.jpg)
+
 Our P3 students were involved in the Farm to Table Programme. It provides a unique opportunity to understand the journey of food from its source to the table. Through this experiential learning initiative, students gain deeper appreciation for the value of locally sourced and sustainable food. 
 
 Students learn about the challenges in land scarce Singapore and get hands-on experience in planting, tending, and harvesting crops, witnessing the transformation from seeds to fully grown produce using the Hydroponics system. They also explore the environmental impact of different food production systems and learn about the benefits of consuming locally grown, seasonal produce. Through this project, students develop a strong connection between their food choices and the environment, encouraging them to make conscious decisions that support sustainability.
@@ -162,6 +168,8 @@ Sustainability aims to equip students with the knowledge, skills and values need
 ### T.G.I.F
 
 We believe in providing our students with exciting opportunities to explore science beyond the boundaries of the classroom. Our TGIF Programme is a platform for our students to dive deeper into scientific adventures. It aims to extend and expose students to a range of science disciples, encouraging them to explore and question the world around them. 
+
+![](/images/Department%20Photos/Science/science%20dept%202023%205.jpg)
 
 ### Science SPARKS Programme
 
