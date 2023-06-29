@@ -44,6 +44,8 @@ At the middle and upper primary, students learn how to gather information, use d
 
 ### Cyberwellness Curriculum
 
+![](/images/Department%20Photos/ICT/(Updated)/ict%20-%20cyberwellness%20main.JPG)
+
 Our cyberwellness curriculum aims to equip our students with skills to navigate the online space confidently and use technology healthily.
 The approach to Cyberwellness curriculum is guided by MOE’s Cyberwellness principles of:
 
