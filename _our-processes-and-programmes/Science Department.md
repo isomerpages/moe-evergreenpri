@@ -178,10 +178,24 @@ We believe that early exposure to science and experiential learning not only dev
 
 Through hands-on activities and inquiry-based learning, our programme provides students with exciting opportunities to explore and discover the fascinating world of science. We believe that by actively participating in experiments and investigations, students develop a deeper understanding of scientific concepts while nurturing their natural sense of wonder.
 
+![](/images/Department%20Photos/Science/science%20dept%202023%206.jpg)
+
 ### Science Olympiad Training and Competition Programme
 
 We believe in nurturing young minds and providing them with opportunities to excel in the field of science. Our Science Olympiad Training and Competition programme is designed to challenge and inspire our students, allowing them to showcase their scientific knowledge and problem-solving skills in a competitive platform. Our training programme covers various scientific disciplines including biology, chemistry, physics, earth science, and engineering. Students delve deep into these subjects, developing analytical and critical thinking skills, fostering creativity, and enhancing teamwork and collaboration abilities. 
 
+![](/images/Department%20Photos/Science/science%20dept%202023%207.jpg)
+
+***(P5 Science Olympiad Students who received the certificate of participation)***
+
 ### Science E2K Programme
 
 The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science.
+
+![](/images/Department%20Main%20Photos/science.jpeg)
+
+***(P4 E2K - Investigating the effects of UV light)***
+
+![](/images/Department%20Photos/Science/science%20dept%202023%208.jpg)
+
+***(P5 E2K - Designing a toy car and investigating the factors that affects the distance travelled)***
