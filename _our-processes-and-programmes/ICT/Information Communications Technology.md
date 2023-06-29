@@ -98,10 +98,4 @@ This programme is compulsory for all Primary 4 students to equip them with basel
 
 As part of the MMP, our P5 students learn how to create digital animation using iPads. The lessons span over a term where students learn about the principles of storyboarding and the use of animation app to create their works. To make learning authentic, they are tasked to create animations to help spread the messages tied to our school campaign and/or programmes (such as the ‘zero-bullying’ campaign).
 
-![](/images/Department%20Photos/ICT/ict%20picture%209.jpg)
-
-![](/images/Department%20Photos/ICT/ict%20picture%2010.jpg)
-
-![](/images/Department%20Photos/ICT/ict%20picture%2011.jpg)
-
-![](/images/Department%20Photos/ICT/ict%20picture%2012.jpg)
+![](/images/Department%20Photos/ICT/(Updated)/ict%20-%20digital%20animation.jpg)
