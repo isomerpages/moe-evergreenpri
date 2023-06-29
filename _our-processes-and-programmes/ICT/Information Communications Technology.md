@@ -54,11 +54,6 @@ The approach to Cyberwellness curriculum is guided by MOE’s Cyberwellness prin
 3.  Positive Peer Influence
 
 Cyberwellness lessons are taught through authentic scenarios such as interactive video discussions during the Form Teacher Guidance Period (FTGP) and sharing by Cyberwellness ambassadors during assembly.
-
-![](/images/Department%20Photos/ICT/ict%20picture%205.jpg)
-
-![](/images/Department%20Photos/ICT/ict%20picture%206.jpg)
-
  
 **Cyberwellness during CCE lessons**
 
