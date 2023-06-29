@@ -153,4 +153,25 @@ Our P4 students were involved in the Reduce Carbon Footprint Programme. Students
 
 Our P3 students were involved in the Farm to Table Programme. It provides a unique opportunity to understand the journey of food from its source to the table. Through this experiential learning initiative, students gain deeper appreciation for the value of locally sourced and sustainable food. 
 
-Students learn about the challenges in land scarce Singapore and get hands-on experience in planting, tending, and harvesting crops, witnessing the transformation from seeds to fully grown produce using the Hydroponics system. They also explore the environmental impact of different food production systems and learn about the benefits of consuming locally grown, seasonal produce. Through this project, students develop a strong connection between their food choices and the environment, encouraging them to make conscious decisions that support sustainability. 
+Students learn about the challenges in land scarce Singapore and get hands-on experience in planting, tending, and harvesting crops, witnessing the transformation from seeds to fully grown produce using the Hydroponics system. They also explore the environmental impact of different food production systems and learn about the benefits of consuming locally grown, seasonal produce. Through this project, students develop a strong connection between their food choices and the environment, encouraging them to make conscious decisions that support sustainability.
+
+Sustainability aims to equip students with the knowledge, skills and values needed to tackle real-world sustainability challenges. Through these programmes students develop critical thinking, problem-solving, and collaboration skills while nurturing a sense of responsibility towards the environment and their community.
+
+### T.G.I.F
+
+We believe in providing our students with exciting opportunities to explore science beyond the boundaries of the classroom. Our TGIF Programme is a platform for our students to dive deeper into scientific adventures. It aims to extend and expose students to a range of science disciples, encouraging them to explore and question the world around them. 
+
+### Science SPARKS Programme
+
+Our Science SPARKS programme is specifically designed for Primary 1 and Primary 2 students, aiming to ignite their curiosity and develop a lifelong interest in science. 
+We believe that early exposure to science and experiential learning not only develops students’ interest in the subject but also cultivates essential thinking skills that will benefit them in all areas of their academic journey. The programme sets the foundation for future scientific exploration and fosters a growth mindset among our students.  
+
+Through hands-on activities and inquiry-based learning, our programme provides students with exciting opportunities to explore and discover the fascinating world of science. We believe that by actively participating in experiments and investigations, students develop a deeper understanding of scientific concepts while nurturing their natural sense of wonder.
+
+### Science Olympiad Training and Competition Programme
+
+We believe in nurturing young minds and providing them with opportunities to excel in the field of science. Our Science Olympiad Training and Competition programme is designed to challenge and inspire our students, allowing them to showcase their scientific knowledge and problem-solving skills in a competitive platform. Our training programme covers various scientific disciplines including biology, chemistry, physics, earth science, and engineering. Students delve deep into these subjects, developing analytical and critical thinking skills, fostering creativity, and enhancing teamwork and collaboration abilities. 
+
+### Science E2K Programme
+
+The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science. 
