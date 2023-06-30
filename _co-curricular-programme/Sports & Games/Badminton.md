@@ -24,4 +24,4 @@ Through participation in the Badminton CCA, our students get the opportunity to 
 
 ![](/images/CCA%20Photos/Badminton/badminton%201.jpeg)
 
-![](/images/CCA%20Photos/Badminton/badminton%202.jpeg)
+![](/images/CCA%20Photos/Badminton/badminton2.jpeg)
