@@ -77,13 +77,17 @@ The smiles on the faces of the staff and students as they made their way back to
 
 1.  The 13th “Global Village” Children & Youths Bilingual Speech Conference 2022
     
-
-
 | Name of student | Class of student in award year | Award |
 | -------- | -------- | -------- |
 |  ADRIAN CHAN JIA LE   |   4 CHARITY   |   1ST Prize   |
 |   TEH EN XIN  |   4 GRACE   |   2ND Prize   |
 |   MAO HAO CHEN  |   5 JOY   |   3RD Prize   |
+
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/img_4846.JPG)
+
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/img_4855.JPG)
+
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/img_4878.JPG)
 
 **2. North Zone Schools (Primary / Secondary) Chinese Speech Competition 2023**
 
@@ -91,3 +95,5 @@ The smiles on the faces of the staff and students as they made their way back to
 | -------- | -------- | -------- |
 |   TEH EN XIN  |   4 GRACE   |   Most Promising Award   |
 |   CHONG ZHI YU  |   5 CHARITY   |   Most Promising Award   |
+
+![](/images/Department%20Photos/Mother%20Tongue/Chinese/img_4890.JPG)

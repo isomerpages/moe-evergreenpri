@@ -18,7 +18,7 @@ The ICT department aims to create a technology-enriched learning environment tha
 ### Mission:
 
 * To build teachers’ capacity to design, enact and assess with technology for active learning in class and beyond the classroom.
-* To develop student’ ability to connect, create and curate information in a digital environment anchored on sound values.
+* To develop students’ ability to connect, create and curate information in a digital environment anchored on sound values.
 
 ### e-Pedagogy @ EGPS
 Our teachers are equipped with the knowledge and skills to design e-pedagogy lessons, leveraging on the affordances of ICT to enhance teaching and learning. The lessons are guided by the five key actions for lesson design, enactment and review.
