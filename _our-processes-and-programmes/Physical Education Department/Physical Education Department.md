@@ -32,7 +32,9 @@ R.E.G.G.I. – **R**espect | **E**mpathy | **G**raciousness | **G**rit | **I**nt
 
 Education in Movement (psychomotor), through Movement (affective), about Movement (cognitive) 
 
+<center>A.C.T.I.V.E.</center>
 
+![](/images/Department%20Photos/PE/pe%20dept%202023.jpg)
 
 | Play Approach in PE | Safety at Play  | 
 | -------- | -------- | 
@@ -204,4 +206,4 @@ Outdoor Camping is one of the ways that can used to build Grit, as students can 
 
 The P5 Camp was held this year at Pasir Ris Heritage Chalet, to build on the above mentioned objectives. Students underwent a variety of outdoor learning activities as they worked together in their groups. It was a fun-filled and meaningful 3 day 2 night camp which culminated in a campfire highlighting individual class performances. 
 
-At EGPS, we strive to provide a mix of learning experiences for each student, with purpose and passion. 
+At EGPS, we strive to provide a mix of learning experiences for each student, with purpose and passion.
