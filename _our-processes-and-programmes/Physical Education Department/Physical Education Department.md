@@ -16,7 +16,29 @@ Every student is active, healthy, physically competent and socially adept.
 
 Empower students with physical knowledge, skills, practices and values to enjoy a lifetime of active, healthy living. 
 
+### School Values 
 
+R.E.G.G.I. – **R**espect | **E**mpathy | **G**raciousness | **G**rit | **I**ntegrity 
+
+### Youth Olympic Values 
+
+* ***Respect*** – fair play; knowing one’s own limits; and taking care of one’s health and the environment 
+
+* ***Excellence*** – how to give the best of oneself, on the field of play or in life; taking part; and progressing according to one’s own objectives 
+
+* ***Friendship*** – how, through sport, to understand each other despite any differences ***(friendship above competition)***
+
+### PE Department Approach in PE 
+
+Education in Movement (psychomotor), through Movement (affective), about Movement (cognitive) 
+
+
+
+| Play Approach in PE | Safety at Play  | 
+| -------- | -------- | 
+| Play Hard (Grit)      | Think Safe      | 
+| Play Fair (Respect, Empathy, Integrity)       | Play Safe      | 
+| Play Safe (Graciousness)      | Stay Safe      | 
 
 ### Key Events and Activities
 
