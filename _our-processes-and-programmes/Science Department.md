@@ -55,62 +55,7 @@ This programme has&nbsp;motivated our students to think out of the box – beyon
  ![](/images/S7.jpg)
  Various types of cell models created by our students were exhibited as part of an educational display for students from the other levels. This is also to recognise their efforts in making these models.
  
- **Environmental Education 2021**
 
-**Purpose**
-
-·&nbsp;&nbsp;&nbsp;&nbsp;To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
-
-**Process**
-
-* To identify topics in the Science syllabus that relates to an environmental issue and promote awareness.
-* To work with Science Programme drivers to infuse environmental topics in the programmes
-* Create lessons and projects that will raise awareness so that students recognise the importance of respecting, appreciating and taking responsibility and actions to take care of our environment.
-
-**Programme**
-
-* Environmental Education infused Science Curriculum, Science Programmes&nbsp;and CCE
-
-**ImPact**
-
-* All students will be provided with opportunities to acquire the knowledge, values, attitudes, commitment and skills needed to protect and improve the environment.
-
-| Programme 	| Primary 1 	| Primary 2 	| Primary 3 	| Primary 4 	| Primary 5 	| Primary 6 	|
-|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Science Curriculum 	|   	|   	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
-| STEAM 	|   	|   	|   	| ✓ 	| ✓ 	|   	|
-| IPW 	|   	|   	|   	| ✓ 	|   	|   	|
-| TGIF 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
-| CCE (VIA) 	| ✓ 	| ✓ 	|   	|   	|   	|   	|
-
-**Environment Education Curriculum**
-
-
-**(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Programmes**
-
-Infusion of environmental concepts into our respective Science Programmes
- 
-
-**(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education**
-
-Character and Citizenship Education engages students in activities where they are able to take actions to make a positive difference to the environment as they learn and partake in recycling drives, Values-in-Action programmes and interclass-competitions.
-
-
-**(C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Development**
-
-Leadership development is focused on developing a core team of Environmental Ambassadors who are able to lead the student population both at the class and school level to conserve our environment and drive the various environment activities.
-
-
-**(D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partnership**
-
-Partnership with organizations with programmes which can be tapped on to help promote our Environmental Education. We also engage the help of our Parent Support Group to collaborate with our Environment ambassadors in carrying out the various Environment activities in school.
-
-|  	|  	|
-|---	|---	|
-| Science Programmes 	| -Enrichment Activities with environment focus<br>- Outdoor learning classrooms<br>- Subject based programs<br>- IPW<br>- STEAM Programme<br>- TGIF 	|
-| Character and Citizenship Education (VIA) 	| - Assembly programs and interclass competitions<br>- Recycling Programme<br>     - Water Conservation 	|
-| Leadership development 	| - Environment Ambassadors to lead their classmates in green initiatives 	|
-| Partnership 	| - National Environment Agency<br>- Singapore Environment Council<br>- Public Utilities Board<br>- National Parks Board<br>- Parent Support Group (PSG) 	|
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Science Leadership Programme**
 
