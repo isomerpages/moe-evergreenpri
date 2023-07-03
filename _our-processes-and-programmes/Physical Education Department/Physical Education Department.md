@@ -195,3 +195,13 @@ Students were not only able to forge stronger camaraderie with their peers and t
 ![](/images/PE24.jpg)
 
 ![](/images/PE25.jpg)
+
+### P5 Outdoor Adventure Learning Camp 
+
+Outdoor Camping is one of the ways that can used to build Grit, as students can learn problem-solving and leadership skills. Using the outdoors as the ‘classroom’ for learning, students are provided with the opportunity to work together with their peers. Students also embrace diversity and forge camaraderie and social bonds that can last a lifetime. Teachers joining the students during the camp also help to strengthen the Teacher-Student relationship through out of classroom interactions. 
+
+ 
+
+The P5 Camp was held this year at Pasir Ris Heritage Chalet, to build on the above mentioned objectives. Students underwent a variety of outdoor learning activities as they worked together in their groups. It was a fun-filled and meaningful 3 day 2 night camp which culminated in a campfire highlighting individual class performances. 
+
+At EGPS, we strive to provide a mix of learning experiences for each student, with purpose and passion. 
