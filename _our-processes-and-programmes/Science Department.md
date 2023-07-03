@@ -32,9 +32,6 @@ Aligned to our school’s&nbsp;mission of P.L.A.Y._,_&nbsp;our Science Departmen
 
 To build effective leadership skills within our Science Leaders, the Science Leadership Programme is held to equip students with necessary skills to carry out their duties well. The leadership programme is conducted at the start of every semester where students familiarise themselves with the various Science apparatus that they will be handling when assisting their teachers during every Science lesson. They are also briefed on the safety procedures when in the Science laboratories. This year, the Science Leaders were also invited to play a more active role in the promotion of love for the subject among their peers.
 
-![](/images/Sci1.jpg)
-
-
 
 ### Environmental Education Programme
 
