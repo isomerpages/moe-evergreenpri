@@ -16,7 +16,31 @@ Every student is active, healthy, physically competent and socially adept.
 
 Empower students with physical knowledge, skills, practices and values to enjoy a lifetime of active, healthy living. 
 
+### School Values 
 
+R.E.G.G.I. – **R**espect | **E**mpathy | **G**raciousness | **G**rit | **I**ntegrity 
+
+### Youth Olympic Values 
+
+* ***Respect*** – fair play; knowing one’s own limits; and taking care of one’s health and the environment 
+
+* ***Excellence*** – how to give the best of oneself, on the field of play or in life; taking part; and progressing according to one’s own objectives 
+
+* ***Friendship*** – how, through sport, to understand each other despite any differences ***(friendship above competition)***
+
+### PE Department Approach in PE 
+
+Education in Movement (psychomotor), through Movement (affective), about Movement (cognitive) 
+
+<center>A.C.T.I.V.E.</center>
+
+![](/images/Department%20Photos/PE/pe%20dept%202023.jpg)
+
+| Play Approach in PE | Safety at Play  | 
+| -------- | -------- | 
+| Play Hard (Grit)      | Think Safe      | 
+| Play Fair (Respect, Empathy, Integrity)       | Play Safe      | 
+| Play Safe (Graciousness)      | Stay Safe      | 
 
 ### Key Events and Activities
 
@@ -173,3 +197,17 @@ Students were not only able to forge stronger camaraderie with their peers and t
 ![](/images/PE24.jpg)
 
 ![](/images/PE25.jpg)
+
+### P5 Outdoor Adventure Learning Camp 
+
+Outdoor Camping is one of the ways that can used to build Grit, as students can learn problem-solving and leadership skills. Using the outdoors as the ‘classroom’ for learning, students are provided with the opportunity to work together with their peers. Students also embrace diversity and forge camaraderie and social bonds that can last a lifetime. Teachers joining the students during the camp also help to strengthen the Teacher-Student relationship through out of classroom interactions. 
+
+ 
+
+The P5 Camp was held this year at Pasir Ris Heritage Chalet, to build on the above mentioned objectives. Students underwent a variety of outdoor learning activities as they worked together in their groups. It was a fun-filled and meaningful 3 day 2 night camp which culminated in a campfire highlighting individual class performances. 
+
+At EGPS, we strive to provide a mix of learning experiences for each student, with purpose and passion.
+
+![](/images/Department%20Photos/PE/pe%20dept%202023%201.jpg)
+
+![](/images/Department%20Photos/PE/pe%20dept%202023%202.jpg)

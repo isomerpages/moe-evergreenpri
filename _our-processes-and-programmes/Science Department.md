@@ -28,96 +28,9 @@ To provide an appealing and non-threatening way to represent abstract concepts a
 
 Aligned to our school’s&nbsp;mission of P.L.A.Y._,_&nbsp;our Science Department conducts several activities and enrichment programmes throughout the year as part of our Innovation Programme. In addition to&nbsp;encourage integration of the different subjects so as to provide a holistic and joyful learning experience for our students, we also hope to inculcate values and skills in them so as to develop them to be good and useful individuals.
 
-* **E2K Science Programme**
-
-The E2K Science Programme is an enrichment programme conducted after school for students who demonstrate interest and aptitude for Science. The programme aims to develop scientific inquiry process skills in our students to stretch them in Science and&nbsp;to generate their interest in Science research.
-
-The rich learning experiences serve to help our students develop positive habits, attitudes and dispositions scientists possess. Just as scientists explore and make mistakes in the real world, our students are allowed to make mistakes during the programme and learn from the mistakes based on scaffold given by teacher mentors. As our students engage in scientific investigations through an inquiry approach, we hope to nurture them in the 21st&nbsp;century competencies such as resilience, critical and inventive thinking, and effective communication skills.
-
-![](/images/E2K.jpg)
-
-* &nbsp;**Design Thinking Programme**
-
-To build a culture of empathy, innovation, creativity and discovery in our students, they participated in our Design Thinking Programme. For this year, the programme provides our students&nbsp;with opportunities to apply Science concepts into creating novel toys. Prior to that, students would be guided to make connections to the application of Science concepts in common toys that they have played before.
-
-This programme has&nbsp;motivated our students to think out of the box – beyond what they are learning within the curriculum. The whole learning experience served as a stepping stone for our students to embark on external Science competitions.
-
-![](/images/design%20thinking.jpg)
-
-* &nbsp;**S.T.E.A.M. Activities**
-
-&nbsp;Besides the above enrichment programmes, our Science department also engages our students in S.T.E.A.M. activities during Science lessons to strengthen and support their learning in Science. Through these activities, opportunities for P.L.A.Y are provided as our students explore their potential as innovative inquirers.
-
-&nbsp;One such activity involves students creating models to demonstrate their learning such as the cell model, the lung model and the heart model. The hands-on activity has helped our students gain a better understanding of the content taught as they try to make connections of their observations on the models to the concepts learnt. At the same time, in the process of making the models, our students are encouraged to be creative and innovative in using the appropriate materials and designs.
- 
- ![](/images/STEM.jpg)
- 
- ![](/images/S7.jpg)
- Various types of cell models created by our students were exhibited as part of an educational display for students from the other levels. This is also to recognise their efforts in making these models.
- 
- **Environmental Education 2021**
-
-**Purpose**
-
-·&nbsp;&nbsp;&nbsp;&nbsp;To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
-
-**Process**
-
-* To identify topics in the Science syllabus that relates to an environmental issue and promote awareness.
-* To work with Science Programme drivers to infuse environmental topics in the programmes
-* Create lessons and projects that will raise awareness so that students recognise the importance of respecting, appreciating and taking responsibility and actions to take care of our environment.
-
-**Programme**
-
-* Environmental Education infused Science Curriculum, Science Programmes&nbsp;and CCE
-
-**ImPact**
-
-* All students will be provided with opportunities to acquire the knowledge, values, attitudes, commitment and skills needed to protect and improve the environment.
-
-| Programme 	| Primary 1 	| Primary 2 	| Primary 3 	| Primary 4 	| Primary 5 	| Primary 6 	|
-|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Science Curriculum 	|   	|   	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
-| STEAM 	|   	|   	|   	| ✓ 	| ✓ 	|   	|
-| IPW 	|   	|   	|   	| ✓ 	|   	|   	|
-| TGIF 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	| ✓ 	|
-| CCE (VIA) 	| ✓ 	| ✓ 	|   	|   	|   	|   	|
-
-**Environment Education Curriculum**
-
-
-**(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Academic Programmes**
-
-Infusion of environmental concepts into our respective Science Programmes
- 
-
-**(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education**
-
-Character and Citizenship Education engages students in activities where they are able to take actions to make a positive difference to the environment as they learn and partake in recycling drives, Values-in-Action programmes and interclass-competitions.
-
-
-**(C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Development**
-
-Leadership development is focused on developing a core team of Environmental Ambassadors who are able to lead the student population both at the class and school level to conserve our environment and drive the various environment activities.
-
-
-**(D)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partnership**
-
-Partnership with organizations with programmes which can be tapped on to help promote our Environmental Education. We also engage the help of our Parent Support Group to collaborate with our Environment ambassadors in carrying out the various Environment activities in school.
-
-|  	|  	|
-|---	|---	|
-| Science Programmes 	| -Enrichment Activities with environment focus<br>- Outdoor learning classrooms<br>- Subject based programs<br>- IPW<br>- STEAM Programme<br>- TGIF 	|
-| Character and Citizenship Education (VIA) 	| - Assembly programs and interclass competitions<br>- Recycling Programme<br>     - Water Conservation 	|
-| Leadership development 	| - Environment Ambassadors to lead their classmates in green initiatives 	|
-| Partnership 	| - National Environment Agency<br>- Singapore Environment Council<br>- Public Utilities Board<br>- National Parks Board<br>- Parent Support Group (PSG) 	|
-
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Science Leadership Programme**
 
 To build effective leadership skills within our Science Leaders, the Science Leadership Programme is held to equip students with necessary skills to carry out their duties well. The leadership programme is conducted at the start of every semester where students familiarise themselves with the various Science apparatus that they will be handling when assisting their teachers during every Science lesson. They are also briefed on the safety procedures when in the Science laboratories. This year, the Science Leaders were also invited to play a more active role in the promotion of love for the subject among their peers.
-
-![](/images/Sci1.jpg)
-
 
 
 ### Environmental Education Programme
