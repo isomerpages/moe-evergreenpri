@@ -16,7 +16,7 @@ Established in 1999, EGPS has always provided programmes for the holistic develo
 <u>What is the P.L.A.Y. approach?</u>
 
 
-
+![](/images/For%20All%20Parents/play_final-01.png)
 
 <center>
 	
