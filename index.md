@@ -20,6 +20,6 @@ sections:
         - title: Latest Happenings
           description: Click here to find out more
           url: /latest-happenings/Student-Leaders-Investiture-2023/
-      button: FOR ALL PARENTS
+      button: FOR ALL PARENTS (CLICK HERE)
       url: https://evergreenpri.moe.edu.sg/communication/for-all-parents/
 ---
