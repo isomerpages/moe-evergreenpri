@@ -20,13 +20,13 @@ Established in 1999, EGPS has always provided programmes for the holistic develo
 
 <center>
 	
-**_Positivity in Relationships_**
+***Positivity in Relationships***
 
-**_Learning with Passion_**
+***Learning with Passion***
 
-**_Actively Contributing_**
+***Actively Contributing***
 
-**_Youthfulness in Living_**
+***Youthfulness in Living***
 
 </center>
 
