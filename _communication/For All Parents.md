@@ -20,13 +20,7 @@ Established in 1999, EGPS has always provided programmes for the holistic develo
 
 <center>
 	
-***Positivity in Relationships***
-
-***Learning with Passion***
-
-***Actively Contributing***
-
-***Youthfulness in Living***
+![](/images/play%20wordings.jpg)
 
 </center>
 
@@ -54,3 +48,13 @@ Every student has a part to play in the betterment of the school.  A **Culture o
 ![](/images/For%20All%20Parents/youthfulness.jpg)
 
 At EGPS, staff and students are encouraged to be as creative as they can be. By tapping on their strengths and interests and working together as a team.  Our students and staff exercise their **Choice and Voice** to bring about changes that they deem beneficial. A positive mindset is an enabler for EGPS students to approach learning and building of life experiences with **Passion and Purpose**. As such, the school adopts Environment as a 3rd teacher and learning is everywhere.  The school values of Grit and Integrity ensures that our students make decisions which are in line with the ethos of our school, and make EGPS a happy school where there is Joy in Learning and our students, Pure in Act.
+
+<center><u>Useful Links for P1 Parents</u></center>
+
+<center>
+
+[Publicity Video](https://www.facebook.com/watch/?v=255583880580969)
+	
+[P1 Evergreen Experience Video](https://youtu.be/Ue-nvhIyVZg)
+	
+</center>
