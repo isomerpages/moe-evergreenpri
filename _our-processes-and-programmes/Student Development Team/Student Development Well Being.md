@@ -35,7 +35,8 @@ img {
 </p><p><img style="width:170px;height:170px;margin-left:15px;" alt="Zero-Bullying" src="/images/Department%20Photos/SDWB/sdwb_kind%20words%20-%20loke%20wei%20xian%20hannah.jpeg">	
 	
 They also practise using kind words. When they understand the impact of their words and actions, students will be in a better place to make good decisions before they act.
-
+<br>
+	<br>
 **Peer Support Leaders (PSLs)**
 
 <style>
