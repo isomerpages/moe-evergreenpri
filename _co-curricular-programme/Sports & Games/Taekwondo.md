@@ -21,7 +21,6 @@ third_nav_title: Sports & Games
 
 Taekwondo or TKD for short is a new sports CCA at Evergreen Primary School. It commenced in the year 2022. It is a very popular CCA and well-liked by our students. By  the end of Semester 1, we were able to recruit new members into our CCA. We now have a strong membership of 68 members. 
 
-![](/images/CCA%20Photos/Taekwondo/taekwondo%202.jpg)
 
 TKD CCA strives:
 
@@ -39,3 +38,4 @@ At EGPS, our TKD members are taught that Taekwondo is a Sport and an Art which r
 
 Our head coach, Mr Ng Tian Huat Tony, has taken part in many international events as well as represented Singapore on many occasions. He will be coaching our TKD members. Together with the teachers in TKD, we will ensure a holistic development for our students and celebrate their success and growth.
 
+![](/images/CCA%20Photos/Taekwondo/screenshot_20230718_160442_gallery.jpg)
