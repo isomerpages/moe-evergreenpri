@@ -59,7 +59,7 @@ The objective of the collection drive is to create awareness that electronic was
 
 ![](/images/Department%20Photos/Science/ewaste%201.jpg)
  
-Partnering with Singapore’s main E-waste recycling company, ALBA, an information, and game booth was set up for students to develop an understanding that Singapore currently has only one landfill, which will run out of space by 2035. The students also learnt that Singapore may not have enough land or sea space to build incineration plants and landfills.
+Partnering with Singapore’s main E-waste recycling company, ALBA, an information and game booth was set up for students to develop an understanding that Singapore currently has only one landfill, which will run out of space by 2035. The students also learnt that Singapore may not have enough land or sea space to build incineration plants and landfills.
 
 Through our Environmental Education programme, we aim to inspire our students to become environmentally conscious and responsible individuals who will contribute towards a sustainable future for Singapore and the world.
 
@@ -69,7 +69,7 @@ Through our Environmental Education programme, we aim to inspire our students to
 
 We are committed to providing our students with a holistic education that prepares them for challenges in the future. Our Applied Learning Programme (ALP) is designed to cultivate a deep understanding of sustainability principles and empower our students to become agents of positive change in their communities.
 
-Our P4 students were involved in the Reduce Carbon Footprint Programme. Students actively engage in various activities aimed at reducing their environmental impact. Using the Design Thinking Approach, students explore strategies to make sustainable choices in their daily lives and inspire others to do the same. Our students participated in energy-saving initiatives such as optimising energy usage in classrooms and common areas. They also learn about renewable energy sources and how they can contribute to a greener future.
+Our P4 students are involved in the Reduce Carbon Footprint Programme. Students actively engage in various activities aimed at reducing their environmental impact. Using the Design Thinking Approach, students explore strategies to make sustainable choices in their daily lives and inspire others to do the same. Our students participated in energy-saving initiatives such as optimising energy usage in classrooms and common areas. They also learn about renewable energy sources and how they can contribute to a greener future.
 
 ![](/images/Department%20Photos/Science/science%20dept%202023%203.jpg)
 
@@ -77,7 +77,7 @@ Our P4 students were involved in the Reduce Carbon Footprint Programme. Students
 
 ![](/images/Department%20Photos/Science/science%20dept%202023%204.jpg)
 
-Our P3 students were involved in the Farm to Table Programme. It provides a unique opportunity to understand the journey of food from its source to the table. Through this experiential learning initiative, students gain deeper appreciation for the value of locally sourced and sustainable food. 
+Our P3 students are involved in the Farm to Table Programme. It provides a unique opportunity to understand the journey of food from its source to the table. Through this experiential learning initiative, students gain deeper appreciation for the value of locally sourced and sustainable food. 
 
 Students learn about the challenges in land scarce Singapore and get hands-on experience in planting, tending, and harvesting crops, witnessing the transformation from seeds to fully grown produce using the Hydroponics system. They also explore the environmental impact of different food production systems and learn about the benefits of consuming locally grown, seasonal produce. Through this project, students develop a strong connection between their food choices and the environment, encouraging them to make conscious decisions that support sustainability.
 
