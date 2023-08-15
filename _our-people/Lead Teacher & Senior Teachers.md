@@ -5,4 +5,4 @@ description: ""
 ---
 # **Lead Teacher(s) &amp; Senior Teacher(s)**
 
-![](/images/Staff%20List/senior%20teacher.png)
+![](/images/Staff%20List/senior%20teacher.jpg)
