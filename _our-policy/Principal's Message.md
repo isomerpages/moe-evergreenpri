@@ -16,7 +16,7 @@ Any visitor walking into the school compound will be greeted by **EGPS Wheel of 
 
 **Our Pledge of Inclusion**
 
-_Every staff @EGPS believes in creating an inclusive culture that embraces all learners. We **recognize differences as assets and celebrate diversity as strengths.** No matter what background, characteristics, interests, and learning styles, **every child that walks through the gates of EGPS is valued, respected, and accepted.** **We recognize the desire of pursuing dreams and aspirations as a birth right**. Our staff is committed to providing enriching experiences that aggregate towards Learning for Life. We pledge to journey with our students in honing their knowledge, skills and dispositions in various domains, developing passion and talents while harnessing their strengths to overcome challenges._
+_Every staff @EGPS believes in creating an inclusive culture that embraces all learners. We **recognize differences as assets and celebrate diversity as strengths.** No matter what background, characteristics, interests, and learning styles, **every child that walks through the gates of EGPS is valued, respected and accepted.** **We recognize the desire of pursuing dreams and aspirations as a birth right**. Our staff is committed to providing enriching experiences that aggregate towards Learning for Life. We pledge to journey with our students in honing their knowledge, skills and dispositions in various domains, developing passion and talents while harnessing their strengths to overcome challenges._
 
 **…………………………………………………………………………………**
 
