@@ -58,7 +58,7 @@ Primary 4: Musical
 
 Through these modules, the students are exposed to a variety of strategies that allow them to develop their skills in communicating and performing. The Language Arts Modules provide the opportunities for students to develop their confidence and practice their oracy skills. At the end of each module, each class in the level will perform a short adaptation of a drama or a musical. This serves as a platform for the students to display their skills and talents. 
 
-In Semester 1 2023, the Primary 2, 3 and 4 students put up a level performance for their parents. It was heartening to see the overwhelming support from our parents. A definite thumbs up to our students who persevered and put up a great performance! Let’s look forward to the Primary 1 students’ performance in Term 3.
+In Semester 1 2023, the Primary 2, 3 and 4 students put up a level performance for their parents. It was heartening to see the overwhelming support from our parents. A definite thumbs up to our students who persevered and put up a great performance, and we look forward to the Primary 1 students’ performance in Term 3!
 
 ![](/images/Department%20Photos/English/english%20language%205.jpg)
 
