@@ -5,4 +5,4 @@ description: ""
 ---
 # **Year Head / Assistant Year Head**
 
-![](/images/Staff%20List/year%20head%20team.png)
+![](/images/Staff%20List/year%20head%20team.jpg)

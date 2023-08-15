@@ -1,5 +1,5 @@
 ---
-title: Vice Principal
+title: Vice Principals
 permalink: /our-people/vice-principals/
 description: ""
 ---

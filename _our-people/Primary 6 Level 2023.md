@@ -12,7 +12,7 @@ description: ""
 
 ### Form Teachers
 
-![](/images/Staff%20List/primary%206%202023.png)
+![](/images/Staff%20List/p6%20staff.jpg)
 
 ### Subject Teachers
 
