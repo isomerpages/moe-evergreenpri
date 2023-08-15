@@ -100,7 +100,7 @@ Through hands-on activities and inquiry-based learning, our programme provides s
 
 ### Science Olympiad Training and Competition Programme
 
-We believe in nurturing young minds and providing them with opportunities to excel in the field of science. Our Science Olympiad Training and Competition programme is designed to challenge and inspire our students, allowing them to showcase their scientific knowledge and problem-solving skills in a competitive platform. Our training programme covers various scientific disciplines including biology, chemistry, physics, earth science, and engineering. Students delve deep into these subjects, developing analytical and critical thinking skills, fostering creativity, and enhancing teamwork and collaboration abilities. 
+We believe in nurturing young minds and providing them with opportunities to excel in the field of science. Our Science Olympiad Training and Competition programme is designed to challenge and inspire our students, allowing them to showcase their scientific knowledge and problem-solving skills in a competitive platform. Our training programme covers various scientific disciplines including Biology, Chemistry, Physics, earth science, and engineering. Students delve deep into these subjects, developing analytical and critical thinking skills, fostering creativity, and enhancing teamwork and collaboration abilities. 
 
 ![](/images/Department%20Photos/Science/science%20dept%202023%207.jpg)
 
