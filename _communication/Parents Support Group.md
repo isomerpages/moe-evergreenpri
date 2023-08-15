@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group
-permalink: /communication/parents-support-group
+permalink: /communication/parents-support-group/
 description: ""
 ---
 # **Parents Support Group**
@@ -12,7 +12,7 @@ Please click [here](https://forms.gle/UYoJkkYvTtuLf8fg8) to access the Parent
   
 **Information**  
   
-Parenting Support Services by [Care Corner Singapore Ltd](http://www.carecorner.org.sg/) is the appointed parenting support provider of Evergreen Primary school. They support parents through anchor programmes - Positive Parenting Programme (Triple P) and Signposts which are funded by the Ministry of Social and Family Development (MSF). Both are evidence-based programmes and are offered complimentary to our parents. Triple P is delivered in the formats of seminars, one-to-one consultation sessions and small group sessions, while Signposts is a small group programme. We encourage parents to explore their services that can support you in your child’s development. 
+[Care Corner Singapore Ltd](http://www.carecorner.org.sg/) is the appointed parenting support provider of Evergreen Primary school. They support parents through anchor programmes - Positive Parenting Programme (Triple P) and Signposts which are funded by the Ministry of Social and Family Development (MSF). Both are evidence-based programmes and are offered complimentary to our parents. Triple P is delivered in the formats of seminars, one-to-one consultation sessions and small group sessions, while Signposts is a small group programme. We encourage parents to explore their services that can support you in your child’s development. 
 
 To learn more, please click on the following [link](https://www.carecorner.org.sg/parenting-support)
 
