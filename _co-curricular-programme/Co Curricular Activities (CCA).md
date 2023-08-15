@@ -98,6 +98,6 @@ Activities are planned with the students' learning and development of knowledge,
 
 ### **Clubs and Societies**
 
-Clubs and Societies (CS) allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialized areas.
+Clubs and Societies allow students to explore and extend their interests in wide ranging and specialised areas which may be knowledge-based or skills-based. Students are honed in information, communication and technical skills as they strive to grow their mastery of the specialized areas.
 
 1. [STEM and Environment Club](https://staging.d203o7eew4if9d.amplifyapp.com/co-curricular-programme/clubs-and-societies/)
