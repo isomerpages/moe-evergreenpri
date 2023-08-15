@@ -91,7 +91,7 @@ These encompass the various initiatives and duties schools may require of studen
 
 d.&nbsp;**Training/Activity and Learning Objectives**
 
-Activities are planned with the student’s learning and development of knowledge, skills and values in mind. This ensures a meaningful and holistic CCA experience for the student.
+Activities are planned with the students' learning and development of knowledge, skills and values in mind. This ensures a meaningful and holistic CCA experience for the students.
 
 1. [Evergreen Titans (Cub Scouts)](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/uniform-groups/evergreen-titans-cub-scouts)
 
