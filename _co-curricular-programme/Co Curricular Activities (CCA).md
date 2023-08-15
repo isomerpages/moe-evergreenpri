@@ -63,7 +63,7 @@ d. In&nbsp;**_Responding_**, students will learn to think critically and show co
 
 ### **Physical Sports**
 
-The Physical Sports CCA caters to students with interest at both recreational and competitive levels.&nbsp;They can focus on learning new skills and knowledge, and developing character and 21CC skills.&nbsp;The Physical Sports develop robustness, fair play and team spirit in pupils.
+The Physical Sports CCA caters to students with interest at both recreational and competitive levels.&nbsp;They can focus on learning new skills and knowledge, and developing character and 21CC skills.&nbsp;The Physical Sports develop robustness, fair play and team spirit in students.
 
 1. [Badminton](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/badminton)
 2. [Taekwondo](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/taekwondo)
