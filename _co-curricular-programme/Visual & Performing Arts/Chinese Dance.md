@@ -4,7 +4,6 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-# **Chinese Dance**
 
 ![](/images/CCA%20Photos/2022%20chinese%20dance%20syf%20photo%20(1)%20(1).jpg)
 
