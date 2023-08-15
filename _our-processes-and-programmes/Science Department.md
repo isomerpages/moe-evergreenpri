@@ -48,7 +48,7 @@ We organised activities during Earth Week to encourage the practice of the 3Rs (
 
 ***(Recycling used plastic bottles at the Reverse Vending Machine)***
 
-
+![](/images/Department%20Photos/Science/reverse%20vending%20machine.jpeg)
 
 <u>E-waste Recycling</u>
 
