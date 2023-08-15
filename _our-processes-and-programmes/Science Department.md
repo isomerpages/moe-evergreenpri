@@ -26,7 +26,7 @@ To provide an appealing and non-threatening way to represent abstract concepts a
 
 ### Innovation @EGPS
 
-Aligned to our school’s&nbsp;mission of P.L.A.Y._,_&nbsp;our Science Department conducts several activities and enrichment programmes throughout the year as part of our Innovation Programme. In addition to&nbsp;encourage integration of the different subjects so as to provide a holistic and joyful learning experience for our students, we also hope to inculcate values and skills in them so as to develop them to be good and useful individuals.
+Aligned to our school’s&nbsp;mission of P.L.A.Y._,_&nbsp;our Science Department conducts several activities and enrichment programmes throughout the year as part of our Innovation Programme. In addition to&nbsp;encouraging integration of the different subjects so as to provide a holistic and joyful learning experience for our students, we also hope to inculcate values and skills in them so as to develop them to be good and useful individuals.
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Science Leadership Programme**
 
