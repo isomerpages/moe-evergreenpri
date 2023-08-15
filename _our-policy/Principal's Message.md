@@ -39,7 +39,7 @@ Youthfulness in Living**.&nbsp; Our innovative programmes include **_Multi-Modal
 
 All learning, both within the Core Curriculum or Co-curriculum, will be captured in the Student Portfolio so that every student of EGPS will leave the school with a holistic portfolio developed over their 6 years in the school. &nbsp; MMP exposes every student to **6 Areas of Enrichment (19 modules over 6 years) that include Story-telling, Musical, Novelty Sports, Drumming, etc.**&nbsp; We are affirmed by parents and partner secondary schools that our students have developed to be more confident and have greater self-esteem and self-efficacy because of their holistic development in the various domains. Over the years from 2019, we have a high number of students who have qualified to the secondary school of their choice through Direct School Admission (DSA).
 
-The school’s **Learning for Life Prog (Aesthetics)** and **Applied Learning Prog (STEM) are the other 2 signature programmes that are unique to EGPS.**&nbsp; You will be able to get a better understanding of what these are through our website.
+The school’s **Learning for Life Programme (Aesthetics)** and **Applied Learning Programme (STEM) are the other 2 signature programmes that are unique to EGPS.**&nbsp; You will be able to get a better understanding of what these are through our website.
 
 At EGPS, many programs are conducted for ALL students.&nbsp; All student programmes will be tiered through our **_3 S Approach: Stretch, Strengthen and Support_** so that while no one is left behind, those who need the extra push will be given the necessary opportunities to excel and shine. We have a very comprehensive 4 tiered Leadership development programme for all students as well.
 
