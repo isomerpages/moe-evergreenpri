@@ -7,7 +7,7 @@ description: ""
 
 Be part of the Parent Support Group. Join us!  
   
-Please click [here](https://forms.gle/UYoJkkYvTtuLf8fg8) to access the Parent Support Group Registration Form  
+Please click [here](https://forms.gle/UYoJkkYvTtuLf8fg8) to access the Parent Support Group Registration Form.  
   
   
 **Information**  
@@ -20,4 +20,4 @@ To learn more, please click on the following [link](https://www.carecorner.org.
 
 There will be an upcoming Seminar for parents of primary schoolers on the topic of, '_Positive Parenting in the 21st Century'._ Click [here](/files/Triple%20P%20Seminar%20R4-5%20290422-compressed.pdf) to learn more and register for the upcoming course.
 
-Thank you
+Thank you.
