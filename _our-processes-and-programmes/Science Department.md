@@ -81,7 +81,7 @@ Our P3 students are involved in the Farm to Table Programme. It provides a uniqu
 
 Students learn about the challenges in land scarce Singapore and get hands-on experience in planting, tending, and harvesting crops, witnessing the transformation from seeds to fully grown produce using the Hydroponics system. They also explore the environmental impact of different food production systems and learn about the benefits of consuming locally grown, seasonal produce. Through this project, students develop a strong connection between their food choices and the environment, encouraging them to make conscious decisions that support sustainability.
 
-Sustainability aims to equip students with the knowledge, skills and values needed to tackle real-world sustainability challenges. Through these programmes students develop critical thinking, problem-solving, and collaboration skills while nurturing a sense of responsibility towards the environment and their community.
+Sustainability aims to equip students with the knowledge, skills and values needed to tackle real-world sustainability challenges. Through these programmes, students develop critical thinking, problem-solving, and collaboration skills while nurturing a sense of responsibility towards the environment and their community.
 
 ### T.G.I.F
 
