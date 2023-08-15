@@ -85,7 +85,7 @@ Sustainability aims to equip students with the knowledge, skills and values need
 
 ### T.G.I.F
 
-We believe in providing our students with exciting opportunities to explore science beyond the boundaries of the classroom. Our TGIF Programme is a platform for our students to dive deeper into scientific adventures. It aims to extend and expose students to a range of science disciples, encouraging them to explore and question the world around them. 
+We believe in providing our students with exciting opportunities to explore science beyond the boundaries of the classroom. Our TGIF Programme is a platform for our students to dive deeper into scientific adventures. It aims to extend and expose students to a range of science disciplines, encouraging them to explore and question the world around them. 
 
 ![](/images/Department%20Photos/Science/science%20dept%202023%205.jpg)
 
