@@ -33,7 +33,7 @@ Learning Support for Mathematics (LSM) provides additional support to students w
 
 ![](/images/Department%20Photos/Maths/lsm2%20-%20sufilizah%20samsuri.jpg)
 
-LSM support is provided up to 4 years, but students’ progress is reviewed annually. The LSM Programme focuses on building good Mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. Students receive more individual attention from teacher and receive help in specific areas that they are weak in. 
+LSM support is provided for up to 4 years, but students’ progress is reviewed annually. The LSM Programme focuses on building good Mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. Students receive more individual attention from teacher and receive help in specific areas that they are weak in. 
 
 
 *  **Improving Confidence and Achievement in Numeracy (ICAN)**
@@ -45,7 +45,7 @@ Instruction is organised using the FREMC structure – Factual Fluency, Readines
 
 #### CHALLENGING AND DEVELOPING LEANERS TO THEIR POTENTIAL
 
-The central focus of the Mathematics curriculum is to develop mathematical problem-solving competency in our students. Students will have opportunities to solve varied mathematical problems which are straight forward and routine as well as complex and non-routine. 
+The central focus of the Mathematics curriculum is to develop Mathematical problem-solving competency in our students. Students will have opportunities to solve varied Mathematical problems which are straight forward and routine as well as complex and non-routine. 
 
 In EGPS, we provide differentiated approaches to teach our students to select and apply the appropriate concepts and skills and use logical reasoning and creative thinking to tackle tasks systematically and effectively. These approaches will also provide them the  opportunities to develop key competencies that are important in the 21st century.  
 
@@ -58,7 +58,7 @@ Students will be exposed to different types of heuristics skills throughout the 
 
 *   Tier 2 : E2K lessons
     
-Identified P3 to P5 students will be engaged in mathematical thinking through puzzles, games, and mathematics explorations, in collaboration with their peers. It aims to develop their mathematical reasoning skills, deepen their conceptual understanding through an inquiry approach, and develop the habits, attitudes and dispositions mathematicians possess and to develop 21st century competencies, such as critical and inventive thinking and effective communication skills.
+Identified P3 to P5 students will be engaged in mathematical thinking through puzzles, games, and mathematics explorations, in collaboration with their peers. It aims to develop their mathematical reasoning skills, deepen their conceptual understanding through an inquiry approach, and develop the habits, attitudes and dispositions Mathematicians possess and to develop 21st century competencies, such as critical and inventive thinking and effective communication skills.
 
 *   Tier 3 : External Competitions and Olympiad Trainings
     
