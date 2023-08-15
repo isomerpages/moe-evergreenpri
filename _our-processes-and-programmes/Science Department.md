@@ -13,7 +13,7 @@ The Science Department is committed to helping every student develop as an inqui
 
 ### Pedagogy
 
-The Science curriculum at EGPS adopts the pedagogy of inquiry-based learning (IBL) and reflective thinking. The premise is that students should participate actively in learning and to constantly reflect on their learning. Through active learning, students learn better, as their questions and reflections help them comprehend and synthesize knowledge.  
+The Science curriculum at EGPS adopts the pedagogy of inquiry-based learning (IBL) and reflective thinking. The premise is that students should participate actively in learning and constantly reflect on their learning. Through active learning, students learn better, as their questions and reflections help them comprehend and synthesize knowledge.  
 
 Inquiry-based Learning (IBL)  
 
