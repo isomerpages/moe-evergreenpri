@@ -5,9 +5,6 @@ description: ""
 ---
 # **Co-Curricular Activities (CCA)**
 
-**Evergreen Primary School**
-
-**Co-Curricular Activities (CCA)**
   
 
 **_\*Click [here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit) to access the CCA Schedule for the Year 2023_**
