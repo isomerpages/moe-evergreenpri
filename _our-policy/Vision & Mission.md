@@ -5,4 +5,4 @@ description: ""
 ---
 # **Vision & Mission**
 
-![](/images/vision%20mission%20motto.jpg)
+![](/images/vision%20mission%20updated.jpg)
