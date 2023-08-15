@@ -4,7 +4,6 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
 ![](/images/CCA%20Photos/2022%20chinese%20dance%20syf%20photo%20(1)%20(1).jpg)
 
 
@@ -16,11 +15,13 @@ third_nav_title: Visual & Performing Arts
 **_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**
 
   
-Folk dances are important historically in the development of dance in China, some of the earliest dances in court rituals and ceremonies may have evolved from folk dances. Leaders from various dynasties collected folk dances, many of which eventually became court dances. Many of the folk dances are related to harvest and hunting and the ancient gods associated with them.  
+Our Chinese Dance has 25 members. Students joined Chinese Dance out of their love for
+dancing and the desire to learn more about this beautiful art form.
 
-The Chinese Dance is one of the performing arts group in Evergreen Primary School. It has over 25 members who have chosen to join Chinese Dance out of their love for dancing and to learn more about the Chinese Dance culture. We want to nurture their talent through dance training so that they can each reach their fullest potential in this area.&nbsp;
-
-In Chinese Dance, members train and perform as a group thus they learn to blend with one another. Members also learn to execute movements and exhibit good performance skills on stage.
+Our dance training focuses on Chinese Dance techniques to develop flexibility and
+stamina. Members train and perform as a group, thus fostering bonding and teamwork.
+Members are given various opportunities to perform at the school level, such as Chinese
+New Year Concert and Achievement Day, as well as at external events.
 
 ![](/images/CD1.jpg)
 
