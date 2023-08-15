@@ -59,7 +59,7 @@ d. In&nbsp;**_Responding_**, students will learn to think critically and show co
 2. [Indian Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance)
 3. [Malay Dance](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance)
 4. [Art Club](https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-club)
-5. 
+5. [Percussion Ensemble](https://evergreenpri.moe.edu.sg/our-processes-and-programmes/co-curricular-programme/cca/aesthetics/percussion-ensemble/)
 
 ### **Physical Sports**
 
