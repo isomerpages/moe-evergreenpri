@@ -37,7 +37,7 @@ Students will develop and demonstrate:
 * Knowledge, skills and values related to their chosen CCA
 * Core values, social and emotional competencies and the emerging 21st century competencies as articulated in the 21st Century Competencies Framework
 
-Since the&nbsp;[Multi-Modal Programme](/our-processes-and-programmes/co-curricular-programme/mmp)&nbsp;(MMP) provides the&nbsp;**breadth of skills**&nbsp;and exposure for&nbsp;**ALL**&nbsp;students, the school has decided to provide a narrower range of CCAs for students who would like to&nbsp;**deepen their interest**&nbsp;in specific areas such as the 3 Ethnic Dances, Chinese Orchestra, Netball, Football, Badminton, Art Talent Club and Scouts which have been producing outstanding results over the years.
+Since the&nbsp;[Multi-Modal Programme](/our-processes-and-programmes/co-curricular-programme/mmp)&nbsp;(MMP) provides the&nbsp;**breadth of skills**&nbsp;and exposure for&nbsp;**ALL**&nbsp;students, the school has decided to provide a narrower range of CCAs for students who would like to&nbsp;**deepen their interest**&nbsp;in specific areas such as the 3 Ethnic Dances, Percussion Ensemble, Netball, Football, Badminton, Art Talent Club and Scouts.
 
 Our students have also successfully used their experience and exposure in the respective CCAs to apply for DSA to secondary schools and specialised institution like the Sports School and School of The Arts (SOTA).
 
