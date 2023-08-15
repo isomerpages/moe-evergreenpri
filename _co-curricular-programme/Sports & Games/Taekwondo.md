@@ -39,6 +39,3 @@ At EGPS, our TKD members are taught that Taekwondo is a Sport and an Art which r
 
 Our head coach, Mr Ng Tian Huat Tony, has taken part in many international events as well as represented Singapore on many occasions. He will be coaching our TKD members. Together with the teachers in TKD, we will ensure a holistic development for our students and celebrate their success and growth.
 
-![](/images/CCA%20Photos/Taekwondo/taekwondo%205.jpg)
-
-![](/images/CCA%20Photos/Taekwondo/taekwondo%206.jpg)
