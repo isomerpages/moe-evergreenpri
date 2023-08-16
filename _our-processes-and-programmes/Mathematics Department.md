@@ -3,7 +3,6 @@ title: Mathematics Department
 permalink: /our-processes-and-programmes/mathematics-department/
 description: ""
 ---
-# **Mathematics Department**
 
 ![](/images/Department%20Main%20Photos/img_9619.jpg)
 
