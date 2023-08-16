@@ -4,8 +4,7 @@ permalink: /our-processes-and-programmes/Mother-Tongue-Department/tamil-language
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-
-![](/images/Department%20Main%20Photos/img_3291.JPG)
+![](/images/Department%20Main%20Photos/(updated)%20tl%20img_3291.JPG)
 
 ### Objectives and Programmes
 
