@@ -54,7 +54,7 @@ To make MTL a living language, we strive to make learning of MT Languages joyful
 
 ![](/images/Department%20Photos/Mother%20Tongue/immersion%20programme%20(5).jpg)
 
-The EGPS Mother Tongue Fortnight was an exciting two-week event filled with diverse cultural activities, language competitions and learning experiences for our students to appreciate their own culture. The activities included Bunga Rampai, Pau Making, Thoranam, Opera Mask Painting, Puppetry, Kolam, and many more. 
+The EGPS Mother Tongue Fortnight is an exciting two-week event filled with diverse cultural activities, language competitions and learning experiences for our students to appreciate their own culture. The activities include Bunga Rampai, Pau Making, Thoranam, Opera Mask Painting, Puppetry, Kolam, and many more. 
 
 Throughout the Mother Tongue Fortnight, students had the opportunity to reflect on their learning and share their thoughts with their peers and teachers in class. They summarized their learning points and shared what they found most interesting and meaningful about the activities as well as reflecting on the importance of language learning and the cultural significance of different languages. 
 
