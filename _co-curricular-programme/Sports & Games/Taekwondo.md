@@ -4,7 +4,7 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-ga
 description: ""
 third_nav_title: Sports & Games
 ---
-# **Taekwondo**
+
 
 ![](/images/CCA%20Photos/img_3235.jpg)
 
@@ -34,7 +34,6 @@ TKD CCA strives:
 
 At EGPS, our TKD members are taught that Taekwondo is a Sport and an Art which requires  mental and physical discipline to master the  pattern formation as well as skills. We focus on values, training and leadership. This CCA develops students’ confidence and good sportsmanship as they prepare themselves for grading and competitions. In our CCA, students will be introduced to the rules of Taekwondo and various patterns at their belt level. Students will also get to understand why Taekwondo is both a Martial Art and Sport.
 
-![](/images/CCA%20Photos/Taekwondo/taekwondo%204.jpg)
 
 Our head coach, Mr Ng Tian Huat Tony, has taken part in many international events as well as represented Singapore on many occasions. He will be coaching our TKD members. Together with the teachers in TKD, we will ensure a holistic development for our students and celebrate their success and growth.
 
