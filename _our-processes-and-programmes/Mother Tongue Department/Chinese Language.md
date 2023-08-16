@@ -4,7 +4,6 @@ permalink: /our-processes-and-programmes/Mother-Tongue-Department/chinese-langua
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-# **Chinese Language**
 
 ![](/images/Department%20Main%20Photos/img_3300.JPG)
 
