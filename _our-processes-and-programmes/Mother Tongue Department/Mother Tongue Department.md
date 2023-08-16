@@ -4,7 +4,6 @@ permalink: /our-processes-and-programmes/Mother-Tongue-Department/
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-# **Mother Tongue Department**
 
 ![](/images/Department%20Main%20Photos/img_3287.JPG)
 
