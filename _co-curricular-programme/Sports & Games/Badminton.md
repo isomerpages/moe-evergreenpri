@@ -4,7 +4,7 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-ga
 description: ""
 third_nav_title: Sports & Games
 ---
-# **Badminton**
+
 
 ![](/images/CCA%20Photos/img_3220.jpg)
 

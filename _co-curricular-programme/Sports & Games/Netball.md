@@ -2,9 +2,9 @@
 title: Netball
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/netball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
-# **Netball**
+
 
 ![](/images/CCA%20Photos/img_3146.jpg)
 

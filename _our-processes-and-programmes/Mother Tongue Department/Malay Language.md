@@ -4,7 +4,6 @@ permalink: /our-processes-and-programmes/Mother-Tongue-Department/malay-language
 description: ""
 third_nav_title: Mother Tongue Department
 ---
-# **Malay Language**
 
 ![](/images/Department%20Main%20Photos/img_3297.JPG)
 

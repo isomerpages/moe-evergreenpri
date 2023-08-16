@@ -3,7 +3,6 @@ title: MMP
 permalink: /our-processes-and-programmes/co-curricular-programme/mmp/
 description: ""
 ---
-# **MMP**
 
 ### The Multi Modal Programme (MMP)
 
@@ -83,4 +82,3 @@ Our primary 5 students were exposed to Drumming module during MMP.&nbsp; Through
 ### Primary 6
 
 Our primary 6 students were exposed to Sports module during MMP.&nbsp; Through this programme, we aim to&nbsp;provide a holistic experience where students can choose to explore from a range of physical activity and sports that are not normally offered in school like fencing, in-line skating, kick boxing, wushu and archery. Students will also get to participate in an active and healthy physical activity.
-

@@ -3,8 +3,6 @@ title: Co Curricular Activities (CCA)
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/
 description: ""
 ---
-# **Co-Curricular Activities (CCA)**
-
   
 
 **_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**

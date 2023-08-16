@@ -1,12 +1,9 @@
 ---
-title: Character and Citizenry Education Department
-permalink: /our-processes-and-programmes/CCE-Department/
+title: Character and Citizenship Education Department
+permalink: /our-processes-and-programmes/cce-department/
 description: ""
-third_nav_title: CCE Department
+third_nav_title: Student Development Well Being
 ---
-# **Character and Citizenry Education Department**
-
-
 **Vision**  
 
 A school where students grow to have good character and strong national identity.
@@ -39,4 +36,3 @@ The objectives of PAL are:
 (1) To provide students broad exposure to the 4 PAL domains of Sports & Games, Outdoor Education, Visual Arts and Music which are carried out within curriculum time.  
 
 (2) Through engaging students in the 4 domains, students build confidence, curiosity, cooperation and social and emotional skills.
-

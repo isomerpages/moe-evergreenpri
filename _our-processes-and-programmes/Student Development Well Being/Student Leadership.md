@@ -2,15 +2,15 @@
 title: Student Leadership
 permalink: /our-processes-and-programmes/student-development-team/student-leadership/
 description: ""
-third_nav_title: Student Development Team
+third_nav_title: Student Development Well Being
 ---
 # **Student Leadership**
 
 ### EGPS STUDENT LEADERSHIP
 
-In Evergreen Primary, we believe that every child is a leader. The Student Leadership Committee work with the teachers to create a positive learning environment to develop our students holistically. 
+In Evergreen Primary, we believe that every child is a leader. The Student Leadership Committee work with the teachers to create a positive learning environment to develop our students holistically.&nbsp;
 
-The school has put in place a structured leadership development programme to develop the leadership qualities of the students through the different tiers of leadership. They are given opportunities to develop 21st Core Competencies (21CC) and Social-Emotional competencies. 
+The school has put in place a structured leadership development programme to develop the leadership qualities of the students through the different tiers of leadership. They are given opportunities to develop 21st Core Competencies (21CC) and Social-Emotional competencies.&nbsp;
 
 In Evergreen Primary, we believe that every child has the potential to be developed as a leader. Every student possess his/her unique blend of abilities, inclinations and talents. Every student can make positive difference in his/her own right within his/her sphere of influence, and thereby a leader. By helping them to discover their strengths to take charge of their lives, students discover their unique value as leaders.
   

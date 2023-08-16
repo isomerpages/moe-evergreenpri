@@ -1,12 +1,9 @@
 ---
-title: Student Development Well Being
-permalink: /our-processes-and-programmes/student-development-team/student-development-well-being/
+title: Student Well Being
+permalink: /our-processes-and-programmes/student-development-team/student-well-being/
 description: ""
-third_nav_title: Student Development Team
+third_nav_title: Student Development Well Being
 ---
-Student Development Well-Being
-==============================
-
 ![](/images/Department%20Main%20Photos/img_3312.JPG)
 
 

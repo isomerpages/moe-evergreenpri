@@ -4,7 +4,6 @@ permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-# **Art Talent Club**
 
 ![](/images/CCA%20Photos/img_3212.jpg)
 
