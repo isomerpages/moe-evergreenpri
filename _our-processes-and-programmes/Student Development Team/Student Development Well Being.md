@@ -4,8 +4,6 @@ permalink: /our-processes-and-programmes/student-development-team/student-develo
 description: ""
 third_nav_title: Student Development Team
 ---
-Student Development Well-Being
-==============================
 
 ![](/images/Department%20Main%20Photos/img_3312.JPG)
 
