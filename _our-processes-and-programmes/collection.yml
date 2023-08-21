@@ -2,7 +2,7 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
-      - English Language Department.md
+      - English Language.md
       - Mathematics Department.md
       - Science Department.md
       - Mother Tongue Department/.keep
