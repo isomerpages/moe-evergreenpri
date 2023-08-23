@@ -56,10 +56,12 @@ At EGPS, our students are provided with the different student development experi
 (a)	Values-In Action (VIA) projects
 (b)	Cohort Learning Journeys
 (c)	4 NE Commemorative Days
+
 - Total Defence Day
 - International Friendship Day
 - Racial Harmony Day
 - National Day 
+
 (d)	Camps 
 (e)	CCA 
 (f)	Multi-Modular Programme (MMP)
