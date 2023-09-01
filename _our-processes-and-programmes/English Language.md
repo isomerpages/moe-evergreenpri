@@ -1,9 +1,8 @@
 ---
-title: English Language Department
-permalink: /our-processes-and-programmes/english-language-department/
+title: English Language
+permalink: /our-processes-and-programmes/english-language/
 description: ""
 ---
-
 ![](/images/Department%20Main%20Photos/img_3319.JPG)
 
 ### Our Vision:

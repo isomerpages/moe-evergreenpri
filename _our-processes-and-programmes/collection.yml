@@ -2,16 +2,15 @@ collections:
   our-processes-and-programmes:
     output: true
     order:
-      - English Language Department.md
-      - Mathematics Department.md
-      - Science Department.md
-      - Mother Tongue Department/.keep
-      - Mother Tongue Department/Mother Tongue Department.md
-      - Mother Tongue Department/List of Approved Mother Tongue Dictionaries for
-        PSLE.md
-      - Mother Tongue Department/Chinese Language.md
-      - Mother Tongue Department/Malay Language.md
-      - Mother Tongue Department/Tamil Language.md
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue Department.md
+      - Mother Tongue/List of Approved Mother Tongue Dictionaries for PSLE.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
       - Student Development Well Being/.keep
       - Student Development Well Being/Student Development.md
       - Student Development Well Being/Student Well Being.md

@@ -1,9 +1,8 @@
 ---
-title: Mathematics Department
-permalink: /our-processes-and-programmes/mathematics-department/
+title: Mathematics
+permalink: /our-processes-and-programmes/mathematics/
 description: ""
 ---
-
 ![](/images/Department%20Main%20Photos/img_9619.jpg)
 
 **Vision**   

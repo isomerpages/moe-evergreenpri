@@ -2,9 +2,8 @@
 title: Chinese Language
 permalink: /our-processes-and-programmes/Mother-Tongue-Department/chinese-language/
 description: ""
-third_nav_title: Mother Tongue Department
+third_nav_title: Mother Tongue
 ---
-
 ![](/images/Department%20Main%20Photos/img_3300.JPG)
 
 ### Objectives and Programmes
