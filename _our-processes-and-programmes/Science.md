@@ -108,7 +108,3 @@ We believe in nurturing young minds and providing them with opportunities to exc
 
 The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science.
 
-
-![](/images/Department%20Photos/Science/science%20dept%202023%208.jpg)
-
-***(P5 E2K - Designing a toy car and investigating the factors that affects the distance travelled)***
