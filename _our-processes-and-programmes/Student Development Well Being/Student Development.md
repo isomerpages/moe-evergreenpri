@@ -49,7 +49,7 @@ NE is also supported by the Social Studies curriculum which aims to help student
 
 **(f)	Sexuality Education (SEd)**
 
-SEd is only conducted for Primary 5 and 6 students. The Growing Years Series, a separate syllabus developed by MOE to meet the development needs of our students, is usually conducted during CCE (FTGP) by SEd-trained teachers only. You may click here for more information.
+SEd is only conducted for Primary 5 and 6 students. The Growing Years Series, a separate syllabus developed by MOE to meet the development needs of our students, is usually conducted during CCE (FTGP) by SEd-trained teachers only. You may click [here](https://evergreenpri.moe.edu.sg/our-processes-and-programmes/CCE-Department/sexuality-education/) for more information.
 
 2.	**Key Student Development Experiences (SDEs)**<br>
 At EGPS, our students are provided with the different student development experiences to contribute towards the holistic development in the physical, aesthetic, intellectual, moral, and social domains. Our students get to experience the different programmes and activities, namely:
