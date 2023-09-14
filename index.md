@@ -9,7 +9,7 @@ description: |-
   Youthfulness in living
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Welcome to Evergreen Primary School
 sections:
   - hero:
       background: /images/ez3gif-3-526bf5189c.gif
