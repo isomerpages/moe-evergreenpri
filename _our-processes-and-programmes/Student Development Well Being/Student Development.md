@@ -30,7 +30,7 @@ Through P.L.A.Y, we aim to build positive relationships between teachers and stu
 # **Character &amp; Citizenship Education (CCE)**
 
 <br>
-<br>
+
 
 The goal of CCE is to inculcate values and build competencies in our students. Through the CCE curriculum and key student development experiences, our students will learn to be responsible individuals towards self, family, and community; understand their roles in shaping the future of our nation. 
 
