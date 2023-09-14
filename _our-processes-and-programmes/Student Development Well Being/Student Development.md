@@ -4,6 +4,29 @@ permalink: /our-processes-and-programmes/student-development-well-being/student-
 description: ""
 third_nav_title: Student Development Well Being
 ---
+**Student Development &amp; Well-Being**
+===========================================
+
+**Vision**
+
+A school where students grow to develop good character, resilience and a strong national identity.
+
+**Mission**
+
+To inculcate desired shared values and equip our students with the social and emotional competencies to develop a sense of purpose and citizenship dispositions to enable them to grow holistically, leading to positive life outcomes.
+Approach
+
+**1.	Total Curriculum @ EGPS**<br><br>
+At EGPS, we aim to provide a robust, holistic and innovative programme through our curriculum and co-curriculum. We want every student to be provided with varied learning experiences in different domains of the curriculum that include, Language Arts, Aesthetics, Sports, Entrepreneurship Skills, Media and Technology and Lifeskills over the six years in our school. We hope that through these experiences every student will be able to develop their competencies in the different subject matters, discover their strengths and interests and be developed into confident students. 
+
+**2.	A Caring and Enabling School Environment**<br><br>
+A caring and enabling environment aims to help students feel safe, accepted, empowered, and competent. As a school, we recognised that we play a crucial role in establishing and sustaining these efforts.
+At EGPS, we put in place systems, policies and structures for positive and proactive discipline and provide a continuum of care to meet the diverse needs of our students. 
+Through P.L.A.Y, we aim to build positive relationships between teachers and students and amongst students. We also demonstrate a consistent and coherent messaging emanating from the school’s VMV and direction to our programmes and daily practices with our students. 
+
+
+
+
 # **Character &amp; Citizenship Education (CCE)**
 
 <br>
