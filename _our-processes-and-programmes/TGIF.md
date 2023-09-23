@@ -3,8 +3,6 @@ title: TGIF
 permalink: /our-processes-and-programmes/tgif/
 description: ""
 ---
-# **TGIF**
-
 ### That's Great It's Friday
 
 <img src="/images/TGIF/2023%20tgif%20photo%203%20-%20aainoo%20a.jpeg" style="width:300px;height:200px;margin-left:15px;" align="right">

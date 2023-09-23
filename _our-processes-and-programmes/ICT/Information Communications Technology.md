@@ -4,7 +4,7 @@ permalink: /our-processes-and-programmes/information-communications-technology/
 description: ""
 third_nav_title: ICT
 ---
-# **Information Communications Technology**
+
 
 ![](/images/Department%20Main%20Photos/img_3331.JPG)
 

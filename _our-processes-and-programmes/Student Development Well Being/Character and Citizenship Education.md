@@ -1,5 +1,5 @@
 ---
-title: Character and Citizenship Education Department
+title: Character and Citizenship Education
 permalink: /our-processes-and-programmes/cce-department/
 description: ""
 third_nav_title: Student Development Well Being
