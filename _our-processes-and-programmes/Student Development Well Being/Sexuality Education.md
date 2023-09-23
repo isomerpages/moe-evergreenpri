@@ -4,8 +4,6 @@ permalink: /our-processes-and-programmes/CCE-Department/sexuality-education/
 description: ""
 third_nav_title: Student Development Well Being
 ---
-# **Sexuality Education**
-
 **Moe Sexuality Education in Schools**
 
 MOE SEXUALITY EDUCATION IN SCHOOLS
