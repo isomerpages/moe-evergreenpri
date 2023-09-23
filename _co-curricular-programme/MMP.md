@@ -3,7 +3,6 @@ title: MMP
 permalink: /our-processes-and-programmes/co-curricular-programme/mmp/
 description: ""
 ---
-
 ### The Multi Modal Programme (MMP)
 
 Multi Modal Programme (MMP) is&nbsp;a signature EGPS programme that provides&nbsp;**ALL students**&nbsp;the opportunities to hone their skills in 6 various enrichment and lifeskills domains; Language Arts, Sports, Visual &amp; Performing Arts, Self-Management &amp; Lifeskills, Media &amp; Technology, Innovation &amp; Enterprise.&nbsp; The main objective is to provide the exposure for students to as varied areas of skills and experiences as possible so that they can discover their interests and talents in the 6 years at EGPS.
@@ -19,7 +18,7 @@ Multi Modal Programme (MMP) is&nbsp;a signature EGPS programme that provides&nbs
 
 
 
-The table below summarizes the exposures specially curated for our EGPS students for 2021
+The table below summarizes the exposures specially curated for our EGPS students for 2023
 
 **Co-curriculum Domain : Enrichment &amp; Lifeskills (ENL)**   
 **Signature Programme : Multi-Modal Programme (MMP)**
