@@ -27,9 +27,7 @@ To support the development of collaborative and communication skills, students w
 
 Learning Support for Mathematics (LSM) provides additional support to students who need help in acquiring basic numeracy skills. Identified students are taught in smaller groups during Math periods by specially trained teachers, where they learn through varied activities.  
 
-![](/images/Department%20Photos/Maths/lsm1%20-%20sufilizah%20samsuri.jpg)
 
-![](/images/Department%20Photos/Maths/lsm2%20-%20sufilizah%20samsuri.jpg)
 
 LSM support is provided for up to 4 years, but students’ progress is reviewed annually. The LSM Programme focuses on building good Mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. Students receive more individual attention from teacher and receive help in specific areas that they are weak in. 
 
