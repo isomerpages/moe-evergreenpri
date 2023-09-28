@@ -86,14 +86,8 @@ Some of the competitions these students will take part include:
 
 One of EGPS’ signature programmes is T.G.I.F – That’s Great, It’s Friday! – where students come together to learn through P.L.A.Y.
 
-![](/images/Department%20Photos/Maths/tgif1%20-%20sufilizah%20samsuri.jpg)
-
-![](/images/Department%20Photos/Maths/tgif2%20-%20sufilizah%20samsuri.jpg)
 
 In Term 1, the Math and Science departments collaborated to curate activities which aimed to seamlessly blend Math and Science concepts in a fun and engaging way. Students explored Math concepts, logic, and reasoning skills through hands-on activities in structured play settings. 
 
 This also aims to develop and strengthen their social skills through interaction with their friends during play. This provides opportunities for students to exercise SEL competencies and to explore making choices of their own unstructured play.
 
-![](/images/Department%20Photos/Maths/tgif3%20-%20sufilizah%20samsuri.jpg)
-
-![](/images/Department%20Photos/Maths/tgif4%20-%20sufilizah%20samsuri.jpg)
