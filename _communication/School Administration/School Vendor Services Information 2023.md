@@ -49,7 +49,7 @@ Please click&nbsp;<a href="">(coming soon)</a>&nbsp;to view the P1 Booklist for 
 
 The school encourages you to make your purchases online at&nbsp;<a href="www.euniforms.com.sg/shop">http://www.euniforms.com.sg/shop/</a>&nbsp;to avoid crowd.&nbsp; Your Primary 1 child only need to buy the Polo T-SHIRT and Shorts/Skorts. There is&nbsp;<b>no need to buy</b>&nbsp;the Shirt and Blouse as these are for P4 - P6 students. Sizing charts are also available on the website. &nbsp;<b>Order online early</b>&nbsp;to avoid stock out. &nbsp;Delivery charge&nbsp;applicable for home delivery.<br>
 
-<b>2)</b>  &nbsp;From School&nbsp; 23 Nov 2023 , 24Nov 2023 &nbsp; <br>(9am -3pm )&nbsp;
+<b>2)</b>  &nbsp;From School&nbsp; 23 Nov 2023 , 24 Nov 2023 &nbsp; <br>(9am -3pm )&nbsp;
 
 
 <b>3)</b>&nbsp;&nbsp;At the retail shop
