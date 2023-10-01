@@ -27,7 +27,7 @@ To support the development of collaborative and communication skills, students w
 
 Learning Support for Mathematics (LSM) provides additional support to students who need help in acquiring basic numeracy skills. Identified students are taught in smaller groups during Math periods by specially trained teachers, where they learn through varied activities.  
 
-
+![](/images/Department%20Photos/Maths/img-20230816-wa0009.jpg)
 
 LSM support is provided for up to 4 years, but students’ progress is reviewed annually. The LSM Programme focuses on building good Mathematical understanding and aims to build students’ confidence and positive beliefs about their ability to do Math. Students receive more individual attention from teacher and receive help in specific areas that they are weak in. 
 
@@ -38,6 +38,7 @@ The ICAN programme aims to support low progress learners who generally do not ha
 
 Instruction is organised using the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation – to keep in focus the important elements in each lesson. Through the varied intervention strategies, we hoped to tackle the 4 key issues of learning in our students - leaning gaps, language, motivation, and memory. 
 
+![](/images/Department%20Photos/Maths/img-20230816-wa0011.jpg)
 
 #### CHALLENGING AND DEVELOPING LEANERS TO THEIR POTENTIAL
 
@@ -90,4 +91,3 @@ One of EGPS’ signature programmes is T.G.I.F – That’s Great, It’s Friday
 In Term 1, the Math and Science departments collaborated to curate activities which aimed to seamlessly blend Math and Science concepts in a fun and engaging way. Students explored Math concepts, logic, and reasoning skills through hands-on activities in structured play settings. 
 
 This also aims to develop and strengthen their social skills through interaction with their friends during play. This provides opportunities for students to exercise SEL competencies and to explore making choices of their own unstructured play.
-
