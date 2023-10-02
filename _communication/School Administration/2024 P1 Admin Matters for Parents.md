@@ -28,16 +28,16 @@ third_nav_title: School Administration
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">P1 Orientation for the Year 2023</label>
+    <label for="accordion2">P1 Orientation for the Year 2024</label>
     <div>
-			<p>Click <a href="/files/2023%20P1%20Orientation%20final%20for%20website_compressed.pdf"> here</a> to access the briefing slides.<br></p>
+			<p>Coming Soon<br></p>
 	</div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">School Vendors Services for Primary 1 (2023)</label>
+    <label for="accordion3">School Vendors Services for Primary 1 (2024)</label>
     <div>
-			<p>Please click <a href="/communication/school-administration/school-vendor-services-information-2023/">here</a> to find out more</p>
+			<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information-2024/">here</a> to find out more</p>
 	</div>
 	</li>
 	<li>
