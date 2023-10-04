@@ -69,11 +69,9 @@ We are committed to providing our students with a holistic education that prepar
 
 Our P4 students are involved in the Reduce Carbon Footprint Programme. Students actively engage in various activities aimed at reducing their environmental impact. Using the Design Thinking Approach, students explore strategies to make sustainable choices in their daily lives and inspire others to do the same. Our students participated in energy-saving initiatives such as optimising energy usage in classrooms and common areas. They also learn about renewable energy sources and how they can contribute to a greener future.
 
-![](/images/Department%20Photos/Science/science%20dept%202023%203.jpg)
 
 ***(Students engaged in brainstorming sustainable solutions for the school environment)***
 
-![](/images/Department%20Photos/Science/science%20dept%202023%204.jpg)
 
 Our P3 students are involved in the Farm to Table Programme. It provides a unique opportunity to understand the journey of food from its source to the table. Through this experiential learning initiative, students gain deeper appreciation for the value of locally sourced and sustainable food. 
 
@@ -100,11 +98,9 @@ Through hands-on activities and inquiry-based learning, our programme provides s
 
 We believe in nurturing young minds and providing them with opportunities to excel in the field of science. Our Science Olympiad Training and Competition programme is designed to challenge and inspire our students, allowing them to showcase their scientific knowledge and problem-solving skills in a competitive platform. Our training programme covers various scientific disciplines including Biology, Chemistry, Physics, earth science, and engineering. Students delve deep into these subjects, developing analytical and critical thinking skills, fostering creativity, and enhancing teamwork and collaboration abilities. 
 
-![](/images/Department%20Photos/Science/science%20dept%202023%207.jpg)
 
 ***(P5 Science Olympiad Students who received the certificate of participation)***
 
 ### Science E2K Programme
 
 The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science.
-
