@@ -15,7 +15,7 @@ description: ""
     <tr>
       <td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Petrina Koh</span><br>
       <span style="background-color:initial">Vice-Principal</span></td>
-      <td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Rabia Shahul</span><br>
+      <td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mdm Rabiathul Bazriya</span><br>
       <span style="background-color:initial">Principal</span></td>
       <td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">Mr William Boh</span><br>
       <span style="background-color:initial">Vice-Principal</span></td>
