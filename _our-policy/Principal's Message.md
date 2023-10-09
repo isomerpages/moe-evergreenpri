@@ -49,4 +49,4 @@ The students are our pride, our hope our future.
 
 Have a purposeful and fulfilling year ahead!
 
-**Mrs Rabia Shahul**<br>**Principal**
+**Mdm Rabiathul Bazriya**<br>**Principal**
