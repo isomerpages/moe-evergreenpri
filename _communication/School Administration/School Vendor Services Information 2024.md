@@ -33,7 +33,7 @@ c.&nbsp;You will be notified by Big Heart Student Care&nbsp;<b>by 1 December 202
 <b>[The following information below is meant for parents who are enrolling their P1 child in 2024]</b><br>
 <b>(1)</b>&nbsp;  Via online website
 
-The school encourages you to make your purchases online at&nbsp;<a href="https://www.rickybookcentre.com.sg"> http://www.rickybookcentre.com.sg</a>&nbsp; to avoid crowd.&nbsp; <br><br><b>Compulsory</b>: &nbsp;Parents need to order Name Tag for the child school uniform at &nbsp;website at&nbsp;<a href="https://go.gov.sg/jfvc3w">https://go.gov.sg/jfvc3w</a><br><br><b>Order online early</b>&nbsp;to avoid stock out. &nbsp;There are options for home delivery at a cost, but there are no delivery charges applicable for self-collection at the school with an appointment time.  
+The school encourages you to make your purchases online at&nbsp;<a href="https://www.rickybookcentre.com.sg"> http://www.rickybookcentre.com.sg</a>&nbsp; to avoid crowd.&nbsp; <br><br><b>Compulsory</b>: &nbsp;Parents need to order Name Tag for the child school uniform at &nbsp;website at&nbsp;<a href="https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder">https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder</a><br><br><b>Order online early</b>&nbsp;to avoid stock out. &nbsp;There are options for home delivery at a cost, but there are no delivery charges applicable for self-collection at the school with an appointment time.  
 
 <b>(2)</b>&nbsp;&nbsp;From School bookshop&nbsp;
 
