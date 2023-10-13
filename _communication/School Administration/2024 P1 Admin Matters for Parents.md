@@ -8,6 +8,11 @@ third_nav_title: School Administration
 
 <img style="width:60%" src="/images/Picture1.jpg">
 
+S/N | For Information | Steps to complete  
+| -------- | -------- | -------- |
+| 1     | Receive official school communication letters, acknowledgement forms, travel declarations     | On boarding of Parents Gateway via Mobile App (required) Download Parents Gateway Mobile App  |
+| 2 | EGPS Survey to help teachers to understand your child better.  | Provide information for THE purpose of your child’s safety [here](https://go.gov.sg/2l2we1)   |
+
 <ul class="jekyllcodex_accordion">
    <li>
     <input type="checkbox" id="accordion1">
@@ -54,7 +59,3 @@ third_nav_title: School Administration
 	
 	
 
-S/N | For Information | Steps to complete  
-| -------- | -------- | -------- |
-| 1     | Receive official school communication letters, acknowledgement forms, travel declarations     | On boarding of Parents Gateway via Mobile App (required) Download Parents Gateway Mobile App  |
-| 2 | EGPS Survey to help teachers to understand your child better.  | Provide information for THE purpose of your child’s safety [here](https://go.gov.sg/2l2we1)   |
