@@ -4,7 +4,7 @@ permalink: /communication/school-administration/2024-p1-admin-matters-for-parent
 description: ""
 third_nav_title: School Administration
 ---
-<h1><b>2024 - P1 Admin Matters for Parents (Coming Soon)</b></h1>
+<h1><b>2024 - P1 Admin Matters for Parents </b></h1>
 
 <img style="width:60%" src="/images/Picture1.jpg">
 
