@@ -1,6 +1,6 @@
 ---
-title: General Admin Matters
-permalink: /communication/school-administration/general-admin-matters/
+title: POSB SMART Buddy Watch
+permalink: /communication/school-administration/posb-smart-buddy-watch/
 description: ""
 third_nav_title: School Administration
 ---
