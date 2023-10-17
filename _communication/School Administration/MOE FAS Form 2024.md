@@ -4,7 +4,7 @@ permalink: /communication/school-administration/moe-fas-form-2024/
 description: ""
 third_nav_title: School Administration
 ---
-The application form for Financial Assistance Scheme (FAS) 2024 is available from the school Admin General Office (hardcopy) or you may download the file attachment 
+The application form for Financial Assistance Scheme (FAS) 2024 is available from the school Admin General Office (hardcopy) or you may download the file attachment [here](/files/2024%20moe%20fas%20application%20form-%20converted.pdf)
 
 Alternatively, this year MOE has also rolled out online application (eFAS) at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
@@ -44,4 +44,6 @@ The school will process your completed application promptly and inform you of th
 
 Should you have any further queries, please call General Office at 6368 7705.
 
-Click [here](/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf) to understand more about the MOE Financial Assistance Scheme
+Please refer to the below brochure more details on the MOE FAS.
+
+![](/images/Administration/moe%20fas%202024%20brochure.jpg)
