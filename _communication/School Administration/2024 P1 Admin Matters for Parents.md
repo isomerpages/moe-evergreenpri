@@ -8,6 +8,13 @@ third_nav_title: School Administration
 
 <img style="width:60%" src="/images/Picture1.jpg">
 
+<ul class="jekyllcodex_accordion">
+   <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Admin Matter Checklist</label>
+    <div>
+			<p>
+
 **CHECKLIST FOR P1 PARENTS (COMPULSORY)**
 
 **Here are some of the administrative matters to complete**
@@ -21,7 +28,7 @@ third_nav_title: School Administration
 | 5     | MOE Financial Assistance  | Singapore Citizens in financial need can get assistance on school fees and other expenses.  <br> <br><br>To know your eligibility, please click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) <br><br>If you qualify for the FAS, please click [here](/files/Administration/2024%20moe%20fas%20application%20form-%20converted.pdf) to appy |
 | 6     | POSB SMART Buddy Watch    | To allow your child to make alternate cashless transactions at school canteen and bookshop. <br><br>Click [here](https://youtu.be/6Io4OXlxbjE) to learn more     |
 
-<ul class="jekyllcodex_accordion">
+</p><ul class="jekyllcodex_accordion">
    <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Admin Matter Checklist</label>
@@ -54,4 +61,4 @@ third_nav_title: School Administration
 			<p>Click<a href="https://forms.office.com/pages/responsepage.aspx?id=Ycu9JkYoA0yJwHUJWG-CpagWUtXPd0hDjN8Z2rSTCjpURFo0VkRZMUkyRVFQVUhHU1BGT1JHTzJSVy4u"> here</a> to register.</p>
     </div>
 	</li>
-	</ul>
+	</ul></div></li></ul>
