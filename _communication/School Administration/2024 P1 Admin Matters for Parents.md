@@ -41,7 +41,7 @@ third_nav_title: School Administration
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">School Vendors Services for Primary 1 (2024)</label>
+    <label for="accordion3">School Vendor Services for Primary 1 (2024)</label>
     <div>
 			<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information-2024/">here</a> to find out more</p>
 	</div>
