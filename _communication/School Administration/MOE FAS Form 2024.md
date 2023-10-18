@@ -1,13 +1,10 @@
 ---
-title: MOE FAS Form 2023
-permalink: /communication/school-administration/moe-fas-form-2023/
+title: MOE FAS Form 2024
+permalink: /communication/school-administration/moe-fas-form-2024/
 description: ""
 third_nav_title: School Administration
 ---
-# **MOE FAS Form 2023**
-
-  
-The application form for Financial Assistance Scheme (FAS) 2023 is available from the school Admin General Office (hardcopy) or you may download the file attachment [here](https://evergreenpri-moe-edu-sg-admin.cwp.sg/qql/slot/u511/MOE%20FAS%20Application%20Form%20Sep%202023.EGPS.pdf) .
+The application form for Financial Assistance Scheme (FAS) 2024 is available from the school Admin General Office (hardcopy) or you may download the file attachment [here](/files/2024%20moe%20fas%20application%20form-%20converted.pdf)
 
 Alternatively, this year MOE has also rolled out online application (eFAS) at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
@@ -43,8 +40,10 @@ Please find the eligibility criteria and benefits via the attached pamphlet. For
 
 Please submit your application (Hard copy or online)  to General Office) inclusive of all required documents as indicated on the application form to expedite the processing. Applications with incomplete forms will be returned to the applicant.
 
-The school will process your completed application promptly and inform you of the outcome. Please submit your application by **30th October 2022** so as to allow time for processing and avoid delay in collection of uniforms and books.
+The school will process your completed application promptly and inform you of the outcome. Please submit your application by **30th October 2023** so as to allow time for processing and avoid delay in collection of uniforms and books.
 
 Should you have any further queries, please call General Office at 6368 7705.
 
-Click [here](/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf) to understand more about the MOE Financial Assistance Scheme
+Please refer to the below brochure more details on the MOE FAS.
+
+![](/images/Administration/moe%20fas%202024%20brochure.jpg)
