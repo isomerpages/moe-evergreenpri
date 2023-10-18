@@ -9,6 +9,7 @@ third_nav_title: School Administration
 <img style="width:60%" src="/images/Picture1.jpg">
 
 
+
 **CHECKLIST FOR P1 PARENTS (COMPULSORY)**
 
 **Here are some of the administrative matters to complete**
