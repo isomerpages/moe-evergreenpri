@@ -8,22 +8,8 @@ third_nav_title: School Administration
 
 <img style="width:60%" src="/images/Picture1.jpg">
 
-
-
-
-
 **CHECKLIST FOR P1 PARENTS (COMPULSORY)**
 
-**Here are some of the administrative matters to complete**
-
-| S/N | For Information  | Steps to complete  | To be completed by   |
-| -------- | -------- | -------- | -------- |
-| 1     | Receive official school communication letters, acknowledgement forms, travel declarations  <br> <br> Click [here](https://youtu.be/tW9jwyuovOo) to learn more about the PG onboarding process <br> <br> Click [here](/files/PG%20-%20Annex%20A.pdf) for a step-by-step guide  | On boarding of Parents Gateway via Mobile App (required) <br><br>Download Parents Gateway Mobile App     |  19 November 2023
-| 2     | GIRO Payment/Receipt for school enrichment or school assistance through bank transfer.     | GIRO Application online https://go.gov.sg/n7qejv  | 19 November 2023
-| 3     | EGPS Survey to help teachers to understand your child better.      | Provide information for purpose on your child’s safety.   https://go.gov.sg/2l2we1     | 3 November 2023
-| 4     | MOE Student Details Form Available from 27 Nov 10am. <br><br>Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself.  | Available from 27 Nov 10am. <br><br>To complete the submission by 29 Dec 2023. <br><br>https://pg.moe.edu.sg/forms/sdf  | 29 December 2023  |
-| 5     | MOE Financial Assistance  | Singapore Citizens in financial need can get assistance on school fees and other expenses.  <br> <br><br>To know your eligibility, please click [here](https://www.moe.gov.sg/financial-matters/financial-assistance) <br><br>If you qualify for the FAS, please click [here](/files/Administration/2024%20moe%20fas%20application%20form-%20converted.pdf) to appy |
-| 6     | POSB SMART Buddy Watch    | To allow your child to make alternate cashless transactions at school canteen and bookshop. <br><br>Click [here](https://youtu.be/6Io4OXlxbjE) to learn more     |
 
 <p></p><ul class="jekyllcodex_accordion">
    <li>
