@@ -10,6 +10,8 @@ third_nav_title: School Administration
 
 
 
+
+
 **CHECKLIST FOR P1 PARENTS (COMPULSORY)**
 
 **Here are some of the administrative matters to complete**
@@ -28,8 +30,67 @@ third_nav_title: School Administration
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Admin Matter Checklist</label>
     <div>
-			<p>
-			<br> <span style="background-color:initial"></span></p>
+							<table>
+    <tbody><tr>
+        <th>S/N</th>
+        <th>For Information</th>
+        <th>Steps to complete</th>
+        <th>To be completed by</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Receive official school communication letters, acknowledgement forms, travel declarations
+            <br><br>Click <a href="https://youtu.be/tW9jwyuovOo">here</a> to learn more about the PG onboarding process
+            <br><br>Click <a href="/files/PG%20-%20Annex%20A.pdf">here</a> for a step-by-step guide
+        </td>
+        <td>On boarding of Parents Gateway via Mobile App (required)
+            <br><br>Download Parents Gateway Mobile App
+        </td>
+        <td>19 November 2023</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>GIRO Payment/Receipt for school enrichment or school assistance through bank transfer.</td>
+        <td>GIRO Application online <a href="https://go.gov.sg/n7qejv">https://go.gov.sg/n7qejv</a></td>
+        <td>19 November 2023</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>EGPS Survey to help teachers to understand your child better.</td>
+        <td>Provide information for the purpose of your child's safety. <a href="https://go.gov.sg/2l2we1">https://go.gov.sg/2l2we1</a></td>
+        <td>3 November 2023</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>MOE Student Details Form Available from 27 Nov 10am.
+            <br><br>Both parents must log in separately to the portal using his/her own Singpass account to submit particulars of himself/herself.
+        </td>
+        <td>Available from 27 Nov 10am.
+            <br><br>To complete the submission by 29 Dec 2023.
+            <br><br><a href="https://pg.moe.edu.sg/forms/sdf">https://pg.moe.edu.sg/forms/sdf</a>
+        </td>
+        <td>29 December 2023</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>MOE Financial Assistance
+            <br>Singapore Citizens in financial need can get assistance on school fees and other expenses.
+            <br><br>To know your eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">here</a>
+            <br><br>If you qualify for the FAS, please click <a href="/files/Administration/2024%20moe%20fas%20application%20form-%20converted.pdf">here</a> to apply
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>POSB SMART Buddy Watch
+            <br>To allow your child to make alternate cashless transactions at school canteen and bookshop.
+            <br><br>Click <a href="https://youtu.be/6Io4OXlxbjE">here</a> to learn more
+        </td>
+        <td></td>
+        <td></td>
+    </tr>
+</tbody></table>
     </div>
 	</li>
 	<li>
