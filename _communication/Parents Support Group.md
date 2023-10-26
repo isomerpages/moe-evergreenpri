@@ -5,10 +5,11 @@ description: ""
 ---
 The Evergreen Primary School Parent Support Group (EGPS PSG) is a volunteer organisation made up of parents who are dedicated to support the school in the holistic development of the students. The PSG is managed by an Executive Committee (EXCO).
 
+![](/images/PSG/parents%20support%20group.jpg)
 
 Be part of the Parent Support Group. Join us!  
   
-Please click [here](https://forms.gle/UYoJkkYvTtuLf8fg8) to access the Parent Support Group Registration Form.  
+Please click [here](https://docs.google.com/forms/d/e/1FAIpQLScN0xPCCpDFdQQ1m5sPAki6km06Qvigg5RRQbULxI9iYZWCIQ/viewform) to access the Parent Support Group Registration Form.  
   
   
 **Information**  
