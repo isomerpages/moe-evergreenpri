@@ -18,6 +18,12 @@ To learn more, please click on the following [link](https://www.carecorner.org.
 
 **Upcoming Programmes**
 
-There will be an upcoming Seminar for parents of primary schoolers on the topic of, '_Positive Parenting in the 21st Century'._ Click [here](/files/Triple%20P%20Seminar%20R4-5%20290422-compressed.pdf) to learn more and register for the upcoming course.
+November 2023
+
+There will be a workshop organised by Touch Community Services - Touch Parenting, for parents of children aged 5 to 9 years old. The workshop entitled ‘My First Device Campaign’ is based around the defining milestone in the life of a child when they receive their first computer, tablet, or smartphone. Click _____ to learn more and to register for the workshop. 
+
+December 2023
+
+There will be an upcoming Seminars organised by the Care Corner for parents of primary schoolers to help parents transit to a primary school. The seminars will be on the ‘Power of Positive Parenting & Building Confidence and Competence’ as well as ‘Developing Resilience through Transitions’. Parents could learn a simple and practical strategies from a parenting expert. Click ____ to learn more and to register for the upcoming seminar
 
 Thank you.
