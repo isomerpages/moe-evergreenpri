@@ -15,10 +15,10 @@ Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___B
   
 Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___Booklist_for_AY2024___caa_301023___P4.pdf) to access the P4 Booklist for the Year 2024.  
   
-Click  to access the P5 Booklist for the Year 2024.  
+Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___Booklist_for_AY2024___caa_301023___P5.pdf) to access the P5 Booklist for the Year 2024.  
   
-Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20061122%20-%20P5%20FDN.pdf)** to access the P5 Foundation Booklist for the Year 2024.  
+Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___Booklist_for_AY2024___caa_301023___P5_FDN.pdf) to access the P5 Foundation Booklist for the Year 2024.  
   
-Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20061122%20-%20P6.pdf)** to access the P6 Booklist for the Year 2024.  
+Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___Booklist_for_AY2024___caa_301023___P6.pdf) to access the P6 Booklist for the Year 2024.  
   
-Click **[here](/files/Evergreen%20Primary%20School%20-%20Booklist%20for%20AY2023%20-%20caa%20061122%20-%20P6%20FDN.pdf)** to access the P6 Foundation Booklist for the Year 2024.
+Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___Booklist_for_AY2024___caa_301023___P6_FDN.pdf) to access the P6 Foundation Booklist for the Year 2024.
