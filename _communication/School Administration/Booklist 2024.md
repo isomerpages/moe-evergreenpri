@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Administration
 variant: markdown
 ---
-### Click on the following links to download
+### Click on the following links to download the school booklist 
 
 Click [here](/files/Administration/Booklist%202024/Evergreen_Primary_School___Booklist_for_AY2024___caa_111023___P1.pdf) to access the P1 Booklist for the Year 2024.  
   
