@@ -3,6 +3,7 @@ title: School Vendor Services Information 2024
 permalink: /communication/school-administration/school-vendor-services-information-2024/
 description: ""
 third_nav_title: School Administration
+variant: markdown
 ---
 <h3 id="schoolbus">School Bus</h3>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bus Operator </th><th style="background-color:#F39300;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Vasantham Transport Pte Ltd</th></tr></thead><tbody><tr><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Contact No.</td><td style="background-color:#E9E9E9;border-color:#ffffff;border-style:solid;border-width:1px;color:#002D13;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Gnanasekaran Balaji  (9061 9947 )</td></tr></tbody></table>
@@ -47,7 +48,9 @@ Please click&nbsp;<a href="/files/Administration/p1%20booklist%20as%20of%2011%20
 
 The school encourages you to make your purchases online at&nbsp;<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/">https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/</a>&nbsp;to avoid crowd.&nbsp; Your Primary 1 child only need to buy the Polo T-SHIRT and Shorts/Skorts. There is&nbsp;<b>no need to buy</b>&nbsp;the Shirt and Blouse as these are for P4 - P6 students. Sizing charts are also available on the website. &nbsp;<b>Order online early</b>&nbsp;to avoid stock out. &nbsp;Delivery charge&nbsp;applicable for home delivery.<br>
 
-<b>2)</b>  &nbsp;From School&nbsp; 23 Nov 2023 , 24 Nov 2023 &nbsp; <br>(9am -3pm )&nbsp;
+<b>2)</b>  &nbsp;From School&nbsp; 23 Nov 2023 , 24 Nov 2023 &nbsp; <br>(9am -3pm )
+
+Alternatively, you may click on the [link](/files/Administration/uniform_sales_2023__1_.pdf) to view the schedule&nbsp;
 
 
 <b>3)</b>&nbsp;&nbsp;At the retail shop
