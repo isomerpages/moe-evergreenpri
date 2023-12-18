@@ -2,9 +2,8 @@
 title: Vice Principals
 permalink: /our-people/vice-principals/
 description: ""
+variant: markdown
 ---
-# **Vice Principals**
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
