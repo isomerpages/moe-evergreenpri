@@ -8,8 +8,12 @@ variant: markdown
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Ms Liew Choon Siang Jasmine     | Administration Manager     | liew_choon_siang@schools.gov.sg     |
+| Mr S M Azhar    | Operations Manager     | s_m_azhar_mohd_tahir@schools.gov.sg     |
+| Mr Ashfar Badarudeen     | ICT Manager     | ashfar_badarudeen@schools.gov.sg     |
+| Mr Muhd Hezan Rosli     | Admin Executive     | muhammad_hezan_rosli@schools.gov.sg     |
+| Mdm Alice Sim     | Corporate Support Officer     | Text     |
+| Text     | Corporate Support Officer     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
