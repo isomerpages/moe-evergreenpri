@@ -11,7 +11,7 @@ variant: markdown
 | Mrs Low Kwee Huang     | LT Mathematics   | teo_kwee_huang@schools.gov.sg     |
 | Mrs Tina Eng     | ST Special Educational Needs     | tina_leong@schools.gov.sg     |
 | Mr Qamarul Azhar B Ahmad Kamail     | ST Malay Language     |  qamarul_azhar_ahmad_kamil@schools.gov.sg    |
-| Text     | Text     | Text     |
+| Mdm Nuraini Binte Ithnin    | ST Art     | nuraini_ithnin@schools.gov.sg     |
 
 
 
