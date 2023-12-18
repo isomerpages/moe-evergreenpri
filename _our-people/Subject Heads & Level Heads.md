@@ -2,7 +2,8 @@
 title: Subject Heads & Level Heads
 permalink: /our-people/subject-heads-n-level-heads/
 description: ""
+variant: markdown
 ---
-# **Subject Heads &amp; Level Heads**
+
 
 ![](/images/Staff%20List/subject%20head.jpg)
