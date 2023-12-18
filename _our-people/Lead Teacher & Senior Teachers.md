@@ -8,9 +8,9 @@ variant: markdown
 
 | Name | Designation | Email Address |
 | -------- | -------- | -------- |
-| Mrs Low Kwee Huang     | Lead Teacher Mathematics   | teo_kwee_huang@schools.gov.sg     |
-| Mrs Tina Eng     | Senior Teacher Special Educational Needs     | tina_leong@schools.gov.sg     |
-| Text     | Text     | Text     |
+| Mrs Low Kwee Huang     | LT Mathematics   | teo_kwee_huang@schools.gov.sg     |
+| Mrs Tina Eng     | ST Special Educational Needs     | tina_leong@schools.gov.sg     |
+| Mr Qamarul Azhar B Ahmad Kamail     | ST Malay Language     |  qamarul_azhar_ahmad_kamil@schools.gov.sg    |
 | Text     | Text     | Text     |
 
 
