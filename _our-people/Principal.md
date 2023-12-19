@@ -1,7 +1,9 @@
 ---
 title: Principal
 permalink: /our-people/principal/
+variant: markdown
 description: ""
-variant: tiptap
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Staff Photo 2023/Mr_Jeffrey_Aw.jpeg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Jeffrey Aw</strong></p></td></tr></tbody></table><p></p>
+<img height="200" width="100" src="/images/Mr_Jeffrey_Aw.jpeg">
+
+**<center>Mr Jeffrey Aw</center>**
