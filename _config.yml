@@ -1,6 +1,6 @@
 title: Evergreen Primary School
 url: https://evergreenpri.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Coloured_sch_crest_wout_background.png
 colors:
   primary-color: "#37652d"
   secondary-color: "#4da141"
@@ -61,3 +61,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
