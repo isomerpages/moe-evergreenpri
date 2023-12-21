@@ -10,5 +10,6 @@ variant: markdown
 | Mrs Tina Eng     | ST Special Educational Needs     | tina_leong@schools.gov.sg     |
 | Mr Qamarul Azhar B Ahmad Kamail     | ST Malay Language     |  qamarul_azhar_ahmad_kamil@schools.gov.sg    |
 | Mdm Nuraini Binte Ithnin    | ST Art     | nuraini_ithnin@schools.gov.sg     |
+| Mdm Chen Qi    | ST Chinese Language     | nuraini_ithnin@schools.gov.sg     |
 
 [](/images/Staff%20List/senior%20teacher.jpg)
