@@ -4,6 +4,6 @@ permalink: /our-people/principal/
 variant: markdown
 description: ""
 ---
-<img height="200" width="100" src="/images/Mr_Jeffrey_Aw.jpeg">
+<img src="/images/Mr_Jeffrey_Aw.jpeg" style="width:35%">
 
 **<center>Mr Jeffrey Aw</center>**
