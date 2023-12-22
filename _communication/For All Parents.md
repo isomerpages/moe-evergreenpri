@@ -2,6 +2,7 @@
 title: For All Parents
 permalink: /communication/for-all-parents/
 description: ""
+variant: markdown
 ---
 <center>
 	<b><u>Why you should make EGPS your school of choice</u></b>
@@ -48,7 +49,7 @@ At EGPS, staff and students are encouraged to be as creative as they can be. By 
 <center><u>Useful Links for P1 Parents</u></center>
 
 <center>
-
+	
 [Publicity Video](https://www.facebook.com/watch/?v=255583880580969)
 	
 [P1 Evergreen Experience Video](https://youtu.be/Ue-nvhIyVZg)
