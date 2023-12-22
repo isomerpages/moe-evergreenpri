@@ -2,6 +2,7 @@
 title: For All Parents
 permalink: /communication/for-all-parents/
 description: ""
+variant: markdown
 ---
 <center>
 	<b><u>Why you should make EGPS your school of choice</u></b>
@@ -28,8 +29,7 @@ Established in 1999, EGPS has always provided programmes for the holistic develo
 Developing positive relationships is fundamental in EGPS. The students adopt **Think Good, Speak Good and DO Good as a way of life**.  Students display the school values of Empathy, Respect &amp; Graciousness through their interactions with their teachers, CCA instructors, staff and peers. Activities and programmes are designed specifically to instill values and sound character in our students. Good behaviour is highlighted during termly celebrations such as **Let’s Celebrate**, and students are encouraged to learn more about each others’ cultures, races and practices via the festive celebrations. The school also places importance in fostering positive relationships with our Parents Support Group members and external collaborators such as foreign visitors. 
 
 **Learning with Passion**
-
-![](/images/For%20All%20Parents/learning.jpg)
+<img src="/images/For%20All%20Parents/learning.jpg" style="width:25%">
 
 Learning is not confined within the 4 walls of the classroom in EGPS. To achieve **Joy in Learning**, our niche programmes such as T.G.I.F &amp; MMP are conducted in EGPS on a termly basis over 9 weeks. Through MMP, students are exposed to a variety of experiences and skills so that they can discover their talents and interests in the process.  These programmes allow our students to participate and learn new knowledge/skills which they then synthesize with their learning in classrooms. They also help to uncover and rekindle their interest in non-academic areas, which can then be used to embark on a life-long journey of learning. Learning journeys for all levels are also utilized as a means for our students to experience subject knowledge first-hand and immerse themselves in the rich history of their shared environment. The school also has a wide variety of CCAs for students to take part in and students who excel in these CCAs are selected for the school team which takes part in external competitions.
 
@@ -48,7 +48,7 @@ At EGPS, staff and students are encouraged to be as creative as they can be. By 
 <center><u>Useful Links for P1 Parents</u></center>
 
 <center>
-
+	
 [Publicity Video](https://www.facebook.com/watch/?v=255583880580969)
 	
 [P1 Evergreen Experience Video](https://youtu.be/Ue-nvhIyVZg)
