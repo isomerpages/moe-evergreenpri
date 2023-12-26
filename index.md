@@ -17,9 +17,11 @@ sections:
         - title: Announcement
           description: Click here to find out more
           url: /announcements/P1-Parent-Engagement-27-Jan-2023/
-        - title: Latest Happenings
-          description: Click here to find out more
-          url: /latest-happenings/Student-Leaders-Investiture-2023/
+        - title: School Calender
+          description: ""
+          url: '<iframe scrolling="no" frameborder="0" height="600" width="800"
+            style="border: 0"
+            src="https://calendar.google.com/calendar/embed?src=egpspublic%40gmail.com&ctz=Asia%2FSingapore"></iframe>'
       button: FOR ALL PARENTS (CLICK HERE)
       url: https://evergreenpri.moe.edu.sg/communication/for-all-parents/
 ---
