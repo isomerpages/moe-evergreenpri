@@ -49,8 +49,8 @@ At EGPS, staff and students are encouraged to be as creative as they can be. By 
 
 <center>
 	
-[Publicity Video](https://www.facebook.com/watch/?v=255583880580969)
-	
-[P1 Evergreen Experience Video](https://youtu.be/Ue-nvhIyVZg)
+<a href="https://www.facebook.com/watch/?v=255583880580969">Publicity Video</a>
+<br>	
+<a href="https://youtu.be/Ue-nvhIyVZg">P1 Evergreen Experience Video</a>
 	
 </center>
