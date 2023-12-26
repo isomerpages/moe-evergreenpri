@@ -1,6 +1,6 @@
 ---
-title: School Calender
-permalink: /calender/
+title: School Calendar
+permalink: /calendar/
 variant: markdown
 description: ""
 ---
