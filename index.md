@@ -19,7 +19,7 @@ sections:
           url: /announcements/P1-Parent-Engagement-27-Jan-2023/
         - title: School Calender
           description: ""
-          url: https://calendar.google.com/calendar/embed?src=egpspublic%40gmail.com&ctz=Asia%2FSingapore
+          url: /calender/
       button: FOR ALL PARENTS (CLICK HERE)
       url: https://evergreenpri.moe.edu.sg/communication/for-all-parents/
 ---
