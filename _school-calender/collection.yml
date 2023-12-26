@@ -2,5 +2,4 @@ collections:
   school-calender:
     output: true
     order:
-      - Student Leaders' Investiture 2023.md
       - Achievement Day 2023.md
