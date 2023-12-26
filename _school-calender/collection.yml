@@ -1,5 +1,5 @@
 collections:
-  latest-happenings:
+  school-calender:
     output: true
     order:
       - Student Leaders' Investiture 2023.md
