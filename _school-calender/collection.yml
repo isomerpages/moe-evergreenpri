@@ -1,5 +1,4 @@
 collections:
   school-calender:
     output: true
-    order:
-      - School Calender.md
+    order: []
