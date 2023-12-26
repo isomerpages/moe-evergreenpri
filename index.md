@@ -17,9 +17,9 @@ sections:
         - title: Announcement
           description: ""
           url: /announcements/P1-Parent-Engagement-27-Jan-2023/
-        - title: School Calender
+        - title: School Calendar
           description: ""
-          url: /calender/
+          url: /calendar/
       button: FOR ALL PARENTS (CLICK HERE)
       url: https://evergreenpri.moe.edu.sg/communication/for-all-parents/
 ---
