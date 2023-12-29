@@ -4,7 +4,7 @@ permalink: /our-policy/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/IMG_1991__2_.jpg" style="width:35%">
+<img src="/images/IMG_1991__2_.jpg" style="width:40%">
 
 Dear Visitor,
 
