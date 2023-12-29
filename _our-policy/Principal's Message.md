@@ -4,7 +4,9 @@ permalink: /our-policy/principals-message/
 description: ""
 variant: markdown
 ---
-Dear Visitor,
+
+
+![](/images/P_Message_Image_2024.jpg)Dear Visitor,
 
 Welcome to the Evergreen Primary School website.
 
