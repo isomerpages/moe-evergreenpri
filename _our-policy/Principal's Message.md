@@ -4,7 +4,7 @@ permalink: /our-policy/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/IMG_1991__2_.jpg" style="width:40%">
+<img src="/images/Mr_Jeffrey_Aw___Principal.jpg" style="width:45%">
 
 Dear Visitor,
 
