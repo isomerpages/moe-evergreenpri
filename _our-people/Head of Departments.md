@@ -15,5 +15,5 @@ variant: markdown
 | Mr Iskandar Bin Zainalludin     | HOD PE, CCA & Aesthetics    | iskandar_zainalludin@schools.gov.sg     |
 | Mdm Nornizah Said     | HOD Science     | nornizah_said@schools.gov.sg     |
 | Mr Amirul Asri Bin Hussin     | Year Head (Pri 1 & 2) - Covering | amirul_asri_hussin@schools.gov.sg     |
+Miss Aainoo     | Year Head (Pri 3 & 4) - Covering | aainoo_a@schools.gov.sg     |
 | Mrs May Chin Fung Tan (Mrs Tan)| Year Head (Pri 5 & 6)    | poh_chin_fung@schools.gov.sg     |
-
