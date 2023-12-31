@@ -16,4 +16,4 @@ variant: markdown
 | Mdm Nornizah Said     | HOD Science     | nornizah_said@schools.gov.sg |
 | Mr Amirul Asri Bin Hussin     | Year Head (Pri 1 &amp; 2) - Covering | amirul_asri_hussin@schools.gov.sg     |
 Miss Aainoo     | Year Head (Pri 3 &amp; 4) - Covering | aainoo_a@schools.gov.sg     |
-| Mrs May Chin Fung Tan <br>(Mrs Tan)| Year Head (Pri 5 &amp; 6)    | poh_chin_fung@schools.gov.sg     |
+| Mrs May Poh Chin Fung <br>(Mrs Tan)| Year Head (Pri 5 &amp; 6)    | poh_chin_fung@schools.gov.sg     |
