@@ -11,5 +11,3 @@ variant: markdown
 | Mr Qamarul Azhar B Ahmad Kamil     | ST Malay Language     |  qamarul_azhar_ahmad_kamil@schools.gov.sg    |
 | Mdm Nuraini Binte Ithnin    | ST Art     | nuraini_ithnin@schools.gov.sg     |
 | Mdm Chen Qi    | ST Chinese Language     | chen_qi_a@schools.gov.sg     |
-
-[](/images/Staff%20List/senior%20teacher.jpg)
