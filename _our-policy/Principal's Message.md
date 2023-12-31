@@ -4,6 +4,8 @@ permalink: /our-policy/principals-message/
 description: ""
 variant: markdown
 ---
+<img src="/images/Mr_Jeffrey_Aw___Principal.jpg" style="width:45%">
+
 Dear Visitor,
 
 Welcome to the Evergreen Primary School website.
