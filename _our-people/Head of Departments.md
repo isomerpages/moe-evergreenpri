@@ -12,8 +12,8 @@ variant: markdown
 | Miss Oh Chew Hiang     | HOD ICT     | oh_chew_hiang@schools.gov.sg     |
 | Mr Tay Yu Zhe     | HOD Math     | tay_yu_zhe@schools.gov.sg     |
 | Mr Jacob Yeo     | HOD Mother Tongue     | yeo_wee_kiang@schools.gov.sg     |
-| Mr Iskandar Bin Zainalludin     | HOD PE, CCA & Aesthetics    | iskandar_zainalludin@schools.gov.sg     |
-| Mdm Nornizah Said     | HOD Science     | nornizah_said@schools.gov.sg     |
-| Mr Amirul Asri Bin Hussin     | Year Head (Pri 1 & 2) - Covering | amirul_asri_hussin@schools.gov.sg     |
-| Mrs May Chin Fung Tan (Mrs Tan)| Year Head (Pri 5 & 6)    | poh_chin_fung@schools.gov.sg     |
-
+| Mr Iskandar Bin Zainalludin     | HOD PE, CCA &amp; Aesthetics    | iskandar_zainalludin@schools.gov.sg     |
+| Mdm Nornizah Said     | HOD Science     | nornizah_said@schools.gov.sg |
+| Mr Amirul Asri Bin Hussin     | Year Head (Pri 1 &amp; 2) - Covering | amirul_asri_hussin@schools.gov.sg     |
+Miss Aainoo     | Year Head (Pri 3 &amp; 4) - Covering | aainoo_a@schools.gov.sg     |
+| Mrs May Poh Chin Fung <br>(Mrs Tan)| Year Head (Pri 5 &amp; 6)    | poh_chin_fung@schools.gov.sg     |
