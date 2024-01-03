@@ -1,0 +1,29 @@
+collections:
+  our-processes-and-programmes:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue Department.md
+      - Mother Tongue/List of Approved Mother Tongue Dictionaries for PSLE.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Student Development Well Being/.keep
+      - Student Development Well Being/Student Development.md
+      - Student Development Well Being/Student Well Being.md
+      - Student Development Well Being/Student Leadership.md
+      - Student Development Well Being/Character and Citizenship Education.md
+      - Student Development Well Being/Sexuality Education.md
+      - Aesthetics Department/Aesthetics Department.md
+      - Aesthetics Department/Framework.md
+      - Aesthetics Department/.keep
+      - Physical Education Department/Physical Education Department.md
+      - Physical Education Department/.keep
+      - ICT/.keep
+      - ICT/Information Communications Technology.md
+      - ICT/Student Learning Space.md
+      - ICT/Useful Resources for Parents.md
+      - TGIF.md

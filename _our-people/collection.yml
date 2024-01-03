@@ -1,0 +1,19 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Principal.md
+      - Vice Principals.md
+      - School Advisory Committee.md
+      - Head of Departments.md
+      - Subject Heads & Level Heads.md
+      - Year Head and Assistant Year Head.md
+      - Lead Teacher & Senior Teachers.md
+      - School Admin Team.md
+      - Allied Educators.md
+      - Primary 1 Level 2024.md
+      - Primary 2 Level 2024.md
+      - Primary 3 Level 2024.md
+      - Primary 4 Level 2024.md
+      - Primary 5 Level 2024.md
+      - Primary 6 Level 2024.md
