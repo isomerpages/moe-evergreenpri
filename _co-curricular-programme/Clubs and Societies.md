@@ -2,15 +2,15 @@
 title: Clubs and Societies
 permalink: /co-curricular-programme/clubs-and-societies/
 description: ""
+variant: markdown
 ---
 # **STEM and Environment Club**
 
 ![](/images/CCA%20Photos/img_3272.JPG)
 
-| CCA   	| STEM and Environment Club |
-|---	|---	|
-| Teacher I/C:  	| Miss Jayanthi (IC) 	|
-| Teacher Members:  	| • Mdm Liu Minli<br>• Mrs Grace Koh<br>• Mr Ang Kok Heong<br>
+
+**Teacher I/C:   Mrs Kumar** 
+
 
 Evergreen Primary School’s STEM (Science, Technology, Engineering and Mathematics) and
 Environmental Club seeks to groom innovative, enthusiastic and ethical youth who demonstrate
@@ -26,5 +26,3 @@ Members will also learn concepts of
 sustainability and environmental conservation through hands-on activities and learning journeys. They
 will then apply what they have learnt in programming help in conservation efforts, for example,
 designing Artificial Intelligence that can sort recyclables.
-
-**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**
