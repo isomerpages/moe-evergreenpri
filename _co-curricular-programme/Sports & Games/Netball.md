@@ -3,21 +3,12 @@ title: Netball
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-
-
 ![](/images/CCA%20Photos/img_3146.jpg)
 
- | CCA   	| Netball 	|
-|---	|---	|
-| Teacher I/C:  	| Miss Audrey Tay (IC) 	|
-| Teacher Members:  	| • Mdm Shireen<br>• Mdm Siti Haida<br>• Mdm Chong Shu Bao <br>• Mdm Nurhanis |
+**Teacher I/C:  	Miss Audrey Tay**
 
-
-
-**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**  
-
-### Evergreen Netball
 
 _**What is Netball training like in EGPS?**_
 
