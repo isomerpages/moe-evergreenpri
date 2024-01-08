@@ -3,24 +3,16 @@ title: Taekwondo
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-
-
 ![](/images/CCA%20Photos/img_3235.jpg)
 
-| CCA   	| Taekwondo 	|
-|---	|---	|
-| Teacher I/C:   	| Mdm Liu Dandan (IC) <br> Mdm Shamala Davi (2IC)<br>	|
-| Teacher Members:  	| • Miss Koh Mui Noi<br>• Mr Victor Lee	|
+**Teacher I/C:    Mdm Liu Dandan**
 
-
-
-**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**
-
-![](/images/CCA%20Photos/Taekwondo/taekwondo%201.jpg)
 
 Taekwondo or TKD for short is a new sports CCA at Evergreen Primary School. It commenced in the year 2022. It is a very popular CCA and well-liked by our students. By  the end of Semester 1, we were able to recruit new members into our CCA. We now have a strong membership of 68 members. 
 
+![](/images/CCA%20Photos/Taekwondo/taekwondo%201.jpg)
 
 TKD CCA strives:
 
