@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/CCA%20Photos/2022%20chinese%20dance%20syf%20photo%20(1)%20(1).jpg)
 
 
-** Teacher I/C:  	Mdm Kee Wai Ying **	
+**Teacher I/C:  	Mdm Kee Wai Ying**	
 
 Our Chinese Dance has 25 members. Students joined Chinese Dance out of their love for
 dancing and the desire to learn more about this beautiful art form.
