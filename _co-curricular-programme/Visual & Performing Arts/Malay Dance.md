@@ -3,19 +3,12 @@ title: Malay Dance
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
-
 ![](/images/CCA%20Photos/img_3198.jpg)
 
-| CCA   	| Malay Dance 	|
-|---	|---	|
-| Teacher I/C:  	| Mdm Mujtahidah 	|
-| Teacher Members:  	| • Mdm Zawiah<br>• Mdm Zulaina 	|
 
-
-**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**  
-
-  
+Teacher I/C:  Mdm Mujtahidah  
 
 Malay Dance in Evergreen Primary School aims to develop student’s interest for the traditional art form of the Malay Cultural Dance. Students learn the fundamental dance movements of the different dance genres mainly Asli, Inang, Joget, Masri and Zapin. Training sessions will begin with the basic dance techniques and gradually progressing to advance choreography.
 
