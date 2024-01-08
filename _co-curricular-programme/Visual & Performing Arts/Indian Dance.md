@@ -3,17 +3,12 @@ title: Indian Dance
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
-
 ![](/images/CCA%20Photos/ind45-15%20-%20k%20vejayalakshmy%20andrea%20(1).jpg)
 
-| CCA   	| Indian Dance 	|
-|---	|---	|
-| Teacher I/C:   	| Mdm Andrea   	|
-| Teacher Members:   	| • Mdm Thilagah<br>• Mrs Kumar 	|
+**Teacher I/C:   Mdm Andrea** 
 
-
-**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  
 
 The Indian Dance CCA in Evergreen Primary seeks to provide students with a platform to explore the fine aesthetics of Indian dance and culture.&nbsp;
 

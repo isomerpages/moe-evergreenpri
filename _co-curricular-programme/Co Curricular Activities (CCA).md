@@ -2,12 +2,8 @@
 title: Co Curricular Activities (CCA)
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/
 description: ""
+variant: markdown
 ---
-  
-
-**_\*Click&nbsp;[here](https://docs.google.com/document/d/19yQQeYbcNUBPsW_j2nrgEeGdv8sUMdf_e79um_QsFDM/edit)&nbsp;to access the CCA Schedule for the Year 2023_**
-
-
 ### Purpose of CCA
 
 CCAs are a key component of students’ holistic education. Through CCAs, students
