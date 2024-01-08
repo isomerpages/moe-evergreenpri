@@ -3,14 +3,12 @@ title: Percussion Ensemble
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/percussion-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
-
 ![](/images/CCA%20Photos/img_3163.jpg)
 
-| CCA   	| Percussion Ensemble 	|
-|---	|---	|
-| Teacher I/C:  	| Mdm Wei Lin (IC) 	|
-| Teacher Members:  	| • Mdm Ponmalar<br>• Mdm Guan Minhang<br>• Mdm Chen Qi<br>• Mdm Huang Donghong 	|
+**Teacher I/C:  Mdm Wei Lin** 
+
 
 Percussion Ensemble is a newly-introduced CCA in 2023.  
   
