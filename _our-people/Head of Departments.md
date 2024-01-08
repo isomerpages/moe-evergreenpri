@@ -7,7 +7,7 @@ variant: markdown
 | Name | Designation | 
 | -------- | -------- | 
 | Mdm Radin Rafeah     | School Staff Developer     | 
-| Mdm Tracy Choo Pheck Tiang     | HOD CCE     | tracy_pheck_tiang_choo@schools.gov.sg     |
+| Mdm Tracy Choo Pheck Tiang     | HOD CCE     |
 | Miss Noraisha Hamzah     | HOD English     | 
 | Miss Oh Chew Hiang     | HOD ICT     | 
 | Mr Tay Yu Zhe     | HOD Math     |
