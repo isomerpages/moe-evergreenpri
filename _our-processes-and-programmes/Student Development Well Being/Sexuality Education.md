@@ -55,13 +55,12 @@ Sexuality Education is delivered in a holistic manner through the school curricu
 
 #### Primary 5
 
-![](/images/CCE/SEd1024_4.jpg)
-![](/images/CCE/SEd1024_5.jpg)
+![](/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_3.jpg)
+![](/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_4.jpg)
 
 #### Primary 6
 
-![](/images/CCE/SEd1024_6.jpg)
-![](/images/CCE/SEd1024_7.jpg)
+![](/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_5.jpg)
 
 ### Information for Parents
 
