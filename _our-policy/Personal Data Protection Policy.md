@@ -1,5 +1,5 @@
 ---
-title: Personal Data Protection Act
+title: Personal Data Protection Policy
 permalink: /our-policy/pdpa/
 variant: markdown
 description: ""
@@ -21,7 +21,7 @@ Where a person has made a free decision to opt into a process or situation where
 
 ##### **Data Collected and Purpose**
 
-We hold personal data of our students, including: contact details, assessment/examination results, attendance information, behaviour, and characteristics such as ethnic group, special educational needs, any relevant medical information, photographs, and/or video footage. The data is used in order to support the education of the students, to monitor and report on their progress, to provide appropriate personal and social care, and to assess the performance of our school as a whole, together with any other uses normally associated with this provision in a school environment. We may make use of limited personal data (such as contact details) relating to students, their parents, or guardians for communication purposes and to maintain relationships with our students. We may take photographs and/or videos during school activities or events (both within and outside the school) organised by CVPS or its affiliates, for publicity and security purposes; Data is shared as necessary with third party companies to provide extended services; examples include transport, medical, catering, travel services, and online services.
+We hold personal data of our students, including: contact details, assessment/examination results, attendance information, behaviour, and characteristics such as ethnic group, special educational needs, any relevant medical information, photographs, and/or video footage. The data is used in order to support the education of the students, to monitor and report on their progress, to provide appropriate personal and social care, and to assess the performance of our school as a whole, together with any other uses normally associated with this provision in a school environment. We may make use of limited personal data (such as contact details) relating to students, their parents, or guardians for communication purposes and to maintain relationships with our students. We may take photographs and/or videos during school activities or events (both within and outside the school) organised by Evergreen Primary School or its affiliates, for publicity and security purposes; Data is shared as necessary with third party companies to provide extended services; examples include transport, medical, catering, travel services, and online services.
 
 ##### **Administration and Management of Personal Data**
 
@@ -34,6 +34,3 @@ Photographs or video images of you or your parents may be taken during school ac
 You may request to access and/or correct the personal data you have provided that is currently in our possession or under our control at any time by submitting your request through the following methods:  
 a. Email:&nbsp;evergreen_ps@moe.edu.sg <br>
 b. Office Address: 31 Woodlands Circle, Singapore 738908
-
-
-
