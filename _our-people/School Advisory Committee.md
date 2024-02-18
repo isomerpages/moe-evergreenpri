@@ -73,12 +73,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/2.jpg">
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
