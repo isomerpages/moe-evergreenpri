@@ -2,56 +2,89 @@
 title: School Advisory Committee
 permalink: /our-people/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-# **School Advisory Committee**
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chairman</th><th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Treasurer</th></tr></thead><tbody><tr><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/SAC/IMG_3055%20copy.jpg" alt="Mr Randy Tan Eu Seng PBM.JPG" width="183" height="230" style="width:65%"></td><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/SAC/IMG_3060%20copy.jpg" alt="Mr Melvin Chua Ee Song BBM.JPG" width="181" height="229" style="width:66%"></td></tr><tr><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#FBFFFA">Mr Koh Teck San</span></td><td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#FBFFFA">Mr Roger Chua</span></td></tr></tbody></table>
-
-<br>
-
-<table style="border-collapse:collapse;border-spacing:0;width:100%" class="tg">
-  <thead>
-    <tr>
-      <th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;text-align:center;vertical-align:middle;word-break:normal">
-        <span style="color:#FBFFFA;background-color:#22A114">Member</span>
-      </th>
-      <th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;text-align:center;vertical-align:middle;word-break:normal">
-        <span style="color:#FBFFFA;background-color:#22A114">Member</span>
-      </th>
-      <th style="background-color:#22A114;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#FBFFFA;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;text-align:center;vertical-align:middle;word-break:normal">
-        <span style="color:#FBFFFA;background-color:#22A114">Member</span>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-        <img src="/images/Dr%20Chua%20Chee%20Yong.jpg" alt="Dr Chua Chee Yong.JPG" style="height: 242px; width: auto;">
-      </td>
-      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-        <img src="/images/Cai%20Yinzhou.jpg" alt="Mr Roger Chua Peng Jin.JPG" style="height: 242px; width: auto;">
-      </td>
-      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-        <br>
-        <img src="/images/SAC/dr%20jovina%20ang.jpeg" alt="Mr Koh Teck San.jpg" style="height: 242px; width: auto;">
-        <span style="color:#222;background-color:#FBFFFA"><br></span>
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-        <span style="color:#222;background-color:#FBFFFA">Dr Chua Chee Yong</span>
-      </td>
-      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-        <span style="color:#222;background-color:#FBFFFA">Mr Cai Yinzhou</span>
-      </td>
-      <td style="background-color:#FBFFFA;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-        <span style="color:#222;background-color:#FBFFFA">Dr Jovina Ang</span>
-      </td>
-    </tr>
-  </tbody>
+<h1><strong>School Advisory Committee</strong></h1>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Treasurer</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Teck San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Roger Chua</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-
-
+<p>
 <br>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="height: 242px; width: auto;" height="auto" width="100%" alt="Mr Koh Teck San.jpg" src="/images/SAC/dr%20jovina%20ang.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Cai Yinzhou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jovina Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kim Lian Rolles-Abraham</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
