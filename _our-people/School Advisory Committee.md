@@ -66,7 +66,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="height: 242px; width: auto;" height="auto" width="100%" alt="Mr Koh Teck San.jpg" src="/images/SAC/dr%20jovina%20ang.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Untitled_design__6_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
