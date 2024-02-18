@@ -4,7 +4,6 @@ permalink: /our-people/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<h1><strong>School Advisory Committee</strong></h1>
 <table>
 <tbody>
 <tr>
@@ -20,12 +19,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SAC/1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SAC/3.jpg">
 </div>
 </td>
 </tr>
@@ -39,9 +38,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table>
 <tbody>
 <tr>
