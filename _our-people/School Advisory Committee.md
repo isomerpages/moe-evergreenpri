@@ -38,6 +38,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table>
 <tbody>
 <tr>
