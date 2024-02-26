@@ -19,12 +19,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SAC/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Updated (2024)/1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SAC/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Updated (2024)/4.jpg">
 </div>
 </td>
 </tr>
@@ -58,17 +58,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Updated (2024)/5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Untitled_design__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Updated (2024)/6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC/Updated (2024)/3.jpg">
 </div>
 </td>
 </tr>
