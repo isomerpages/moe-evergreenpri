@@ -1,6 +1,6 @@
 ---
-title: Head of Departments
-permalink: /our-people/heads-of-departments/
+title: Heads of Department
+permalink: /our-people/heads-of-department/
 description: ""
 variant: markdown
 ---
