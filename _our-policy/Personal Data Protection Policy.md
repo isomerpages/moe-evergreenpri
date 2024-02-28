@@ -27,7 +27,7 @@ We hold personal data of our students, including: contact details, assessment/ex
 
 We will take appropriate measures to keep your personal data accurate, complete and updated. We will also take reasonable efforts to take appropriate precautions and preventive measures to ensure that your personal data is adequately protected and secured. We undertake that we shall only keep the data collected as long as is necessary to serve the purpose that the data was collected for as well as for any other legal purposes.
 
-Photographs or video images of you or your parents may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.
+Photographs or video images may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.
 
 ##### **Right of Access and Correction**
 
