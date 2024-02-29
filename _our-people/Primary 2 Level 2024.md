@@ -26,8 +26,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Care___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Care</a> -
-Click for Timetable</p>
+<p>2 Care</p>
 </th>
 </tr>
 <tr>
@@ -47,8 +46,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Charity___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Charity</a> -
-Click for Timetable</p>
+<p>2 Charity</p>
 </th>
 </tr>
 <tr>
@@ -68,8 +66,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Faith___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Faith</a> -
-Click for Timetable</p>
+<p>2 Faith</p>
 </th>
 </tr>
 <tr>
@@ -89,8 +86,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Grace___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Grace</a> -
-Click for Timetable</p>
+<p>2 Grace</p>
 </th>
 </tr>
 <tr>
@@ -110,8 +106,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Hope___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Hope</a> -
-Click for Timetable</p>
+<p>2 Hope</p>
 </th>
 </tr>
 <tr>
@@ -131,8 +126,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Joy___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Joy</a> -
-Click for Timetable</p>
+<p>2 Joy</p>
 </th>
 </tr>
 <tr>
@@ -152,8 +146,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Love___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Love</a> -
-Click for Timetable</p>
+<p>2 Love</p>
 </th>
 </tr>
 <tr>
@@ -173,8 +166,7 @@ Click for Timetable</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Timetable 2024/2_Respect___2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Respect</a> -
-Click for Timetable</p>
+<p>2 Respect</p>
 </th>
 </tr>
 <tr>
