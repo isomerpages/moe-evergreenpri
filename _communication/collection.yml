@@ -2,7 +2,7 @@ collections:
   communication:
     output: true
     order:
-      - For All Parents.md
+      - Announcement.md
       - DSA Matters.md
       - School Administration/.keep
       - School Administration/2024 P1 Admin Matters for Parents.md
