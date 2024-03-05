@@ -2,7 +2,7 @@ collections:
   communication:
     output: true
     order:
-      - For All Parents.md
+      - Announcement.md
       - DSA Matters.md
       - School Administration/.keep
       - School Administration/2024 P1 Admin Matters for Parents.md
@@ -16,8 +16,3 @@ collections:
       - School Administration/School Vendor Services Information 2024.md
       - Parents Support Group.md
       - 2024 P3 to P6 Assessment Plan and Format.md
-      - Pictures of Year Celebrations/P6 Graduation 2023.md
-      - Pictures of Year Celebrations/Achievement Day 2023.md
-      - Pictures of Year Celebrations/Student Leaders' Investiture 2023.md
-      - Pictures of Year Celebrations/.keep
-      - Pictures of Events/.keep
