@@ -20,6 +20,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar/
-      button: FOR ALL PARENTS (CLICK HERE)
-      url: https://evergreenpri.moe.edu.sg/communication/for-all-parents/
+      button: EARLY CLOSURE - FRIDAY, 8 MARCH 2024 AT 4.30PM
+      url: https://evergreenpri.moe.edu.sg/communication/announcement/
 ---
