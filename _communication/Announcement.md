@@ -8,4 +8,4 @@ This coming friday, 8 March 2024, Evergreen Primary School will be observing Eat
 
 **Kindly note that our General Office will close at 4.30pm**
 
-General Office will re-open on Monday, 11 March 2024 at 8am due to school holiday.
+General Office will resume on Monday, 11 March 2024 at 8am due to school holiday.
