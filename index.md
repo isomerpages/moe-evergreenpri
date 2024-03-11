@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcements/P1-Parent-Engagement-27-Jan-2023/
+          url: https://evergreenpri.moe.edu.sg/communication/information-on-p1-p6-assessment-plans/
         - title: School Calendar
           description: ""
           url: /calendar/
