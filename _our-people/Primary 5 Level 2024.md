@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mr Ronnie Ng Sheng Wei | Assistant Year Head (P5)</strong>
+<p><strong>Mr Ronnie Ng Sheng Wei | Assistant Year Head (P5)(Int)</strong>
 </p>
 </li>
 </ul>
