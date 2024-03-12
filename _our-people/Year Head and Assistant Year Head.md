@@ -11,4 +11,4 @@ variant: markdown
 | Mrs May Poh Chin Fung (Mrs Tan)     | Year Head (Pri 5 &amp; 6)    |
 | Miss Cory Chung Gui Hua (Mrs Chen)| Assistant Year Head (Pri 2) | 
 | Miss Lim Xin Jing (Mrs Tan) | Assistant Year Head (Pri 4)     | 
-| Mr Ronnie Ng Sheng Wei | Assistant Year Head (Pri 5)     |
+| Mr Ronnie Ng Sheng Wei | Assistant Year Head (Pri 5)(Int)     |
