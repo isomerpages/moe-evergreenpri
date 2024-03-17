@@ -10,7 +10,7 @@ Dear Visitor,
 
 Welcome to the Evergreen Primary School website.
 
-If you are a prospective P1 parent, we thank you for the opportunity to present our school to you online. As you browse through our website, we hope you would be able to get an idea of what the Evergreen Primary School experience is. We would also like to suggest that you browse through our FaceBook page or Instagram feed for more information though posts that feature our staff and students.
+If you are a prospective P1 parent, we thank you for the opportunity to present our school to you online. As you browse through our website, we hope you would be able to get an idea of what the Evergreen Primary School experience is. We would also like to suggest that you browse through our [FaceBook](https://www.facebook.com/EGPSsingapore) page or [Instagram](https://www.instagram.com/evergreenprimary_sg/) feed for more information though posts that feature our staff and students.
 
 In Evergreen Primary, we believe in understanding the immediate needs of the child, appreciating the needs for the future and then meeting those needs through our professional knowledge about learning. For example, our lush gardens are part of our desire to bring nature to our children so that they can experience the lessons that real life brings. Our insistence on encouraging our students to mix with others from different backgrounds stems from our anticipation that as they grow as digital natives, it can also lead to thinking in digital silos. As educators, we wish to do our part to encourage our young to appreciate the diversity of perspectives for a harmonious society.
 
