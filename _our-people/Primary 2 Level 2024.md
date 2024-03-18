@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>See Wei Yang (Mr)</p>
 </td>
 </tr>
 </tbody>
@@ -132,6 +132,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Syed Ashratullah s/o Syed Sebakhatulla (Mr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nor Zalifah Bte Abdul Ghaffar (Mdm)</p>
 </td>
 </tr>
 <tr>
