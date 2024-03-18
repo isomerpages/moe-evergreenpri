@@ -40,6 +40,11 @@ variant: tiptap
 <p>Mohammad Affendy Bin Abdullah (Mr)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Xin Jing Ann (Mrs Tan)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -137,7 +142,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Xin Jing Ann (Mrs Tan)</p>
+<p>Catherine Vijaya d/o S W Rajendram (Mrs Mani)</p>
 </td>
 </tr>
 </tbody>
