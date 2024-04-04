@@ -470,9 +470,9 @@ the uniform is strictly not allowed.</p>
 </tr>
 </tbody>
 </table>
-<p><em>*skirt with shorts hidden underneath</em>
-<br><em>1. Do note that the designs for the skorts (Girls) for Lower Pri and Upper Pri are different</em>
-<br><em>2. Girls have a choice to wear their skorts or shorts for PE lesson</em>
+<p><em>*skirt with shorts hidden underneath</em> 
+<br><em>1. Do note that the designs for the skorts (Girls) for Lower Pri and Upper Pri are different</em> 
+<br><em>2. Girls have a choice to wear their skorts or shorts for PE lesson</em> 
 <br><em># All students will be wearing&nbsp;</em><strong><em>black shoes and white socks</em></strong><em>&nbsp;when wearing the new school uniform only</em>
 </p>
 <p><strong>Ornaments, Jewellery</strong>
