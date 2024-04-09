@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /our-processes-and-programmes/Mother-Tongue-Department/chinese-language/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ![](/images/Department%20Main%20Photos/img_3300.JPG)
 
@@ -57,13 +58,12 @@ third_nav_title: Mother Tongue
 
 
 
-**2023 Chinese Unit Ethnic Festival Celebration**
+**Chinese Unit Ethnic Festival Celebration**
 
 ![](/images/Department%20Photos/Mother%20Tongue/Chinese/chinese%20new%20year%202023%203.jpg)
 
 ![](/images/Department%20Photos/Mother%20Tongue/Chinese/chinese%20new%20year%202023%202.jpg)
 
-![](/images/Department%20Photos/Mother%20Tongue/Chinese/chinese%20new%20year%202023%201.jpg)
 
 EGPS celebrated Chinese New Year as a school on 20 January 2023. EGPS staff and students were dressed up in bright and auspicious colours to usher in the Year of the Rabbit.
 
