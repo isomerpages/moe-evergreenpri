@@ -36,11 +36,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mohammad Affendy Bin Abdullah (Mr)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lim Xin Jing Ann (Mrs Tan)</p>
 </td>
 </tr>
