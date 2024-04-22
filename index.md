@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_5_e95e25702b.gif
+      background: /images/ezgif_2_597a9548ba.gif
       key_highlights:
         - title: Announcement
           description: ""
