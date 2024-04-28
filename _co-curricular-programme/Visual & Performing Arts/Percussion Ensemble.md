@@ -10,8 +10,12 @@ variant: markdown
 **Teacher I/C:  Mdm Wei Lin** 
 
 
-Percussion Ensemble is a newly-introduced CCA in 2023.  
-  
-To broaden the spectrum of CCA experiences for our Evergreen Primary School students in the domain of Performing Arts, Percussion Ensemble aims to give the members the exposure to percussion instruments such as drums and xylophone. Members will learn to create and increase awareness towards the art form of percussion instruments as well as the playing techniques of percussion instruments.  
-  
-The CCA also aims to engage the members in the Arts through the development of a sense of appreciation for the percussion instrumental music. Members will also have opportunities to play in an ensemble with percussion instruments. Through the CCA training sessions, school values of respect and grit are explicitly taught and reinforced.
+The Percussion Ensemble provides students with the opportunity to explore and learn various percussion instruments, fostering their musical talents and creativity.
+
+![](/images/CCA%20Photos/WhatsApp_Image_2024_01_23_at_16_38_44.jpg)
+
+Students in the Percussion Ensemble will learn to play a variety of percussion instruments, including drums, cymbals, and xylophones. They will develop rhythm, coordination, and musical expression.
+
+![](/images/CCA%20Photos/WhatsApp_Image_2023_09_21_at_15_56_44.jpg)
+
+Additionally, students will collaborate with peers to create and perform ensemble pieces. This experience will enhance their listening skills and musical appreciation.
