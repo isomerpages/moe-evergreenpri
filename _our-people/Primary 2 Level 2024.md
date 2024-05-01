@@ -136,11 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nor Zalifah Bte Abdul Ghaffar (Mdm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Cory Chung Gui Hua (Mrs Chen)</p>
 </td>
 </tr>
@@ -157,6 +152,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zarreen Loke Kit Ming (Ms)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Pei Yi (Ms)</p>
 </td>
 </tr>
 <tr>
