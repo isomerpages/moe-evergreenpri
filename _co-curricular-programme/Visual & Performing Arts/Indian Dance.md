@@ -22,5 +22,3 @@ Apart from performing at school events, Evergreen Primary’s Indian Dance has a
 
 Many of our alumni have excelled in the art form and have been selected under the DSA programme for admission to various secondary schools. This is a testament to the holistic development the CCA offers.
 
-
-![](/images/Department%20Photos/CCA/Indian%20Dance/indian%20dance%20.jpeg)
