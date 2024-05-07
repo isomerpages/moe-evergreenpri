@@ -26,7 +26,7 @@ In line with developing good habits, we would also like to seek your support to 
 Finally, we would also like your child to have breakfast before their lessons, this could take place at home before coming to school or in our canteen if you have a habit of dropping him/her off early. Hunger can be distracting for young children and prevents them from fully engaging in activities.
 
 
-If you are interested to join our Parent Support Group (PSG), do get in touch with the committee through this [online form](https://docs.google.com/forms/d/e/1FAIpQLScN0xPCCpDFdQQ1m5sPAki6km06Qvigg5RRQbULxI9iYZWCIQ/viewform). We look forward to your contributions to make the primary school experience a better one for our students.
+If you are interested to join our Parent Support Group (PSG), do get in touch with the committee through this [online form](https://go.gov.sg/egpspsg). We look forward to your contributions to make the primary school experience a better one for our students.
 
 Best,
 
