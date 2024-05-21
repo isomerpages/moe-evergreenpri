@@ -9,7 +9,8 @@ description: |-
   Youthfulness in living
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: General Office will be closed at 4pm on 24th May 2024 as part of
+  'Eat with your Family Day'
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
