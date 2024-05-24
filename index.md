@@ -24,7 +24,6 @@ sections:
   - infopic:
       title: Evergreen Primary School's  Open House
       id: infopic
-      description: dfsf
       image: /images/Open_House_2024_Flyer.jpg
       alt: Image alt text
 ---
