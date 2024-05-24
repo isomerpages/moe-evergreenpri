@@ -21,4 +21,10 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar/
+  - infopic:
+      title: Evergreen Primary School's  Open House
+      id: infopic
+      description: dfsf
+      image: /images/Open_House_2024_Flyer.jpg
+      alt: Image alt text
 ---
