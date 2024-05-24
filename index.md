@@ -26,4 +26,6 @@ sections:
       id: infopic
       image: /images/Open_House_2024_Flyer.jpg
       alt: Image alt text
+      url: https://youtu.be/sztXPhClk8I
+      button: join evergreen primary school
 ---
