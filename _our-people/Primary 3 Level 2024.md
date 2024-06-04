@@ -22,7 +22,10 @@ variant: tiptap
 <p></p>
 <p><strong><u>Form Teachers</u></strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,7 +46,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,7 +69,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -88,7 +97,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -108,7 +120,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -122,13 +137,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>V Punithan @ Punithen (Mr)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
