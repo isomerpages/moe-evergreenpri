@@ -5,9 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: School Administration
 ---
+<p><strong>(To be confirmed)</strong>
+</p>
+<p></p>
 <p>School Bus Advertisement</p>
-<p>To apply, please refer to the Service Requirements and the ApplicationProcedure
-below.</p>
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
 <p>Service Requirements</p>
 <p>1.</p>
 <p>2.</p>
