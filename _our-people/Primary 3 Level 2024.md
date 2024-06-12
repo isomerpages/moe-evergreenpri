@@ -34,7 +34,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jariah Ramlee (Mdm)</p>
 <p></p>
 </td>
 </tr>
