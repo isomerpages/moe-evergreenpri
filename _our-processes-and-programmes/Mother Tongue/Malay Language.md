@@ -3,6 +3,7 @@ title: Malay Language
 permalink: /our-processes-and-programmes/Mother-Tongue-Department/malay-language/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ![](/images/Department%20Main%20Photos/img_3297.JPG)
 
@@ -26,11 +27,13 @@ third_nav_title: Mother Tongue
 *   Primary 4 and Primary 5 Learning Journey (local)
     
 
-2.     **To arouse student’s interest in the languages through active participation in department activities**
+2.     **To arouse student’s passion in the Malay language through active participation in various activities**
 
 *   Hari Raya Celebrations
     
-*   Experiential Based Learning Programmes P4 Mother Tongue Cultural Camp
+*   Experiential Based Learning Programmes 
+
+*   P4 Mother Tongue Cultural Camp
     
 *   Mother Tongue Language Fortnight
     
@@ -41,7 +44,7 @@ third_nav_title: Mother Tongue
 *   Inter/Intra school competitions
     
 
-### 2022 – 2023 Malay Department Activities by Level
+### 2022 – 2024 Malay Department Activities by Level
 
 
 
@@ -51,7 +54,7 @@ third_nav_title: Mother Tongue
 |   P1 to P6  |  T.G.I.F   |
 |  P1 to P2   |  Reading Program (Rakan Membaca)   |
 |  P3   |  Conversational Chinese Programme   |
-|  P4   |  Learning Journey to Kampung Lorong Buangkok   |
+|  P4   |  Learning Journey to Kampung Lorong Buangkok (2023)  |
 |  P4   |   Mother Tongue Cultural Camp  |
 
 
@@ -59,7 +62,7 @@ third_nav_title: Mother Tongue
 | -------- | -------- | 
 |  Selected P5   |  Rakan Bahasa (Malay Language Ambassadors)   |
 |  P5   |   e-Immersion Programme to Kuching, Sarawak  |
-|  P5   |  Learning Journey to Reflections @ Bukit Chandu   |
+|  P5   |  Learning Journey to Reflections @ Bukit Chandu (2023)   |
 
 
 **Rakan Membaca (Buddy Reading Programme)**
@@ -93,47 +96,43 @@ Our experiential based learning programmes provide students with a comprehensive
 
 Learning journeys provides our Malay Language students an opportunity for experiential learning. The P4 Malay Language Learning Journey to Kampung Lorong Buangkok immerses students in traditional kampung activities, deepening their understanding of cultural heritage. The P5 Malay Language Learning Journey to Reflections @ Bukit Chandu allows students to witness historical sites and interact with exhibits, fostering critical thinking and reflection on Singapore's history. These journeys extend learning beyond the classroom, encourages further exploration and self-directed learning by our students.
 
-### 2022 – 2023 Malay Department Participations & Achievements
+
+### 2022 – 2024 Malay Department Participations & Achievements
 
 **1\. Teevers Competition (News Reporting and Video Making Competition) - 2022**
 
 
-
-| Name of student | Class of student in award year | Award |
-| -------- | -------- | -------- |
-| Hanin Farzanah binte Muhammad Khairul Fahmi     | 5 Faith    | 2nd Prize   |
-| Nur Nadiah binte Mohammad Aidil | 5 Care | 2nd Prize |
+- 2nd Prize (As group)
 
 **2\. Saya Boleh Bercerita (video storytelling) by Nusa Edufront - 2022**
 
-| Name of student | Class of student in award year | Award |
-| -------- | -------- | -------- |
-| Safiyyah binte Qhairul Amin     | 2 Grace    | Gold with Honours     |
-| Suztra Rayyan Syah bin Sustrawandi | 5 Care |  Gold with Honours     |
+- Gold with Honours
 
 
 
 **3\. Karya Minda Kreatif (creative writing competition) by EDN - 2022**
 
-| Name of student | Class of student in award year | Award |
-| -------- | -------- | -------- |
-| Sharifah Aishah Al-Haddad Binte Syed Ahmad | 4 Charity | 7th prize |
+- 7th prize
 
 
 **4\. Rentas Pentas (Amazing Race) by NTU PERBAYU - 2023**
 
-| Name of student | Class of student in award year | Award |
-| -------- | -------- | -------- |
-| Muhammad Faheem Bin Mohamed Farhan | 5 Charity | Participation |
-|  Qaisara Amani binte Qamarul Azhar | 5 Joy | Participation |
-| Saufidz Indri'ian Bin Andi | 5 Care | Participation |
-| Siti Nur'aleesha Binte Muhammad Noorshahid | 5 Grace | Participation |
-| Muhammad Aidan Bin Iskandar | 5 Joy  | Participation |
+- Participation (As group)
 
 
 **5\. Teevers Competition (News Reporting and Video Making Competition) - 2023**
 
-| Name of student | Class of student in award year | Award |
-| -------- | -------- | -------- |
-| Muhammad Faheem Bin Mohamed Farhan | 5 Charity | Participation |
-| Qaisara Amani binte Qamarul Azhar | 5 Joy | Participation |
+- Participation (As group)
+
+**6.  Berita Harian's TikTok Competition - 2024**
+- 3rd Place (As group)
+- Certificate of Participation
+
+**7\. Bisikan Pena 2024 (Malay Poetry Competition) - 2024**
+- Participation (As Group)
+
+**8\. Rentas Pentas (Amazing Race) by NTU PERBAYU - 2024**
+- 2nd Place (As Group)
+
+**9\. SAHIBBA (Malay Language Scrabble Competition) 2024**
+- 1st Place (North Zone)
