@@ -101,5 +101,14 @@ Following the tour, students engaged in a virtual interaction session with their
 
 The session concluded with a memorable group photo, marking the beginning of a promising friendship between the students of Evergreen Primary School and Ren Min Primary School. This successful event highlighted the importance of cultural exchange and the benefits of embracing global connections.
 
+**2024 Chinese Unit Achievements**
 
+**The 15th “Global Village” Children & Youths Bilingual Speech Conference 2024**
+
+- 3rd Prize
+
+**North Zone Schools (Primary / Secondary) Chinese Speech Competition 2024**
+
+- Merit Award
+- Most Promising Award
 
