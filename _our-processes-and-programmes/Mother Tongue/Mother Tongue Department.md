@@ -3,6 +3,7 @@ title: Mother Tongue Department
 permalink: /our-processes-and-programmes/Mother-Tongue-Department/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ![](/images/Department%20Main%20Photos/img_3287.JPG)
 
@@ -26,24 +27,29 @@ To make MTL a living language, we strive to make learning of MT Languages joyful
 
   
 
-### Key Events & Activities in 2023
+### Key Events & Activities in 2024
 
 
+
+*   Celebration of Ethnic Festivals 
+    
 *   Reading Programme
-    
-*   Speech and Drama Programme
-    
-*   Mother Tongue Fortnight Activities and Primary 4 Mother Tongue Camp
     
 *   T.G.I.F.
     
+*   Mother Tongue Fortnight Activities
+    
+*   Mother Tongue Language Camp
+    
+*   Theatre Performances
+    
 *   Conversational Chinese / Malay Programme
     
-*   Celebration of Ethnic Festivals 
-    
-*   Local Learning Journeys
+*   Speech and Drama Programme
     
 *   E-Immersion Programme
+    
+
 
 
 
@@ -69,7 +75,7 @@ The camp also included a variety of traditional games such as Tarik Upih, Lereng
 
 **T.G.I.F. (Languages Day)**
 
-This year, the Mother Tongue department collaborated with the English department in planning the T.G.I.F. activities for the students on the last Friday of Term 2. The 2 language departments set up interesting and engaging booths to promote the love for the languages. Activities planned for the students served as a gateway for them to learn more about the various langauges’ distinctive attributes in a fun and meaningful way.
+This year, the Mother Tongue and English departments teamed up to organize the T.G.I.F. activities for students on the Friday of Week 9 in Term 2. Themed “Characters Come Alive,” the event aimed to foster a love for reading among students. The activities provided an engaging and meaningful way for students to explore the unique attributes of various languages.
 
 **Conversation Chinese / Malay Programme**
 

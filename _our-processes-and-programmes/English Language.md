@@ -2,6 +2,7 @@
 title: English Language
 permalink: /our-processes-and-programmes/english-language/
 description: ""
+variant: markdown
 ---
 ![](/images/Department%20Main%20Photos/img_3319.JPG)
 
@@ -38,9 +39,12 @@ As such, we have planned an array of programmes and activities that have been in
 
 Aims: 
 
-*	Develop reading readiness, positive attitudes &amp; behaviours in students 
-*	Provide opportunities for students to process, comprehend, analyse, evaluate &amp; appreciate texts 
-*	Provide opportunities for students to respond, enjoy &amp; understand how grammatical items &amp; semiotic modes are used in texts
+*	Develop the joy of reading
+
+*	Develop reading readiness, positive attitudes &amp; behaviours in students
+
+* Provide opportunities for students to appreciate multiple perspectives and respond to different text types
+
 
 Through the Extensive Reading Programme &amp; Library Activities, students learn how to appreciate multiple perspectives, appreciate the contexts in which the texts are written, respond to the texts by giving their personal responses either verbally or in written form. There is also a heavy emphasis on developing students to be empathetic towards others through character studies. 
 

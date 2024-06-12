@@ -15,14 +15,17 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Mr Ronnie Ng Sheng Wei | Assistant Year Head (P5)</strong>
+<p><strong>Mr Ronnie Ng Sheng Wei | Assistant Year Head (P5)(Int)</strong>
 </p>
 </li>
 </ul>
 <p></p>
 <p><strong><u>Form Teachers</u></strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -47,7 +50,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -67,7 +73,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,7 +96,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -107,7 +119,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -127,7 +142,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
