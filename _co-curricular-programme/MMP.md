@@ -29,7 +29,7 @@ The table below summarizes the exposures specially curated for our EGPS students
 | **P1** 	| Tuesday<br>1230 – 1330 	| Self-Mgt &amp; Social Skills/ Media &amp; Technology 	| Aesthetics 	| Language Arts 	|
 |  	|  	| SDWB: U + I  = WE<br>ICT: Digital Literacy 	| PA: Hip Hop Dance 	| EL: Choral Reading/<br>Poetry Recitation 	|
 | **P2** 	| Tuesday<br>1230 – 1330 	| Language Arts 	| Self-Mgt &amp; Social Skills/ Media &amp; Technology 	| Aesthetics  	|
-|  	|  	| EL: Reader’s Theatre 	| SDWB: Home Craft<br>&amp; Digital Literacy 	| PA: Sports / Aesthetics - Cycling / Street Dance 	|
+|  	|  	| EL: Reader’s Theatre 	| SDWB: Home Craft<br>&amp; Digital Literacy 	| PA: Sports / Aesthetics - Cycling / Street Dance (Note: No elbow and knee guards are required for cycling activity. Helmets will be provided for each student.	|
 | **P3** 	| Wednesday<br>1200 – 1330 	| Language Arts 	| Citizenship 	| Innovation &amp; Enterprise 	|
 |  	|  	| EL: Drama 	| MT: Conversation CL/ML (CCM) 	| SCI: Design Thinking<br>ICT: Digital Literacy 	|
 | **P4** 	| Wednesday<br>1200 – 1330 	| Innovation &amp; Enterprise 	| Language Arts 	| Innovation &amp; Enterprise 	|
