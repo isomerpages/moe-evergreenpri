@@ -21,12 +21,24 @@ To learn more, please click on the following [link](https://www.carecorner.org.
 
 **Upcoming Programmes**
 
-November 2023
+Dear Parents,
 
-There will be a workshop organised by Touch Community Services - Touch Parenting, for parents of children aged 5 to 9 years old. The workshop entitled ‘My First Device Campaign’ is based around the defining milestone in the life of a child when they receive their first computer, tablet, or smartphone. Click [here](/files/PSG/first%20device%20campaign%20(public%20workshop%202).pdf) to learn more and to register for the workshop. 
+Care Corner will be conducting Triple P seminars in different languages (Malay/Mandarin) this July to cater to the preference of parents.
 
-December 2023
+**Positive Parenting in the 21st Century**
 
-There will be an upcoming Seminars organised by the Care Corner for parents of primary schoolers to help parents transit to a primary school. The seminars will be on the ‘Power of Positive Parenting & Building Confidence and Competence’ as well as ‘Developing Resilience through Transitions’. Parents could learn a simple and practical strategies from a parenting expert. Click [here](/files/PSG/p1%20transition%20(dec%202023).pdf) to learn more and to register for the upcoming seminar
+Care Corner Family For Life will be conducting a series of online parenting seminars which seek to equip you with strategies to:
+·                 Confidently manage your child’s behaviour
+·                 Prevent the development of behavioural and emotional problems
+·                 Build stronger and healthier relationships between you and your child
 
-Thank you.
+The details of these upcoming seminars are available in different languages are as follows:
+
+1. Saturday, 29 June, 10.30am to 3pm, SPARKS@Bukit Canberra Community Lounge (Onsite Full Day Seminar conducted in Malay)
+2. Thursday, 11, 18 and 25 July, 7.30pm to 9pm (Online Evening seminars conducted in Mandarin)
+
+You can register for the seminars in your preferred dates by completing the online form or by scanning the QR code in the attached [Mandarin](/files/Y24_Run_7__12__Mandarin.pdf)  / [Malay](/files/Triple_P_x_M3_29_Jun_Malay.pdf) poster.
+
+We look forward to your registration to better support your child through their growing up years!
+
+The sign up link is- https://go.gov.sg/cc-3p9
