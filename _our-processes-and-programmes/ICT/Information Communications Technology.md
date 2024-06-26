@@ -3,22 +3,21 @@ title: Information Communications Technology
 permalink: /our-processes-and-programmes/information-communications-technology/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
-
-
 ![](/images/Department%20Main%20Photos/img_3331.JPG)
 
 The ICT department aims to create a technology-enriched learning environment that promotes the effective use of technology for quality teaching and learning, and a strong ICT curriculum to help our students develop the 21st Century Competencies.
 
 ### Vision:
 
-* Every teacher a designer and facilitator of tech-mediated learning experiences.
-* Every student an active learner and a responsible digital user.
+* Each teacher a collaborative contributor, pedagogically proficient and data literate learning designers of tech-mediated learning experiences.
+* Every student a future-ready learner and a responsible digital user. 
 
 ### Mission:
 
-* To build teachers’ capacity to design, enact and assess with technology for active learning in class and beyond the classroom.
-* To develop students’ ability to connect, create and curate information in a digital environment anchored on sound values.
+* To develop teachers to be proficient in using e-Pedagogy to design effective tech-enabled learning experiences and to harness learning data to better understand students’ needs and provide more targeted feedback and guidance.
+* To develop students to be collaborative and connected in using digital tools to co-construct and share knowledge with others while being able to Find, Think, Apply, Create in a digital environment anchored on sound values. 
 
 ### e-Pedagogy @ EGPS
 Our teachers are equipped with the knowledge and skills to design e-pedagogy lessons, leveraging on the affordances of ICT to enhance teaching and learning. The lessons are guided by the five key actions for lesson design, enactment and review.
@@ -28,9 +27,9 @@ Our teachers are equipped with the knowledge and skills to design e-pedagogy les
 ### ICT CURRICULUM
 
 At Evergreen Primary, we engage students in acquiring New Media Literacies through Digital Literacy lessons and Cyberwellness lessons to equip them with the knowledge and skills to navigate and participate productively and to enable them to develop an understanding of the social practices governing the internet.
-These lessons include elements of New Media Literacy – namely, the ability to Create, Connect and Curate information in the digital networked environment. As seen in the framework by MOE, the six core values of the 21st CC are in the heart of these interactions which anchor the learning experiences to develop a discerning and responsible user of technology.
+These lessons include elements of Digital Literacy competencies – namely, the ability to Find, Think, Create and Apply information in the digital networked environment. As seen in the framework by MOE, the six core values of the 21st CC are in the heart of these interactions which anchor the learning experiences to develop a discerning and responsible user of technology.
 
-![](/images/Department%20Photos/ICT/(Updated)/ict_nml.jpg)
+
 
 ### Digital Literacy Lessons
 
@@ -38,7 +37,7 @@ Digital Literacy lessons are carried out as part of the Multi-Modal Programme (M
 At the lower primary level, students learn how to operate computing devices and use applications and software for learning. 
 At the middle and upper primary, students learn how to gather information, use digital resources in a safe and responsible manner, use software and devices to facilitate the use of knowledge and skills in different ways, produce digital products and collaborate online.
 
-![](/images/Department%20Photos/ICT/(Updated)/ict%20-%20digital%20literacies.jpg)
+
 
 ### Cyberwellness Curriculum
 
