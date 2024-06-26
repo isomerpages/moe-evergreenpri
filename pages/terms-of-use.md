@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 Thank you for visiting evergreenpri.moe.edu.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
@@ -10,7 +11,7 @@ Thank you for visiting evergreenpri.moe.edu.sg. By accessing and using this webs
 
 **Proprietary Rights**
 
-2\. This website is maintained by Evergreen Primary School.
+2\. This website is maintained by Evergreen Primary School. It is owned by Evergreen Primary School. 
 
 3\. The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Evergreen Primary School.
 
