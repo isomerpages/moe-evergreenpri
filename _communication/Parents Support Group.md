@@ -31,11 +31,13 @@ Care Corner Family For Life will be conducting a series of online parenting semi
 ·                 Confidently manage your child’s behaviour
 ·                 Prevent the development of behavioural and emotional problems
 ·                 Build stronger and healthier relationships between you and your child
+
 The details of these upcoming seminars are available in different languages are as follows:
+
 1. Saturday, 29 June, 10.30am to 3pm, SPARKS@Bukit Canberra Community Lounge (Onsite Full Day Seminar conducted in Malay)
 2. Thursday, 11, 18 and 25 July, 7.30pm to 9pm (Online Evening seminars conducted in Mandarin)
 
-You can register for the seminars in your preferred dates by completing the online form or by scanning the QR code in the attached poster.
+You can register for the seminars in your preferred dates by completing the online form or by scanning the QR code in the attached [Mandarin](/files/Y24_Run_7__12__Mandarin.pdf)  / [Malay](/files/Triple_P_x_M3_29_Jun_Malay.pdf) poster.
 
 We look forward to your registration to better support your child through their growing up years!
 
