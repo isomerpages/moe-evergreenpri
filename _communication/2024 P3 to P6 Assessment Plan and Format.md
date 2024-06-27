@@ -18,5 +18,5 @@ P5 Term 3 Assessment Format</p>
 P5 Term 3 Assessment Plan</p>
 <p>Click&nbsp;<a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P6_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 P6 Term 3 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P6_Assessment_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">her</a>&nbsp;for
+<p>Click <a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P6_Assessment_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 P6 Term 3 Assessment Plan</p>
