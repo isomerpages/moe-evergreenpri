@@ -3,6 +3,7 @@ title: Tamil Language
 permalink: /our-processes-and-programmes/Mother-Tongue-Department/tamil-language/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ![](/images/Department%20Main%20Photos/(updated)%20tl%20img_3291.JPG)
 
@@ -57,39 +58,26 @@ This learning journey gave students a better understanding on the significance o
 
 1.	Sanga Tamil Vizha (Woodlands Galaxy IAEC)	
 
-| No | Name | Class | Results | Type of competition | 
-| -------- | -------- | -------- | -------- | -------- |
-1     | Sharvin S/o Haridas     | 6 Grace     | 1st Prize     | Fancy Dress Competition     | 
-2     | Jayaprakasam Joshith     | 3 Charity     | 2nd Prize     | Fancy Dress Competition     | 
-3     | Vignesh Indhumathi Pratheek     | 5 Joy     | 2nd Prize     | Fancy Dress Competition     | 
+Fancy Dress Competition - 1st & 2nd Prize
 
 2.	Tamil Arts Contest 2023     
 
-| No | Name | Class | Results | Type of competition | 
-| -------- | -------- | -------- | -------- | -------- |
-1     | Angelina Ajeeth     | 5 Joy     | 1st Prize     | Singing Competition     |
+Singing Competition - 1st Prize  
 
 3. Singing Competition organized by Sembawang Community Centre IAEC in conjunction with Tamil Language Festival
 
-| No | Name | Class | Results | Type of competition | 
-| -------- | -------- | -------- | -------- | -------- |
-1     | Jayaprakasam Joshith     | 3 Charity     | 1st Prize     | Singing Competition     |
+Singing Competition - 1st Prize
 
 4.	Hong Kah North Tamil Language Festival 2023
 
-| No | Name | Class | Results | Type of competition | 
-| -------- | -------- | -------- | -------- | -------- |
-1     | Jayaprakasam Joshith     | 3 Charity     | 2nd Prize     | Singing Competition     |
+Singing Competition - 2nd Prize
 
 5.	Life Literary Association 
 
-| No | Name | Class | Results | Type of competition | 
-| -------- | -------- | -------- | -------- | -------- |
-1     | Jayaprakasam Joshith     | 3 Charity     | 3rd Prize     | Oratorical Competition     |
+Oratorical Competition - 3rd Prize
 
 6.	TL Competition for Primary Schools organized by Telok Blangah Community Centre        
 
-| No | Name | Class | Results | Type of competition | 
-| -------- | -------- | -------- | -------- | -------- |
-1     | Roy Nixon Shangika     | 2 Care     | Consolation Prize     | Reading Competition     |
-2     | Jayaprakasam Joshith     | 3 Charity     | Consolation Prize     | Story- Telling Competition     |
+Reading Competition - Consolation Prize
+Story-Telling Competition - Consolation Prize
+
