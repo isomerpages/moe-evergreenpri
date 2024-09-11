@@ -5,18 +5,15 @@ description: ""
 variant: tiptap
 ---
 <p>Click&nbsp;<a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P3_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-P3 Term 3 Assessment Format</p>
+P3 Term 4 Assessment Format</p>
 <p>Click&nbsp;<a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P3_Assessment_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-P3 Term 3 Assessment Plan</p>
+P3 Term 4 Assessment Plan</p>
 <p>Click <a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P4_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-P4 Term 3 Assessment Format</p>
+P4 Term 4 Assessment Format</p>
 <p>Click&nbsp;<a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P4_Assessment_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-P4 Term 3 Assessment Plan</p>
+P4 Term 4 Assessment Plan</p>
 <p>Click&nbsp;<a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P5_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-P5 Term 3 Assessment Format</p>
+P5 Term 4 Assessment Format</p>
 <p>Click <a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P5_Assessment_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-P5 Term 3 Assessment Plan</p>
-<p>Click&nbsp;<a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P6_Assessment_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-P6 Term 3 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2024 Term 3/2024_Term_3_P6_Assessment_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-P6 Term 3 Assessment Plan</p>
+P5 Term 4 Assessment Plan</p>
+<p></p>
