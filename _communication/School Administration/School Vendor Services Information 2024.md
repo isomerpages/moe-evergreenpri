@@ -240,16 +240,18 @@ view the P1 Booklist for the year 2025.</p>
 </p>
 <p>
 <br><strong>1)</strong>&nbsp; Via online website</p>
-<p>The school encourages you to make your purchases online at&nbsp;<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/" rel="noopener noreferrer nofollow" target="_blank">https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/</a>&nbsp;to
-avoid crowd.&nbsp; Your Primary 1 child only need to buy the Polo T-SHIRT
-and Shorts/Skorts. There is&nbsp;<strong>no need to buy</strong>&nbsp;the
-Shirt and Blouse as these are for P4 - P6 students. Sizing charts are also
-available on the website. &nbsp;<strong>Order online early</strong>&nbsp;to
-avoid stock out. &nbsp;Delivery charge&nbsp;applicable for home delivery.
+<p>The school encourages you to make your purchases online via the <a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/" rel="noopener nofollow" target="_blank">link</a>&nbsp;to
+avoid crowd.&nbsp;</p>
+<p>Your Primary 1 child only needs to buy the Polo T-Shirt and Shorts/Skorts.</p>
+<p>There is&nbsp;<strong>no need to buy</strong>&nbsp;the Shirt and Blouse
+as these are for P4 - P6 students. Sizing charts are also available on
+the website. &nbsp;</p>
+<p><strong>Order online early</strong>&nbsp;to avoid stock out. &nbsp;Delivery
+charges&nbsp;apply for home delivery.
 <br>
 </p>
 <p><strong>2)</strong> &nbsp;From School&nbsp; 23 Nov 2023 , 24 Nov 2023 &nbsp;
-<br>(9am -3pm )</p>
+<br>(9am - 3pm )</p>
 <p>Alternatively, you may click on the <a href="/files/Administration/uniform_sales_2023__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to view
 the schedule&nbsp;</p>
 <p><strong>3)</strong>&nbsp;&nbsp;At the retail shop</p>
