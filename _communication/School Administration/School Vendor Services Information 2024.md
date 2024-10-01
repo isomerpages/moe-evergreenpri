@@ -196,10 +196,12 @@ applicable for self-collection at the school with an appointment time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timing</p>
+<p><strong>Timing</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 3pm</p>
+<p><strong>9am to 3pm</strong>
+</p>
 </td>
 </tr>
 </tbody>
