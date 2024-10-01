@@ -190,8 +190,7 @@ applicable for self-collection at the school with an appointment time.</p>
 <p>Dates</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>18 Nov 2024
-<br>19 Nov 2024
+<p>18 (Mon) &amp; 19 (Tue) Nov 2024
 <br>(Exclusive to P1 students enrolling in 2025)</p>
 </th>
 </tr>
