@@ -57,7 +57,7 @@ a step-by-step guide</p>
 <br>Download Parents Gateway Mobile App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 November 2023</p>
+<p>22 November 2024</p>
 </td>
 </tr>
 <tr>
@@ -73,27 +73,12 @@ bank transfer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 November 2023</p>
+<p>22 November 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EGPS Survey to help teachers to understand your child better.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provide information for the purpose of your child's safety. <a href="https://go.gov.sg/2l2we1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2l2we1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 November 2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Student Details Form Available from 27 Nov 10am.
@@ -110,12 +95,12 @@ account to submit particulars of himself/herself.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 December 2023</p>
+<p>December 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Financial Assistance
@@ -136,7 +121,7 @@ apply</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>POSB SMART Buddy Watch
@@ -171,8 +156,8 @@ find out more</p>
 <li>
 <p>Others</p>
 <p><strong>Preparing your child to transit to primary school environment?</strong>
-<br>Here are some useful&nbsp;resources to consider in helping your child
-to navigate throughout his / her education journey.</p>
+<br>Here are some useful&nbsp;<a href="/files/Care Corner/Resources_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">resources</a> to consider
+in helping your child to navigate throughout his / her education journey.</p>
 <p></p>
 </li>
 <li>
