@@ -83,7 +83,7 @@ bank transfer.</p>
 <td rowspan="1" colspan="1">
 <p>MOE Student Details Form Available from End Nov.
 <br>
-<br>Both parents must log in separately to the portal using his/her own Singpass
+<br>Both parents must log in separately to the portal using his/her own SingPass
 account to submit particulars of himself/herself.</p>
 </td>
 <td rowspan="1" colspan="1">
