@@ -207,8 +207,7 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 </tbody>
 </table>
 <p>
-<br>Please click&nbsp;<a href="/files/Administration/p1%20booklist%20as%20of%2011%20oct%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-view the P1 Booklist for the year 2025.</p>
+<br>Please click&nbsp;here to view the P1 Booklist for the year 2025.</p>
 <h3>School Uniform</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -277,8 +276,7 @@ charges&nbsp;apply for home delivery.
 </tr>
 </tbody>
 </table>
-<p>Alternatively, you may click on the <a href="/files/Administration/uniform_sales_2023__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to view
-the schedule&nbsp;</p>
+<p></p>
 <p><strong>3)</strong>&nbsp;&nbsp;At the retail shop</p>
 <p>You are advised to message / WhatsApp Mr Vern Ng at&nbsp;9799 2501 / 90772932&nbsp;to
 determine stock availability before making your trip there.</p>
