@@ -27,7 +27,7 @@ variant: tiptap
 <p>Contact No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gnanasekaran Balaji (9061 9947 )</p>
+<p>Mr Gnanasekaran Balaji (9061 9947)</p>
 </td>
 </tr>
 </tbody>
@@ -74,7 +74,7 @@ for Services.</p>
 <p>$108</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$143</p>
+<p>$144</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ for Services.</p>
 <p>$150</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$184</p>
+<p>$186</p>
 </td>
 </tr>
 </tbody>
@@ -170,7 +170,7 @@ the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener 
 <p>
 <br><strong>(1)</strong>&nbsp; Via online</p>
 <p>The school encourages you to make your purchases online via the following
-<a href="http://www.rickybookcentre.com.sg" rel="noopener nofollow" target="_blank">link</a>for ease of crowding.
+<a href="http://www.rickybookcentre.com.sg/" rel="noopener nofollow" target="_blank">link</a>for ease of crowding.
 <br>
 <br><strong>Compulsory</strong>: &nbsp;Parents are required to order name
 tag for your child's school uniform via the following <a href="https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder" rel="noopener nofollow" target="_blank">link</a>
