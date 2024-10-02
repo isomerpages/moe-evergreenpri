@@ -81,15 +81,15 @@ bank transfer.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Student Details Form Available from 27 Nov 10am.
+<p>MOE Student Details Form Available from End Nov.
 <br>
 <br>Both parents must log in separately to the portal using his/her own Singpass
 account to submit particulars of himself/herself.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available from 27 Nov 10am.
+<p>Available from End Nov
 <br>
-<br>To complete the submission by 29 Dec 2023.
+<br>To complete the submission by Dec 2024.
 <br>
 <br><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
@@ -107,10 +107,9 @@ account to submit particulars of himself/herself.</p>
 <br>Singapore Citizens in financial need can get assistance on school fees
 and other expenses.
 <br>
-<br>To know your eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
 <br>
-<br>If you qualify for the FAS, please click <a href="/files/Administration/2024%20moe%20fas%20application%20form-%20converted.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-apply</p>
+<br>If you qualify for the FAS, please click here to apply (To be updated)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
