@@ -121,7 +121,7 @@ for Services.</p>
 <br>(9023 4896)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00am to 5.30pm (Monday to Friday - Excluding PH)</p>
+<p>11.00am to 7pm (Monday to Friday - Excluding PH)</p>
 </td>
 </tr>
 </tbody>
