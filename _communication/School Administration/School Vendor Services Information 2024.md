@@ -131,13 +131,13 @@ for Services.</p>
 </p>
 <p>a.&nbsp;For parents who are interested in after-school care for your child,
 you would be pleased to know that Evergreen Primary has onsite student
-care services operated by Big Heart. You may refer to their website,&nbsp;
-<a href="https://bigheartstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">https://bigheartstudentcare.com/&nbsp;</a>, for more information.</p>
+care services operated by Big Heart. You may refer to their <a href="https://bigheartstudentcare.com/" rel="noopener nofollow" target="_blank">website</a> or
+the brochure for more information.</p>
 <p>b.&nbsp;If you are interested to enroll your child here, please submit
-your indication of interest&nbsp;<strong>by 8 November 2023</strong>&nbsp;using
-the following link,&nbsp;<a href="http://bigheart.cyberland.sg/interest.php" rel="noopener noreferrer nofollow" target="_blank">http://bigheart.cyberland.sg/interest.php</a>.</p>
-<p>c.&nbsp;You will be notified by Big Heart Student Care&nbsp;<strong>by 1 December 2023 via email</strong>&nbsp;if
-a vacant slot is available for your child.</p>
+your indication of interest&nbsp;<strong>by 8 November 2024</strong>&nbsp;via
+the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a>
+</p>
+<p></p>
 <h3>School Bookshop</h3>
 <table style="minWidth: 50px">
 <colgroup>
