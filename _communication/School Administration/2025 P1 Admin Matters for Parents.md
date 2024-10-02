@@ -149,7 +149,7 @@ learn more</p>
 </li>
 <li>
 <p>School Vendor Services for Primary 1 (2025)</p>
-<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank">here</a> to
 find out more</p>
 </li>
 <li>
