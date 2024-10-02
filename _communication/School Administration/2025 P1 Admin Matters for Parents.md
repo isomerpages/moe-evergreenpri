@@ -57,7 +57,7 @@ a step-by-step guide</p>
 <br>Download Parents Gateway Mobile App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 November 2023</p>
+<p>22 November 2024</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ bank transfer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 November 2023</p>
+<p>22 November 2024</p>
 </td>
 </tr>
 <tr>
@@ -81,14 +81,21 @@ bank transfer.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EGPS Survey to help teachers to understand your child better.</p>
+<p>MOE Student Details Form Available from End Nov.
+<br>
+<br>Both parents must log in separately to the portal using his/her own Singpass
+account to submit particulars of himself/herself.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provide information for the purpose of your child's safety. <a href="https://go.gov.sg/2l2we1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2l2we1</a>
+<p>Available from End Nov
+<br>
+<br>To complete the submission by Dec 2024.
+<br>
+<br><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 November 2023</p>
+<p>December 2024</p>
 </td>
 </tr>
 <tr>
@@ -96,47 +103,24 @@ bank transfer.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Student Details Form Available from 27 Nov 10am.
+<p>MOE Financial Assistance
+<br>Singapore Citizens in financial need can get assistance on school fees
+and other expenses.
 <br>
-<br>Both parents must log in separately to the portal using his/her own Singpass
-account to submit particulars of himself/herself.</p>
+<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+<br>
+<br>If you qualify for the FAS, please click here to apply (To be updated)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Available from 27 Nov 10am.
-<br>
-<br>To complete the submission by 29 Dec 2023.
-<br>
-<br><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 December 2023</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Financial Assistance
-<br>Singapore Citizens in financial need can get assistance on school fees
-and other expenses.
-<br>
-<br>To know your eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
-<br>
-<br>If you qualify for the FAS, please click <a href="/files/Administration/2024%20moe%20fas%20application%20form-%20converted.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-apply</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>POSB SMART Buddy Watch
@@ -157,34 +141,30 @@ learn more</p>
 </table>
 </li>
 <li>
-<p>P1 Orientation for the Year 2024</p>
-<p>Coming Soon
+<p>P1 Orientation for the Year 2025</p>
+<p>1 November 2024 (Friday)</p>
+<p>2.30pm - 4.30pm
 <br>
 </p>
 </li>
 <li>
-<p>School Vendor Services for Primary 1 (2024)</p>
+<p>School Vendor Services for Primary 1 (2025)</p>
 <p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more</p>
 </li>
 <li>
 <p>Others</p>
 <p><strong>Preparing your child to transit to primary school environment?</strong>
-<br>Here are some useful <a href="/files/Preparing%20for%20P1%20Guiding%20your%20child%20to%20be%20independent.pdf" rel="noopener noreferrer nofollow" target="_blank">resources</a>&nbsp;to
-consider in helping your child to navigate throughout his / her education
-journey.</p>
-<p><strong>Upcoming seminar from Care Corner Family Support Services</strong>
-<br>There will be three upcoming talks organized by Care Corner Family Support
-Services. Details found below.
-<br>1. Power of Positive Parenting
-<br>2. Building Confidence and Competence
-<br>3. Developing Resilience Through Transitions
+<br>Here are some useful&nbsp;<a href="/files/Care Corner/Resources_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">resources</a> to consider
+in helping your child to navigate throughout his / her education journey.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Care Corner Family Support Services</strong>
+<br>Click <a href="https://www.carecorner.org.sg/services/family-service-centre/" rel="noopener nofollow" target="_blank">here</a> to
+learn more about the services provided by Care Corner
 <br>
 </p>
-<p>Click <a href="/files/P1%20Transition%20Poster.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-find out more details.</p>
-<p>Click<a href="https://forms.office.com/pages/responsepage.aspx?id=Ycu9JkYoA0yJwHUJWG-CpagWUtXPd0hDjN8Z2rSTCjpURFo0VkRZMUkyRVFQVUhHU1BGT1JHTzJSVy4u" rel="noopener noreferrer nofollow" target="_blank"> here</a> to
-register.</p>
 </li>
 </ul>
 <p></p>
