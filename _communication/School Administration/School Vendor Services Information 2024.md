@@ -132,7 +132,8 @@ for Services.</p>
 <p>a.&nbsp;For parents who are interested in after-school care for your child,
 you would be pleased to know that Evergreen Primary has onsite student
 care services operated by Big Heart. You may refer to their <a href="https://bigheartstudentcare.com/" rel="noopener nofollow" target="_blank">website</a> or
-the brochure for more information.</p>
+the <a href="/files/Big Heart/9REG_Cover_Letter_v6_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">brochure</a> for
+more information.</p>
 <p>b.&nbsp;If you are interested to enroll your child here, please submit
 your indication of interest&nbsp;<strong>by 8 November 2024</strong>&nbsp;via
 the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a>
@@ -164,19 +165,18 @@ the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener 
 </tbody>
 </table>
 <p>
-<br><strong>[The following information below is meant for parents who are enrolling their P1 child in 2024]</strong>
+<br><strong>[The following information below is meant for parents who are enrolling their P1 child in 2025]</strong>
 </p>
 <p>
-<br><strong>(1)</strong>&nbsp; Via online website</p>
-<p>The school encourages you to make your purchases online at&nbsp;<a href="https://www.rickybookcentre.com.sg" rel="noopener noreferrer nofollow" target="_blank"> http://www.rickybookcentre.com.sg</a>&nbsp;
-to avoid crowd.&nbsp;
+<br><strong>(1)</strong>&nbsp; Via online</p>
+<p>The school encourages you to make your purchases online via the following
+<a href="http://www.rickybookcentre.com.sg" rel="noopener nofollow" target="_blank">link</a>for ease of crowding.
 <br>
-<br><strong>Compulsory</strong>: &nbsp;Parents need to order Name Tag for
-the child school uniform at &nbsp;website at&nbsp;<a href="https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder" rel="noopener noreferrer nofollow" target="_blank">https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder</a>
+<br><strong>Compulsory</strong>: &nbsp;Parents are required to order name
+tag for your child's school uniform via the following <a href="https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder" rel="noopener nofollow" target="_blank">link</a>
 <br>
-<br><strong>Order online early</strong>&nbsp;to avoid stock out. &nbsp;There
-are options for home delivery at a cost, but there are no delivery charges
-applicable for self-collection at the school with an appointment time.</p>
+<br><strong>[Note: Order online early&nbsp;to avoid stock out. Home delivery options are available at a cost. However, there are no delivery charges applicable for self-collection at the school with an appointment time.]</strong>
+</p>
 <p><strong>(2)</strong>&nbsp;&nbsp;From School bookshop&nbsp;</p>
 <p>Please refer to the details below for the sales of books,</p>
 <table style="minWidth: 50px">
@@ -190,7 +190,7 @@ applicable for self-collection at the school with an appointment time.</p>
 <p>Dates</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>18 (Mon) &amp; 19 (Tue) Nov 2024
+<p>18 - 20 Nov 2024 (Mon - Wed)
 <br>(Exclusive to P1 students enrolling in 2025)</p>
 </th>
 </tr>
@@ -234,12 +234,10 @@ view the P1 Booklist for the year 2025.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br><strong>The following information below is meant for parents who are enrolling their P1 child in 2025</strong>
+<p><strong>The following information below is meant for parents who are enrolling their P1 child in 2025</strong>
 </p>
 <p>
-<br><strong>1)</strong>&nbsp; Via online website</p>
+<br><strong>1)</strong>&nbsp; Via online</p>
 <p>The school encourages you to make your purchases online via the <a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/" rel="noopener nofollow" target="_blank">link</a>&nbsp;to
 avoid crowd.&nbsp;</p>
 <p>Your Primary 1 child only needs to buy the Polo T-Shirt and Shorts/Skorts.</p>
@@ -250,8 +248,35 @@ the website. &nbsp;</p>
 charges&nbsp;apply for home delivery.
 <br>
 </p>
-<p><strong>2)</strong> &nbsp;From School&nbsp; 23 Nov 2023 , 24 Nov 2023 &nbsp;
-<br>(9am - 3pm )</p>
+<p><strong>2)</strong> &nbsp;From School&nbsp;</p>
+<p>Please refer to the details below for the sales of uniform,</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>18 - 20 Nov 2024 (Mon - Wed)
+<br>(Exclusive to P1 students enrolling in 2025)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 3pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Alternatively, you may click on the <a href="/files/Administration/uniform_sales_2023__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to view
 the schedule&nbsp;</p>
 <p><strong>3)</strong>&nbsp;&nbsp;At the retail shop</p>
