@@ -207,7 +207,8 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 </tbody>
 </table>
 <p>
-<br>Please click&nbsp;here to view the P1 Booklist for the year 2025.</p>
+<br>Please click&nbsp;<a href="/files/Administration/Booklist 2025/Evergreen_Primary_School____P1_Booklist_for_AY2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the P1 Booklist for the Year 2025.</p>
 <h3>School Uniform</h3>
 <table style="minWidth: 50px">
 <colgroup>
