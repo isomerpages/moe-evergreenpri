@@ -42,7 +42,6 @@ and books.</p>
 <p>Should you have any further queries, please call General Office at 6368
 7705.</p>
 <p>Please refer to the below brochure more details on the MOE FAS.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1727965189481_a7861ed9_7bea_45c7_a212_6ea1c443d37f_1.jpg">
 </div>
