@@ -1,6 +1,6 @@
 ---
 title: 2025 P1 Admin Matters for Parents
-permalink: /communication/school-administration/2024-p1-admin-matters-for-parents/
+permalink: /communication/school-administration/2025-p1-admin-matters-for-parents/
 description: ""
 third_nav_title: School Administration
 variant: tiptap
