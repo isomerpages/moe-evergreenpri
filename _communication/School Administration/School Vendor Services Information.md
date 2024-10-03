@@ -109,7 +109,7 @@ for Services.</p>
 <p>Big Heart Student Care @ Evergreen Primary School</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Operating Hours</p>
 </th>
 </tr>
 <tr>
