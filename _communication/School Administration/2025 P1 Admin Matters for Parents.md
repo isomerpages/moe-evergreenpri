@@ -109,7 +109,8 @@ and other expenses.
 <br>
 <br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
 <br>
-<br>If you qualify for the FAS, please click here to apply (To be updated)</p>
+<br>If you qualify for the FAS, please click <a href="/files/Administration/MOE_FAS_Application_Form_2025__CONVERTED.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+apply</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
