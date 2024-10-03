@@ -39,8 +39,8 @@ be returned to the applicant.</p>
 you of the outcome. Please submit your application by&nbsp;<strong>30th October 2024</strong>&nbsp;so
 as to allow time for processing and avoid delay in collection of uniforms
 and books.</p>
-<p>Should you have any further queries, please call General Office at 6368
-7705.</p>
+<p>Should you have any further queries, please contact our General Office
+at 6368 7705.</p>
 <p>Please refer to the below brochure more details on the MOE FAS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1727965189481_a7861ed9_7bea_45c7_a212_6ea1c443d37f_1.jpg">
