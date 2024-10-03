@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Administration
 variant: tiptap
 ---
-<h3>School Bus</h3>
+<h3>School Bus Services</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -91,7 +91,7 @@ for Services.</p>
 </tbody>
 </table>
 <p>
-<br>Please find information sheet and application form&nbsp;<a href="/files/Administration/2024_request%20for%20school%20bus%20services%20(revised%2028%20sep%2023).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>Please find information sheet and application form&nbsp;<a href="/files/Administration/School Bus/School_Bus_Application_Form___2025.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <h3>Student Care</h3>
 <table style="minWidth: 75px">
@@ -109,7 +109,7 @@ for Services.</p>
 <p>Big Heart Student Care @ Evergreen Primary School</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Operating Hours</p>
 </th>
 </tr>
 <tr>
@@ -177,8 +177,8 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 <br>
 <br><strong>[Note: Order online early&nbsp;to avoid stock out. Home delivery options are available at a cost. However, there are no delivery charges applicable for self-collection at the school with an appointment time.]</strong>
 </p>
-<p><strong>(2)</strong>&nbsp;&nbsp;From School bookshop&nbsp;</p>
-<p>Please refer to the details below for the sales of books,</p>
+<p><strong>(2)</strong>&nbsp;&nbsp;Physical sales at Evergreen Primary School&nbsp;</p>
+<p>Sales of school books schedule:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,6 +192,35 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 <th rowspan="1" colspan="1">
 <p>18 - 20 Nov 2024 (Mon - Wed)
 <br>(Exclusive to P1 students enrolling in 2025)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 3pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Collection dates <u>strictly for Financial Assistance Scheme (FAS):</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>25 - 26 Nov 2024 (Mon - Tue)</p>
+<p>19 - 20 Dec 2024 (Thurs - Fri)</p>
 </th>
 </tr>
 <tr>
@@ -248,8 +277,8 @@ the website. &nbsp;</p>
 charges&nbsp;apply for home delivery.
 <br>
 </p>
-<p><strong>2)</strong> &nbsp;From School&nbsp;</p>
-<p>Please refer to the details below for the sales of uniform,</p>
+<p><strong>2)</strong> &nbsp;Physical sales at Evergreen Primary School&nbsp;&nbsp;</p>
+<p>Sales of school uniform schedule:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -277,7 +306,35 @@ charges&nbsp;apply for home delivery.
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Collection dates <u>strictly for Financial Assistance Scheme (FAS):</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>25 - 26 Nov 2024 (Mon - Tue)</p>
+<p>19 - 20 Dec 2024 (Thurs - Fri)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9am to 3pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>3)</strong>&nbsp;&nbsp;At the retail shop</p>
 <p>You are advised to message / WhatsApp Mr Vern Ng at&nbsp;9799 2501 / 90772932&nbsp;to
 determine stock availability before making your trip there.</p>
