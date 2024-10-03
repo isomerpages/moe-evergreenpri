@@ -220,6 +220,7 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 </th>
 <th rowspan="1" colspan="1">
 <p>25 - 26 Nov 2024 (Mon - Tue)</p>
+<p>19 - 20 Dec 2024 (Thurs - Fri)</p>
 </th>
 </tr>
 <tr>
@@ -319,6 +320,7 @@ charges&nbsp;apply for home delivery.
 </th>
 <th rowspan="1" colspan="1">
 <p>25 - 26 Nov 2024 (Mon - Tue)</p>
+<p>19 - 20 Dec 2024 (Thurs - Fri)</p>
 </th>
 </tr>
 <tr>
