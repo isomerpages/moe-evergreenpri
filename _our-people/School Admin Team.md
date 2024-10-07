@@ -6,10 +6,9 @@ variant: markdown
 ---
 | Name | Designation | 
 | -------- | -------- | 
-| Ms Liew Choon Siang Jasmine     | Administration Manager     |
 | Mr S M Azhar Bin Mohamed Tahir    | Operations Manager     |
-| Mr Ashfar Badarudeen     | ICT Manager     | 
-| Mr Muhd Hezan Rosli     | Admin Executive     | 
+| Mr Muhd Hezan Rosli     | Operations Manager     | 
+| Mr Ashfar Badarudeen     |   ICT Manager  | 
 | Mdm Alice Sim     | Corporate Support Officer     | 
 | Mdm Lim Siew Hua (Mrs Koh)    | Corporate Support Officer     |
 | Ms Josephine Cheong     | Corporate Support Officer     |
