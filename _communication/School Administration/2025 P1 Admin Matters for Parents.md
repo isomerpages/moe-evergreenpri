@@ -9,9 +9,106 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Picture1.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P1 Orientation for the Year 2025 Enrollment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday,</p>
+<p>1st November 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Agenda</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration and drop off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome by Principal, Mr Jeffrey Aw</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Talk on School Admin &amp; Safety</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Talk by POSB on Smart Buddy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Walkabout [Optional]</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bookshop</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Uniform Fitting</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; POSB Smart Buddy</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Big Heart Student Care</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bus Services</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent Support Group</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-Help Groups Support</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Assistance Scheme</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
-<p></p>
 <ul>
 <li>
 <p>Admin Matter Checklist</p>
@@ -57,7 +154,7 @@ a step-by-step guide</p>
 <br>Download Parents Gateway Mobile App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 November 2024</p>
+<p>Early December 2024</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +213,7 @@ apply</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8 Nov 2024</p>
 </td>
 </tr>
 <tr>
@@ -135,18 +232,12 @@ learn more</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ongoing</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>P1 Orientation for the Year 2025</p>
-<p>1 November 2024 (Friday)</p>
-<p>2.30pm - 4.30pm
-<br>
-</p>
+<p></p>
 </li>
 <li>
 <p>School Vendor Services for Primary 1 (2025)</p>

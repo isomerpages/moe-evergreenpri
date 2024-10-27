@@ -236,7 +236,7 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 </tbody>
 </table>
 <p>
-<br>Please click&nbsp;<a href="/files/Administration/Booklist 2025/Evergreen_Primary_School____P1_Booklist_for_AY2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<br>Please click <a href="/files/Administration/Booklist 2025/Copy_of_Evergreen_Primary_School___Booklist_for_AY2025___caa_251024__002_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the P1 Booklist for the Year 2025.</p>
 <h3>School Uniform</h3>
 <table style="minWidth: 50px">
@@ -336,7 +336,7 @@ charges&nbsp;apply for home delivery.
 </tbody>
 </table>
 <p><strong>3)</strong>&nbsp;&nbsp;At the retail shop</p>
-<p>You are advised to message / WhatsApp Mr Vern Ng at&nbsp;9799 2501 / 90772932&nbsp;to
+<p>You are advised to text / WhatsApp Mr Vern Ng at&nbsp;9799 2501 / 90772932&nbsp;to
 determine stock availability before making your trip there.</p>
 <p><strong>Contact Information</strong>&nbsp;</p>
 <p>Retail Shop 1
