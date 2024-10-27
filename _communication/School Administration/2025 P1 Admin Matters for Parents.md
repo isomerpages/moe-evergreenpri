@@ -39,8 +39,74 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p><strong>Agenda</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration and drop off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome by Principal, Mr Jeffrey Aw</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Talk on School Admin &amp; Safety</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Talk by POSB on Smart Buddy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Walkabout [Optional]</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bookshop</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Uniform Fitting</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; POSB Smart Buddy</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Big Heart Student Care</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bus Services</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent Support Group</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-Help Groups Support</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Assistance Scheme</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
 <ul>
