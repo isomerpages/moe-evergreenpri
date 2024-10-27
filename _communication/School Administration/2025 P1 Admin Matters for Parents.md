@@ -9,9 +9,40 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Picture1.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P1 Orientation for the Year 2025 Enrollment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday,</p>
+<p>1st November 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
-<p></p>
 <ul>
 <li>
 <p>Admin Matter Checklist</p>
@@ -140,16 +171,7 @@ learn more</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>P1 Orientation for the Year 2025</p>
-<p>1 November 2024 (Friday)</p>
-</li>
-<li>
-<p>Registration starts at 2.15pm</p>
-<p>Event Time: 2.30pm - 4.30pm
-<br>
-</p>
+<p></p>
 </li>
 <li>
 <p>School Vendor Services for Primary 1 (2025)</p>
