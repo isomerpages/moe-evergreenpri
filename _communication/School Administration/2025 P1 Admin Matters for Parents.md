@@ -147,7 +147,7 @@ learn more</p>
 </li>
 <li>
 <p>Registration starts at 2.15pm</p>
-<p>2.30pm - 4.30pm
+<p>Event Time: 2.30pm - 4.30pm
 <br>
 </p>
 </li>
