@@ -57,7 +57,7 @@ a step-by-step guide</p>
 <br>Download Parents Gateway Mobile App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 November 2024</p>
+<p>Early December 2024</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ apply</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8 Nov 2024</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ learn more</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ongoing</p>
 </td>
 </tr>
 </tbody>
@@ -144,6 +144,9 @@ learn more</p>
 <li>
 <p>P1 Orientation for the Year 2025</p>
 <p>1 November 2024 (Friday)</p>
+</li>
+<li>
+<p>Registration starts at 2.15pm</p>
 <p>2.30pm - 4.30pm
 <br>
 </p>
