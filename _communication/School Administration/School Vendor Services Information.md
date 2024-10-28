@@ -279,6 +279,8 @@ charges&nbsp;apply for home delivery.
 </p>
 <p><strong>2)</strong> &nbsp;Physical sales at Evergreen Primary School&nbsp;&nbsp;</p>
 <p>Sales of school uniform schedule:</p>
+<p><strong>Exclusive to P1 students enrolling in 2025</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -290,8 +292,7 @@ charges&nbsp;apply for home delivery.
 <p>Dates</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>18 - 20 Nov 2024 (Mon - Wed)
-<br>(Exclusive to P1 students enrolling in 2025)</p>
+<p>18 - 20 Nov 2024 (Mon - Wed)</p>
 </th>
 </tr>
 <tr>
@@ -329,6 +330,54 @@ charges&nbsp;apply for home delivery.
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>9am to 3pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>For all other students</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>November 2024:</p>
+<p>21 &amp; 28 Nov (P2 Only)</p>
+<p>29 Nov (All levels)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>December 2024: </strong>
+</p>
+<p><strong>2 - 18 Dec (All levels)</strong>
+</p>
+<p><strong>26 - 27 Dec (All levels)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excluding Weekends</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
 <p><strong>9am to 3pm</strong>
 </p>
 </td>
