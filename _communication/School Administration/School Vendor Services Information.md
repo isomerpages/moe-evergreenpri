@@ -138,7 +138,6 @@ more information.</p>
 your indication of interest&nbsp;<strong>by 8 November 2024</strong>&nbsp;via
 the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a>
 </p>
-<p></p>
 <h3>School Bookshop</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -235,9 +234,57 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 </tr>
 </tbody>
 </table>
-<p>
-<br>Please click <a href="/files/Administration/Booklist 2025/Copy_of_Evergreen_Primary_School___Booklist_for_AY2025___caa_251024__002_.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="/files/Administration/Booklist 2025/Copy_of_Evergreen_Primary_School___Booklist_for_AY2025___caa_251024__002_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the P1 Booklist for the Year 2025.</p>
+<p></p>
+<p><strong>For all other students</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>November 2024:</p>
+<p>21 &amp; 28 Nov (P2 Only)</p>
+<p>29 Nov (All levels)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>December 2024:</strong>
+</p>
+<p><strong>2 - 18 Dec (All levels)</strong>
+</p>
+<p><strong>26 - 27 Dec (All levels)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excluding Weekends</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Timing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>9am to 3pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>School Uniform</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -360,7 +407,7 @@ charges&nbsp;apply for home delivery.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>December 2024: </strong>
+<p><strong>December 2024:</strong>
 </p>
 <p><strong>2 - 18 Dec (All levels)</strong>
 </p>
