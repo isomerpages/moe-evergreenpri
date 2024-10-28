@@ -139,22 +139,20 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Receive official school communication letters, acknowledgement forms,
-travel declarations
+<p>MOE Financial Assistance
+<br>Singapore Citizens in financial need can get assistance on school fees
+and other expenses.
 <br>
-<br>Click <a href="https://youtu.be/tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-learn more about the PG onboarding process
+<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
 <br>
-<br>Click <a href="/files/PG%20-%20Annex%20A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a step-by-step guide</p>
+<br>If you qualify for the FAS, please click <a href="/files/Administration/MOE_FAS_Application_Form_2025__CONVERTED.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+apply</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>On boarding of Parents Gateway via Mobile App (required)
-<br>
-<br>Download Parents Gateway Mobile App</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Early December 2024</p>
+<p>8 Nov 2024</p>
 </td>
 </tr>
 <tr>
@@ -178,6 +176,29 @@ bank transfer.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Receive official school communication letters, acknowledgement forms,
+travel declarations
+<br>
+<br>Click <a href="https://youtu.be/tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+learn more about the PG onboarding process
+<br>
+<br>Click <a href="/files/PG%20-%20Annex%20A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+a step-by-step guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On boarding of Parents Gateway via Mobile App (required)
+<br>
+<br>Download Parents Gateway Mobile App</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Early December 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MOE Student Details Form Available from End Nov.
 <br>
 <br>Both parents must log in separately to the portal using his/her own SingPass
@@ -193,27 +214,6 @@ account to submit particulars of himself/herself.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>December 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MOE Financial Assistance
-<br>Singapore Citizens in financial need can get assistance on school fees
-and other expenses.
-<br>
-<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
-<br>
-<br>If you qualify for the FAS, please click <a href="/files/Administration/MOE_FAS_Application_Form_2025__CONVERTED.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-apply</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
 </td>
 </tr>
 <tr>
