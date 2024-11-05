@@ -160,6 +160,75 @@ apply</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Name Tag</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As part of school uniform (Order via school bookshop)</p>
+<p></p>
+<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+find out more</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Big Heart Student Care Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents who are interested in after-school care for your child</p>
+<p></p>
+<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+find out more</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Bus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents who require transportation for their child</p>
+<p></p>
+<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+find out more</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Change of Mother Tongue Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Only required if child's Mother Tongue Language differs from Father's
+Mother Tongue Language</p>
+<p></p>
+<p><strong>(Application form available from General Office)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Nov 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>GIRO Payment/Receipt for school enrichment or school assistance through
 bank transfer.</p>
 </td>
@@ -173,7 +242,7 @@ bank transfer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receive official school communication letters, acknowledgement forms,
@@ -196,7 +265,7 @@ a step-by-step guide</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Student Details Form Available from End Nov.
@@ -218,7 +287,7 @@ account to submit particulars of himself/herself.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>POSB SMART Buddy Watch
