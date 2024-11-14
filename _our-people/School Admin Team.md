@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 | Name | Designation | 
-| -------- | -------- | 
+| -------- | -------- |
+| Ms Rebekah Tan    | Administration Manager     |
 | Mr S M Azhar Bin Mohamed Tahir    | Operations Manager     |
 | Mr Muhd Hezan Rosli     | Operations Manager     | 
 | Mr Ashfar Badarudeen     |   ICT Manager  | 
@@ -17,3 +18,4 @@ variant: markdown
 | Mdm Thom Binte Ibrahim     | Operations Support Officer    | 
 | Miss Zarinah Bte Mohamed Ali     | Operations Support Officer     | 
 | Mr Lek Ah Piew     | Operations Support Officer     |
+| Mr Manimaran S/O Karupiah     | Operations Support Officer     |
