@@ -4,7 +4,7 @@ permalink: /our-policy/vision-n-mission/
 description: ""
 variant: tiptap
 ---
-<p><strong>Vision: </strong>
+<p><strong>Vision:</strong>
 </p>
 <p><strong>Achiever . Learner . Leader .</strong>
 </p>
