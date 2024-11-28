@@ -42,8 +42,9 @@ third_nav_title: School Administration
 </table>
 <p>&nbsp;<strong>Application Procedure</strong>
 </p>
-<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the <a rel="noopener noreferrer nofollow" target="_blank">application form</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TYLRC1]</a>&nbsp;.
-&nbsp;You may also request for a hardcopy from the School's General Office.</p>
+<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download and complete the application
+<a href="/files/2__Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">form</a>. &nbsp;You may also request for a hardcopy from the School's
+General Office.</p>
 <p>&nbsp;2. Attach the following documents together with the application
 form:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
