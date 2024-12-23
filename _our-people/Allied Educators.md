@@ -10,4 +10,3 @@ variant: markdown
 | Mdm Yusnita Bte Mohamed Yusoff   | SEN Officer     |
 | Mdm Kohilavani d/o Palianey | SEN Officer     | 
 | Mdm Juliana Binte Jamal | SEN Officer      | 
-| Miss Chian Seok Hoon  | AED (T&L)    |
