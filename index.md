@@ -16,6 +16,4 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar/
-      button: Click here for 2025 P1 Orientation
-      url: https://www.evergreenpri.moe.edu.sg/communication/school-administration/2025-p1-admin-matters-for-parents/
 ---
