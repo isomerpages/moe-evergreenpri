@@ -11,22 +11,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Vice Principal</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Vice Principal</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:215px;" height="auto" width="100%" alt="Cropped" src="/images/Mr_Boh_Chuan_Xiang_William__Mr___VP__clipped_rev_1_copy.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>(To be updated)</p>
 </td>
 </tr>

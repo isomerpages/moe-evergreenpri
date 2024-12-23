@@ -9,11 +9,12 @@ variant: markdown
 | Mdm Tracy Choo Pheck Tiang     | HOD CCE     |
 | Miss Noraisha Hamzah     | HOD English     | 
 | Miss Oh Chew Hiang     | HOD ICT     | 
-| Mr Tay Yu Zhe     | HOD Math     |
-| Mr Jacob Yeo     | HOD Mother Tongue     |
+| Miss Sufilizah Bte Samsuri      | HOD Math (Covering)     |
+| Mr Jacob Yeo     | HOD Mother Tongue Languages     |
 | Mr Iskandar Bin Zainalludin     | HOD PE, CCA &amp; Aesthetics    | 
-| Mdm Nornizah Said     | HOD Science     | 
+| Mdm Nornizah Said     | HOD Science     |
+| Mr Tay Yu Zhe     | HOD Special Projects     |
 | Mdm Radin Rafeah     | School Staff Developer     |
-| Mr Amirul Asri Bin Hussin     | Year Head (Pri 1 &amp; 2) - Covering | 
-Miss Aainoo     | Year Head (Pri 3 &amp; 4) - Covering | 
+| Mdm Norhazelin Binte Sharil    | Year Head (Pri 1 &amp; 2) - Covering | 
+Miss Aainoo     | Year Head (Pri 3 &amp; 4) | 
 | Mrs May Poh Chin Fung <br>(Mrs Tan)| Year Head (Pri 5 &amp; 6)    |

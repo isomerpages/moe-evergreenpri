@@ -6,7 +6,8 @@ variant: markdown
 ---
 | Name | Designation |
 | -------- | -------- | 
-| Mdm Norhazelin Bte Sharil     | SH Student Leadership & Student Management     |
-| Mdm Saraswathy     | SH Tamil Language     | 
+| Mdm Saraswathy d/o Munu Samy     | SH Tamil Language     | 
+| Mr Amirul Asri Bin Hussin     | SH Malay Language     |
+| Mr Tan Guodong    | SH Aesthetics     |
 | Mrs Audrey En Rui Teoh     | LH English Language    |
-| Miss Sufilizah Bte Samsuri    | LH Math     | 
+| Mdm Kalaivani Kumareswaran (Mrs Kumar)    | LH Science    |
