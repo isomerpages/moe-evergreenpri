@@ -17,6 +17,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>(To be updated)</p>
 </td>
 </tr>
