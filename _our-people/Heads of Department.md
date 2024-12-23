@@ -10,7 +10,7 @@ variant: markdown
 | Miss Noraisha Hamzah     | HOD English     | 
 | Miss Oh Chew Hiang     | HOD ICT     | 
 | Miss Sufilizah Bte Samsuri      | HOD Math (Covering)     |
-| Mr Jacob Yeo     | HOD Mother Tongue     |
+| Mr Jacob Yeo     | HOD Mother Tongue Languages     |
 | Mr Iskandar Bin Zainalludin     | HOD PE, CCA &amp; Aesthetics    | 
 | Mdm Nornizah Said     | HOD Science     |
 | Mr Tay Yu Zhe     | HOD Special Projects     |
