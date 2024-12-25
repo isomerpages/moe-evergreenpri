@@ -5,8 +5,7 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will be closed on 24 Dec 2024 from 11am to
-  facilitate painting and renovation works.
+notification: ""
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
