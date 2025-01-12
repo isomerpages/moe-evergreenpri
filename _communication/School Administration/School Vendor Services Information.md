@@ -198,8 +198,6 @@ tag for your child's school uniform via the following <a href="https://www.ricky
 </tr>
 </tbody>
 </table>
-<p><strong>The following information below is meant for parents who are enrolling their P1 child in 2025</strong>
-</p>
 <p>
 <br><strong>1)</strong>&nbsp; Via online</p>
 <p>The school encourages you to make your purchases online via the <a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/egps/" rel="noopener nofollow" target="_blank">link</a>&nbsp;to
