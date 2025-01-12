@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/CCA%20Photos/img_3212.jpg)
 
-**Teacher I/C:  Mdm Nuraini** 
+**Teacher I/C:  Mdm Zalifah** 
 
 
 Art Talent Club is an inclusive Visual Art CCA which recruits members from Primary 2 to Primary 6 who are passionate in upgrading their aesthetic skills and knowledge. We encourage members to mingle among each other from various levels, make mistakes during the process of art-making, learn to be innovative and creative through our art thinking routine discussions and collaborative projects.
