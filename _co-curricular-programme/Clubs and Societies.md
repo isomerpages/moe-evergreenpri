@@ -9,7 +9,7 @@ variant: markdown
 ![](/images/CCA%20Photos/img_3272.JPG)
 
 
-**Teacher I/C:   Mrs Kumar** 
+**Teacher I/C:   Mr Ang Kok Heong** 
 
 
 Evergreen Primary School’s STEM (Science, Technology, Engineering and Mathematics) and

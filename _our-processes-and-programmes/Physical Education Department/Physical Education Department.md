@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Physical Education Department
 variant: markdown
 ---
-
 ![](/images/Department%20Main%20Photos/img_3306.JPG)
 
 #### Vision 
@@ -18,7 +17,9 @@ Empower students with physical knowledge, skills, practices and values to enjoy 
 
 ### School Values 
 
-R.E.G.G.I. – **R**espect | **E**mpathy | **G**raciousness | **G**rit | **I**ntegrity 
+Respect, Responsibility, Resilience, Integrity, Care, and Harmony (R3ICH)
+
+
 
 ### Youth Olympic Values 
 

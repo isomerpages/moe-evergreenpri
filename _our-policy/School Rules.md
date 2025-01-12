@@ -205,7 +205,11 @@ seeks the understanding of parents and guardians to support the Student
 Development Team (SDT) when disciplinary actions are administered.</p>
 <p><strong>Category A:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -236,7 +240,11 @@ strategies to be taken by school and home.</p>
 </table>
 <p><strong>Category B</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -282,7 +290,11 @@ behaviour
 </table>
 <p><strong>Category C</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -363,7 +375,13 @@ activities, school functions and school outings).&nbsp;Modification of
 the uniform is strictly not allowed.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -472,7 +490,6 @@ the uniform is strictly not allowed.</p>
 </table>
 <p><em>*skirt with shorts hidden underneath</em> 
 <br><em>1. Do note that the designs for the skorts (Girls) for Lower Pri and Upper Pri are different</em> 
-<br><em>2. Girls have a choice to wear their skorts or shorts for PE lesson</em> 
 <br><em># All students will be wearing&nbsp;</em><strong><em>black shoes and white socks</em></strong><em>&nbsp;when wearing the new school uniform only</em>
 </p>
 <p><strong>Ornaments, Jewellery</strong>

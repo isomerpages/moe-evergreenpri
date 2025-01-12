@@ -13,12 +13,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:215px;" height="auto" width="100%" alt="Cropped" src="/images/Mr_Boh_Chuan_Xiang_William__Mr___VP__clipped_rev_1_copy.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_William_Boh.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 34%;" height="auto" width="100%" alt="" src="/images/SL Photos/Mrs_Lack_Hwee_Leng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Lack_Hwee_Leng__2_.jpg">
 </div>
 </td>
 </tr>
