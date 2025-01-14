@@ -70,11 +70,12 @@ integrity of the family. Our students require close guidance so that they
 can respond with discernment to the sexual messages in the media and other
 sources.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons
-are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn
-to understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships including those
-with members of the opposite sex, and make wise, informed and responsible
-decisions on sexuality matters.</p>
+are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
+students will learn healthy ways to manage the physiological, social and
+emotional changes in their growing years. They learn to build healthy and
+rewarding relationships with others, including those with members of the
+opposite sex. Students are also guided to make wise, informed and responsible
+decisions to keep themselves safe from sexuality-related risks.</p>
 <h4>Primary 5</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_3.jpg">
