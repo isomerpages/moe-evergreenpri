@@ -66,8 +66,8 @@ our children are becoming biologically ready for sexual activity sooner
 without necessarily having the corresponding cognitive or emotional maturity
 to modulate their behaviours. Furthermore, our young are also exposed to
 a wide range of influences that could endanger health and undermine the
-integrity of the family. Our students require guidance so that they can
-respond with discernment to the sexual messages in the media and other
+integrity of the family. Our students require close guidance so that they
+can respond with discernment to the sexual messages in the media and other
 sources.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons
 are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn
