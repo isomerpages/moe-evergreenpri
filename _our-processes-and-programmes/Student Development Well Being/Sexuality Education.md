@@ -77,16 +77,16 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <h4>Primary 5</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_3.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736837912864_e3462771_5870_45ba_b8eb_c3ba5a38d5b7_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736837912864_e3462771_5870_45ba_b8eb_c3ba5a38d5b7_5.jpg">
 </div>
 <h4>Primary 6</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/1706672108905_49799d71_e982_4beb_be58_5647c1abf321_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736837912864_e3462771_5870_45ba_b8eb_c3ba5a38d5b7_6.jpg">
 </div>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
