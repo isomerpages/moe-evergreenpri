@@ -2,10 +2,6 @@ collections:
   co-curricular-programme:
     output: true
     order:
-      - Clubs and Societies/Art Talent Club.md
-      - Clubs and Societies/.keep
-      - Clubs and Societies/STEM and Environment Club.md
-      - Clubs and Societies/Mass Comm Club.md
       - MMP.md
       - Co Curricular Activities (CCA).md
       - Performing Arts/.keep
@@ -19,5 +15,9 @@ collections:
       - Sports & Games/Taekwondo.md
       - Sports & Games/Netball.md
       - Sports & Games/Football.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Art Talent Club.md
+      - Clubs and Societies/STEM and Environment Club.md
+      - Clubs and Societies/Mass Comm Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Evergreen Titans (Cub Scouts).md
