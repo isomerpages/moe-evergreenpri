@@ -2,7 +2,7 @@
 title: Art Talent Club
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/art-talent-club/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Clubs and Societies
 variant: markdown
 ---
 ![](/images/CCA%20Photos/img_3212.jpg)

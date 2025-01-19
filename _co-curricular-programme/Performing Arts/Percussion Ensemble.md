@@ -2,7 +2,7 @@
 title: Percussion Ensemble
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/percussion-ensemble/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Performing Arts
 variant: markdown
 ---
 ![](/images/CCA%20Photos/img_3163.jpg)

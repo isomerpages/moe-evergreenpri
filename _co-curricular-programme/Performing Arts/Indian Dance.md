@@ -2,7 +2,7 @@
 title: Indian Dance
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/indian-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Performing Arts
 variant: markdown
 ---
 ![](/images/CCA%20Photos/ind45-15%20-%20k%20vejayalakshmy%20andrea%20(1).jpg)

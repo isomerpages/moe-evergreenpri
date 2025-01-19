@@ -2,7 +2,7 @@
 title: Chinese Dance
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/chinese-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Performing Arts
 variant: markdown
 ---
 ![](/images/CCA%20Photos/2022%20chinese%20dance%20syf%20photo%20(1)%20(1).jpg)

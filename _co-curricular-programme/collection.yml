@@ -4,18 +4,20 @@ collections:
     order:
       - MMP.md
       - Co Curricular Activities (CCA).md
-      - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Chinese Dance.md
-      - Visual & Performing Arts/Percussion Ensemble.md
-      - Visual & Performing Arts/Indian Dance.md
-      - Visual & Performing Arts/Malay Dance.md
-      - Visual & Performing Arts/Art Talent Club.md
-      - Visual & Performing Arts/Choir.md
-      - Clubs and Societies.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Percussion Ensemble.md
+      - Performing Arts/Indian Dance.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Choir.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Taekwondo.md
       - Sports & Games/Netball.md
       - Sports & Games/Football.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Art Talent Club.md
+      - Clubs and Societies/STEM and Environment Club.md
+      - Clubs and Societies/Mass Comm Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Evergreen Titans (Cub Scouts).md

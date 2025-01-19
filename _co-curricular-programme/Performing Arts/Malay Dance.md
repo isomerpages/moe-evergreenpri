@@ -2,7 +2,7 @@
 title: Malay Dance
 permalink: /our-processes-and-programmes/co-curricular-programme/cca/aesthetics/malay-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Performing Arts
 variant: markdown
 ---
 ![](/images/CCA%20Photos/img_3198.jpg)

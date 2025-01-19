@@ -1,8 +1,9 @@
 ---
-title: Clubs and Societies
-permalink: /co-curricular-programme/clubs-and-societies/
+title: STEM and Environment Club
+permalink: /co-curricular-programme/stem/
 description: ""
 variant: markdown
+third_nav_title: Clubs and Societies
 ---
 # **STEM and Environment Club**
 
