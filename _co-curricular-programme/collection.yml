@@ -2,6 +2,7 @@ collections:
   co-curricular-programme:
     output: true
     order:
+      - Mass Comm/Clubs and Societies.md
       - Mass Comm/.keep
       - Clubs & Societies.md
       - MMP.md
