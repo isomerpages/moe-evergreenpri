@@ -2,7 +2,7 @@ collections:
   co-curricular-programme:
     output: true
     order:
-      - Clubs and Societies/Clubs and Societies.md
+      - Clubs and Societies/STEM and Environment Club.md
       - Clubs and Societies/.keep
       - MMP.md
       - Co Curricular Activities (CCA).md
