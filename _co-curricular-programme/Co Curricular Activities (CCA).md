@@ -154,7 +154,7 @@ Students are honed in information, communication and technical skills as
 they strive to grow their mastery of the specialized areas.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://staging.d203o7eew4if9d.amplifyapp.com/co-curricular-programme/clubs-and-societies/" rel="noopener noreferrer nofollow" target="_blank">STEM and Environment Club</a>
+<p><a href="https://evergreenpri.moe.edu.sg/co-curricular-programme/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM and Environment Club</a>
 </p>
 </li>
 <li>
@@ -162,7 +162,8 @@ they strive to grow their mastery of the specialized areas.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="https://evergreenpri.moe.edu.sg/mass-comm-club/" rel="noopener nofollow" target="_blank">Mass Comm Club</a>
+</p>
 </li>
 </ol>
 <p></p>
