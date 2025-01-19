@@ -2,6 +2,7 @@ collections:
   co-curricular-programme:
     output: true
     order:
+      - Clubs and Societies/Art Talent Club.md
       - Clubs and Societies/.keep
       - Clubs and Societies/STEM and Environment Club.md
       - Clubs and Societies/Mass Comm Club.md
