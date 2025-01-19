@@ -2,8 +2,8 @@ collections:
   co-curricular-programme:
     output: true
     order:
-      - Mass Comm/Clubs and Societies.md
-      - Mass Comm/.keep
+      - Clubs and Societies/Clubs and Societies.md
+      - Clubs and Societies/.keep
       - MMP.md
       - Co Curricular Activities (CCA).md
       - Performing Arts/.keep
