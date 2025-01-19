@@ -162,7 +162,8 @@ they strive to grow their mastery of the specialized areas.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="https://evergreenpri.moe.edu.sg/mass-comm-club/" rel="noopener nofollow" target="_blank">Mass Comm Club</a>
+</p>
 </li>
 </ol>
 <p></p>
