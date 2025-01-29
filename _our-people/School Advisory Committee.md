@@ -60,7 +60,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Member</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -75,7 +76,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1733313618317.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -86,7 +89,7 @@ variant: tiptap
 <p>Dr Kim Lian Rolles-Abraham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Gayle Goh</p>
 </td>
 </tr>
 </tbody>
