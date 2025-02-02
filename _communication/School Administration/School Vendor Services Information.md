@@ -150,7 +150,7 @@ the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener 
 <p>Bookshop Vendor</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ricky Book Centre</p>
+<p>Pacific Bookstores Pte Ltd</p>
 </th>
 </tr>
 <tr>
@@ -158,20 +158,15 @@ the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener 
 <p>Contact No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8875 9522</p>
+<p>6929 8012</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br><strong>(1)</strong>&nbsp; Via online</p>
-<p>The school encourages you to make your purchases online via the following
-<a href="http://www.rickybookcentre.com.sg/" rel="noopener nofollow" target="_blank">link</a>for ease of crowding.
-<br>
 <br><strong>Compulsory</strong>: &nbsp;Parents are required to order name
-tag for your child's school uniform via the following <a href="https://www.rickybookcentre.com.sg/index.php?route=checkout/tagorder" rel="noopener nofollow" target="_blank">link</a>
+tag for your child's school uniform
 <br>
-<br><strong>[Note: Order online early&nbsp;to avoid stock out. Home delivery options are available at a cost. However, there are no delivery charges applicable for self-collection at the school with an appointment time.]</strong>
 </p>
 <h3>School Uniform</h3>
 <table style="minWidth: 50px">
