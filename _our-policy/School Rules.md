@@ -86,7 +86,7 @@ uniform and Physical Education (PE) attire should be worn.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Level</a></strong>
+<p><strong>Level</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -353,24 +353,19 @@ places.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Note:</strong> Major rules are in bold.</p>
-<p>&nbsp;</p>
+<p><strong>&nbsp;Note:</strong> Major rules are in bold.&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school has a case management
 process in place. Students who do not adhere to the school rules and regulations
 will face appropriate consequences.&nbsp; Parents are requested to work
 closely with the school so that we can educate every student to take responsibility
 for their own actions.</p>
-<p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on evidence from teachers,
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on evidence from teachers,
 witness statements and/or school security measures, the School Disciplinary
 Committee will decide on the appropriate consequence for each offence committed.
 These consequences, depending on the offence, may include (but are not
 limited to) the following:</p>
-<p>&nbsp;</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents are to
-be duly informed</p>
+<p>&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents
+are to be duly informed</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Meeting with parents</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Counselling</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitoring Log</p>
@@ -378,6 +373,5 @@ be duly informed</p>
 activities or external activities such as learning journeys, camps etc)</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Disciplinary measures
 (caning)</p>
-<p>&nbsp;</p>
-<p><strong>Note:</strong> Consequences may not be meted out in the sequence
+<p>&nbsp;<strong>Note:</strong> Consequences may not be meted out in the sequence
 above.</p>
