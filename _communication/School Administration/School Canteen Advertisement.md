@@ -32,7 +32,7 @@ third_nav_title: School Administration
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb 2025</p>
+<p>25 April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide Chinese mixed rice dishes</p>
@@ -60,8 +60,8 @@ Singapore 738908</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 6368 7705</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ps@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Ms Rebekah Tan or
-Mdm Tan Hui Hui</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mr Ashfar Badarudeen
+or Mdm Tan Hui Hui</p>
 <p>&nbsp;<strong>How to get there?</strong>
 </p>
 <p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nearest MRT: NS10 Admiralty
