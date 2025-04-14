@@ -17,6 +17,19 @@ any of these 4 CCA groups:</p>
 <br>• Physical Sports
 <br>• Uniformed Groups
 <br>• Visual and Performing Arts</p>
+<p>Note: Please use the following <a href="https://form.gov.sg/677796b24d85ef73db4773d3" rel="noopener nofollow" target="_blank">form</a> for the following
+purpose,</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Register for a new CCA</p>
+</li>
+<li>
+<p>Transfer to another CCA</p>
+</li>
+<li>
+<p>Withdraw from a CCA</p>
+</li>
+</ol>
 <h3>Learning Outcomes</h3>
 <p>Students will develop and demonstrate:</p>
 <ul data-tight="true" class="tight">
