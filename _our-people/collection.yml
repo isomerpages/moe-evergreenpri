@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - Heads of Department.md
+      - School Management Committee.md
       - School Advisory Committee.md
       - Principal.md
       - Vice Principals.md
