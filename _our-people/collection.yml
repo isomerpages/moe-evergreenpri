@@ -2,10 +2,8 @@ collections:
   our-people:
     output: true
     order:
-      - Principal.md
-      - Vice Principals.md
+      - School Management Committee.md
       - School Advisory Committee.md
-      - Heads of Department.md
       - Subject Heads & Level Heads.md
       - Year Head and Assistant Year Head.md
       - Lead Teacher & Senior Teachers.md
