@@ -32,7 +32,7 @@ third_nav_title: School Administration
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 April 2025</p>
+<p>23 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide Chinese mixed rice dishes</p>
