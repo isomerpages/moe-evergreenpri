@@ -16,4 +16,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar/
+      button: Access our student resource hub site
+      url: https://go.gov.sg/egpslearn
 ---
