@@ -15,12 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: |-
-  Our Mission: 
-  Positivity in relationships
-  Learning with passion
-  Actively contributing
-  Youthfulness in living
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -57,7 +52,7 @@ plugins:
 staging: https://staging.d203o7eew4if9d.amplifyapp.com
 prod: https://master.d203o7eew4if9d.amplifyapp.com
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
