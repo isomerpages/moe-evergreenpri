@@ -2,34 +2,49 @@
 title: DSA Matters
 permalink: /communication/dsa-matters/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-What is DSA-Sec?
-----------------
-
- DSA-Sec allows P6 students to apply to some secondary schools before taking the Primary School Leaving Examination (PSLE).
-
-They can apply based on their talent in sports, arts, academic areas, etc.
-
-If your child is admitted to a secondary school through DSA-Sec, they are **not** allowed to:
-
-*   Submit school choices during the Secondary 1 (S1) posting process.
-*   Transfer to another school. They **must** commit to their chosen school for the duration of the programme.
-
-Who can apply
--------------
-
-P6 students can apply for DSA-Sec based on a wide-range of talents, including:
-
-*   Sports and games
-*   Visual, literary and performing arts
-*   Debate and public speaking
-*   Science, mathematics and engineering
-*   Languages and humanities
-*   Uniformed groups
-*   Leadership
-
-Application Period
--------------
-
-For more details, please click on the following [link](https://www.moe.gov.sg/secondary/dsa) or refer to [Annex A](/files/DSA/Annex_A_Info_Sheet_on_2024_DSA_Sec_for_Primary_6_Students.pdf) for information
+<h2>What is DSA-Sec?</h2>
+<p>DSA-Sec allows P6 students to apply to some secondary schools before taking
+the Primary School Leaving Examination (PSLE).</p>
+<p>They can apply based on their talent in sports, arts, academic areas,
+etc.</p>
+<p>If your child is admitted to a secondary school through DSA-Sec, they
+are&nbsp;<strong>not</strong>&nbsp;allowed to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
+</li>
+<li>
+<p>Transfer to another school. They&nbsp;<strong>must</strong>&nbsp;commit
+to their chosen school for the duration of the programme.</p>
+</li>
+</ul>
+<h2>Who can apply</h2>
+<p>P6 students can apply for DSA-Sec based on a wide-range of talents, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sports and games</p>
+</li>
+<li>
+<p>Visual, literary and performing arts</p>
+</li>
+<li>
+<p>Debate and public speaking</p>
+</li>
+<li>
+<p>Science, mathematics and engineering</p>
+</li>
+<li>
+<p>Languages and humanities</p>
+</li>
+<li>
+<p>Uniformed groups</p>
+</li>
+<li>
+<p>Leadership</p>
+</li>
+</ul>
+<h2>Application Period</h2>
+<p>For more details, please click on the following <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
