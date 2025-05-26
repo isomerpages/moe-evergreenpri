@@ -29,13 +29,13 @@ third_nav_title: School Administration
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice Stall</p>
+<p>Halal or Non-Halal Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To provide Chinese mixed rice dishes</p>
+<p>To provide Halal or Non-Halal mixed rice dishes</p>
 </td>
 </tr>
 </tbody>
