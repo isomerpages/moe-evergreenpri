@@ -5,7 +5,7 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will be closed at 4.30pm on 30th June 2025 as part
+notification: General Office will be closed at 4.30pm on 30th May 2025 as part
   of 'Eat with your Family Day'
 sections:
   - hero:
