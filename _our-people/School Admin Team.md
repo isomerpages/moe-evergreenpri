@@ -9,7 +9,8 @@ variant: markdown
 | Ms Rebekah Tan    | Administration Manager     |
 | Mr Ashfar Badarudeen     |   Administration Manager (ICT)  |
 | Mr S M Azhar Bin Mohamed Tahir    | Operations Manager     |
-| Mr Muhd Hezan Rosli     | Operations Manager     |  
+| Mr Muhd Hezan Rosli     | Operations Manager     |
+| Ms Doris Wong     | Administrative Executive     |
 | Mdm Alice Sim     | Corporate Support Officer     | 
 | Mdm Lim Siew Hua (Mrs Koh)    | Corporate Support Officer     |
 | Ms Josephine Cheong     | Corporate Support Officer     |
