@@ -5,7 +5,7 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will be closed on Thursday, 5 Jun 2025 for Staff Retreat.
+notification: ""
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
