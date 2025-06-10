@@ -1,5 +1,5 @@
 ---
-title: School Rules
+title: School Rules and Regulations
 permalink: /our-policy/school-rules/
 description: ""
 variant: tiptap

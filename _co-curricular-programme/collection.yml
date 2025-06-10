@@ -2,7 +2,6 @@ collections:
   co-curricular-programme:
     output: true
     order:
-      - MMP.md
       - Co Curricular Activities (CCA).md
       - Performing Arts/.keep
       - Performing Arts/Chinese Dance.md
@@ -21,3 +20,4 @@ collections:
       - Clubs and Societies/Mass Comm Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Evergreen Titans (Cub Scouts).md
+      - MMP.md

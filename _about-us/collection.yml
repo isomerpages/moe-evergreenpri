@@ -1,11 +1,10 @@
 collections:
-  our-policy:
+  about-us:
     output: true
     order:
       - Principal's Message.md
-      - Vision & Mission.md
-      - Our Values.md
-      - School Rules.md
+      - Vision, Mission & Values.md
+      - School Rules and Regulations.md
       - School Safety and Security Framework.md
       - School History.md
       - School Crest.md
