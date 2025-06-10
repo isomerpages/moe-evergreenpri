@@ -14,5 +14,10 @@ variant: tiptap
 <p><strong>To Nurture Hearts, Cultivate Minds &amp; Enrich Lives Through The Strength of Our Community</strong>
 </p>
 <p></p>
+<p><strong>Values:</strong>
+</p>
+<p><strong>Respect, Responsibility, Resilience, Integrity, Care, and Harmony (R<sup>3</sup>ICH)</strong>
+</p>
+<p></p>
 <p></p>
 <p></p>
