@@ -1,5 +1,5 @@
 collections:
-  communication:
+  resource-hub:
     output: true
     order:
       - Open House 2025.md
