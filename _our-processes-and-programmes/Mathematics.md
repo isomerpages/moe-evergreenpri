@@ -212,7 +212,7 @@ positive mindset toward challenging tasks.</p>
 <p><u>Primary 6</u>: 1 Merit</p>
 <p></p>
 <p></p>
-<h4>Resources for Parents and Students<br><br>2025 PSLE examination format (Mathematics) </h4>
+<h4>Resources for Parents and Students<br><br>2025 PSLE examination format (Mathematics)</h4>
 <p><a href="https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0008_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/files/PSLE%20Syllabus%20documents/2025%20PSLE/0008_y25_sy.pdf</a>
 </p>
 <p></p>
