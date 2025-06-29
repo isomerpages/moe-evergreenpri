@@ -3,97 +3,110 @@ title: Aesthetics Department
 permalink: /our-processes-and-programmes/aesthetics-department/
 description: ""
 third_nav_title: Aesthetics Department
+variant: tiptap
 ---
-# **Aesthetics Department**
-
-
-### Aesthetics Department Vision and Mission
-
-**Vision**
-
-Every Student is An Artiste
-
-**Mission**
-
-To nurture, develop and inspire students to instill a strong sense of appreciation for the Arts and self manage their emotions and thoughts through the Arts.
-
-**Aesthetics Department Framework and LLP**
-
-Evergreen Primary School’s Learning for Life Programme(LLP) is in the Arts. The programmes for the LLP is designed using a 2-pronged approach: Learning Through The Arts (LTTA) and Learning In The Arts(LITA).&nbsp; It aims to create a vibrant arts culture and environment that enhances teaching and learning, facilitates character development as well as develops students’ mastery in the various aspects of the Arts.
-
-The programme structure is based on a school-based framework –&nbsp;**ACE**.&nbsp; The acronym ‘**ACE**’ stands for:&nbsp;**_Appreciate, Cultivate_&nbsp;and&nbsp;_Express_.**
-
-**_Appreciate_**&nbsp;– Broad-based learning through assembly programmes, learning journeys to external performing arts centre, arts museums and music &amp; drama performances.
-
-**_Cultivate_**&nbsp;– Broad-based milestone level enrichment lessons on various visual and performing arts modules and master classes for talent development in the Arts.
-
-**_Express_**&nbsp;– Milestone level performance, performing arts showcase at different levels (i.e. school, zonal &amp; national) and exhibitions.
-
-Based on the three components in the framework, structured activities are planned and mapped out to provide authentic learning experiences for students through varied platforms, exposures and modes of experiences.
-
-In the segment below, we demonstrate how we make use of the ACE framework to encourage and enhance the arts culture and environment in Evergreen Primary School.
-
-### Appreciate
-
-To get students to appreciate the Arts, broad-based learning experiences are planned through assembly programmes, learning journeys to external performing arts centre, arts museums and music &amp; drama performances.
-
-
-
-
-  
-
-**Assembly Program - Language Art Exposure**
-
-<img src="/images/A3.jpg" style="width:50%">
-
-<img src="/images/A4.jpg" style="width:60%">
-<center>Ever Ready For Emergency Puppet Show by SCDF</center>
-
-**Arts Learning Journeys**  
-
-All Primary 4 pupils visited the Art Museum for a learning experience as part of our school’s Art Museum Based learning Programme in Evergreen Primary School. Students will be involved in Art appreciation and discussion during the trip. Learning from artworks can bring art alive to our students. It not only makes historical or current events visible but piques students’ curiosity and provides them with relevant topics to talk about, and inspires them to make art to express their ideas. Students engage with subject matter of the artworks (i.e. people, places, objects and events) and art forms, and the background ideas and inspiration of artists and their creative work processes.
-
-![](/images/Department%20Photos/Aesthetics/6%20charity%201.jpg)
-
-![](/images/Department%20Photos/Aesthetics/6%20faith%201.jpg)
-
-![](/images/Department%20Photos/Aesthetics/6%20grace%202.jpeg)
-
-Other than visiting the Art Museum, our students also went to other Arts spaces to learn more about the Arts. Below are some examples:&nbsp;  
-
-*   The Chinese Orchestra pupils experienced an orchestra performance at Victoria Concert Hall
-*   Pupils from Aesthetics CCAs experienced performing arts performances for SYF Celebration Concert at the Esplanade
-
-### &nbsp;Express
-
-Students express their creativity and talent by showcasing them at the end of the term through milestone level performance, art exhibitions, performing arts showcase at different levels (i.e. school, zonal &amp; national).
-
-**Art Exhibition at Woodlands Regional Library**
-
-![](/images/Aes3.jpg)
-
-**Art Exhibition at the Arts Carousel**
-
-![](/images/Aes4.jpg)
-
-![](/images/Aes5.jpg)
-
-**P5 International Drumming Showcase**
-
-![](/images/A14.jpg)
-
-**P4 Musical Showcase**
-
-![](/images/A15.jpg)
-
-![](/images/A16.jpg)
-
-![](/images/A17.jpg)
-
-**P1 Hip Hop Dance Showcase**
-
-![](/images/A18.jpg)
-
-![](/images/A19.jpg)
-
-![](/images/A20.jpg)
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:-56.21332819272118px;margin-top:-140.6215414245672px;" height="454.6215414245672" width="602.3109951798264" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8igatkoj0gZg9VVHzbTgqkZXhSF6L_kMw9YP7DoG6Hq-69UnjeRcx8mdSmOpeHFvUUmvHHIEh6y_oUiP_c6Q8fZWz-P3I9FKYjdl_Q4jf7Af5kyXdZ4B_n2xbwDDFi2tjOsSXXg?key=toC5Y7_LmDWiYzPST6oAKg">
+</div>
+<p></p>
+<p>At Evergreen Primary School, our Aesthetics curriculum—comprising both <strong>Art</strong> and <strong>Music</strong>—is
+thoughtfully designed to provide every child with <strong>meaningful, joyful, and progressive experiences</strong> in
+the visual and performing arts.</p>
+<p>Through hands-on exploration, creative expression, and structured skill
+development, students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grow in <strong>confidence</strong> and <strong>communication</strong>
+</p>
+</li>
+<li>
+<p>Develop a deeper <strong>appreciation for the arts</strong>
+</p>
+</li>
+<li>
+<p>Strengthen their <strong>social-emotional learning</strong> through artistic
+experiences</p>
+</li>
+</ul>
+<p>Our lessons are crafted to nurture not only artistic talents but also
+the holistic development of each child, empowering them to express themselves
+and connect with others through the universal language of the arts.</p>
+<p></p>
+<p><strong>Alignment with National Curriculum Standards:</strong>
+</p>
+<ul>
+<li>
+<p>Based on the current <strong>MOE Art and Music Syllabi<br><br></strong>
+</p>
+</li>
+</ul>
+<p><strong>Integrates 21st Century Competencies (21CC):</strong>
+</p>
+<ul>
+<li>
+<p>Communication
+<br>
+<br>
+</p>
+</li>
+<li>
+<p>Collaboration
+<br>
+<br>
+</p>
+</li>
+<li>
+<p>Critical Thinking
+<br>
+<br>
+</p>
+</li>
+<li>
+<p>Self-Management
+<br>
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Key Pedagogies:</strong>
+</p>
+<ul>
+<li>
+<p><strong>Art</strong> lessons focus on developing visual literacy, experimentation
+with media, and personal response to artworks.
+<br>
+<br>
+</p>
+</li>
+<li>
+<p><strong>Music</strong> lessons are grounded in the <strong>Kodály approach</strong>,
+emphasising experiential learning through singing, rhythm, movement and
+solfege.
+<br>
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Key Learning Outcomes and Progression:</strong>
+</p>
+<ul>
+<li>
+<p>Develop appreciation for local and global arts and culture
+<br>
+<br>
+</p>
+</li>
+<li>
+<p>Build skills in listening, performing, creating and responding
+<br>
+<br>
+</p>
+</li>
+<li>
+<p>Grow in confidence and collaboration through expressive platforms</p>
+</li>
+</ul>
+<p></p>
