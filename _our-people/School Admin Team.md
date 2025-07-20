@@ -11,6 +11,7 @@ variant: markdown
 | Mr S M Azhar Bin Mohamed Tahir    | Operations Manager     |
 | Mr Muhd Hezan Rosli     | Operations Manager     |
 | Ms Doris Wong     | Administrative Executive     |
+| Mr Muhammad Khairi Hafriz    | ICT Associate     |
 | Mdm Alice Sim     | Corporate Support Officer     | 
 | Mdm Lim Siew Hua (Mrs Koh)    | Corporate Support Officer     |
 | Ms Josephine Cheong     | Corporate Support Officer     |
