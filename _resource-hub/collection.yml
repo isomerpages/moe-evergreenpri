@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Administration/.keep
-      - School Administration/School Canteen Advertisement.md
       - School Administration/2025 P1 Admin Matters for Parents.md
       - School Administration/POSB SMART Buddy Watch.md
       - School Administration/DigitalAccess@Home.md
