@@ -2,7 +2,6 @@ collections:
   resource-hub:
     output: true
     order:
-      - Open House 2025.md
       - Announcement.md
       - DSA Matters.md
       - School Administration/School Canteen Advertisement.md
