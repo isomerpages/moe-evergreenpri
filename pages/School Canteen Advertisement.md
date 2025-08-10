@@ -3,7 +3,6 @@ title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
-third_nav_title: School Administration
 ---
 <p><strong><u>School Canteen Advertisement</u></strong>&nbsp;</p>
 <table style="minWidth: 75px">
