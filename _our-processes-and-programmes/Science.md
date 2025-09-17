@@ -2,105 +2,209 @@
 title: Science
 permalink: /our-processes-and-programmes/science/
 description: ""
+variant: tiptap
 ---
-![](/images/Department%20Main%20Photos/science.jpeg)
-
-The Science Department is committed to helping every student develop as an inquirer who has the lifelong interest in learning Science through a standards-based curriculum that includes inquiry, investigation, experimentation and reflective thinking.
-
-&nbsp;It is important to our department that students develop an understanding of how science impacts their daily lives.&nbsp;
-
-### Pedagogy
-
-The Science curriculum at EGPS adopts the pedagogy of inquiry-based learning (IBL) and reflective thinking. The premise is that students should participate actively in learning and constantly reflect on their learning. Through active learning, students learn better, as their questions and reflections help them comprehend and synthesize knowledge.  
-
-Inquiry-based Learning (IBL)  
-
-The (IBL) is a student-centered learning process based on John Dewey’s learning theory of constructivism where hands-on activities are used to develop concepts through creative problem solving, decision-making and investigation processes.&nbsp;  
-
-In our day-to-day teaching of inquiry-based Science, our teachers focus on asking questions as well as encouraging students to ask relevant questions. Questioning strategy allows for a high degree of pupil participation as a good mix of low and high level cognitive questions are used. The use of Object-Based Inquiry (OBI) and the modified thinking routine of See-Think-Wonder,&nbsp; tapped on students’ natural curiosity that promote the cycle of inquiry which allows students to construct meaning from their interactions with objects and phenomena in and out of the classroom through observation, developing inferences and generating their own questions.&nbsp;  
-
-To provide an appealing and non-threatening way to represent abstract concepts and ideas, concept cartoons which are “cartoon-style” drawings presenting characters with different viewpoints around a particular situation are used at different stages of a lesson – as a trigger to get students to tune in, as an activity to elicit students’ responses and generate discussion, as a means to clear misconceptions or as a means of summarizing the topic at the end. Science lessons thus becomes more interactive and student-centred as students are actively involved in their learning: verbalizing their ideas and thoughts. Participating in such discussions also lets students hone their communication skills and in the process allows teachers to gain important insights into their students’ understanding.&nbsp;  
-
-
-### Innovation @EGPS
-
-Aligned to our school’s&nbsp;mission of P.L.A.Y._,_&nbsp;our Science Department conducts several activities and enrichment programmes throughout the year as part of our Innovation Programme. In addition to&nbsp;encouraging integration of the different subjects so as to provide a holistic and joyful learning experience for our students, we also hope to inculcate values and skills in them so as to develop them to be good and useful individuals.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Science Leadership Programme**
-
-To build effective leadership skills within our Science Leaders, the Science Leadership Programme is held to equip students with necessary skills to carry out their duties well. The leadership programme is conducted at the start of every semester where students familiarise themselves with the various Science apparatus that they will be handling when assisting their teachers during every Science lesson. They are also briefed on the safety procedures when in the Science laboratories. This year, the Science Leaders were also invited to play a more active role in the promotion of love for the subject among their peers.
-
-
-### Environmental Education Programme
-
-We believe in nurturing young minds to become responsible global citizens who are aware of and care for the environment. We are committed to providing environmental education to our students, equipping them with the knowledge and skills necessary to make a positive impact on the world around them. 
-
-Our Environmental Education Programme is designed to foster a deep understanding of environmental issues and inspire sustainable actions. We implement eco-friendly practices throughout the school compound. We have green spaces that serve as outdoor classrooms, allowing students to connect with nature and learn in a natural setting. We have also implemented recycling initiatives, energy-saving measures, and water conservation programs to minimise our ecological footprint.
-
-<u>Plastic Recycling</u>
-
-To inculcate recycling habits in our students, our schools participated in the RVM School Education Programme under the Recycle N Save initiative by NEA.
-
-We organised activities during Earth Week to encourage the practice of the 3Rs (Reduce, Reuse, Recycle) among the students. Students experienced the use of the Reverse Vending Machine located at the canteen where they recycled used plastic bottles.
-
-
-***(Recycling used plastic bottles at the Reverse Vending Machine)***
-
-![](/images/Department%20Photos/Science/reverse%20vending%20machine.jpeg)
-
-<u>E-waste Recycling</u>
-
-![](/images/Department%20Photos/Science/e%20waste%203.jpg)
-
-As part of our efforts to promote sustainability and environmental education, we organized an E-Waste collection drive.
-The objective of the collection drive is to create awareness that electronic waste can be reused and recycled if handled and dismantled properly. We hope to educate our students that the reuse and recycling of e-waste would conserve our planet’s finite resources and cut the amount of waste going to our incineration plants and landfill. 
-
-![](/images/Department%20Photos/Science/ewaste%201.jpg)
- 
-Partnering with Singapore’s main E-waste recycling company, ALBA, an information and game booth was set up for students to develop an understanding that Singapore currently has only one landfill, which will run out of space by 2035. The students also learnt that Singapore may not have enough land or sea space to build incineration plants and landfills.
-
-Through our Environmental Education programme, we aim to inspire our students to become environmentally conscious and responsible individuals who will contribute towards a sustainable future for Singapore and the world.
-
-![](/images/Department%20Photos/Science/e%20waste%204.jpg)
-
-### Applied Learning Programme – Environmental Innovators and Agents of Change (Sustainability)
-
-We are committed to providing our students with a holistic education that prepares them for challenges in the future. Our Applied Learning Programme (ALP) is designed to cultivate a deep understanding of sustainability principles and empower our students to become agents of positive change in their communities.
-
-Our P4 students are involved in the Reduce Carbon Footprint Programme. Students actively engage in various activities aimed at reducing their environmental impact. Using the Design Thinking Approach, students explore strategies to make sustainable choices in their daily lives and inspire others to do the same. Our students participated in energy-saving initiatives such as optimising energy usage in classrooms and common areas. They also learn about renewable energy sources and how they can contribute to a greener future.
-
-
-***(Students engaged in brainstorming sustainable solutions for the school environment)***
-
-
-Our P3 students are involved in the Farm to Table Programme. It provides a unique opportunity to understand the journey of food from its source to the table. Through this experiential learning initiative, students gain deeper appreciation for the value of locally sourced and sustainable food. 
-
-Students learn about the challenges in land scarce Singapore and get hands-on experience in planting, tending, and harvesting crops, witnessing the transformation from seeds to fully grown produce using the Hydroponics system. They also explore the environmental impact of different food production systems and learn about the benefits of consuming locally grown, seasonal produce. Through this project, students develop a strong connection between their food choices and the environment, encouraging them to make conscious decisions that support sustainability.
-
-Sustainability aims to equip students with the knowledge, skills and values needed to tackle real-world sustainability challenges. Through these programmes, students develop critical thinking, problem-solving, and collaboration skills while nurturing a sense of responsibility towards the environment and their community.
-
-### T.G.I.F
-
-We believe in providing our students with exciting opportunities to explore science beyond the boundaries of the classroom. Our TGIF Programme is a platform for our students to dive deeper into scientific adventures. It aims to extend and expose students to a range of science disciplines, encouraging them to explore and question the world around them. 
-
-![](/images/Department%20Photos/Science/science%20dept%202023%205.jpg)
-
-### Science SPARKS Programme
-
-Our Science SPARKS programme is specifically designed for Primary 1 and Primary 2 students, aiming to ignite their curiosity and develop a lifelong interest in science. 
-We believe that early exposure to science and experiential learning not only develops students’ interest in the subject but also cultivates essential thinking skills that will benefit them in all areas of their academic journey. The programme sets the foundation for future scientific exploration and fosters a growth mindset among our students.  
-
-Through hands-on activities and inquiry-based learning, our programme provides students with exciting opportunities to explore and discover the fascinating world of science. We believe that by actively participating in experiments and investigations, students develop a deeper understanding of scientific concepts while nurturing their natural sense of wonder.
-
-![](/images/Department%20Photos/Science/science%20dept%202023%206.jpg)
-
-### Science Olympiad Training and Competition Programme
-
-We believe in nurturing young minds and providing them with opportunities to excel in the field of science. Our Science Olympiad Training and Competition programme is designed to challenge and inspire our students, allowing them to showcase their scientific knowledge and problem-solving skills in a competitive platform. Our training programme covers various scientific disciplines including Biology, Chemistry, Physics, earth science, and engineering. Students delve deep into these subjects, developing analytical and critical thinking skills, fostering creativity, and enhancing teamwork and collaboration abilities. 
-
-
-***(P5 Science Olympiad Students who received the certificate of participation)***
-
-### Science E2K Programme
-
-The Science E2K programme is an enrichment initiative that aims to engage and extend the scientific knowledge and abilities of our students. Through a specialised curriculum and tailored learning experiences, we foster a stimulating environment where these young minds can thrive and reach their full potential in the field of science.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department%20Main%20Photos/science.jpeg">
+</div>
+<p><strong>“Exploring Science, Empowering Minds, Enriching Lives.”</strong>
+</p>
+<p>At Evergreen Primary School, the Science Department is dedicated to nurturing
+our students to be Achievers, Learners, and Leaders who are equipped to
+thrive in a rapidly changing world. In line with our school’s Vision, Mission,
+and Values, we seek to nurture hearts, cultivate minds, and enrich lives
+through the strength of the community. Our programmes are designed not
+only to deepen scientific knowledge, but also to spark curiosity, creativity,
+and care for the environment and society.</p>
+<p><strong>Inspiring Inquiry and Discovery</strong>
+</p>
+<p>We believe that every child is a scientist at heart. Through inquiry-based
+learning, we encourage our students to ask questions, investigate ideas,
+and make meaningful connections between scientific concepts and real-world
+applications. Our lessons emphasise active learning, collaborative problem-solving,
+and reflection, ensuring that students are both engaged and empowered in
+their learning journey. Through their learning experiences, students develop
+Emerging 21st Century Competencies (E21CC) such as critical and inventive
+thinking, collaboration, communication, and responsible decision-making.</p>
+<p><strong>Signature Programmes</strong>
+</p>
+<p><strong>Applied Learning Programme (ALP) – Sustainability and STEM</strong>
+<br>Our ALP gives students authentic opportunities to explore sustainability
+through science and technology.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>At <strong>Primary 3</strong>, students embark on the <em>Farm to Table</em> project
+where they grow vegetables using hydroponics and aquaponics systems, learning
+responsibility and care for the environment.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At <strong>Primary 4</strong>, students design and build <em>Self-Watering Systems</em> to
+understand how science can be applied to solve real-world problems in plant
+care and resource management.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>At <strong>Primary 5</strong>, students construct <em>Rainwater Harvesters</em>,
+exploring how science and innovation can support water conservation and
+sustainable living.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Through these projects, students cultivate creativity, adaptability, innovation,
+and teamwork while applying scientific concepts to real-world challenges.</p>
+<p><strong>Eco Stewardship Programme</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>To strengthen our commitment to sustainability, the Science Department
+drives the school’s Eco-Stewardship Programme. As part of this initiative,
+students take part in termly Recycling Drives, where they learn the value
+of reducing waste and caring for the environment.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Science Leaders also lead the Food For Thought Initiative, where they
+first attend a workshop on food waste and conduct investigations to estimate
+the amount of food discarded by students during recess. Following this,
+they raise awareness across the school by sharing their findings and key
+messages on the food journey, types of food waste, and the importance of
+reducing waste. These are showcased through the canteen television and
+posters created by the leaders.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>World Water Day was commemorated to deepen students’ appreciation of water
+as a precious resource. Through the engaging assembly talk, students learnt
+about global and local water challenges as well as practical ways to conserve
+water at home and in school. To extend the learning, recess-time quizzes
+and interactive games were organised, allowing students to apply their
+knowledge in fun and meaningful ways. These activities reinforced the importance
+of water conservation and nurtured a sense of responsibility towards safeguarding
+our precious resource..</p>
+<p>In all, our Eco Stewardship Programme aims to raise awareness and promote
+sustainable living, empowering students to play their part for the environment
+by building a culture of responsibility, empathy, and active citizenship.&nbsp;</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+</p>
+<p><strong>STEM Challenges Across Levels</strong>
+<br>Our Science Department designs hands-on challenges that inspire students
+to create, innovate, and collaborate. At each level, students tackle real-world
+problems in exciting ways:</p>
+<ul>
+<li>
+<p><strong>P3:</strong> Boat Design Challenge – experimenting with buoyancy
+and stability.</p>
+</li>
+<li>
+<p><strong>P4:</strong> Self-Watering Plant System – applying knowledge of
+plant transport systems.</p>
+</li>
+<li>
+<p><strong>P5:</strong> Rainwater Harvester – exploring water conservation
+and sustainability.</p>
+</li>
+<li>
+<p><strong>P6:</strong> Solar Oven – harnessing renewable energy through design
+and testing.
+<br>Beyond the curriculum, our <em>TGIF Strongest Bridge Challenge</em> provides
+an open platform for students to showcase creativity, resilience, problem-solving,
+and collaboration.</p>
+</li>
+</ul>
+<p><strong>Competitions and External Platforms</strong>
+<br>Our students take pride in representing the school at a wide range of
+external science competitions. These include the Elementz Science Project
+Competition, the Raffles Science Olympiad, and the NUS High Science Olympiad.
+Through these platforms, students gain valuable exposure to higher-level
+scientific inquiry, strengthen their confidence, communication, and critical
+thinking skills, and are motivated to pursue their interests with passion
+and perseverance.</p>
+<p><strong>Growing Achievers, Learners, and Leaders</strong>
+</p>
+<p>Through these diverse programmes, the Science Department strives to develop
+students who are:</p>
+<ul>
+<li>
+<p><strong>Achievers</strong> who set high standards, work hard, and take
+pride in their learning outcomes.</p>
+</li>
+<li>
+<p><strong>Learners</strong> who are curious, reflective, and empowered to
+take ownership of their growth.</p>
+</li>
+<li>
+<p><strong>Leaders</strong> who inspire others, demonstrate responsibility,
+and contribute positively to their community.</p>
+</li>
+</ul>
+<p>Ultimately, our goal is to nurture future-ready individuals who embody
+resilience, responsibility, creativity, and the full spectrum of E21CC
+skills, ensuring they will continue to explore, innovate, and care for
+the world around them.</p>
