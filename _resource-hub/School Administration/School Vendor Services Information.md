@@ -132,10 +132,10 @@ for Services.</p>
 <p>a.&nbsp;For parents who are interested in after-school care for your child,
 you would be pleased to know that Evergreen Primary has onsite student
 care services operated by Big Heart. You may refer to their <a href="https://bigheartstudentcare.com/" rel="noopener nofollow" target="_blank">website</a> or
-the <a href="/files/Big Heart/9REG_Cover_Letter_v6_Registration_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">brochure</a> for
+the <a href="/files/EG_Big_Heart_2026_Cover_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">brochure</a> for
 more information.</p>
 <p>b.&nbsp;If you are interested to enroll your child here, please submit
-your indication of interest&nbsp;<strong>by 8 November 2024</strong>&nbsp;via
+your indication of interest&nbsp;<strong>by 21 November 2025</strong>&nbsp;via
 the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <h3>School Bookshop</h3>
