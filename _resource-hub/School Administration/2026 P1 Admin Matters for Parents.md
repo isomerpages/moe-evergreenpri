@@ -12,7 +12,7 @@ variant: tiptap
 <p></p>
 <p><strong>P1 Orientation Matters</strong>
 </p>
-<p></p>
+<p>Dear Parents / Guardians of 2026 P1 Child / Ward</p>
 <p>&nbsp;1)&nbsp;&nbsp;&nbsp; We would like to invite you and your child/ward
 to our P1 Orientation on <strong>Friday, 14 Nov 2025 at 2.30 p.m. </strong>Due
 to venue constraints, we kindly request that no more than two adults accompany
@@ -93,7 +93,7 @@ information or access the attached step-by-step onboarding guide&nbsp;
 <a href="https://legacy.postman.gov.sg/v1/attachments/0f9ba906-e259-44ea-b051-0b6997449433/PG%20-%20Annex%20A.pdf" rel="noopener noreferrer nofollow" target="_blank">PG - Annex A.pdf</a>.</p>
 <p>&nbsp;6)&nbsp;&nbsp;&nbsp; If you have any queries, you can email us at
 <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ps@moe.edu.sg</a>or contact our General Office at 63687705 between
-Monday to Friday, from 1 p.m. to 5.30 p.m.</p>
+Monday to Friday, from 8 a.m. to 5.30 p.m.</p>
 <p>Thank you</p>
 <p>_________________________________________________________________________</p>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
