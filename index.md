@@ -17,5 +17,5 @@ sections:
           description: ""
           url: /calendar/
       button: Click here for 2026 P1 Orientation Info
-      url: https://www.evergreenpri.moe.edu.sg/communication/school-administration/2025-p1-admin-matters-for-parents/
+      url: https://evergreenpri.moe.edu.sg/communication/school-administration/2026-p1-admin-matters-for-parents/
 ---
