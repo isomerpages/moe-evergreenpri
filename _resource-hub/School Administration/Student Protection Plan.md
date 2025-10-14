@@ -36,7 +36,7 @@ administrator</p>
 <td rowspan="1" colspan="1">
 <p><strong>Follow Up Claim Submission</strong>
 <br>
-<br>1. Go to Income's GPA portal at https://studentgpa.incomegroupins.com.sg
+<br>1. Go to Income's GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a> 
 <br>2. Click on "New/Follow Up Accident Claim"</p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ administrator</p>
 <td rowspan="1" colspan="1">
 <p><strong>Enquiry on Status of Claims</strong>
 <br>
-<br>1. Go to Income's GPA portal at https://studentgpa.incomegroupins.com.sg
+<br>1. Go to Income's GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 <br>2. Click on "Check Claims Status"</p>
 </td>
 </tr>
@@ -67,6 +67,8 @@ documents may be requested if necessary.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>Please refer to the <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">product factsheet</a> for
 more information.</p>
 </td>
