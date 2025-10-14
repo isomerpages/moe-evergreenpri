@@ -5,10 +5,13 @@ description: ""
 third_nav_title: School Administration
 variant: tiptap
 ---
-<h1><strong>2025 - P1 Admin Matters for Parents</strong></h1>
+<h1><strong>2026 - P1 Admin Matters for Parents</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Picture1.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
@@ -55,7 +58,7 @@ apply</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +92,7 @@ find out more</p>
 find out more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
+<p>21 Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +109,7 @@ find out more</p>
 find out more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +127,7 @@ Mother Tongue Language</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +143,7 @@ bank transfer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 November 2024</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +166,7 @@ a step-by-step guide</p>
 <br>Download Parents Gateway Mobile App</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Early December 2024</p>
+<p>By Oct 2025</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +188,7 @@ account to submit particulars of himself/herself.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December 2024</p>
+<p>December 2025</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +215,7 @@ learn more</p>
 <p></p>
 </li>
 <li>
-<p>School Vendor Services for Primary 1 (2025)</p>
+<p>School Vendor Services for Primary 1 (2026)</p>
 <p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank">here</a> to
 find out more</p>
 </li>
