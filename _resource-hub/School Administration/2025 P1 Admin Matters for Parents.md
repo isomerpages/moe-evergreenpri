@@ -10,9 +10,92 @@ variant: tiptap
 <img style="width:60%" height="auto" width="100%" src="/images/Picture1.jpg">
 </div>
 <p></p>
+<p><strong>P1 Orientation Matters</strong>
+</p>
 <p></p>
-<p></p>
-<p></p>
+<p>&nbsp;1)&nbsp;&nbsp;&nbsp; We would like to invite you and your child/ward
+to our P1 Orientation on <strong>Friday, 14 Nov 2025 at 2.30 p.m. </strong>Due
+to venue constraints, we kindly request that no more than two adults accompany
+each child/ward.</p>
+<p>&nbsp;2)&nbsp;&nbsp;&nbsp; The programme is as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration at the Multi-Purpose Hall (MPH)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome Address by our Principal</p>
+<p>Briefing by Year Head Lower Block (Covering)</p>
+<p>Sharing by Care Corner</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.45 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Booths by our partners:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uniform</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bus</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Bookshop</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Big Heart Student Care</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CDAC/ Mendaki/ Sinda</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent Support Group (PSG)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students’ dismissal from the MPH</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;3)&nbsp;&nbsp;&nbsp; There will be activities for your child in
+the classrooms. Please ensure he/she <u>brings a pencil, an eraser, colour pencils and a water bottle.</u>
+</p>
+<p>&nbsp;4)&nbsp;&nbsp;&nbsp; The school will be sharing important updates
+including information about your child’s/ward’s class and other administrative
+matters via Parents Gateway (PG). Please ensure you have logged in to PG <strong>by Monday, 21 October 2025.</strong>
+</p>
+<p>&nbsp;5)&nbsp;&nbsp;&nbsp; If you have not installed PG on your mobile
+device, you may refer to the following&nbsp;<a href="https://www.youtube.com/watch?v=tW9jwyuovOo" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;for more
+information or access the attached step-by-step onboarding guide&nbsp;
+<a href="https://legacy.postman.gov.sg/v1/attachments/0f9ba906-e259-44ea-b051-0b6997449433/PG%20-%20Annex%20A.pdf" rel="noopener noreferrer nofollow" target="_blank">PG - Annex A.pdf</a>.</p>
+<p>&nbsp;6)&nbsp;&nbsp;&nbsp; If you have any queries, you can email us at
+<a rel="noopener noreferrer nofollow" target="_blank">evergreen_ps@moe.edu.sg</a>or contact our General Office at 63687705 between
+Monday to Friday, from 1 p.m. to 5.30 p.m.</p>
+<p>Thank you</p>
+<p>_________________________________________________________________________</p>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
 <ul>
@@ -75,7 +158,7 @@ apply</p>
 find out more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Nov 2024</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
@@ -218,9 +301,9 @@ learn more</p>
 <p>School Vendor Services for Primary 1 (2026)</p>
 <p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank">here</a> to
 find out more</p>
+<p></p>
 </li>
 <li>
-<p>Others</p>
 <p><strong>Preparing your child to transit to primary school environment?</strong>
 <br>Here are some useful&nbsp;<a href="/files/Care Corner/Resources_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">resources</a> to consider
 in helping your child to navigate throughout his / her education journey.</p>
@@ -229,9 +312,7 @@ in helping your child to navigate throughout his / her education journey.</p>
 <li>
 <p><strong>Care Corner Family Support Services</strong>
 <br>Click <a href="https://www.carecorner.org.sg/services/family-service-centre/" rel="noopener nofollow" target="_blank">here</a> to
-learn more about the services provided by Care Corner
-<br>
-</p>
+learn more about the services provided by Care Corner</p>
 </li>
 </ul>
 <p></p>
