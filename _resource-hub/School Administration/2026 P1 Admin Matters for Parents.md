@@ -271,7 +271,7 @@ account to submit particulars of himself/herself.</p>
 <td rowspan="1" colspan="1">
 <p>Available from End Nov
 <br>
-<br>To complete the submission by Dec 2024.
+<br>To complete the submission by Dec 2025.
 <br>
 <br><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
@@ -293,7 +293,8 @@ canteen and bookshop.
 learn more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy" rel="noopener nofollow" target="_blank">here</a> to
+apply</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
