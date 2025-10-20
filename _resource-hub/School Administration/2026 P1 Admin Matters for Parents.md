@@ -156,6 +156,10 @@ apply</p>
 <p></p>
 <p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
 order</p>
+<p></p>
+<p>You will be required to sign-up for an account. For more details please
+click <a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p>(If you are applying FAS or in the process of applying for FAS, do not
 place orders yet)</p>
 </td>
