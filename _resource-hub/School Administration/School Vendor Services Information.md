@@ -168,6 +168,10 @@ the following <a href="https://bigheartstudentcare.com/interest/" rel="noopener 
 tag for your child's school uniform
 <br>
 </p>
+<p>Click <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">here</a> to
+place orders.</p>
+<p><strong>(Note: You will be required to sign-up for an account for first time customers)</strong>
+</p>
 <h3>School Uniform</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -206,8 +210,8 @@ charges&nbsp;apply for home delivery.
 <br>
 </p>
 <p><strong>3)</strong>&nbsp;&nbsp;Retail</p>
-<p>You are advised to text / WhatsApp Mr Vern Ng at&nbsp;9799 2501 / 90772932&nbsp;to
-determine stock availability before making your trip there.</p>
+<p>You are advised to WhatsApp (Text) Mr Vern Ng at&nbsp;9799 2501 / 9077
+2932&nbsp;to determine stock availability before making your trip there.</p>
 <p><strong>Contact Information</strong>&nbsp;</p>
 <p>Retail Shop 1
 <br>Sembawang Shopping Centre

@@ -95,7 +95,7 @@ information or access the attached step-by-step onboarding guide&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ps@moe.edu.sg</a>or contact our General Office at 63687705 between
 Monday to Friday, from 8 a.m. to 5.30 p.m.</p>
 <p>Thank you</p>
-<p>_________________________________________________________________________</p>
+<p>___________________________________________________</p>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
 <ul>
@@ -154,11 +154,17 @@ apply</p>
 <td rowspan="1" colspan="1">
 <p>As part of school uniform (Order via school bookshop)</p>
 <p></p>
-<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-find out more</p>
+<p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
+order</p>
+<p></p>
+<p>You will be required to sign-up for an account. For more details please
+click <a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p>(If you are applying FAS or in the process of applying for FAS, do not
+place orders yet)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Order by 14 Nov to receive by 2nd Jan 2026</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +271,7 @@ account to submit particulars of himself/herself.</p>
 <td rowspan="1" colspan="1">
 <p>Available from End Nov
 <br>
-<br>To complete the submission by Dec 2024.
+<br>To complete the submission by Dec 2025.
 <br>
 <br><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
 </p>
@@ -287,7 +293,8 @@ canteen and bookshop.
 learn more</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy" rel="noopener nofollow" target="_blank">here</a> to
+apply</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
