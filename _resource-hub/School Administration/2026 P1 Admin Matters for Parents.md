@@ -95,7 +95,7 @@ information or access the attached step-by-step onboarding guide&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">evergreen_ps@moe.edu.sg</a>or contact our General Office at 63687705 between
 Monday to Friday, from 8 a.m. to 5.30 p.m.</p>
 <p>Thank you</p>
-<p>_________________________________________________________________________</p>
+<p>___________________________________________________</p>
 <p><strong>CHECKLIST FOR P1 PARENTS (COMPULSORY)</strong>
 </p>
 <ul>
@@ -154,11 +154,13 @@ apply</p>
 <td rowspan="1" colspan="1">
 <p>As part of school uniform (Order via school bookshop)</p>
 <p></p>
-<p>Please click <a href="https://evergreenpri.moe.edu.sg/communication/school-administration/school-vendor-services-information/" rel="noopener nofollow" target="_blank"><u>here</u></a> to
-find out more</p>
+<p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
+order</p>
+<p>(If you are applying FAS or in the process of applying for FAS, do not
+place orders yet)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Order by 14 Nov to receive by 2nd Jan 2026</p>
 </td>
 </tr>
 <tr>
