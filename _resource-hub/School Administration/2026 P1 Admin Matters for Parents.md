@@ -170,6 +170,20 @@ place orders yet)</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>School Textbook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click here to view the textbook list for P1 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Big Heart Student Care Centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +198,7 @@ find out more</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Bus</p>
@@ -201,7 +215,7 @@ find out more</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Change of Mother Tongue Language</p>
@@ -219,7 +233,7 @@ Mother Tongue Language</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>GIRO Payment/Receipt for school enrichment or school assistance through
@@ -235,7 +249,7 @@ bank transfer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receive official school communication letters, acknowledgement forms,
@@ -258,7 +272,7 @@ a step-by-step guide</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Student Details Form Available from End Nov.
@@ -280,7 +294,7 @@ account to submit particulars of himself/herself.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>POSB SMART Buddy Watch
