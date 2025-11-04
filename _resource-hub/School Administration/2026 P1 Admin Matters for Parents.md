@@ -153,7 +153,7 @@ and other expenses.
 <p>As part of school uniform (Order via school bookshop)</p>
 <p></p>
 <p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
-order</p>
+place your orders</p>
 <p></p>
 <p>You will be required to sign-up for an account. For more details please
 click <a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -174,7 +174,10 @@ place orders yet)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please click <a href="/files/P1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">here</a> to
-view the P1 2026 textbook list</p>
+view the P1 2026 textbook list.</p>
+<p></p>
+<p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
+place your orders</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
