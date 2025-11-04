@@ -132,14 +132,14 @@ Monday to Friday, from 8 a.m. to 5.30 p.m.</p>
 <br>Singapore Citizens in financial need can get assistance on school fees
 and other expenses.
 <br>
-<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
+<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>If you qualify for the FAS, please click <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a> to apply</p>
+<p>If you qualify for FAS, please click <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a> to apply</p>
 </td>
 </tr>
 <tr>
