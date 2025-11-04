@@ -139,7 +139,9 @@ and other expenses.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>If you qualify for FAS, please click <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a> to apply</p>
+<p>If you qualify for FAS, please click <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a> to apply.</p>
+<p></p>
+<p>By 21st Nov 2025</p>
 </td>
 </tr>
 <tr>
