@@ -173,7 +173,8 @@ place orders yet)</p>
 <p>School Textbook</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click here to view the textbook list for P1 2026</p>
+<p>Please click <a href="/files/P1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the P1 2026 textbook list</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ongoing</p>
