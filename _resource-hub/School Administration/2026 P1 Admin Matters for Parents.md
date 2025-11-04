@@ -132,16 +132,16 @@ Monday to Friday, from 8 a.m. to 5.30 p.m.</p>
 <br>Singapore Citizens in financial need can get assistance on school fees
 and other expenses.
 <br>
-<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a> 
-<br>
-<br>If you qualify for the FAS, please click <a href="/files/Administration/MOE_FAS_Application_Form_2025__CONVERTED.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-apply</p>
+<br>To check for eligibility, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>If you qualify for FAS, please click <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a> to apply.</p>
+<p></p>
+<p>By 21st Nov 2025</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ apply</p>
 <p>As part of school uniform (Order via school bookshop)</p>
 <p></p>
 <p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
-order</p>
+place your orders</p>
 <p></p>
 <p>You will be required to sign-up for an account. For more details please
 click <a href="https://www.pacificbookstores.com/account-registration-guide" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -172,6 +172,29 @@ place orders yet)</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>School Textbook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click <a href="/files/P1_BOOKLIST_2026.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the P1 2026 textbook list.</p>
+<p></p>
+<p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
+place your orders.</p>
+<p></p>
+<p>(Online orders begin from <u>11th Nov 2025</u>)</p>
+<p></p>
+<p>(If you are applying FAS or in the process of applying for FAS, do not
+place orders yet)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ongoing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Big Heart Student Care Centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,7 +209,7 @@ find out more</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Bus</p>
@@ -203,7 +226,7 @@ find out more</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Change of Mother Tongue Language</p>
@@ -221,7 +244,7 @@ Mother Tongue Language</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>GIRO Payment/Receipt for school enrichment or school assistance through
@@ -237,7 +260,7 @@ bank transfer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receive official school communication letters, acknowledgement forms,
@@ -260,7 +283,7 @@ a step-by-step guide</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MOE Student Details Form Available from End Nov.
@@ -282,7 +305,7 @@ account to submit particulars of himself/herself.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>POSB SMART Buddy Watch
