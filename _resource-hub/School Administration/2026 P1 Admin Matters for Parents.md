@@ -179,7 +179,7 @@ view the P1 2026 textbook list.</p>
 <p>Click <a href="http://pacificbookstores.com/" rel="noopener nofollow" target="_blank">here </a>to
 place your orders.</p>
 <p></p>
-<p>(Online orders begin on <u>11th Nov 2025</u>)</p>
+<p>(Online orders begin from <u>11th Nov 2025</u>)</p>
 <p></p>
 <p>(If you are applying FAS or in the process of applying for FAS, do not
 place orders yet)</p>
