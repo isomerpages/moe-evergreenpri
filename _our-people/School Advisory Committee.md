@@ -43,18 +43,13 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Member</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
 <p><strong>Member</strong>
 </p>
@@ -75,11 +70,6 @@ variant: tiptap
 <img style="width: 42%;" height="auto" width="100%" alt="" src="/images/SAC/2.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/Ms_Gayle_Goh.jpg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -88,8 +78,44 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Dr Kim Lian Rolles-Abraham</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/Ms_Gayle_Goh.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/SAC/SAC_Mr_Thinesh_Rajan.jpg">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Gayle Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Thinesh Rajan</p>
 </td>
 </tr>
 </tbody>
