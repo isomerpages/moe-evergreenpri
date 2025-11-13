@@ -1,10 +1,9 @@
 ---
-title: Announcement
-permalink: /communication/announcement/
-description: ""
+title: 2025 Year End Textbook & Uniform Sales Dates
+permalink: /2025-year-end-textbook-uniform-sales-dates/
 variant: tiptap
+description: ""
 ---
-<p>Year-End Textbook &amp; Uniform Sales</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
