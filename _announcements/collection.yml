@@ -2,8 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - 2025 Year End Textbook & Uniform Sales Dates.md
       - 2025 P3 to P6 Assessment Plan and Format.md
+      - 2025 Year End Textbook & Uniform Sales Dates.md
       - Evergreen Primary School's Virtual Tour.md
       - The P1 Evergreen Experience.md
       - SLS School Based Helpline.md
