@@ -5,8 +5,8 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will be closed at 4.30pm on Friday, 21st November
-  2025 as part of 'Eat with your Family Day'
+notification: General Office will be closed on Monday, 24th November 2025 for
+  Staff Professional Development.
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
