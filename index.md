@@ -5,8 +5,7 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will be closed on Monday, 24th November 2025 for
-  Staff Professional Development.
+notification: General Office will be closed on Thursday, 27th November 2025 for Staff Retreat
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
