@@ -23,16 +23,7 @@ variant: tiptap
 <p>Mdm Norhazelin Binte Sharil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>(Pri 1 &amp; 2) - Covering</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Aainoo / Mr Amirul (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Pri 3 &amp; 4)</p>
+<p>Year Head (Pri 1 &amp; 2)</p>
 </td>
 </tr>
 <tr>
@@ -40,15 +31,23 @@ variant: tiptap
 <p>Mrs May Poh Chin Fung (Mrs Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Year Head (Pri 3 &amp; 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Aainoo</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Year Head (Pri 5 &amp; 6)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Hanim Bte Abdul Rahim</p>
+<p>Mdm Yep Lee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Pri 2)(Int)</p>
+<p>Assistant Year Head (Pri 2)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +55,7 @@ variant: tiptap
 <p>Mdm Norhayati Binte Idros</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Pri 4)(Int)</p>
+<p>Assistant Year Head (Pri 4)</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +63,7 @@ variant: tiptap
 <p>Mr Ronnie Ng Sheng Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Pri 5)</p>
+<p>Assistant Year Head (Pri 6)</p>
 </td>
 </tr>
 </tbody>

@@ -52,6 +52,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Sharin Bin Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Tracy Choo Pheck Tiang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,23 +87,7 @@ variant: tiptap
 <p>Miss Sufilizah Bte Samsuri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Math (Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jacob Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Iskandar Bin Zainalludin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD PE, CCA &amp; Aesthetics</p>
+<p>HOD Math</p>
 </td>
 </tr>
 <tr>
@@ -104,14 +96,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tay Yu Zhe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
 </td>
 </tr>
 <tr>
@@ -127,12 +111,13 @@ variant: tiptap
 <p>Mdm Norhazelin Binte Sharil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Pri 1 &amp; 2) - Covering</p>
+<p>Year Head (Pri 1 &amp; 2)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Aainoo</p>
+<p>Mrs May Poh Chin Fung</p>
+<p>(Mrs Tan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Pri 3 &amp; 4)</p>
@@ -140,8 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs May Poh Chin Fung
-<br>(Mrs Tan)</p>
+<p>Miss Aainoo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Pri 5 &amp; 6)</p>
