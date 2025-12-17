@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs May Poh Chin Fung (Mrs Tan)</p>
+<p>Mrs May Tan-Poh Chin Fung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Pri 3 &amp; 4)</p>
