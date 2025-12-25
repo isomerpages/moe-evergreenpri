@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Parent Communication Guidelines.md
       - Principal's Message.md
       - Vision, Mission & Values.md
       - School Rules and Regulations.md
+      - Parent Communication Guidelines.md
       - School Safety and Security Framework.md
       - School History.md
       - School Crest.md
