@@ -53,12 +53,6 @@ purpose,</p>
 competencies as articulated in the 21st Century Competencies Framework</p>
 </li>
 </ul>
-<p>Since the&nbsp;<a href="/our-processes-and-programmes/co-curricular-programme/mmp" rel="noopener noreferrer nofollow" target="_blank">Multi-Modal Programme</a>&nbsp;(MMP)
-provides the&nbsp;<strong>breadth of skills</strong>&nbsp;and exposure
-for&nbsp;<strong>ALL</strong>&nbsp;students, the school has decided to
-provide a narrower range of CCAs for students who would like to&nbsp;<strong>deepen their interest</strong>&nbsp;in
-specific areas such as the 3 Ethnic Dances, Percussion Ensemble, Netball,
-Football, Badminton, Art Talent Club and Scouts.</p>
 <p>Our students have also successfully used their experience and exposure
 in the respective CCAs to apply for DSA to secondary schools and specialised
 institution like the Sports School and School of The Arts (SOTA).</p>
@@ -127,6 +121,9 @@ Sports develop robustness, fair play and team spirit in students.</p>
 <li>
 <p><a href="https://staging.d203o7eew4if9d.amplifyapp.com/our-processes-and-programmes/co-curricular-programme/cca/sports-n-games/football" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
+</li>
+<li>
+<p>Basketball</p>
 </li>
 </ol>
 <h3><strong>Uniformed Group</strong></h3>
