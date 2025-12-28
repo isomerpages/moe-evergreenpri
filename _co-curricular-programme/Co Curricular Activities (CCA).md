@@ -123,7 +123,8 @@ Sports develop robustness, fair play and team spirit in students.</p>
 </p>
 </li>
 <li>
-<p>Basketball</p>
+<p><a href="https://evergreenpri.moe.edu.sg/basketball/" rel="noopener nofollow" target="_blank">Basketball</a>
+</p>
 </li>
 </ol>
 <h3><strong>Uniformed Group</strong></h3>
