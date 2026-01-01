@@ -22,4 +22,3 @@ variant: markdown
 | Miss Zarinah Bte Mohamed Ali     | Operations Support Officer     | 
 | Mr Lek Ah Piew     | Operations Support Officer     |
 | Mr Manimaran S/O Karupiah     | Operations Support Officer     |
-| Mr Dheepandraa     | Operations Support Officer     |
