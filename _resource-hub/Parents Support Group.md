@@ -45,7 +45,7 @@ Group Registration Form.</p>
 </tr>
 </tbody>
 </table>
-<p>Here are some events happening in Term 3. If you are interested to volunteer
+<p>Here are some events happening in Term 1. If you are interested to volunteer
 for the event/program stated, please approach any of our PSG EXCO Members
 or alternatively do look out for notifications via the Parents Gateway.</p>
 <p><strong><u>Updates on Events / Programmes happening in Term 1</u></strong>
@@ -121,4 +121,4 @@ or alternatively do look out for notifications via the Parents Gateway.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>1</p>
