@@ -40,20 +40,15 @@ Group Registration Form.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Wee Kiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Saravanan Kandasamy</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Here are some events happening in Term 3. If you are interested to volunteer
+<p>Here are some events happening in Term 1. If you are interested to volunteer
 for the event/program stated, please approach any of our PSG EXCO Members
 or alternatively do look out for notifications via the Parents Gateway.</p>
-<p><strong><u>Updates on Events / Programmes happening in Term 3</u></strong>
+<p><strong><u>Updates on Events / Programmes happening in Term 1</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -75,82 +70,55 @@ or alternatively do look out for notifications via the Parents Gateway.</p>
 <td rowspan="1" colspan="1">
 <p>P3 SwimSafer</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
+<td rowspan="10" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 Learning Journey (Traffic Games 2025)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>P4 Learning Journey (Traffic Games 2026)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P2 Learning Journey</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Date to be confirmed</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EGPS Open House 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 July 2025</p>
+<p>EGPS Open House 2026</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue Language Fortnight</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>8 to 18 July 2025</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nurses Day Sunflower Making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10, 11, 14 &amp; 15 July</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Racial Harmony Day</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Date to be confirmed</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Teacher’s Day Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date to be confirmed</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>PE, Art &amp; Music (PAM) TGIF</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Recess Duties</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Whole of Term 3</p>
-</td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>1</p>
