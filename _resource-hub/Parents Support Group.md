@@ -40,11 +40,6 @@ Group Registration Form.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Wee Kiang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Saravanan Kandasamy</p>
 </td>
 </tr>
