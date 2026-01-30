@@ -52,7 +52,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education</p>
-<p><strong>Overview of Evergreen Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Evergreen Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -90,7 +90,16 @@ opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <h4>Primary 5</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd/P5_SEd_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd/P5_SEd_2.jpg">
+</div>
 <h4>Primary 6</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd/P6_SEd.jpg">
+</div>
 <h3>Information for Parents</h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
@@ -102,7 +111,7 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/sed-opt-out-form-egps2025" rel="noopener nofollow" target="_blank">here</a> The
-completed opt-out form is to be submitted by <strong>07/02/2025</strong>.</p>
+completed opt-out form is to be submitted by <strong>10/02/2026</strong>.</p>
 <p></p>
 </li>
 <li>
