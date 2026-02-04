@@ -14,7 +14,7 @@ P4 Term 1 Assessment Format</p>
 P4 Term 1 Assessment Plan</p>
 <p>Click <a href="/files/Assessment Plan and Format/2026 Term 1/2026_Term_1_P5_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
 P5 Term 1 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 1/2026_Term_1_P5_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Assessment Plan and Format/2026_Term_1_P5_Assessment_Plan_updated.pdf" rel="noopener nofollow" target="_blank">here</a> for
 P5 Term 1 Assessment Plan</p>
 <p>Click <a href="/files/Assessment Plan and Format/2026 Term 1/2026_Term_1_P6_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
 P6 Term 1 Assessment Format</p>
