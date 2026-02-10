@@ -98,7 +98,7 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 </div>
 <h4>Primary 6</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd/P6_SEd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1770693778179_f13af0d7_69a3_43f0_b929_d8778785bc17_6.jpg">
 </div>
 <h3>Information for Parents</h3>
 <ol start="8" data-tight="true" class="tight">
