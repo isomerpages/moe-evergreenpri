@@ -62,7 +62,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/Dr_Jovina_Ang_SAC.jpg">
+<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/SAC/sac_dr jovina_2026.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/SAC/SAC_Mr_Ong_Peow.jpg">
+<img style="width: 42%;" height="auto" width="100%" alt="" src="/images/SAC/sac_mr ong_2026.jpg">
 </div>
 </td>
 </tr>
