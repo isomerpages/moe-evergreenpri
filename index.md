@@ -5,7 +5,8 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: General Office will be closed on 11th March 2026 from 1.45pm for
+  Staff Learning Journey to Changi T5
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
