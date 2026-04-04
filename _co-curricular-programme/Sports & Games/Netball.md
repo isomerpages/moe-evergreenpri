@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/img_3146.jpg">
-</div>
+<p></p>
+<p></p>
 <p><strong><em>What is Netball training like in EGPS?</em></strong>
 </p>
 <p>Our training involves basic ball skills, stamina building, agility and
