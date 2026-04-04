@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs and Societies
 ---
+<p></p>
+<p></p>
 <p>EGPS Mass Communication CCA gives students a chance to learn about journalism
 and media in a fun and hands-on way. They will pick up useful skills like
 researching, writing, and creating content for different types of media.
