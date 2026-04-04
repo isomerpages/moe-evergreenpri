@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/img_3220.jpg">
-</div>
+<p></p>
+<p></p>
 <p>EGPS Badminton CCA provides students with the opportunity to learn basic
 skills and techniques of the sport such as serving, lobbing, netting, smashing
 and footwork. Students will also have the opportunity to represent the
