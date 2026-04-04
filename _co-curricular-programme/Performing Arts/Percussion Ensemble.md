@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/img_3163.jpg">
-</div>
+<p></p>
+<p></p>
 <p>The Percussion Ensemble provides students with the opportunity to explore
 and learn various percussion instruments, fostering their musical talents
 and creativity.</p>
