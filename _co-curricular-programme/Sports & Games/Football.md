@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/img_3142.jpg">
-</div>
+<p></p>
+<p></p>
 <p>The Evergreen Primary Football CCA caters to students of all playing levels,
 from a budding beginner who want to learn to kick a football, to those
 who wants to improve their skills to become better players. This CCA aims
