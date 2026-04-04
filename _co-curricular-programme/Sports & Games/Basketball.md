@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
+<p></p>
+<p></p>
 <p>EGPS Basketball CCA brings together students who love the game, whether
 they enjoy friendly play or competitive matches. In this CCA, students
 will learn the fundamental skills of basketball, including dribbling, shooting,
