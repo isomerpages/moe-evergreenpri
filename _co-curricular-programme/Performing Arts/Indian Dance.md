@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/ind45-15%20-%20k%20vejayalakshmy%20andrea%20(1).jpg">
-</div>
+<p></p>
+<p></p>
 <p>The Indian Dance CCA in Evergreen Primary seeks to provide students with
 a platform to explore the fine aesthetics of Indian dance and culture.&nbsp;</p>
 <p>We welcome students of all races from Primary 2 to Primary 6 and seek
