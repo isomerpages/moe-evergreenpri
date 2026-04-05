@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Indian_Dance.jpg">
+</div>
 <p></p>
 <p>The Indian Dance CCA in Evergreen Primary seeks to provide students with
 a platform to explore the fine aesthetics of Indian dance and culture.&nbsp;</p>
