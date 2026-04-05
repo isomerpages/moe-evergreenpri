@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h1></h1>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/STEM.jpg">
+</div>
 <p>Evergreen Primary School’s STEM (Science, Technology, Engineering and
 Mathematics) and Environmental Club seeks to groom innovative, enthusiastic
 and ethical youth who demonstrate appreciation for the environment around
