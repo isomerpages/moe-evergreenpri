@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Chinese_Dance.jpg">
+</div>
 <p></p>
 <p>Our Chinese Dance has 25 members. Students joined Chinese Dance out of
 their love for dancing and the desire to learn more about this beautiful
