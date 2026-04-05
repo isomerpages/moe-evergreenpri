@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/img_3198.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Malay_Dance.jpg">
 </div>
+<p></p>
 <p>Malay Dance in Evergreen Primary School aims to develop student’s interest
 for the traditional art form of the Malay Cultural Dance. Students learn
 the fundamental dance movements of the different dance genres mainly Asli,
