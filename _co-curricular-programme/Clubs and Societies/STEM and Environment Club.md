@@ -5,11 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Clubs and Societies
 ---
-<h1><strong>STEM and Environment Club</strong></h1>
+<h1></h1>
 <p></p>
 <p></p>
-<p><strong>Teacher I/C: Mr Ang Kok Heong</strong>
-</p>
 <p>Evergreen Primary School’s STEM (Science, Technology, Engineering and
 Mathematics) and Environmental Club seeks to groom innovative, enthusiastic
 and ethical youth who demonstrate appreciation for the environment around
