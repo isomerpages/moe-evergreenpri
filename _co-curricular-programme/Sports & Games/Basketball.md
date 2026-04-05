@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Basketball.jpg">
+</div>
 <p></p>
 <p>EGPS Basketball CCA brings together students who love the game, whether
 they enjoy friendly play or competitive matches. In this CCA, students
