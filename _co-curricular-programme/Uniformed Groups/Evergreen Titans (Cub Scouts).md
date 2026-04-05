@@ -7,11 +7,6 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<p><strong>Teacher I/C: Mr Franklin De Silva</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202022-02-04.jpeg">
-</div>
 <p>Evergreen Primary School Scouts is also known as Evergreen Titans. During
 our CCA sessions, we provide students with authentic learning experiences
 which will help them develop important qualities as such as leadership,
@@ -21,3 +16,8 @@ discipline and a spirit of service to others. The Scout Method of training
 and activities also help students make a personal commitment to a simple
 code of living through the value system based on the Scout Promise and
 Law.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202022-02-04.jpeg">
+</div>
+<p></p>
