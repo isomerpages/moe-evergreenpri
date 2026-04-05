@@ -6,6 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Netball.jpg">
+</div>
 <p></p>
 <p><strong><em>What is Netball training like in EGPS?</em></strong>
 </p>
