@@ -6,9 +6,10 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Art_Talent_Club.jpg">
+</div>
 <p></p>
-<p><strong>Teacher I/C: Mdm Zalifah</strong>
-</p>
 <p>Art Talent Club is an inclusive Visual Art CCA which recruits members
 from Primary 2 to Primary 6 who are passionate in upgrading their aesthetic
 skills and knowledge. We encourage members to mingle among each other from
