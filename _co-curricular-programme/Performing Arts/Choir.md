@@ -5,10 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Performing Arts
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Choir.jpg">
+</div>
+<p></p>
 <p><strong>Welcome to EGPS Choir!</strong>
 </p>
-<p></p>
-<p></p>
 <p>Step into a world where voices come alive, harmonies resonate, and a passion
 for music singing blossoms. Our Choir is more than just a group of singers;
 it's a supportive family that celebrates the art of choral music and nurtures
