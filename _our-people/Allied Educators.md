@@ -28,6 +28,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Deepa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yusnita Bte Mohamed Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
