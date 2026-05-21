@@ -60,6 +60,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Long Hian Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Nur Azlin Zainal Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
