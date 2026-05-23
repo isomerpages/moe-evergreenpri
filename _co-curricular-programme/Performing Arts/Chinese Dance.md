@@ -30,4 +30,7 @@ beyond the school.</p>
 performers, disciplined learners and gracious team players who appreciate
 the richness of culture and the performing arts.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Chinese Dance/Chinese_Dance_2026.jpg">
+</div>
 <p></p>
