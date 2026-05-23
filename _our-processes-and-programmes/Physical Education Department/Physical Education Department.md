@@ -24,7 +24,26 @@ variant: tiptap
 <p></p>
 <p><strong><u>Active and Healthy Living (AHLI)</u></strong>
 </p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__2_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Purpose</strong>
 </p>
 <p>In Evergreen Primary School, the Holistic Health Framework (HHF) guides
@@ -90,14 +109,39 @@ time for play supports not only students’ physical health but also their
 overall well-being and development. During uPLAY, CCA Leaders are given
 the opportunity to exercise their leadership in guiding their peers and
 taking charge of the games.</p>
-<p></p>
-<p></p>
-<p></p>
 <p>In addition to outdoor activities, indoor games such as board games, like
 scrabble and chess, are engaging alternatives that promote strategic thinking,
 cooperation, and patience.
 <br>
-<br>At Evergreen Primary School, all Primary 3 students participate in the
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__5__jpg.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>At Evergreen Primary School, all Primary 3 students participate in the
 SwimSafer programme, where they are introduced to essential swimming skills
 and water safety knowledge in a structured and supportive environment.</p>
 <p>Through the programme, students learn to demonstrate <strong>respect</strong> by
@@ -112,6 +156,26 @@ techniques alongside a strong understanding of key water safety practices.
 This holistic experience enables our students to become confident and competent
 swimmers, equipped with the values and skills to enjoy aquatic activities
 safely for life.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__6__jpg.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__7__jpg.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>P5 Outdoor Adventure Learning (OAL) Camp</u></strong>
 </p>
 <p>At Evergreen Primary School, our 3 Days 2 Nights Adventure Camp offers
@@ -134,4 +198,32 @@ confidence, adaptability, and stronger bonds with their peers.</p>
 <p>This immersive experience not only creates lasting memories but also strengthens
 character, empowering our students to grow into confident individuals who
 embody our school values in their everyday lives.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__8_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__9_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department Photos/PE/PE_2026__10_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
