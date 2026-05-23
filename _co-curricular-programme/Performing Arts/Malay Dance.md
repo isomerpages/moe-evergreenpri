@@ -37,10 +37,14 @@ team players and appreciative learners of culture and the arts.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Malay Dance/WhatsApp_Image_2026_04_27_at_14_53_27.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/Malay Dance/WhatsApp_Image_2026_04_27_at_14_53_27__1_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
