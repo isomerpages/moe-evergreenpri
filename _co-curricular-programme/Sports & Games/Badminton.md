@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Badminton.jpg">
 </div>
-<p></p>
 <p>EGPS Badminton CCA provides students with opportunities to learn and develop
 fundamental skills and techniques in the sport, such as serving, lobbing,
 net play, smashing and footwork.</p>
