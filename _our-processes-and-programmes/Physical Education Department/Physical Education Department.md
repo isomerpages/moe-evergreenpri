@@ -25,7 +25,6 @@ variant: tiptap
 <p><strong><u>Active and Healthy Living (AHLI)</u></strong>
 </p>
 <p></p>
-<p></p>
 <p><strong>Purpose</strong>
 </p>
 <p>In Evergreen Primary School, the Holistic Health Framework (HHF) guides
@@ -75,8 +74,64 @@ programs are catered to allow students to&nbsp;</p>
 </p>
 <p>To promote a positive attitude towards continual participation in physical
 activities for health, fitness and enjoyment.</p>
-<p>
-<br>
-<br>
+<p>UPLAY is a recess initiative by the PE department to give students the
+opportunity to be actively and purposefully engaged during their recess
+through unstructured play.</p>
+<p><strong><u>UPLAY</u></strong>
 </p>
+<p>Recess is an essential part of the school day that offers students valuable
+opportunities for physical activity, social interaction, and mental rejuvenation.
+Unlike structured classroom time, unstructured play allows children to
+explore, create, and collaborate freely, fostering critical thinking, problem-solving
+skills, and emotional resilience. Regular breaks and unstructured play
+have been linked to improved focus, behavior, and academic performance,
+making them a vital component of a well-rounded education. Prioritising
+time for play supports not only students’ physical health but also their
+overall well-being and development. During uPLAY, CCA Leaders are given
+the opportunity to exercise their leadership in guiding their peers and
+taking charge of the games.</p>
+<p></p>
+<p></p>
+<p></p>
+<p>In addition to outdoor activities, indoor games such as board games, like
+scrabble and chess, are engaging alternatives that promote strategic thinking,
+cooperation, and patience.
+<br>
+<br>At Evergreen Primary School, all Primary 3 students participate in the
+SwimSafer programme, where they are introduced to essential swimming skills
+and water safety knowledge in a structured and supportive environment.</p>
+<p>Through the programme, students learn to demonstrate <strong>respect</strong> by
+following safety rules, listening attentively to instructors, and being
+considerate of others in shared aquatic spaces. They develop <strong>responsibility</strong> by
+taking ownership of their personal safety and making informed decisions
+in and around water. At the same time, students build <strong>resilience</strong> as
+they overcome challenges, persevere through practice, and grow in confidence
+in mastering new skills.</p>
+<p>Under the guidance of certified instructors, students acquire proper swimming
+techniques alongside a strong understanding of key water safety practices.
+This holistic experience enables our students to become confident and competent
+swimmers, equipped with the values and skills to enjoy aquatic activities
+safely for life.</p>
+<p><strong><u>P5 Outdoor Adventure Learning (OAL) Camp</u></strong>
+</p>
+<p>At Evergreen Primary School, our 3 Days 2 Nights Adventure Camp offers
+Primary 5 students a meaningful and transformative outdoor learning experience
+beyond the classroom. Set against the backdrop of nature, students take
+part in a range of engaging and challenging activities that stretch their
+limits and foster personal growth.</p>
+<p>Through these experiences, students practise <strong>respect</strong> by
+valuing their peers, instructors, and the environment, and demonstrate <strong>care</strong> as
+they look out for and support one another. They learn <strong>responsibility</strong> by
+taking ownership of their roles and decisions, while upholding <strong>integrity</strong> in
+their actions during team and individual tasks. As they step out of their
+comfort zones, students build <strong>resilience</strong> by persevering
+through challenges, and cultivate <strong>harmony</strong> by working collaboratively
+to achieve common goals.</p>
+<p>The thoughtfully designed programme provides opportunities for students
+to take on leadership roles, contribute ideas, and solve problems together.
+As they navigate both team-based and individual challenges, students develop
+confidence, adaptability, and stronger bonds with their peers.</p>
+<p>This immersive experience not only creates lasting memories but also strengthens
+character, empowering our students to grow into confident individuals who
+embody our school values in their everyday lives.</p>
 <p></p>
