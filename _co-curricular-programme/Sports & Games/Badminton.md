@@ -23,7 +23,6 @@ as better players.</p>
 to demonstrate our school values, such as Respect, Empathy, Grit, Graciousness
 and Integrity, during training sessions, matches and other CCA activities.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Badminton/Badminton_2026.jpg">
 </div>
