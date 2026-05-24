@@ -10,21 +10,56 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Football__1_.jpg">
 </div>
 <p></p>
-<p>The Evergreen Primary Football CCA caters to students of all playing levels,
-from a budding beginner who want to learn to kick a football, to those
-who wants to improve their skills to become better players. This CCA aims
-to not only develop our members physically but holistically as well. We
-believe that Football is not only about winning, it is about developing
-our students’ characters, sportsmanship and discipline.</p>
-<p><strong>Senior NSG 2024 Boys In Action</strong>
+<p>Evergreen Primary’s Football CCA welcomes students of all playing abilities,
+from beginners who are just learning the sport to students who wish to
+refine their skills and grow as better players.</p>
+<p>Through structured training sessions and team-based activities, students
+develop fundamental football skills such as ball control, passing, dribbling,
+shooting, defending and teamwork. The programme also helps to build students’
+physical fitness, coordination, confidence and resilience.</p>
+<p>At EGPS, we believe that football is more than just a game or about winning.
+It serves as a meaningful platform for character development, where students
+learn discipline, teamwork and sportsmanship. Through training and match
+experiences, students are encouraged to support one another, respect their
+teammates and opponents, and strive to give their best.</p>
+<p>Guided by the school’s vision of nurturing Achievers, Learners and Leaders,
+the Football CCA provides students with opportunities to grow not only
+as players, but also as individuals of character. In line with our school
+values of <strong><em>Respect, Responsibility, Resilience, Integrity, Care and Harmony (R3ICH)</em></strong>,
+students learn to work as a team, overcome challenges, and contribute positively
+both on and off the field.</p>
+<p>Through their football journey, our students are nurtured to become confident
+learners, gracious team players and responsible leaders.</p>
+<p><strong><u>Football National School Games (NSG) In Action</u></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/20240201_162820__1_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Football/Football_2026__1_.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/IMG_8051.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Football/Football_2026__2_.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/IMG_0317__1_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Football/Football_2026__3_.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

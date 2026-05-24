@@ -9,19 +9,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Photos/2026   CCA Main Page Photos/Badminton.jpg">
 </div>
+<p>EGPS Badminton CCA provides students with opportunities to learn and develop
+fundamental skills and techniques in the sport, such as serving, lobbing,
+net play, smashing and footwork.</p>
+<p>Students may also have the opportunity to represent the school in the
+annual National School Games. In addition, friendly matches with other
+schools are organised to provide students with exposure to competition
+settings in a supportive and non-threatening environment. These experiences
+help students build confidence, strengthen their sportsmanship and grow
+as better players.</p>
+<p>Through their participation in Badminton CCA, students are encouraged
+to demonstrate our school values, such as Respect, Empathy, Grit, Graciousness
+and Integrity, during training sessions, matches and other CCA activities.</p>
 <p></p>
-<p>EGPS Badminton CCA provides students with the opportunity to learn basic
-skills and techniques of the sport such as serving, lobbing, netting, smashing
-and footwork. Students will also have the opportunity to represent the
-school in the annual North Zone Primary Schools Badminton Championships.
-We also organise Intra-team school-based competitions in Term 4 for the
-students from the various levels to take part. It will serve as a platform
-for students as an exposure to competition settings to compete in a non-threatening
-environment and grow to become better players.&nbsp;</p>
-<p>Through participation in the Badminton CCA, our students get the opportunity
-to demonstrate our school values such as Respect, Empathy, Grit, Graciousness
-and Integrity through the activities planned during CCA.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20Photos/Badminton/badminton2.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA Photos/Badminton/Badminton_2026.jpg">
 </div>
 <p></p>
