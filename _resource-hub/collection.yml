@@ -2,6 +2,7 @@ collections:
   resource-hub:
     output: true
     order:
+      - Open House 2026.md
       - School Administration/.keep
       - School Administration/2026 P1 Admin Matters for Parents.md
       - School Administration/POSB SMART Buddy Watch.md
