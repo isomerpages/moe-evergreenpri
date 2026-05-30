@@ -17,5 +17,5 @@ sections:
           description: ""
           url: /calendar/
       button: Join Our Open House! — Be Part of A.L.L.
-      url: https://www.evergreenpri.moe.edu.sg/communication/school-administration/2025-p1-admin-matters-for-parents/
+      url: https://evergreenpri.moe.edu.sg/open-house-2026/
 ---
