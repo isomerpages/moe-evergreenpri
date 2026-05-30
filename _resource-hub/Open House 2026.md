@@ -6,7 +6,7 @@ description: ""
 image: /images/Open_House_Facebook__1_.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Facebook__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Flyer_2026__1_.jpg">
 </div>
 <p>🌻 <strong>Discover Evergreen Primary School!</strong> 🎫</p>
 <p>Join us for our <strong>Open House 2026</strong> and experience how every
