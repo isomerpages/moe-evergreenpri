@@ -5,8 +5,7 @@ description: "Our Mission:  Positivity in relationships Learning with passion
   Actively contributing Youthfulness in living"
 image: /images/isomer-logo.svg
 permalink: /
-notification: General Office will be closed at 4.30pm on Friday, 29th May 2026
-  as part of 'Eat with your Family Day'
+notification: ""
 sections:
   - hero:
       background: /images/ezgif_2_597a9548ba.gif
@@ -17,4 +16,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar/
+      button: Join Our Open House! — Be Part of A.L.L.
+      url: https://www.evergreenpri.moe.edu.sg/communication/school-administration/2025-p1-admin-matters-for-parents/
 ---
