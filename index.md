@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_2_597a9548ba.gif
+      background: /images/Main Cover Page/ezgif_5a9e07ccc04dcf96__1_.gif
       key_highlights:
         - title: Announcement
           description: ""
