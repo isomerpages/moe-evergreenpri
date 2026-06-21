@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgif_2_597a9548ba.gif
+      background: /images/Main Cover Page/vlcsnap_2026_06_21_22h14m37s356.png
       key_highlights:
         - title: Announcement
           description: ""
