@@ -17,7 +17,7 @@ discover the meaningful experiences that make our Evergreen community special.</
 <br>⏰ <strong>9.00 a.m. to 12.30 p.m.</strong>
 <br>📍 <strong>Evergreen Primary School</strong>
 </p>
-<p>🔗 <strong>Click here to register your interest now: <a href="https://go.gov.sg/egps-open-house" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/egps-open-house</a></strong>
+<p>🔗<strong>Registration has been closed</strong>
 </p>
 <p></p>
 <p>&nbsp;</p>
