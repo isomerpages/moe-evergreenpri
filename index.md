@@ -16,6 +16,4 @@ sections:
         - title: School Calendar
           description: ""
           url: /calendar/
-      button: Join Our Open House! — Be Part of A.L.L.
-      url: https://evergreenpri.moe.edu.sg/open-house-2026/
 ---
