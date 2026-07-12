@@ -4,19 +4,19 @@ permalink: /communication/2026-p3-to-p6-assessment-plan-and-format/
 description: ""
 variant: tiptap
 ---
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P3_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P3 Term 2 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P3_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P3 Term 2 Assessment Plan</p>
-<p>Click&nbsp;<a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P4_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P4 Term 2 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P4_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P4 Term 2 Assessment Plan</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P5_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P5 Term 2 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P5_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P5 Term 2 Assessment Plan</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P6_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P6 Term 2 Assessment Format</p>
-<p>Click <a href="/files/Assessment Plan and Format/2026 Term 2/2026_Term_2_P6_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
-P6 Term 2 Assessment Plan</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P3_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P3 Term 3 Assessment Format</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P3_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P3 Term 3 Assessment Plan</p>
+<p>Click&nbsp;<a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P4_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P4 Term 3 Assessment Format</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P4_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P4 Term 3 Assessment Plan</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P5_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P5 Term 3 Assessment Format</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P5_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P5 Term 3 Assessment Plan</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P6_Assessment_Format.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P6 Term 3 Assessment Format</p>
+<p>Click <a href="/files/Assessment Plan and Format/2026 Term 3/2026_Term_3_P6_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">here</a> for
+P6 Term 3 Assessment Plan</p>
