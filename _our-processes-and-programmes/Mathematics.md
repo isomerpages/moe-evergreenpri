@@ -89,8 +89,7 @@ and growth.</p>
 <p>
 <br>
 </p>
-<p><em>[Insert Photograph of students – LSM 1, LSM 2, LSM 3]</em>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LSM2.jpg">
